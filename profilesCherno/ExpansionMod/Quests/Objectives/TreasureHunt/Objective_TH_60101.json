@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Найдите золотой зуб для Артема",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            11166,
+            202,
+            12301
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "ExpansionGoldNugget",
+            "Chance": 1,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

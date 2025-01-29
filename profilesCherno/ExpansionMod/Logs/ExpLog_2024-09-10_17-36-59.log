@@ -1,0 +1,13 @@
+17:40:13.101 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:40:13.101 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:40:13.101 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:40:13.101 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:41:17.273 [AI Object Patrol] Spawning 2 FireStationScavs bots at <6262.113281, 8.619924, 2721.123047>
+17:42:12.390 [AI Object Patrol] Spawning 2 HotelScavs bots at <6564.206543, 28.290960, 2326.977295>
+17:42:14.289 [Killfeed] AI Indar (HotelScavs) умер разбился с высоты.
+17:42:16.492 [Killfeed] AI Gabi (HotelScavs) умер разбился с высоты.
+17:42:20.324 [AI Object Patrol] HotelScavs bots were wiped out (spawn position <6564.206543, 28.290960, 2326.977295>, 2/2 deceased)
+17:44:04.789 [MissionAirdrop] An airdrop is heading towards "Novodmitrovsk" (pos=<11125.000000, 0.000000, 14040.000000> type=Random_Novodmitrovsk) with a ExpansionAirdropContainer
+17:44:49.117 [AI Object Patrol] Spawning 2 PoliceStationScavs bots at <6633.093262, 13.969685, 2586.646240>
+17:56:07.050 [AI Object Patrol] Despawning 2 PoliceStationScavs bots (spawn position <6633.093262, 13.969685, 2586.646240>, 0/2 deceased)
+17:56:07.441 [AI Object Patrol] Despawning 2 FireStationScavs bots (spawn position <6262.113281, 8.619924, 2721.123047>, 0/2 deceased)

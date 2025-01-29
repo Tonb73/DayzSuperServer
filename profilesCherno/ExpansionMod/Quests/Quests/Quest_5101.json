@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5101,
+    "Type": 1,
+    "Title": "Охота за головами: Толя Шуруп",
+    "Descriptions": [
+        "Здраствуй, выглядишь как человек, который сможет справится с работой, которую я предлагаю. Я выдаю заказы на головы самых опасных головорезов Чернорус. Но на первый раз вот, небольшой заказик на обычного Черногорского бандоса.",
+		"Тебе нужно больше инфы? Хорошо. Толя Шуруп ну или просто самый неудачный грабитель во всей Черноруси. Однажды он и его дружки решили нарушить одно из главных в этих местах правил - никакого кровопролития в зеленых зонах. Но они мало того, избили и ограбили, находясь в ЗЗ. Они ограбили одного из ЧВК Вэст. Вот его сослуживцы и повесили Толику на голову ценнки. Сам по себе он самый обычный лох. ",
+		""
+
+    ],
+    "ObjectiveText": "Добудьте информацию о целе",
+    "FollowUpQuest": 5102,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q5101",
+    "QuestItems": [],
+    "Rewards": [
+		 {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 2400,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":1101,
+            "ObjectiveType":3 
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1201,
+            "ObjectiveType":6 
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [61602],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

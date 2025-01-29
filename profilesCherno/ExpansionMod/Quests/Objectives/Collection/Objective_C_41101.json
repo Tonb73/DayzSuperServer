@@ -1,0 +1,22 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1101,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Принесите подтверждение убийства",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+		{
+            "ClassName": "Bandana_Rooster",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

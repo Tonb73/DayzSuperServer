@@ -1,0 +1,61 @@
+14:49:49.437 [Expansion Quests] Added objects set for quest ID=2101 from file=q2101
+14:49:49.437 [Expansion Quests] Added objects set for quest ID=61601 from file=q61601
+14:49:49.437 [Expansion Quests] Added objects set for quest ID=61001 from file=q61001
+14:49:49.437 [Expansion Quests] Added objects set for quest ID=6501 from file=q6501
+14:49:49.437 [Expansion Quests] Added objects set for quest ID=6601 from file=q6601
+14:49:49.441 [Expansion Quests] Added objects set for quest ID=61501 from file=q61501
+14:49:49.441 [Expansion Quests] Added objects set for quest ID=61502 from file=q61502
+14:50:40.187 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+14:50:40.191 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.238 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.238 [Expansion Quests] Loaded existing group quest data for group with ID=1
+14:50:40.238 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.238 [Expansion Quests] Check quest initialization for quest with ID=62001 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.242 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.242 [Expansion Quests] Check quest initialization for quest with ID=61101 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.242 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.242 [Expansion Quests] Check quest initialization for quest with ID=2101 | State=CAN_TURNIN | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.242 [Expansion Quests] Create new quest instance for quest with ID=2101 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.273 [Expansion Quests] Spawned objects from set for quest ID=2101 from file=$mission:expansion\quests\\objects\q2101.map
+14:50:40.277 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Check quest initialization for quest with ID=61502 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.277 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.281 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.281 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.281 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.281 [Expansion Quests] Sending player quest data for 10 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:50:40.304 [AI Patrol 00113] Spawning 1 Drozhino_Tier2RR (Raiders) bots at <3444.247314, 244.791443, 4921.687500>
+14:50:40.339 [AI Patrol 00113] Global patrol count: 1
+14:50:40.671 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+14:50:40.671 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+14:50:40.675 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+14:50:40.867 [AI Object Patrol 00161] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <3348.942139, 183.900482, 3922.479980>
+14:50:40.886 [AI Object Patrol 00161] Global patrol count: 2
+14:50:41.164 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+14:50:41.257 [AI Object Patrol 00160] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <3369.888184, 190.165405, 3964.928223>
+14:50:41.273 [AI Object Patrol 00160] Global patrol count: 3
+14:51:44.046 [AI Object Patrol 00159] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <3364.046875, 186.894318, 3955.183350>
+14:51:44.089 [AI Object Patrol 00159] Global patrol count: 4
+14:51:48.976 [Killfeed] AI Frida (QuestEnemyTier2) был убит [Falco] Survivor с КАС-74У из 3 м расстояние.
+14:51:50.867 [Killfeed] AI Kaito (QuestEnemyTier2) был убит [Falco] Survivor с КАС-74У из 14 м расстояние.
+14:51:50.980 [AI Object Patrol 00159] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <3364.046875, 186.894318, 3955.183350>, 1/1 deceased)
+14:51:50.980 [AI Object Patrol 00159] Global patrol count: 3
+14:51:51.226 [AI Object Patrol 00160] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <3369.888184, 190.165405, 3964.928223>, 1/1 deceased)
+14:51:51.226 [AI Object Patrol 00160] Global patrol count: 2

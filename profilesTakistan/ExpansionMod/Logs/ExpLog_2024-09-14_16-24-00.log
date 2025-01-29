@@ -1,0 +1,70 @@
+16:24:02.460 [AI Object Patrol] Generating default Object Patrol config for chernarusplus
+16:24:02.460 [AI Patrol] Generating default Patrol config for chernarusplus
+16:27:22.023 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.183 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.183 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.183 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.191 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.195 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:22.199 [Expansion Quests] Sending player quest data for 4 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:27:38.445 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <11992.250000, 1.982081, 3404.554443>
+16:29:14.523 [AI Object Patrol] Spawning 1 West bots at <13684.000000, -0.090720, 11073.000000>
+16:29:17.273 [AI Object Patrol] Spawning 1 West bots at <13881.000000, -1.292053, 11172.000000>
+16:29:17.289 [AI Object Patrol] Spawning 2 West bots at <13752.000000, -0.052666, 11164.000000>
+16:30:07.644 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Basebuilding
+16:32:04.308 [AI Patrol] Spawning 2 Raiders bots at <8645.148438, 167.084702, 13674.155273>
+16:36:47.242 [AI Patrol] Spawning 3 East bots at <1896.069214, 287.975006, 2992.898438>
+16:36:53.687 [AI Patrol] Spawning 3 East bots at <1585.733032, 294.291992, 3048.136719>
+16:36:54.839 [Killfeed] AI Gabi (Восток) умер разбился с высоты.
+16:36:54.992 [Killfeed] AI Rolf (Восток) умер разбился с высоты.
+16:36:55.214 [Killfeed] AI Indar (Восток) умер разбился с высоты.
+16:36:57.882 [AI Patrol] East bots were wiped out (spawn position <1896.069214, 287.975006, 2992.898438>, 3/3 deceased)
+16:37:00.433 [Killfeed] AI Baty (Восток) умер разбился с высоты.
+16:37:01.632 [Killfeed] AI Francis (Восток) умер разбился с высоты.
+16:37:01.660 [Killfeed] AI Naomi (Восток) умер разбился с высоты.
+16:37:03.046 [AI Patrol] East bots were wiped out (spawn position <1585.733032, 294.291992, 3048.136719>, 3/3 deceased)
+16:37:46.929 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1743.911255, 6.055381, 2066.160156>) Entered the safezone
+16:39:17.753 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<2331.606689, 6.738826, 2052.945801>) Left the safezone
+16:40:03.761 [AI Object Patrol] Despawning 1 West bots (spawn position <13684.000000, -0.090720, 11073.000000>, 0/1 deceased)
+16:40:03.835 [AI Object Patrol] Despawning 2 West bots (spawn position <13752.000000, -0.052666, 11164.000000>, 0/2 deceased)
+16:40:08.203 [AI Object Patrol] Despawning 1 West bots (spawn position <13881.000000, -1.292053, 11172.000000>, 0/1 deceased)
+16:42:13.593 [AI Patrol] Despawning 2 Raiders bots (spawn position <8645.148438, 167.084702, 13674.155273>, 0/2 deceased)
+16:43:54.937 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1779.353271, 8.186024, 2146.521240>) Entered the safezone
+16:45:20.171 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<899.173157, 26.219751, 3238.695557>) Left the safezone
+16:53:01.292 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f164d490> at <12783.4, 5.98, 9410.46> EXPLOSION range 12 dropoff 3
+16:53:22.128 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f1649520> at <12736.1, 7.65, 8904.15> EXPLOSION range 12 dropoff 3
+16:54:25.058 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f16470e0> at <13053.2, 9.2, 7428.32> EXPLOSION range 12 dropoff 3
+16:54:43.238 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f164efc0> at <13177.1, 8.35, 7010.07> EXPLOSION range 12 dropoff 3
+16:54:59.589 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f16479f0> at <13320.1, 7.22, 6597.52> EXPLOSION range 12 dropoff 3
+16:55:27.105 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f1648c10> at <13362, 9.08, 6185.53> EXPLOSION range 12 dropoff 3
+16:58:00.484 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_RPG_Explosion<f1648300> at <13362.7, 8.97, 6245.39> EXPLOSION range 12 dropoff 3
+16:58:32.289 [ExplosionDamageSystem] About to explode ExpansionRocket_Ammo from Expansion_LAW_Explosion<f16501e0> at <13372, 6, 5817.72> EXPLOSION range 12 dropoff 3
+16:59:24.285 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<f3edf490> at <13369.4, 10.2, 5239.74> EXPLOSION range 20 dropoff 5
+17:01:51.433 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+17:01:51.433 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+17:01:51.433 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+17:20:09.976 [VehicleDestroyed] Truck_01_Covered (id=394A932B014A85FEEB2FA7BA85DD7841 pos=<4176.440430, 338.752625, 10725.810547>)

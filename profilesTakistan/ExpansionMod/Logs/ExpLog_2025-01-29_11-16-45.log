@@ -1,0 +1,35 @@
+11:18:00.257 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+11:18:00.257 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:18:00.304 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:18:00.304 [Expansion Quests] Loaded existing group quest data for group with ID=0
+11:18:00.304 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:18:00.304 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:18:01.246 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+11:19:47.554 [AI Object Patrol 00013] Spawning 2 East bots at <3355.909668, 95.975456, 11072.311523>
+11:19:47.625 [AI Object Patrol 00013] Global patrol count: 1
+11:19:47.640 [AI Object Patrol 00015] Spawning 3 East bots at <3352.049316, 96.005539, 11078.904297>
+11:19:47.660 [AI Object Patrol 00015] Global patrol count: 2
+11:19:47.660 [AI Object Patrol 00014] Spawning 1 East bots at <3355.707520, 96.219749, 11063.698242>
+11:19:47.679 [AI Object Patrol 00014] Global patrol count: 3
+11:20:06.242 [Safezone] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4703.57, 44.85, 12065.3>) entered the safezone
+11:20:18.089 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+11:20:29.609 [AI Object Patrol 00011] Spawning 3 East bots at <7812.488281, 156.698807, 7949.109375>
+11:20:29.628 [AI Object Patrol 00011] Global patrol count: 4
+11:20:29.628 [AI Object Patrol 00010] Spawning 1 East bots at <7836.337402, 154.280411, 7961.347168>
+11:20:29.644 [AI Object Patrol 00010] Global patrol count: 5
+11:20:29.644 [AI Object Patrol 00012] Spawning 2 East bots at <7815.141602, 153.781250, 7974.272949>
+11:20:29.660 [AI Object Patrol 00012] Global patrol count: 6
+11:21:05.691 [Killfeed] AI Eva (Восток) был убит [Spart] Tonby с КАС-74У из 1 м расстояние.
+11:21:18.378 [Killfeed] AI Baty (Восток) был убит [Spart] Tonby с КАС-74У из 7 м расстояние.
+11:21:21.835 [Killfeed] AI Irena (Восток) был убит [Spart] Tonby с КАС-74У из 2 м расстояние.
+11:21:24.226 [AI Patrol 00004] Spawning 1 Raiders bots at <7982.767090, 157.644913, 7935.688477>
+11:21:24.246 [AI Patrol 00004] Global patrol count: 7
+11:21:25.210 [AI Object Patrol 00010] East bots were wiped out (spawn position <7836.337402, 154.280411, 7961.347168>, 1/1 deceased)
+11:21:25.210 [AI Object Patrol 00010] Global patrol count: 6
+11:21:39.570 [AI Object Patrol 00006] Spawning 3 East bots at <5890.805176, 271.526733, 5635.415527>
+11:21:39.585 [AI Object Patrol 00006] Global patrol count: 7
+11:21:39.585 [AI Object Patrol 00007] Spawning 3 East bots at <5890.685059, 275.758331, 5605.173340>
+11:21:39.605 [AI Object Patrol 00007] Global patrol count: 8
+11:22:22.132 [AI Patrol 00003] Spawning 1 Raiders bots at <1895.853027, 208.962250, 3870.091309>
+11:22:22.144 [AI Patrol 00003] Global patrol count: 9
+11:22:33.855 [MissionAirdrop] An airdrop is heading towards "Al Babair" (pos=<10673.410156, 0.000000, 11258.591797> type=Random_AlBabair) with a ExpansionAirdropContainer_Medical

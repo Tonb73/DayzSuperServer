@@ -1,0 +1,852 @@
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=61001 from file=q61001
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=5201 from file=q5201
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=5202 from file=q5202
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=5203 from file=q5203
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=2201 from file=q2201
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=2202 from file=q2202
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=2203 from file=q2203
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=2204 from file=q2204
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=2205 from file=q2205
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=2101 from file=q2101
+23:59:19.984 [Expansion Quests] Added objects set for quest ID=61601 from file=q61601
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=2102 from file=q2102
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=2103 from file=q2103
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=2104 from file=q2104
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=5101 from file=q5101
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=5102 from file=q5102
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=6601 from file=q6601
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=6501 from file=q6501
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=5301 from file=q5301
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=5302 from file=q5302
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=5303 from file=q5303
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=5304 from file=q5304
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=2105 from file=q2105
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=61501 from file=q61501
+23:59:19.992 [Expansion Quests] Added objects set for quest ID=61502 from file=q61502
+00:00:08.718 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<3704.728760, 403.602753, 5991.640625>) Entered the safezone
+00:00:08.718 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+00:00:08.718 [Expansion Quests] Initialize quest system on the connected client with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.781 [Expansion Quests] Loaded existing player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.781 [Expansion Quests] Loaded existing group quest data for group with ID=1
+00:00:08.781 [Expansion Quests] Check quest initialization for quest with ID=61301 | State=NONE | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.781 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.781 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.781 [Expansion Quests] Check quest initialization for quest with ID=61101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6701 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6801 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6901 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Check quest initialization for quest with ID=61502 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.789 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.796 [Expansion Quests] Sending zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= quest configs to client for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.796 [Expansion Quests] Sending player quest data for 15 quests to player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+00:00:08.804 [AI Patrol 00071] Spawning 3 GM_Trader (InvincibleObservers) bots at <3769.526123, 400.023102, 5914.682129>
+00:00:08.828 [AI Patrol 00071] Global patrol count: 1
+00:00:09.312 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3702.579590, 402.012451, 5982.737793>) Entered the safezone
+00:00:09.312 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+00:00:09.312 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.351 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.351 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+00:00:09.351 [Expansion Quests] Check quest initialization for quest with ID=6901 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=61101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=61301 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6701 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6801 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Check quest initialization for quest with ID=61502 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.359 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.367 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.367 [Expansion Quests] Sending player quest data for 15 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+00:00:09.687 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+00:00:10.281 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+00:00:10.656 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<3700.657715, 402.012451, 5990.146973>) Entered the safezone
+00:00:10.656 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+00:00:10.656 [Expansion Quests] Initialize quest system on the connected client with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.718 [Expansion Quests] Loaded existing player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.718 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+00:00:10.718 [Expansion Quests] Check quest initialization for quest with ID=6901 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61301 | State=NONE | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6701 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6801 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61201 | State=STARTED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Create new quest instance for quest with ID=61201 | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Check quest initialization for quest with ID=61502 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.726 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Sending z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= quest configs to client for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:10.734 [Expansion Quests] Sending player quest data for 17 quests to player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+00:00:11.601 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+00:02:29.640 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionspraycanbanditkitty x1 (20391690) from the trader "Spraycans (Jose [#STR_EXPANSION_MARKET_TRADER_SPRAYCANS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 100.
+00:02:56.335 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.542969, 402.043579, 5990.921387>) as driver
+00:03:13.414 [VehicleAttachments] Player Survivor (uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) detached Передняя левая дверь Gunter 2 (type=Hatchback_02_Door_1_1_Black) from vehicle Gunter 2(id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.547852, 402.043579, 5990.921387>)
+00:03:15.156 [VehicleAttachments] Player Survivor (uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) detached Передняя левая дверь Gunter 2 (type=Hatchback_02_Door_1_1_Black) from vehicle Gunter 2(id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.548096, 402.043579, 5990.921387>)
+00:03:16.726 [VehicleAttachments] Player Survivor (uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) detached Передняя левая дверь Gunter 2 (type=Hatchback_02_Door_1_1_Black) from vehicle Gunter 2(id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.548340, 402.043549, 5990.921387>)
+00:03:18.031 [VehicleAttachments] Player Survivor (uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) detached Передняя левая дверь Gunter 2 (type=Hatchback_02_Door_1_1_Black) from vehicle Gunter 2(id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.548828, 402.043549, 5990.921387>)
+00:03:21.796 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.550293, 402.043579, 5990.921387>)
+00:04:05.703 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.551514, 402.043579, 5990.921387>) as driver
+00:04:16.617 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.553711, 402.043549, 5990.921875>)
+00:04:27.820 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.553955, 402.043549, 5990.921875>) as driver
+00:04:33.523 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.554932, 402.043579, 5990.921875>) as passenger
+00:04:35.562 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.553955, 402.043610, 5990.921875>)
+00:04:38.562 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.553467, 402.043579, 5990.921875>)
+00:04:44.492 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.554199, 402.043518, 5990.921875>) as driver
+00:04:46.734 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.556396, 402.043579, 5990.921875>)
+00:04:50.062 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.556396, 402.043549, 5990.921875>) as driver
+00:04:51.921 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.556396, 402.043579, 5990.921875>)
+00:04:54.468 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer
+00:05:10.828 [Expansion Quests] Spawned objects from set for quest ID=5101 from file=$mission:expansion\quests\\objects\q5101.map
+00:05:10.828 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1101
+00:05:10.828 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1201
+00:05:10.828 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=5101
+00:05:10.828 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=5101
+00:05:11.289 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1101
+00:05:11.289 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1201
+00:05:11.289 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=5101
+00:05:44.039 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1101
+00:05:44.039 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1201
+00:05:44.039 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5101
+00:05:44.046 [Expansion Quests] Created new quest instance with instance key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= for quest with ID=5101
+00:05:44.539 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1101
+00:05:44.539 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1201
+00:05:44.539 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5101
+00:05:48.812 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1101
+00:05:48.812 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1201
+00:05:48.812 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=5101
+00:05:48.820 [Expansion Quests] Created new quest instance with instance key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= for quest with ID=5101
+00:05:49.312 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1101
+00:05:49.312 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1201
+00:05:49.312 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=5101
+00:06:36.914 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.556396, 402.043579, 5990.921875>) as driver
+00:06:38.492 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.556641, 402.043549, 5990.921387>) as passenger
+00:06:44.406 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.558350, 402.043549, 5990.921875>)
+00:06:48.429 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.559326, 402.043579, 5990.921875>) as driver
+00:06:50.390 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.560059, 402.043579, 5990.921875>) as passenger
+00:06:53.304 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3704.562500, 402.043579, 5990.921875>)
+00:07:13.445 [AI Patrol 00160] Spawning 8 West bots at <4720.287598, 311.723755, 5820.460449>
+00:07:13.453 [AI Patrol 00160] Global patrol count: 2
+00:07:37.585 [AI Object Patrol 00055] Spawning 1 CampHouse_Tier2CB (Mercenaries) bots at <3725.454346, 402.587708, 5972.252930>
+00:07:37.593 [AI Object Patrol 00055] Global patrol count: 3
+00:07:37.804 [AI Patrol 00116] Spawning 1 Drozhino_Tier2RR (Raiders) bots at <3485.885742, 246.575958, 4906.736816>
+00:07:37.843 [AI Patrol 00116] Global patrol count: 4
+00:07:41.328 [AI Patrol 00111] Spawning 1 Kozlovka_Tier2 (Raiders) bots at <4471.954102, 255.473770, 4744.913574>
+00:07:41.351 [AI Patrol 00111] Global patrol count: 5
+00:07:43.984 [AI Object Patrol 00015] Spawning 1 WaterPump_Tier0 (Raiders) bots at <4377.183594, 233.256531, 4667.676758>
+00:07:43.992 [AI Object Patrol 00015] Global patrol count: 6
+00:07:44.257 [AI Patrol 00110] Spawning 1 Kozlovka_Tier2 (Raiders) bots at <4466.283203, 239.759491, 4687.225586>
+00:07:44.273 [AI Patrol 00110] Global patrol count: 7
+00:07:52.328 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4270.625977, 331.690094, 5522.486328>) Left the safezone
+00:07:52.328 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4271.215332, 331.631470, 5521.926758>) Left the safezone
+00:07:52.328 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4270.164063, 331.691223, 5521.998535>) Left the safezone
+00:08:49.890 [Killfeed] AI Peter (Kozlovka_Tier2) был убит.
+00:08:50.187 [AI Patrol 00111] Kozlovka_Tier2 (Raiders) bots were wiped out (spawn position <4471.954102, 255.473770, 4744.913574>, 1/1 deceased)
+00:08:50.187 [AI Patrol 00111] Global patrol count: 6
+00:08:52.117 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4285.842773, 245.036499, 4804.797852>)
+00:08:52.187 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4285.838867, 245.036407, 4804.797852>)
+00:08:52.882 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4285.796387, 245.035141, 4804.797363>)
+00:09:45.718 [Killfeed] AI Kaito (Kozlovka_Tier2) был убит [Knigh] acey с КА-74 из 8 м расстояние.
+00:09:49.812 [AI Patrol 00110] Kozlovka_Tier2 (Raiders) bots were wiped out (spawn position <4466.283203, 239.759491, 4687.225586>, 1/1 deceased)
+00:09:49.812 [AI Patrol 00110] Global patrol count: 5
+00:11:03.570 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4285.672363, 245.030655, 4804.792969>) as driver
+00:11:05.992 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4285.527344, 245.025543, 4804.788086>)
+00:11:19.492 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4287.481445, 244.902496, 4802.885742>) as passenger
+00:11:36.101 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4345.164063, 237.502991, 4724.610840>) as passenger
+00:11:47.359 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4374.302734, 234.706009, 4681.839355>)
+00:11:48.070 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4374.260254, 234.699631, 4681.824707>)
+00:11:48.562 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4374.230957, 234.695251, 4681.814453>)
+00:12:11.343 [Killfeed] AI Naomi (WaterPump_Tier0) был убит [Knigh] Survivor (2) с DMR из 48 м расстояние.
+00:12:14.789 [AI Object Patrol 00015] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <4377.183594, 233.256531, 4667.676758>, 1/1 deceased)
+00:12:14.789 [AI Object Patrol 00015] Global patrol count: 4
+00:12:36.304 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4374.229492, 234.694977, 4681.813965>) as passenger
+00:12:43.562 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4374.229492, 234.694977, 4681.813965>) as passenger
+00:12:53.703 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4374.134766, 234.680603, 4681.780762>) as driver
+00:12:57.367 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<4373.958984, 234.637695, 4681.576660>)
+00:14:31.023 [AI Patrol 00091] Spawning 1 Novoselki_Tier1 (Raiders) bots at <6140.689941, 96.502998, 3236.739014>
+00:14:31.046 [AI Patrol 00091] Global patrol count: 5
+00:14:32.968 [AI Patrol 00090] Spawning 1 Novoselki_Tier1 (Raiders) bots at <6188.418457, 68.363968, 3294.150391>
+00:14:33.007 [AI Patrol 00090] Global patrol count: 6
+00:14:42.750 [AI Patrol 00096] Spawning 1 Vysotovo_Tier1 (Raiders) bots at <5955.374023, 121.502998, 2756.862305>
+00:14:42.765 [AI Patrol 00096] Global patrol count: 7
+00:14:43.687 [AI Patrol 00095] Spawning 1 Vysotovo_Tier1 (Raiders) bots at <5837.011230, 97.502998, 2660.962158>
+00:14:43.703 [AI Patrol 00095] Global patrol count: 8
+00:14:47.367 [AI Object Patrol 00009] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <6208.032227, 26.777935, 2934.248291>
+00:14:47.382 [AI Object Patrol 00009] Global patrol count: 9
+00:14:57.921 [AI Patrol 00097] Spawning 1 Vysotovo_Tier1 (Raiders) bots at <5638.215820, 105.502998, 2442.286621>
+00:14:57.960 [AI Patrol 00097] Global patrol count: 10
+00:15:00.382 [AI Object Patrol 00163] Spawning 2 FirelStation_Tier2 (Raiders) bots at <6275.050293, 8.450000, 2706.326660>
+00:15:00.445 [AI Object Patrol 00163] Global patrol count: 11
+00:15:07.304 [AI Object Patrol 00008] Spawning 1 HospitalStation_Tier2 (Raiders) bots at <6460.531738, 20.384640, 2723.130371>
+00:15:07.312 [AI Object Patrol 00008] Global patrol count: 12
+00:15:15.343 [AI Patrol 00098] Spawning 1 Komarovo_Tier1 (Raiders) bots at <6441.051270, 8.686615, 2500.953857>
+00:15:15.367 [AI Patrol 00098] Global patrol count: 13
+00:15:15.453 [AI Object Patrol 00005] Spawning 3 OilStation_Tier2RR (Raiders) bots at <5851.635254, 8.978178, 2198.931396>
+00:15:15.468 [AI Object Patrol 00005] Global patrol count: 14
+00:15:30.796 [AI Object Patrol 00007] Spawning 3 PoliceStation_Tier2 (Raiders) bots at <6620.517090, 6.415078, 2574.034912>
+00:15:30.820 [AI Object Patrol 00007] Global patrol count: 15
+00:15:34.656 [AI Patrol 00092] Spawning 1 Dubovo_Tier1 (Raiders) bots at <6637.321777, 103.502998, 3697.561768>
+00:15:34.671 [AI Patrol 00092] Global patrol count: 16
+00:15:34.820 [AI Patrol 00089] Spawning 1 Chernogorsk_Tier1 (Raiders) bots at <6514.045410, 6.000000, 2399.948975>
+00:15:34.843 [AI Patrol 00089] Global patrol count: 17
+00:15:39.179 [AI Patrol 00094] Spawning 1 Dubovo_Tier1 (Raiders) bots at <6707.723145, 78.502998, 3650.734375>
+00:15:39.203 [AI Patrol 00094] Global patrol count: 18
+00:15:40.765 [AI Patrol 00093] Spawning 1 Dubovo_Tier1 (Raiders) bots at <6737.906250, 100.502998, 3633.675049>
+00:15:40.781 [AI Patrol 00093] Global patrol count: 19
+00:16:14.343 [AI Object Patrol 00200] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <6713.186523, 59.032902, 3620.724854>
+00:16:14.359 [AI Object Patrol 00200] Global patrol count: 20
+00:16:14.625 [AI Object Patrol 00201] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <6712.002930, 59.473248, 3637.549561>
+00:16:14.648 [AI Object Patrol 00201] Global patrol count: 21
+00:16:15.585 [AI Object Patrol 00204] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <6731.422363, 78.439621, 3622.513672>
+00:16:15.609 [AI Object Patrol 00204] Global patrol count: 22
+00:16:15.828 [AI Object Patrol 00202] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <6735.147949, 71.449631, 3620.117920>
+00:16:15.843 [AI Object Patrol 00202] Global patrol count: 23
+00:16:16.695 [AI Object Patrol 00203] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <6735.307617, 59.345112, 3643.352295>
+00:16:16.710 [AI Object Patrol 00203] Global patrol count: 24
+00:16:17.468 [AI Object Patrol 00205] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <6741.694336, 64.090385, 3639.568115>
+00:16:17.484 [AI Object Patrol 00205] Global patrol count: 25
+00:16:36.953 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.228027, 40.323318, 3538.624756>)
+00:16:38.218 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.227539, 40.323318, 3538.624023>)
+00:16:38.523 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.227539, 40.323303, 3538.624023>)
+00:16:41.984 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.227539, 40.323322, 3538.621582>)
+00:16:46.117 [Killfeed] AI Denis (Dubovo_Tier1) был убит AI Helga (QuestEnemyTier2) с M9 из 3 м расстояние.
+00:16:50.476 [AI Patrol 00093] Dubovo_Tier1 (Raiders) bots were wiped out (spawn position <6737.906250, 100.502998, 3633.675049>, 1/1 deceased)
+00:16:50.476 [AI Patrol 00093] Global patrol count: 24
+00:16:51.796 [Killfeed] AI Frida (Dubovo_Tier1) был убит AI Oliver (QuestEnemyTier2) с Blaze из 12 м расстояние.
+00:16:55.242 [AI Patrol 00094] Dubovo_Tier1 (Raiders) bots were wiped out (spawn position <6707.723145, 78.502998, 3650.734375>, 1/1 deceased)
+00:16:55.242 [AI Patrol 00094] Global patrol count: 23
+00:18:08.687 [AI Patrol 00086] Spawning 2 Prigorodki_Tier1 (Raiders) bots at <7334.202637, 16.503000, 2887.135986>
+00:18:08.703 [AI Patrol 00086] Global patrol count: 24
+00:18:29.976 [AI Patrol 00071] Despawning 3 GM_Trader (InvincibleObservers) bots (spawn position <3769.526123, 400.023102, 5914.682129>, 0/3 deceased)
+00:18:29.976 [AI Patrol 00071] Global patrol count: 23
+00:18:30.546 [AI Object Patrol 00055] Despawning 1 CampHouse_Tier2CB (Mercenaries) bots (spawn position <3725.454346, 402.587708, 5972.252930>, 0/1 deceased)
+00:18:30.554 [AI Object Patrol 00055] Global patrol count: 22
+00:18:33.382 [Killfeed] AI Oliver (QuestEnemyTier2) был убит [Knigh] Survivor (2) с DMR из 56 м расстояние.
+00:18:36.664 [AI Object Patrol 00201] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <6712.002930, 59.473248, 3637.549561>, 1/1 deceased)
+00:18:36.664 [AI Object Patrol 00201] Global patrol count: 21
+00:18:41.093 [Killfeed] AI Judy (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 2 м расстояние.
+00:18:45.898 [AI Object Patrol 00200] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <6713.186523, 59.032902, 3620.724854>, 1/1 deceased)
+00:18:45.898 [AI Object Patrol 00200] Global patrol count: 20
+00:18:48.367 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<55d13f10> at <6719.18, 59.37, 3631.81> EXPLOSION range 20 dropoff 5
+00:18:48.367 [ExplosionDamageSystem] Queued M67Grenade<55d13f10> M67Grenade_Ammo for ExpansionBarbedWire<8a8378b0> - count: 1
+00:18:48.367 [ExplosionDamageSystem] Dequeued M67Grenade<55d13f10> M67Grenade_Ammo for ExpansionBarbedWire<8a8378b0> - count: 0
+00:18:48.367 [BaseBuildingRaiding] BaseRaiding: ExpansionBarbedWire<8a8378b0> at <6720.198730, 59.257915, 3625.596680> has been hit by explosive M67Grenade<55d13f10>
+00:18:48.367 [ExplosionDamageSystem] Overriding M67Grenade<55d13f10> damage dealt to ExpansionBarbedWire<8a8378b0> at <6720.198730, 59.257915, 3625.596680> 30.9719 -> 45.693
+00:18:48.367 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+00:18:48.367 [BaseBuildingRaiding] A player damaged ExpansionBarbedWire at <6720.2, 59.26, 3625.6>
+00:18:48.367 [BaseBuildingRaiding] They dealt 45.693 * 50 = 2284.65 damage with M67Grenade_Ammo from M67Grenade
+00:18:48.367 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 300 to 0
+00:18:48.367 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+00:18:54.437 [Killfeed] AI Maria (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 10 м расстояние.
+00:18:56.304 [AI Object Patrol 00202] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <6735.147949, 71.449631, 3620.117920>, 1/1 deceased)
+00:18:56.304 [AI Object Patrol 00202] Global patrol count: 19
+00:19:18.851 [Killfeed] AI Keiko (QuestEnemyTier2) был убит [Knigh] Survivor с M4-A1 из 58 м расстояние.
+00:19:20.929 [AI Object Patrol 00203] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <6735.307617, 59.345112, 3643.352295>, 1/1 deceased)
+00:19:20.929 [AI Object Patrol 00203] Global patrol count: 18
+00:19:25.000 [Killfeed] AI Mirek (QuestEnemyTier2) был убит [Knigh] Survivor с M4-A1 из 32 м расстояние.
+00:19:26.070 [AI Object Patrol 00205] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <6741.694336, 64.090385, 3639.568115>, 1/1 deceased)
+00:19:26.070 [AI Object Patrol 00205] Global patrol count: 17
+00:19:29.945 [AI Patrol 00160] Despawning 8 West bots (spawn position <4720.287598, 311.723755, 5820.460449>, 0/8 deceased)
+00:19:29.945 [AI Patrol 00160] Global patrol count: 16
+00:19:44.109 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1101
+00:19:44.109 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1201
+00:19:44.109 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5101
+00:19:44.117 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1101
+00:19:44.117 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1201
+00:19:44.117 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5101
+00:19:48.320 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1101
+00:19:48.320 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1201
+00:19:48.328 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=5101
+00:20:06.812 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1101
+00:20:06.812 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1201
+00:20:06.820 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5101
+00:20:09.875 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1101
+00:20:09.875 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1201
+00:20:09.882 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5101
+00:20:09.882 [Expansion Quests] Player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= has completed quest with ID=5101
+00:20:09.914 [AI Object Patrol 00200] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <6713.186523, 59.032902, 3620.724854>, 1/1 deceased)
+00:20:09.914 [AI Object Patrol 00201] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <6737.874512, 59.338268, 3642.068848>, 1/1 deceased)
+00:20:09.914 [AI Object Patrol 00202] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <6739.603027, 71.447990, 3625.347900>, 1/1 deceased)
+00:20:09.914 [AI Object Patrol 00203] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <6733.126953, 71.449631, 3622.917969>, 1/1 deceased)
+00:20:09.914 [AI Object Patrol 00204] Despawning 1 QuestEnemyTier2 (Mercenaries) bots (spawn position <6731.422363, 78.439621, 3622.513672>, 0/1 deceased)
+00:20:09.914 [AI Object Patrol 00204] Global patrol count: 15
+00:20:09.914 [AI Object Patrol 00205] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <6718.943359, 59.423439, 3640.231445>, 1/1 deceased)
+00:20:15.523 [Expansion Quests] Spawned objects from set for quest ID=5102 from file=$mission:expansion\quests\\objects\q5102.map
+00:20:15.523 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1102
+00:20:15.531 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1001
+00:20:15.531 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5102
+00:20:15.531 [Expansion Quests] Created new quest instance with instance key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= for quest with ID=5102
+00:20:15.968 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1102
+00:20:15.968 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1001
+00:20:15.968 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5102
+00:20:32.187 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1101
+00:20:32.187 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1201
+00:20:32.187 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=5101
+00:21:14.687 [AI Patrol 00116] Despawning 1 Drozhino_Tier2RR (Raiders) bots (spawn position <3485.885742, 246.575958, 4906.736816>, 0/1 deceased)
+00:21:14.687 [AI Patrol 00116] Global patrol count: 14
+00:21:16.953 [Killfeed] AI Indar (FirelStation_Tier2) был убит AI Taiki (Komarovo_Tier1) с Обрез Мосин 91/30 из 3 м расстояние.
+00:22:03.937 [Killfeed] AI Rolf (Chernogorsk_Tier1) был убит AI Jose (PoliceStation_Tier2) с M9 из 12 м расстояние.
+00:22:04.585 [AI Patrol 00089] Chernogorsk_Tier1 (Raiders) bots were wiped out (spawn position <6514.045410, 6.000000, 2399.948975>, 1/1 deceased)
+00:22:04.585 [AI Patrol 00089] Global patrol count: 13
+00:22:09.148 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=5101
+00:22:09.148 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has cancelled quest with ID=5101. State=STARTED
+00:22:10.304 [Killfeed] AI Irena (Dubovo_Tier1) был убит [Knigh] acey с БК-133 из 84 м расстояние.
+00:22:11.382 [Killfeed] AI Taiki (Komarovo_Tier1) был убит AI Manua (PoliceStation_Tier2) с CR-75 из 6 м расстояние.
+00:22:14.585 [AI Patrol 00092] Dubovo_Tier1 (Raiders) bots were wiped out (spawn position <6637.321777, 103.502998, 3697.561768>, 1/1 deceased)
+00:22:14.585 [AI Patrol 00092] Global patrol count: 12
+00:22:15.382 [AI Patrol 00098] Komarovo_Tier1 (Raiders) bots were wiped out (spawn position <6441.051270, 8.686615, 2500.953857>, 1/1 deceased)
+00:22:15.382 [AI Patrol 00098] Global patrol count: 11
+00:23:00.359 [Killfeed] AI Jose (PoliceStation_Tier2) был убит AI Gabi (HospitalStation_Tier2) с CR-550 Savanna из 3 м расстояние.
+00:23:07.046 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1101
+00:23:07.046 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=1201
+00:23:07.054 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=5101
+00:23:16.773 [Killfeed] AI Keiko (Vysotovo_Tier1) был убит AI Cyril (FirelStation_Tier2) с Обрез Мосин 91/30 из 9 м расстояние.
+00:23:19.718 [AI Patrol 00096] Vysotovo_Tier1 (Raiders) bots were wiped out (spawn position <5955.374023, 121.502998, 2756.862305>, 1/1 deceased)
+00:23:19.726 [AI Patrol 00096] Global patrol count: 10
+00:24:08.343 [Killfeed] AI Cyril (FirelStation_Tier2) был убит AI Maria (PoliceStation_Tier2) с БК-133 из 3 м расстояние.
+00:24:10.164 [AI Object Patrol 00163] FirelStation_Tier2 (Raiders) bots were wiped out (spawn position <6275.050293, 8.450000, 2706.326660>, 2/2 deceased)
+00:24:10.164 [AI Object Patrol 00163] Global patrol count: 9
+00:25:07.289 [Killfeed] AI Judy (Novoselki_Tier1) был убит [Knigh] acey с CR-550 Savanna из 214 м расстояние.
+00:25:10.140 [AI Patrol 00090] Novoselki_Tier1 (Raiders) bots were wiped out (spawn position <6188.418457, 68.363968, 3294.150391>, 1/1 deceased)
+00:25:10.140 [AI Patrol 00090] Global patrol count: 8
+00:25:42.617 [AI Object Patrol 00211] Spawning 3 OilStation_Tier2RR (Raiders) bots at <6862.968750, 6.934308, 3104.076660>
+00:25:42.632 [AI Object Patrol 00211] Global patrol count: 9
+00:25:46.445 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.227539, 40.323296, 3538.619629>) as driver
+00:25:47.531 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.227051, 40.323303, 3538.617676>) as passenger
+00:25:49.453 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.225586, 40.323345, 3538.616699>)
+00:25:50.179 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<6185.225098, 40.323288, 3538.616455>) as passenger
+00:26:00.398 [AI Object Patrol 00005] Despawning 3 OilStation_Tier2RR (Raiders) bots (spawn position <5851.635254, 8.978178, 2198.931396>, 0/3 deceased)
+00:26:00.398 [AI Object Patrol 00005] Global patrol count: 8
+00:26:42.117 [Killfeed] AI Gabi (HospitalStation_Tier2) умер от потери крови.
+00:26:44.796 [AI Object Patrol 00008] HospitalStation_Tier2 (Raiders) bots were wiped out (spawn position <6460.531738, 20.384640, 2723.130371>, 1/1 deceased)
+00:26:44.796 [AI Object Patrol 00008] Global patrol count: 7
+00:26:51.531 [AI Object Patrol 00210] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <5721.323730, 62.231678, 2476.989014>
+00:26:51.554 [AI Object Patrol 00210] Global patrol count: 8
+00:26:52.406 [AI Object Patrol 00206] Spawning 1 BH_John (Mercenaries) bots at <5704.996582, 105.256737, 2476.154053>
+00:26:52.421 [AI Object Patrol 00206] Global patrol count: 9
+00:26:53.609 [AI Object Patrol 00207] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <5722.696777, 62.241581, 2468.832520>
+00:26:53.625 [AI Object Patrol 00207] Global patrol count: 10
+00:26:56.250 [AI Object Patrol 00209] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <5716.440430, 62.137703, 2453.992188>
+00:26:56.265 [AI Object Patrol 00209] Global patrol count: 11
+00:26:56.359 [AI Object Patrol 00208] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <5701.973145, 62.205547, 2455.209717>
+00:26:56.375 [AI Object Patrol 00208] Global patrol count: 12
+00:27:19.882 [AI Patrol 00088] Spawning 1 Chernogorsk_Tier1 (Raiders) bots at <6471.868164, 7.270303, 2331.676758>
+00:27:19.898 [AI Patrol 00088] Global patrol count: 13
+00:27:23.070 [AI Object Patrol 00006] Spawning 1 WaterPump_Tier0 (Raiders) bots at <6507.437012, 5.996583, 2314.729004>
+00:27:23.085 [AI Object Patrol 00006] Global patrol count: 14
+00:27:37.421 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.852051, 82.764977, 2833.308838>)
+00:27:37.742 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.851563, 82.764915, 2833.309326>)
+00:27:38.148 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.851563, 82.764915, 2833.309814>)
+00:27:41.875 [Killfeed] AI Maria (PoliceStation_Tier2) умер от потери крови.
+00:27:42.406 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.851563, 82.765038, 2833.313477>)
+00:28:09.226 [Killfeed] AI Jose (BH_John) был убит [Knigh] acey с CR-550 Savanna из 239 м расстояние.
+00:28:11.070 [AI Object Patrol 00206] BH_John (Mercenaries) bots were wiped out (spawn position <5704.996582, 105.256737, 2476.154053>, 1/1 deceased)
+00:28:11.070 [AI Object Patrol 00206] Global patrol count: 13
+00:28:55.250 [Killfeed] AI Kaito (QuestEnemyTier2) был убит [Knigh] Survivor с M4-A1 из 44 м расстояние.
+00:28:56.507 [AI Object Patrol 00210] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <5721.323730, 62.231678, 2476.989014>, 1/1 deceased)
+00:28:56.507 [AI Object Patrol 00210] Global patrol count: 12
+00:29:00.867 [Killfeed] AI Seth (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 7 м расстояние.
+00:29:05.734 [AI Object Patrol 00208] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <5701.973145, 62.205547, 2455.209717>, 1/1 deceased)
+00:29:05.734 [AI Object Patrol 00208] Global patrol count: 11
+00:29:09.632 [Killfeed] AI Baty (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 26 м расстояние.
+00:29:10.968 [AI Object Patrol 00209] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <5716.440430, 62.137703, 2453.992188>, 1/1 deceased)
+00:29:10.968 [AI Object Patrol 00209] Global patrol count: 10
+00:30:00.789 [Killfeed] AI Frida (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 2 м расстояние.
+00:30:01.351 [AI Object Patrol 00207] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <5722.696777, 62.241581, 2468.832520>, 1/1 deceased)
+00:30:01.351 [AI Object Patrol 00207] Global patrol count: 9
+00:33:20.203 [AI Patrol 00095] Despawning 1 Vysotovo_Tier1 (Raiders) bots (spawn position <5837.011230, 97.502998, 2660.962158>, 0/1 deceased)
+00:33:20.203 [AI Patrol 00095] Global patrol count: 8
+00:34:44.617 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1102
+00:34:44.617 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1001
+00:34:44.625 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5102
+00:34:45.117 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1102
+00:34:45.117 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1001
+00:34:45.125 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5102
+00:37:13.078 [Killfeed] AI Boris (Chernogorsk_Tier1) был убит [Knigh] Survivor с M4-A1 из 55 м расстояние.
+00:37:14.851 [AI Patrol 00088] Chernogorsk_Tier1 (Raiders) bots were wiped out (spawn position <6471.868164, 7.270303, 2331.676758>, 1/1 deceased)
+00:37:14.851 [AI Patrol 00088] Global patrol count: 7
+00:37:56.992 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<8a84eea0> at <5823.44, 77.29, 2650.65> EXPLOSION range 12 dropoff 3
+00:38:16.890 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<55d0ba60> at <5798.22, 75.91, 2604.12> EXPLOSION range 20 dropoff 5
+00:38:16.898 [Killfeed] AI Naomi (Vysotovo_Tier1) умер от взрыва Оск. граната 6-M7.
+00:38:19.890 [AI Patrol 00097] Vysotovo_Tier1 (Raiders) bots were wiped out (spawn position <5638.215820, 105.502998, 2442.286621>, 1/1 deceased)
+00:38:19.890 [AI Patrol 00097] Global patrol count: 6
+00:38:38.593 [Killfeed] AI Quinn (Prigorodki_Tier1) был убит AI Naomi (OilStation_Tier2RR) с БК-43 из 10 м расстояние.
+00:38:44.054 [Killfeed] AI Niki (Prigorodki_Tier1) был убит AI Naomi (OilStation_Tier2RR) с БК-43 из 9 м расстояние.
+00:38:45.265 [AI Patrol 00086] Prigorodki_Tier1 (Raiders) bots were wiped out (spawn position <7334.202637, 16.503000, 2887.135986>, 2/2 deceased)
+00:38:45.265 [AI Patrol 00086] Global patrol count: 5
+00:39:37.953 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.851563, 82.765015, 2833.313477>) as passenger
+00:39:39.679 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.851563, 82.765030, 2833.314941>) as driver
+00:39:41.671 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.851563, 82.765099, 2833.316650>) as passenger
+00:39:46.914 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<5764.783691, 82.761566, 2833.357178>)
+00:40:01.054 [Killfeed] AI Manua (PoliceStation_Tier2) был убит AI Naomi (OilStation_Tier2RR) с БК-43 из 6 м расстояние.
+00:40:05.554 [AI Object Patrol 00007] PoliceStation_Tier2 (Raiders) bots were wiped out (spawn position <6620.517090, 6.415078, 2574.034912>, 3/3 deceased)
+00:40:05.554 [AI Object Patrol 00007] Global patrol count: 4
+00:40:52.562 [Killfeed] AI Linda (WaterPump_Tier0) был убит AI Irena (OilStation_Tier2RR) с Обрез БK-12 из 3 м расстояние.
+00:40:55.257 [AI Object Patrol 00006] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <6507.437012, 5.996583, 2314.729004>, 1/1 deceased)
+00:40:55.257 [AI Object Patrol 00006] Global patrol count: 3
+00:41:04.867 [Killfeed] AI Naomi (OilStation_Tier2RR) умер от потери крови.
+00:42:49.898 [AI Patrol 00091] Despawning 1 Novoselki_Tier1 (Raiders) bots (spawn position <6140.689941, 96.502998, 3236.739014>, 0/1 deceased)
+00:42:49.898 [AI Patrol 00091] Global patrol count: 2
+00:43:15.312 [Killfeed] AI Eva (OilStation_Tier2RR) умер от потери крови.
+00:43:53.968 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4102.437988, 353.237030, 5681.061035>) Entered the safezone
+00:43:53.968 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4102.900391, 353.227112, 5681.548340>) Entered the safezone
+00:43:53.968 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4101.852051, 353.329346, 5681.622070>) Entered the safezone
+00:44:39.375 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.619385, 402.043549, 5997.583496>)
+00:44:39.804 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.619629, 402.043579, 5997.583496>)
+00:44:40.421 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.619385, 402.043579, 5997.583496>)
+00:44:53.109 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has sold m16a2 x1 (354dc700, Mag_STANAG_30Rnd<742908d0>, ammo_556x45 x12) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 6510.
+00:45:00.781 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1102
+00:45:00.781 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1001
+00:45:00.781 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5102
+00:45:00.796 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1102
+00:45:00.796 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=1001
+00:45:00.804 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=5102
+00:45:00.812 [Expansion Quests] Player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= has completed quest with ID=5102
+00:45:00.812 [AI Object Patrol 00206] Despawning 0 BH_John (Mercenaries) bots (spawn position <5707.704102, 105.254448, 2474.881592>, 1/1 deceased)
+00:45:00.812 [AI Object Patrol 00207] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <5706.707520, 62.191166, 2457.906006>, 1/1 deceased)
+00:45:00.812 [AI Object Patrol 00208] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <5720.321777, 62.229431, 2482.319824>, 1/1 deceased)
+00:45:00.812 [AI Object Patrol 00209] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <5701.675293, 81.269638, 2475.249268>, 1/1 deceased)
+00:45:00.812 [AI Object Patrol 00210] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <5721.039063, 62.161522, 2455.379639>, 1/1 deceased)
+00:45:02.750 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox_556x45_20rnd x1 (74273a50) from the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 440.
+00:45:03.187 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox_556x45_20rnd x1 (74278b40) from the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 440.
+00:45:03.906 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox_556x45_20rnd x1 (7427fee0) from the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 440.
+00:45:35.992 [Expansion Quests] Spawned objects from set for quest ID=2101 from file=$mission:expansion\quests\\objects\q2101.map
+00:45:35.992 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:45:35.992 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:45:36.000 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+00:45:36.000 [Expansion Quests] Created new quest instance with instance key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= for quest with ID=2101
+00:45:36.445 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:45:36.453 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:45:36.453 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+00:45:38.140 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:45:38.140 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:45:38.140 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+00:45:38.140 [Expansion Quests] Created new quest instance with instance key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= for quest with ID=2101
+00:45:38.640 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:45:38.640 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:45:38.640 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+00:45:41.125 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:45:41.125 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:45:41.125 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+00:45:41.125 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=2101
+00:45:41.617 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:45:41.617 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:45:41.625 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+00:45:43.742 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=5101
+00:45:43.742 [Expansion Quests] Player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= has cancelled quest with ID=5101. State=STARTED
+00:45:57.437 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.619385, 402.043579, 5997.583496>) as passenger
+00:45:59.570 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.619385, 402.043579, 5997.583496>)
+00:47:57.546 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought hatchback_02_door_1_2_black x1 (748c3da0) from the trader "Vehicle_Parts (Naomi [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 2900.
+00:48:17.367 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought hatchback_02_trunk_black x1 (748da410) from the trader "Vehicle_Parts (Naomi [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 2760.
+00:48:26.882 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionspraycanbanditkitty x1 (748e2ed0) from the trader "Spraycans (Jose [#STR_EXPANSION_MARKET_TRADER_SPRAYCANS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 100.
+00:48:49.250 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.619629, 402.043610, 5997.583496>) as driver
+00:48:59.054 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.621094, 402.043610, 5997.583496>)
+00:49:32.625 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.621338, 402.043579, 5997.583496>) as driver
+00:49:35.796 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.621094, 402.043579, 5997.583496>) as passenger
+00:49:36.796 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.621338, 402.043579, 5997.583496>)
+00:49:45.156 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3710.623291, 402.043549, 5997.583496>) as passenger
+00:50:30.273 [AI Object Patrol 00009] Despawning 2 PoliceStation_Tier1 (Raiders) bots (spawn position <6208.032227, 26.777935, 2934.248291>, 0/2 deceased)
+00:50:30.273 [AI Object Patrol 00009] Global patrol count: 1
+00:50:42.609 [AI Object Patrol 00211] Despawning 1 OilStation_Tier2RR (Raiders) bots (spawn position <6862.968750, 6.934308, 3104.076660>, 2/3 deceased)
+00:50:42.609 [AI Object Patrol 00211] Global patrol count: 0
+00:50:58.671 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4258.475586, 332.481018, 5533.343750>) Left the safezone
+00:50:58.671 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4258.019043, 332.480957, 5532.851074>) Left the safezone
+00:50:58.671 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4259.070801, 332.417969, 5532.793945>) Left the safezone
+00:52:47.476 [AI Object Patrol 00165] Spawning 1 WaterPump_Tier0 (Raiders) bots at <3360.522217, 183.927322, 3903.574707>
+00:52:47.484 [AI Object Patrol 00165] Global patrol count: 1
+00:53:39.046 [AI Object Patrol 00220] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <3365.803711, 186.965851, 3947.001953>
+00:53:39.062 [AI Object Patrol 00220] Global patrol count: 2
+00:53:39.429 [AI Object Patrol 00221] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <3357.266357, 186.965851, 3943.409668>
+00:53:39.453 [AI Object Patrol 00221] Global patrol count: 3
+00:53:39.929 [AI Object Patrol 00219] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <3350.043945, 186.725662, 3950.774902>
+00:53:39.945 [AI Object Patrol 00219] Global patrol count: 4
+00:54:04.546 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3637.058594, 198.401566, 3881.418213>)
+00:54:05.406 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3637.054932, 198.401428, 3881.418213>)
+00:54:05.578 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3637.054932, 198.401428, 3881.418213>)
+00:54:29.812 [AI Object Patrol 00213] Spawning 2 Mercenaries bots at <2745.151855, 139.162811, 3290.537842>
+00:54:29.835 [AI Object Patrol 00213] Global patrol count: 5
+00:55:25.296 [Killfeed] AI Gabi (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 23 м расстояние.
+00:55:26.476 [AI Object Patrol 00219] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <3350.043945, 186.725662, 3950.774902>, 1/1 deceased)
+00:55:26.476 [AI Object Patrol 00219] Global patrol count: 4
+00:55:50.914 [Killfeed] AI Guo (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 27 м расстояние.
+00:55:51.656 [AI Object Patrol 00220] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <3365.803711, 186.965851, 3947.001953>, 1/1 deceased)
+00:55:51.656 [AI Object Patrol 00220] Global patrol count: 3
+00:55:53.359 [Killfeed] AI Judy (QuestEnemyTier2) был убит [Knigh] acey с КА-74 из 27 м расстояние.
+00:55:56.320 [AI Object Patrol 00221] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <3357.266357, 186.965851, 3943.409668>, 1/1 deceased)
+00:55:56.320 [AI Object Patrol 00221] Global patrol count: 2
+00:56:28.671 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:56:28.671 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:56:28.679 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+00:56:29.171 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:56:29.171 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:56:29.171 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+00:56:38.679 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:56:38.679 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:56:38.687 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+00:56:39.179 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:56:39.179 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:56:39.179 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+00:56:42.140 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:56:42.140 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:56:42.148 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+00:57:12.195 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:57:12.195 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:57:12.203 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+00:57:12.695 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:57:12.695 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:57:12.695 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+00:57:24.125 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:57:24.125 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:57:24.125 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+00:58:08.382 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:58:08.382 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+00:58:08.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+00:59:34.804 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:59:34.804 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+00:59:34.812 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+00:59:34.882 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:59:34.882 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:59:34.890 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+00:59:36.148 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:59:36.148 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+00:59:36.148 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+01:01:22.179 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3637.042969, 198.401093, 3881.418213>) as driver
+01:01:27.914 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3636.993896, 198.399796, 3881.418213>) as passenger
+01:01:33.539 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3636.945557, 198.398407, 3881.418213>)
+01:01:34.617 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3636.935547, 198.398071, 3881.418213>) as passenger
+01:05:09.687 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4097.556641, 353.956085, 5683.748535>) Entered the safezone
+01:05:09.687 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4098.018555, 353.950531, 5684.236328>) Entered the safezone
+01:05:09.687 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4096.969238, 354.047852, 5684.302734>) Entered the safezone
+01:05:51.882 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.264404, 402.039307, 5996.240723>)
+01:05:55.320 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.262939, 402.043091, 5996.241211>)
+01:05:58.679 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.263428, 402.043549, 5996.241699>) as driver
+01:06:02.351 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.263672, 402.043549, 5996.241699>)
+01:06:08.734 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.266113, 402.043610, 5996.241699>)
+01:06:17.304 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+01:06:17.304 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+01:06:17.312 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+01:06:17.312 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+01:06:17.312 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+01:06:17.320 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+01:06:17.335 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+01:06:17.335 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=901
+01:06:17.343 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=2101
+01:06:17.351 [Expansion Quests] Player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= has completed quest with ID=2101
+01:06:17.351 [AI Object Patrol 00219] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <3350.812988, 184.592148, 3930.679199>, 1/1 deceased)
+01:06:17.351 [AI Object Patrol 00220] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <3349.940186, 186.728317, 3951.943604>, 1/1 deceased)
+01:06:17.351 [AI Object Patrol 00221] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <3372.208252, 186.430130, 3934.870117>, 1/1 deceased)
+01:06:23.890 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+01:06:23.890 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+01:06:23.890 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+01:06:23.890 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+01:06:23.890 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+01:06:23.906 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+01:06:23.914 [Expansion Quests] Added new objective data for type=TRAVEL | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+01:06:23.914 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=901
+01:06:23.921 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=2101
+01:06:23.921 [Expansion Quests] Player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= has completed quest with ID=2101
+01:06:26.078 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+01:06:26.078 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+01:06:26.078 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+01:06:26.078 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+01:06:26.078 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+01:06:26.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+01:06:26.101 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+01:06:26.101 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=901
+01:06:26.109 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=2101
+01:06:26.109 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=2101
+01:06:52.750 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought handsaw x1 (59a7a6b0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 414.
+01:06:55.765 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought hatchet x1 (59a7e080) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 200.
+01:07:01.359 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought hammer x1 (59a7b240) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 340.
+01:07:56.132 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought pickaxe x1 (3bc5b0c0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 220.
+01:08:23.054 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox x1 (9901e330) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 80.
+01:08:36.968 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought expansionsafelarge x1 (47eefc60) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 8002.
+01:08:58.648 [Market] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) has bought electronicrepairkit x1 (30b71360) from the trader "Components (Indar [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 1470.
+01:11:34.093 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought pot x1 (2e692690) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 25.
+01:11:58.687 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought fryingpan x1 (30592410) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 110.
+01:12:04.437 [AI Object Patrol 00213] Despawning 2 Mercenaries bots (spawn position <2745.151855, 139.162811, 3290.537842>, 0/2 deceased)
+01:12:04.437 [AI Object Patrol 00213] Global patrol count: 1
+01:12:08.835 [AI Object Patrol 00165] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <3360.522217, 183.927322, 3903.574707>, 0/1 deceased)
+01:12:08.835 [AI Object Patrol 00165] Global patrol count: 0
+01:12:47.984 [AI Patrol 00152] Spawning 2 Rogovo_Tier2 (Raiders) bots at <4807.785645, 265.883453, 6715.189453>
+01:12:48.007 [AI Patrol 00152] Global patrol count: 1
+01:12:57.054 [AI Object Patrol 00172] Spawning 1 WaterPump_Tier0 (Raiders) bots at <4786.060547, 270.888794, 6840.530273>
+01:12:57.062 [AI Object Patrol 00172] Global patrol count: 2
+01:13:32.140 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4077.270996, 327.559875, 6432.614746>) Left the safezone
+01:13:32.140 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4082.053711, 327.265808, 6430.264160>) Left the safezone
+01:13:55.875 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4028.552246, 334.952728, 6400.234375>) Entered the safezone
+01:14:24.773 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4072.135254, 333.386047, 6365.187500>) Entered the safezone
+01:15:29.718 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought handcuffs x1 (3be830c0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 50.
+01:17:38.429 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.266602, 402.043579, 5996.241699>) as driver
+01:17:54.296 [VehicleEnter] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.270996, 402.043549, 5996.241699>) as passenger
+01:18:17.570 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.278076, 402.043640, 5996.241699>) as passenger
+01:18:19.593 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.278320, 402.043549, 5996.242188>)
+01:18:50.757 [AI Object Patrol 00226] Spawning 2 OilStation_Tier2RR (Raiders) bots at <4718.800781, 279.895966, 6406.639160>
+01:18:50.773 [AI Object Patrol 00226] Global patrol count: 3
+01:19:18.382 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<4273.654297, 331.511047, 5519.502441>) Left the safezone
+01:19:18.382 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4274.270020, 331.460052, 5518.973145>) Left the safezone
+01:19:18.382 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4273.215332, 331.502380, 5518.993652>) Left the safezone
+01:21:07.953 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.261963, 230.226608, 4750.713379>)
+01:21:08.078 [VehicleEngine] Player "Survivor" [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.262207, 230.226608, 4750.713379>)
+01:21:10.648 [VehicleLeave] Player Survivor (2) [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.262451, 230.226578, 4750.713379>)
+01:21:14.218 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.261475, 230.226593, 4750.713867>)
+01:22:42.156 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.262207, 230.226578, 4750.713867>) as driver
+01:22:48.062 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.261963, 230.226639, 4750.714844>)
+01:24:32.335 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4104.823730, 352.610809, 5676.522461>) Entered the safezone
+01:25:10.546 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.049805, 402.043610, 5995.267090>)
+01:25:21.281 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought shovel x1 (4116d790) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 212.
+01:25:24.492 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought pliers x1 (4116cc00) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 180.
+01:25:40.546 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought metalwire x1 (49aa0ea0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 15.
+01:25:42.257 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought barbedwire x1 (37492190) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 450.
+01:25:49.398 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought expansion_flag_russia x1 (474c9b50) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 15.
+01:26:59.554 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought rope x1 (398b7c50) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 4.
+01:27:00.210 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought rope x1 (398b4e10) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 4.
+01:27:01.445 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought rope x1 (304667d0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 4.
+01:27:03.812 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought nailbox x1 (3044ea40) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 300.
+01:27:04.398 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought nailbox x1 (3044f5d0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 300.
+01:27:45.851 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.050293, 402.043579, 5995.267090>) as driver
+01:27:50.203 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3708.052490, 402.043579, 5995.267090>)
+01:28:39.617 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4272.650391, 331.535431, 5520.130859>) Left the safezone
+01:29:24.437 [AI Object Patrol 00226] Despawning 2 OilStation_Tier2RR (Raiders) bots (spawn position <4718.800781, 279.895966, 6406.639160>, 0/2 deceased)
+01:29:24.437 [AI Object Patrol 00226] Global patrol count: 2
+01:29:49.539 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] stopped vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3976.532227, 229.909882, 4739.661133>)
+01:29:52.976 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3976.531250, 229.909912, 4739.661133>)
+01:32:22.007 [MissionAirdrop] An airdrop is heading towards "Myshkinko" (pos=<2036.000000, 0.000000, 7491.000000> type=Random_Myshkinko) with a ExpansionAirdropContainer_Medical
+01:32:47.187 [AI Object Patrol 00172] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <4786.060547, 270.888794, 6840.530273>, 0/1 deceased)
+01:32:47.187 [AI Object Patrol 00172] Global patrol count: 1
+01:47:52.882 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3976.531250, 229.910019, 4739.661133>) as driver
+01:47:58.304 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3976.531006, 229.910065, 4739.661133>)
+01:48:22.054 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3985.131348, 230.032944, 4772.047852>)
+01:51:10.335 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3985.132813, 230.032928, 4772.047852>) as driver
+01:51:12.867 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3985.134277, 230.032852, 4772.048340>)
+01:52:45.500 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4089.497803, 355.268036, 5689.780273>) Entered the safezone
+01:53:21.703 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3707.956055, 402.043549, 5995.862793>)
+01:53:40.570 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought nailbox x1 (3cdd8ef0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 300.
+01:53:41.257 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought nailbox x1 (3cddb1a0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 300.
+01:53:41.882 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought nailbox x1 (3cde3c60) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 300.
+01:53:42.570 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought nailbox x1 (3cde19b0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 300.
+01:54:06.156 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (3f824360) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 50.
+01:54:06.500 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (253548f0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 50.
+01:54:06.929 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (42abae10) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 50.
+01:54:07.359 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (3f6a5c20) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 50.
+01:54:07.992 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (45dcd260) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 51.
+01:54:09.125 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (30134ef0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 51.
+01:54:09.382 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (1ebd6fe0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 51.
+01:54:09.539 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (497af440) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 51.
+01:54:09.695 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (30135a80) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 51.
+01:54:09.828 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (1ebcab50) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 52.
+01:54:09.976 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (499587f0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 52.
+01:54:10.101 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (4afd58e0) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 52.
+01:54:10.382 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (42f84b60) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 53.
+01:54:10.546 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (24d6ce20) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 53.
+01:54:10.664 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x1 (4afbad10) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 54.
+01:55:24.054 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x30 (49795400) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 2606.
+01:55:39.656 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3707.956787, 402.043579, 5995.862793>) as driver
+01:55:42.218 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3707.958252, 402.043579, 5995.862793>)
+01:55:51.421 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3703.275879, 402.043579, 5979.122559>)
+01:56:34.140 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought woodenplank x30 (3eed8a90) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 14289.
+01:58:02.281 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought mediumtent x1 (35907320) from the trader "BuildingSupplies (Niki [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 6000.
+01:58:14.460 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3703.275879, 402.043579, 5979.122559>) as driver
+01:58:17.187 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3703.275879, 402.043610, 5979.123535>)
+01:59:11.031 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<4282.277344, 331.061584, 5512.953613>) Left the safezone
+02:00:22.414 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] stopped vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.045166, 230.226532, 4749.708008>)
+02:00:25.750 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.045166, 230.226608, 4749.708496>)
+02:06:30.085 [AI Patrol 00152] Despawning 2 Rogovo_Tier2 (Raiders) bots (spawn position <4807.785645, 265.883453, 6715.189453>, 0/2 deceased)
+02:06:30.085 [AI Patrol 00152] Global patrol count: 0
+02:11:16.601 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+02:11:16.601 [BaseBuildingRaiding] Player "acey" (ID zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) at <3969.98, 230.04, 4732.72> damaged Fence at <3969.23, 230.04, 4732.37>
+02:11:16.601 [BaseBuildingRaiding] They dealt 6.5 * 1 = 6.5 damage with MeleeFist from SurvivorM_Peter
+02:11:16.601 [BaseBuildingRaiding] Wall_Wood_Up hitpoints decreased from 16000 to 15993.5
+02:11:16.601 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+02:14:43.539 [ExplosionDamageSystem] About to explode FlashGrenade_Ammo from FlashGrenade<8b419ac0> at <3977.62, 229.3, 4717.49> EXPLOSION range 20 dropoff 5
+02:14:43.546 [BaseBuildingRaiding] BaseRaiding: Fence<30b9a0a0> at <3974.919434, 229.381790, 4717.067871> has been hit by explosive FlashGrenade<8b419ac0>
+02:28:54.046 [Killfeed] [Knigh] acey умер от потери крови.
+02:29:04.414 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:29:04.437 [AI Patrol 00087] Spawning 1 Chernogorsk_Tier1 (Raiders) bots at <7391.252930, 16.503000, 2855.960205>
+02:29:04.453 [AI Patrol 00087] Global patrol count: 1
+02:29:05.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+02:29:09.445 [SpawnSelection] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) spawned at <13484.724609, 1.746646, 5911.094727>
+02:29:09.453 [AI Object Patrol 00059] Spawning 3 OilStation_Tier2RR (Raiders) bots at <13355.827148, 5.377937, 6613.485352>
+02:29:09.468 [AI Object Patrol 00059] Global patrol count: 2
+02:29:50.632 [Killfeed] [Knigh] Survivor был убит [Knigh] acey с M16A4 из 3 м расстояние.
+02:29:56.554 [Killfeed] [Knigh] Survivor (2) был убит [Knigh] acey с M16A4 из 15 м расстояние.
+02:29:59.414 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:30:00.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+02:30:04.531 [SpawnSelection] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <14407.299805, 2.000000, 13253.000000>
+02:30:04.562 [AI Object Patrol 00045] Spawning 1 PoliceStation_Tier2 (Raiders) bots at <13827.363281, 20.679157, 13217.273438>
+02:30:04.585 [AI Object Patrol 00045] Global patrol count: 3
+02:30:04.585 [AI Object Patrol 00046] Spawning 1 WaterPump_Tier0 (Raiders) bots at <13787.477539, 20.059999, 13312.786133>
+02:30:04.593 [AI Object Patrol 00046] Global patrol count: 4
+02:30:04.593 [AI Patrol 00074] Spawning 2 Svetloyarsk_Tier1 (Raiders) bots at <14036.760742, 3.277044, 13437.770508>
+02:30:04.609 [AI Patrol 00074] Global patrol count: 5
+02:30:09.257 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:30:10.250 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+02:30:15.023 [SpawnSelection] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) spawned at <13383.000000, 2.755160, 6815.890137>
+02:30:15.054 [AI Object Patrol 00022] Spawning 1 WaterPump_Tier0 (Raiders) bots at <13393.464844, 5.918359, 6257.252930>
+02:30:15.070 [AI Object Patrol 00022] Global patrol count: 6
+02:30:38.296 [Killfeed] [Knigh] acey был убит.
+02:30:40.437 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) joinded the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:30:41.421 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+02:30:44.695 [SpawnSelection] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) spawned at <3366.985352, 1.902521, 2002.414063>
+02:30:44.726 [AI Object Patrol 00004] Spawning 1 WaterPump_Tier0 (Raiders) bots at <3669.793701, 6.941331, 2459.001953>
+02:30:44.734 [AI Object Patrol 00004] Global patrol count: 7
+02:30:44.734 [AI Object Patrol 00003] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <3555.991699, 6.098879, 2427.840576>
+02:30:44.757 [AI Object Patrol 00003] Global patrol count: 8
+02:31:15.453 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<55d14b20> at <3985.44, 229.24, 4720.58> EXPLOSION range 20 dropoff 5
+02:31:15.453 [BaseBuildingRaiding] BaseRaiding: Fence<30b9a0a0> at <3974.919434, 229.381790, 4717.067871> has been hit by explosive M67Grenade<55d14b20>
+02:31:15.460 [BaseBuildingRaiding] BaseRaiding: Fence<2e6b5170> at <3972.557373, 229.600342, 4720.515137> has been hit by explosive M67Grenade<55d14b20>
+02:31:15.460 [BaseBuildingRaiding] BaseRaiding: Fence<3590af70> at <3970.780762, 229.776978, 4724.253906> has been hit by explosive M67Grenade<55d14b20>
+02:31:15.460 [BaseBuildingRaiding] BaseRaiding: Fence<35905b00> at <3969.858154, 229.888336, 4728.266602> has been hit by explosive M67Grenade<55d14b20>
+02:36:55.195 [Killfeed] AI Naomi (WaterPump_Tier0) был убит AI Keiko (Svetloyarsk_Tier1) с БК-43 из 2 м расстояние.
+02:36:55.437 [AI Object Patrol 00046] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <13787.477539, 20.059999, 13312.786133>, 1/1 deceased)
+02:36:55.437 [AI Object Patrol 00046] Global patrol count: 7
+02:39:05.242 [AI Patrol 00087] Despawning 1 Chernogorsk_Tier1 (Raiders) bots (spawn position <7391.252930, 16.503000, 2855.960205>, 0/1 deceased)
+02:39:05.242 [AI Patrol 00087] Global patrol count: 6
+02:39:30.593 [AI Object Patrol 00059] Despawning 3 OilStation_Tier2RR (Raiders) bots (spawn position <13355.827148, 5.377937, 6613.485352>, 0/3 deceased)
+02:39:30.593 [AI Object Patrol 00059] Global patrol count: 5
+02:40:10.437 [AI Object Patrol 00045] Despawning 1 PoliceStation_Tier2 (Raiders) bots (spawn position <13827.363281, 20.679157, 13217.273438>, 0/1 deceased)
+02:40:10.445 [AI Object Patrol 00045] Global patrol count: 4
+02:40:10.507 [AI Patrol 00074] Despawning 2 Svetloyarsk_Tier1 (Raiders) bots (spawn position <14036.760742, 3.277044, 13437.770508>, 0/2 deceased)
+02:40:10.507 [AI Patrol 00074] Global patrol count: 3
+02:40:24.992 [AI Object Patrol 00022] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <13393.464844, 5.918359, 6257.252930>, 0/1 deceased)
+02:40:24.992 [AI Object Patrol 00022] Global patrol count: 2
+02:40:55.289 [AI Object Patrol 00003] Despawning 2 PoliceStation_Tier1 (Raiders) bots (spawn position <3555.991699, 6.098879, 2427.840576>, 0/2 deceased)
+02:40:55.289 [AI Object Patrol 00003] Global patrol count: 1
+02:40:55.289 [AI Object Patrol 00004] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <3669.793701, 6.941331, 2459.001953>, 0/1 deceased)
+02:40:55.289 [AI Object Patrol 00004] Global patrol count: 0
+02:56:20.953 [VehicleEnter] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] entered vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.045166, 230.226563, 4749.708984>) as driver
+02:56:22.562 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3970.044678, 230.226563, 4749.708984>)
+02:56:33.406 [VehicleLeave] Player acey [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] left vehicle Gunter 2 (id=D8779D4FE8475A234507A9A7CFBEFA23 pos=<3975.036377, 229.920456, 4741.659180>)
+02:59:08.984 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:59:11.703 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:59:16.757 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left the party "Knight Fallen" (id=1 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Survivor)
+02:59:16.757 [Expansion Quests] Deleted quest with ID=61201 is a of player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=.
+03:02:05.546 [MissionAirdrop] An airdrop is heading towards "Novodmitrovsk" (pos=<11125.000000, 0.000000, 14040.000000> type=Random_Novodmitrovsk) with a ExpansionAirdropContainer_Basebuilding

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в больницу Северограда",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    8015,
+					115,
+					12764
+    ],
+    "MaxDistance": 100.0,
+    "MarkerName": "ЦБ Североград",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5201,
+    "Type": 1,
+    "Title": "Охота за головами: Желтый Король [Часть 1]",
+    "Descriptions": [
+        "Вот еще один заказик. На этот раз все по взрослому. Выследи и убей одного из ледеров банды байкеров и получишь достойное вознаграждение.",
+		"Желтый Король - один из самых отбитых местных бандитов. Жестокий наркоман, является одним из лидеров банды байкеров. Да да, тех самых, которых нередко можно встретить у бензоколонок. У Короля давно не все дома, именно поэтому на него и повесили заказ. Говорят, заказ дал другой лидер байкеров, но нам это не интересно. Важно, что дело ты будешь иметь с жестокими людьми. Будь осторожнее, дейсвтуй умнее.",
+		"Отличная работа. Тут информация про его мастерскую. Там они разбирают старые машины. Найди её и уничтожь, заставим Короля сделать ошибку, выманим его из логова."
+
+    ],
+    "ObjectiveText": "Добудьте информацию о целе",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q5201",
+    "QuestItems": [],
+    "Rewards": [
+		 {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 5400,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":1201,
+            "ObjectiveType":3 
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1301,
+            "ObjectiveType":6 
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [5102],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

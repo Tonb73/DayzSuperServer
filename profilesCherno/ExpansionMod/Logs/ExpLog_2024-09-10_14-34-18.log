@@ -1,0 +1,16 @@
+14:37:30.457 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:37:30.457 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:37:30.457 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:37:30.457 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:37:30.468 [AI Patrol] Spawning 3 Raiders bots at <4592.705566, 338.287170, 10955.325195>
+14:39:34.996 [AI Object Patrol] Spawning 2 FireStationScavs bots at <6262.113281, 8.619924, 2721.123047>
+14:40:50.953 [AI Object Patrol] Spawning 2 HotelScavs bots at <6564.206543, 28.290960, 2326.977295>
+14:40:52.839 [Killfeed] AI Linda (HotelScavs) умер разбился с высоты.
+14:40:53.355 [Killfeed] AI Baty (HotelScavs) умер разбился с высоты.
+14:40:57.894 [AI Object Patrol] HotelScavs bots were wiped out (spawn position <6564.206543, 28.290960, 2326.977295>, 2/2 deceased)
+14:41:22.019 [MissionAirdrop] An airdrop is heading towards "NEAF" (pos=<12159.000000, 0.000000, 12583.000000> type=Random_NEAF) with a ExpansionAirdropContainer_Basebuilding
+14:42:22.257 [AI Object Patrol] Spawning 1 PoliceStationScavs bots at <6633.093262, 13.969685, 2586.646240>
+14:49:33.007 [AI Patrol] Despawning 3 Raiders bots (spawn position <4592.705566, 338.287170, 10955.325195>, 0/3 deceased)
+14:53:52.238 [AI Object Patrol] Despawning 2 FireStationScavs bots (spawn position <6262.113281, 8.619924, 2721.123047>, 0/2 deceased)
+14:53:53.898 [AI Object Patrol] Despawning 1 PoliceStationScavs bots (spawn position <6633.093262, 13.969685, 2586.646240>, 0/1 deceased)
+15:03:01.375 [AI Object Patrol] Spawning 2 PoliceStationScavs bots at <12064.523438, 60.467731, 9063.741211>

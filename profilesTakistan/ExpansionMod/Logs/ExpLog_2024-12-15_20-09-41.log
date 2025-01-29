@@ -1,0 +1,444 @@
+20:09:55.828 [Expansion Quests] Added objects set for quest ID=61001 from file=q61001
+20:09:55.835 [Expansion Quests] Added objects set for quest ID=6501 from file=q6501
+20:09:55.835 [Expansion Quests] Added objects set for quest ID=61501 from file=q61501
+20:09:55.835 [Expansion Quests] Added objects set for quest ID=6601 from file=q6601
+20:09:55.835 [Expansion Quests] Added objects set for quest ID=61502 from file=q61502
+20:10:58.406 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+20:10:58.406 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Loaded existing group quest data for group with ID=1
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=61101 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.468 [Expansion Quests] Sending player quest data for 7 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+20:10:58.484 [AI Object Patrol 00042] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10750.975586, 53.457405, 14351.757813>
+20:10:58.500 [AI Object Patrol 00042] Global patrol count: 1
+20:10:59.382 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+20:11:10.023 [AI Object Patrol 00041] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11078.039063, 226.636154, 12483.193359>
+20:11:10.046 [AI Object Patrol 00041] Global patrol count: 2
+20:11:10.046 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10988.410156, 226.469421, 12424.710938>
+20:11:10.054 [AI Object Patrol 00038] Global patrol count: 3
+20:11:10.054 [AI Patrol 00071] Spawning 1 Krasnostav_Trader (InvincibleObservers) bots at <11833.322266, 140.099167, 12437.435547>
+20:11:10.070 [AI Patrol 00071] Global patrol count: 4
+20:11:10.070 [AI Patrol 00076] Spawning 2 Krasnostav_Tier1 (Raiders) bots at <11160.202148, 198.061615, 12274.491211>
+20:11:10.093 [AI Patrol 00076] Global patrol count: 5
+20:11:10.093 [AI Patrol 00072] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11783.377930, 140.812302, 12469.258789>
+20:11:10.117 [AI Patrol 00072] Global patrol count: 6
+20:11:10.117 [AI Patrol 00070] Spawning 1 Krasnostav_Trader (InvincibleObservers) bots at <11867.757813, 140.134796, 12436.834961>
+20:11:10.179 [AI Patrol 00070] Global patrol count: 7
+20:11:10.179 [AI Patrol 00069] Spawning 2 Krasnostav_Trader (Guards) bots at <11939.663086, 141.923203, 12395.453125>
+20:11:10.218 [AI Patrol 00069] Global patrol count: 8
+20:11:10.906 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11898.860352, 140.000000, 12479.581055>) Entered the safezone
+20:11:28.921 [Expansion Quests] Spawned objects from set for quest ID=61501 from file=$mission:expansion\quests\\objects\q61501.map
+20:11:28.929 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:11:28.929 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1001
+20:11:28.929 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61501
+20:11:28.929 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=61501
+20:11:29.367 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:11:29.367 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1001
+20:11:29.367 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61501
+20:11:36.617 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:11:36.617 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1001
+20:11:36.617 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61501
+20:11:36.648 [AI Object Patrol 00172] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <11408.506836, 78.377914, 14587.590820>
+20:11:36.679 [AI Object Patrol 00172] Global patrol count: 9
+20:11:36.679 [AI Object Patrol 00174] Spawning 1 QuestEnemyTier3 (Mercenaries) bots at <11404.387695, 81.533997, 14607.000977>
+20:11:36.695 [AI Object Patrol 00174] Global patrol count: 10
+20:11:36.695 [AI Object Patrol 00173] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <11422.189453, 78.379616, 14589.984375>
+20:11:36.718 [AI Object Patrol 00173] Global patrol count: 11
+20:11:36.718 [AI Object Patrol 00171] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <11429.005859, 78.571747, 14600.346680>
+20:11:36.750 [AI Object Patrol 00171] Global patrol count: 12
+20:11:48.609 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11423.596680, 78.431831, 14589.556641>) Left the safezone
+20:11:51.703 [Killfeed] AI Maria (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 3 м расстояние.
+20:11:54.062 [Killfeed] AI Rolf (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 14 м расстояние.
+20:11:54.687 [AI Object Patrol 00173] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <11422.189453, 78.379616, 14589.984375>, 1/1 deceased)
+20:11:54.687 [AI Object Patrol 00173] Global patrol count: 11
+20:11:58.421 [Killfeed] AI Helga (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 3 м расстояние.
+20:11:58.921 [AI Object Patrol 00172] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <11408.506836, 78.377914, 14587.590820>, 1/1 deceased)
+20:11:58.921 [AI Object Patrol 00172] Global patrol count: 10
+20:11:59.796 [AI Object Patrol 00171] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <11429.005859, 78.571747, 14600.346680>, 1/1 deceased)
+20:11:59.796 [AI Object Patrol 00171] Global patrol count: 9
+20:12:14.890 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:12:14.890 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1001
+20:12:14.890 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61501
+20:12:18.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:12:18.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1001
+20:12:18.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61501
+20:12:21.054 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:12:21.054 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1001
+20:12:21.054 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61501
+20:12:21.054 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=61501
+20:12:21.062 [AI Object Patrol 00171] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <11430.146484, 78.305504, 14590.073242>, 1/1 deceased)
+20:12:21.062 [AI Object Patrol 00172] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <11408.506836, 78.377914, 14587.590820>, 1/1 deceased)
+20:12:21.062 [AI Object Patrol 00173] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <11417.374023, 78.541313, 14591.458984>, 1/1 deceased)
+20:12:21.062 [AI Object Patrol 00174] Despawning 1 QuestEnemyTier3 (Mercenaries) bots (spawn position <11404.387695, 81.533997, 14607.000977>, 0/1 deceased)
+20:12:21.062 [AI Object Patrol 00174] Global patrol count: 8
+20:12:25.078 [Expansion Quests] Spawned objects from set for quest ID=61502 from file=$mission:expansion\quests\\objects\q61502.map
+20:12:25.078 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:12:25.078 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61502
+20:12:25.078 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=61502
+20:12:25.578 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+20:12:25.578 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61502
+20:12:25.726 [AI Object Patrol 00191] Spawning 1 QuestEnemyTier4Rus (Mercenaries) bots at <11362.242188, 88.580002, 14633.340820>
+20:12:25.750 [AI Object Patrol 00191] Global patrol count: 9
+20:12:26.078 [AI Object Patrol 00190] Spawning 1 QuestEnemyTier4Rus (Mercenaries) bots at <11370.343750, 76.517403, 14570.580078>
+20:12:26.109 [AI Object Patrol 00190] Global patrol count: 10
+20:14:02.671 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61502
+20:14:02.671 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has cancelled quest with ID=61502. State=CAN_TURNIN
+20:14:02.671 [AI Object Patrol 00190] Despawning 1 QuestEnemyTier4Rus (Mercenaries) bots (spawn position <11370.343750, 76.517403, 14570.580078>, 0/1 deceased)
+20:14:02.671 [AI Object Patrol 00190] Global patrol count: 9
+20:14:02.671 [AI Object Patrol 00191] Despawning 1 QuestEnemyTier4Rus (Mercenaries) bots (spawn position <11362.242188, 88.580002, 14633.340820>, 0/1 deceased)
+20:14:02.671 [AI Object Patrol 00191] Global patrol count: 8
+20:14:29.101 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11888.120117, 140.000000, 12470.190430>) Entered the safezone
+20:15:30.414 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Military
+20:20:30.437 [VehicleDeleted] Offroad_02 (id=57B424E53C4B013F2B408F90FB3DD29B pos=<4176.377441, 338.710480, 10725.802734>)
+20:22:01.445 [AI Object Patrol 00038] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <10988.410156, 226.469421, 12424.710938>, 0/1 deceased)
+20:22:01.445 [AI Object Patrol 00038] Global patrol count: 7
+20:23:10.765 [AI Patrol 00076] Despawning 2 Krasnostav_Tier1 (Raiders) bots (spawn position <11160.202148, 198.061615, 12274.491211>, 0/2 deceased)
+20:23:10.765 [AI Patrol 00076] Global patrol count: 6
+20:23:11.031 [AI Object Patrol 00041] Despawning 2 PoliceStation_Tier1 (Raiders) bots (spawn position <11078.039063, 226.636154, 12483.193359>, 0/2 deceased)
+20:23:11.031 [AI Object Patrol 00041] Global patrol count: 5
+20:23:56.031 [AI Object Patrol 00042] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <10750.975586, 53.457405, 14351.757813>, 0/1 deceased)
+20:23:56.031 [AI Object Patrol 00042] Global patrol count: 4
+20:24:06.828 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+20:24:06.828 [Expansion Quests] Initialize quest system on the connected client with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Loaded existing player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+20:24:06.890 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Create new achievement/auto-start quest for quest ID=101 for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=101
+20:24:06.890 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=101
+20:24:06.890 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Sending z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= quest configs to client for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:06.890 [Expansion Quests] Sending player quest data for 1 quests to player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+20:24:07.312 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=101
+20:24:07.312 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=101
+20:24:07.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+20:24:47.101 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11059.810547, 92.052185, 6636.554688>) Left the safezone
+20:28:17.781 [AI Object Patrol 00020] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11196.350586, 76.155266, 6557.889648>
+20:28:17.796 [AI Object Patrol 00020] Global patrol count: 5
+20:28:22.492 [AI Object Patrol 00021] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11186.523438, 84.602615, 6597.997070>
+20:28:22.507 [AI Object Patrol 00021] Global patrol count: 6
+20:29:14.781 [AI Patrol 00111] Spawning 1 Polyana_Tier2 (Raiders) bots at <10598.675781, 207.156738, 7997.480469>
+20:29:14.796 [AI Patrol 00111] Global patrol count: 7
+20:29:16.468 [Killfeed] AI Mirek (WaterPump_Tier0) был убит AI Helga (PoliceStation_Tier1) при помощи.
+20:29:20.742 [AI Object Patrol 00020] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <11196.350586, 76.155266, 6557.889648>, 1/1 deceased)
+20:29:20.742 [AI Object Patrol 00020] Global patrol count: 6
+20:31:45.656 [AI Patrol 00071] Despawning 1 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11833.322266, 140.099167, 12437.435547>, 0/1 deceased)
+20:31:45.656 [AI Patrol 00071] Global patrol count: 5
+20:31:45.828 [AI Patrol 00072] Despawning 2 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11783.377930, 140.812302, 12469.258789>, 0/2 deceased)
+20:31:45.828 [AI Patrol 00072] Global patrol count: 4
+20:31:46.125 [AI Patrol 00070] Despawning 1 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11867.757813, 140.134796, 12436.834961>, 0/1 deceased)
+20:31:46.125 [AI Patrol 00070] Global patrol count: 3
+20:31:46.179 [AI Patrol 00069] Despawning 2 Krasnostav_Trader (Guards) bots (spawn position <11939.663086, 141.923203, 12395.453125>, 0/2 deceased)
+20:31:46.179 [AI Patrol 00069] Global patrol count: 2
+20:46:26.484 [AI Object Patrol 00021] Despawning 2 PoliceStation_Tier1 (Raiders) bots (spawn position <11186.523438, 84.602615, 6597.997070>, 0/2 deceased)
+20:46:26.484 [AI Object Patrol 00021] Global patrol count: 1
+20:53:11.226 [AI Patrol 00111] Despawning 1 Polyana_Tier2 (Raiders) bots (spawn position <10598.675781, 207.156738, 7997.480469>, 0/1 deceased)
+20:53:11.226 [AI Patrol 00111] Global patrol count: 0
+20:54:08.500 [AI Patrol 00112] Spawning 2 Gorka_Tier2 (Raiders) bots at <9714.028320, 298.992035, 8918.077148>
+20:54:08.515 [AI Patrol 00112] Global patrol count: 1
+20:54:31.367 [AI Patrol 00113] Spawning 1 Dubrovka_Tier2 (Raiders) bots at <10204.206055, 174.214584, 9515.142578>
+20:54:31.390 [AI Patrol 00113] Global patrol count: 2
+20:54:55.250 [AI Object Patrol 00029] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <9527.179688, 303.467499, 8815.928711>
+20:54:55.265 [AI Object Patrol 00029] Global patrol count: 3
+20:55:30.054 [AI Object Patrol 00030] Spawning 1 WaterPump_Tier0 (Raiders) bots at <9459.769531, 303.933472, 8815.149414>
+20:55:30.062 [AI Object Patrol 00030] Global patrol count: 4
+20:55:37.757 [AI Object Patrol 00185] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10426.898438, 118.532967, 9807.514648>
+20:55:37.773 [AI Object Patrol 00185] Global patrol count: 5
+20:57:04.257 [Killfeed] AI Linda (WaterPump_Tier0) умер от потери крови.
+20:57:05.796 [AI Object Patrol 00030] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <9459.769531, 303.933472, 8815.149414>, 1/1 deceased)
+20:57:05.796 [AI Object Patrol 00030] Global patrol count: 4
+21:02:31.929 [AI Object Patrol 00064] Spawning 1 WaterPump_Tier0 (Raiders) bots at <9973.538086, 153.867950, 10374.555664>
+21:02:31.945 [AI Object Patrol 00064] Global patrol count: 5
+21:02:37.875 [AI Object Patrol 00206] Spawning 2 OilStation_Tier2RR (Raiders) bots at <10444.203125, 223.080002, 8895.659180>
+21:02:37.890 [AI Object Patrol 00206] Global patrol count: 6
+21:05:02.289 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+21:05:02.289 [Expansion Quests] Deleted quest with ID=101 is a of player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=.
+21:06:46.859 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+21:06:46.859 [Expansion Quests] Initialize quest system on the connected client with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Loaded existing player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+21:06:46.890 [Expansion Quests] Check quest initialization for quest with ID=101 | State=STARTED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Create new quest instance for quest with ID=101 | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Sending z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= quest configs to client for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:46.890 [Expansion Quests] Sending player quest data for 1 quests to player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+21:06:47.335 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=101
+21:06:47.335 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=101
+21:06:47.835 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+21:08:05.531 [Killfeed] AI Keiko (PoliceStation_Tier1) был убит AI Taiki (Gorka_Tier2) при помощи.
+21:08:06.656 [AI Object Patrol 00029] PoliceStation_Tier1 (Raiders) bots were wiped out (spawn position <9527.179688, 303.467499, 8815.928711>, 1/1 deceased)
+21:08:06.656 [AI Object Patrol 00029] Global patrol count: 5
+21:12:06.429 [AI Patrol 00112] Despawning 2 Gorka_Tier2 (Raiders) bots (spawn position <9714.028320, 298.992035, 8918.077148>, 0/2 deceased)
+21:12:06.429 [AI Patrol 00112] Global patrol count: 4
+21:14:43.632 [AI Object Patrol 00210] Spawning 2 OilStation_Tier2RR (Raiders) bots at <10761.281250, 144.239685, 10772.066406>
+21:14:43.648 [AI Object Patrol 00210] Global patrol count: 5
+21:15:06.414 [AI Patrol 00113] Despawning 1 Dubrovka_Tier2 (Raiders) bots (spawn position <10204.206055, 174.214584, 9515.142578>, 0/1 deceased)
+21:15:06.414 [AI Patrol 00113] Global patrol count: 4
+21:17:56.046 [AI Object Patrol 00185] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <10426.898438, 118.532967, 9807.514648>, 0/1 deceased)
+21:17:56.046 [AI Object Patrol 00185] Global patrol count: 3
+21:18:37.851 [AI Object Patrol 00206] Despawning 2 OilStation_Tier2RR (Raiders) bots (spawn position <10444.203125, 223.080002, 8895.659180>, 0/2 deceased)
+21:18:37.851 [AI Object Patrol 00206] Global patrol count: 2
+21:20:12.039 [AI Object Patrol 00064] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <9973.538086, 153.867950, 10374.555664>, 0/1 deceased)
+21:20:12.039 [AI Object Patrol 00064] Global patrol count: 1
+21:27:16.593 [AI Object Patrol 00210] Despawning 2 OilStation_Tier2RR (Raiders) bots (spawn position <10761.281250, 144.239685, 10772.066406>, 0/2 deceased)
+21:27:16.593 [AI Object Patrol 00210] Global patrol count: 0
+21:27:59.593 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<11727.740234, 142.105881, 12529.468750>) Entered the safezone
+21:28:04.156 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11730.044922, 141.744537, 12517.834961>) Entered the safezone
+21:28:23.734 [AI Patrol 00075] Spawning 1 ChernayaPolyana_Tier1 (Raiders) bots at <12175.064453, 96.558662, 13513.455078>
+21:28:23.757 [AI Patrol 00075] Global patrol count: 1
+21:29:41.898 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold morphine x1 (42955cf0) at the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2250.
+21:29:46.195 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold painkillertablets x1 (b20b9070) at the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 754.
+21:30:17.671 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammobox_762x54_20rnd x1 (425a1520) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 975.
+21:30:32.171 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:32.664 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:32.921 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:33.406 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:33.648 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:33.843 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:33.992 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:34.187 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:34.304 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:34.484 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:34.648 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:34.835 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:34.984 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:35.179 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:35.453 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_380 x1 (4475f490) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2.
+21:30:41.703 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_556x45 x1 (b0646630) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 8.
+21:30:41.882 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_556x45 x1 (b0646630) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 8.
+21:30:42.085 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_556x45 x1 (b0646630) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 8.
+21:30:43.609 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_308wintracer x1 (4405e250) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 22.
+21:30:43.781 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_308wintracer x1 (4405e250) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 22.
+21:30:44.234 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ammo_308wintracer x1 (4405e250) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 22.
+21:31:22.742 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=101
+21:31:22.742 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=101
+21:31:22.750 [Expansion Quests] Player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= has completed quest with ID=101
+21:31:22.750 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=101
+21:31:41.679 [Market] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought gorkapants_summer x1 (3123b8d0) from the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 1260.
+21:32:59.914 [Expansion Quests] Spawned objects from set for quest ID=61001 from file=$mission:expansion\quests\\objects\q61001.map
+21:32:59.914 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:32:59.914 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:32:59.914 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:32:59.914 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:32:59.914 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=61001
+21:33:00.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:33:00.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:33:00.390 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:33:00.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:33:06.812 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:33:06.812 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:33:06.812 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:33:06.812 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:33:06.812 [Expansion Quests] Created new quest instance with instance key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= for quest with ID=61001
+21:33:07.312 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:33:07.312 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:33:07.312 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:33:07.312 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:33:14.070 [AI Object Patrol 00045] Spawning 1 WaterPump_Tier0 (Raiders) bots at <13804.960938, 20.059999, 13311.228516>
+21:33:14.078 [AI Object Patrol 00045] Global patrol count: 2
+21:33:14.078 [AI Object Patrol 00044] Spawning 2 PoliceStation_Tier2 (Raiders) bots at <13847.106445, 20.651569, 13233.647461>
+21:33:14.093 [AI Object Patrol 00044] Global patrol count: 3
+21:33:14.093 [AI Patrol 00073] Spawning 1 Svetloyarsk_Tier1 (Raiders) bots at <13941.825195, 3.955394, 13415.855469>
+21:33:14.117 [AI Patrol 00073] Global patrol count: 4
+21:33:14.117 [AI Object Patrol 00197] Spawning 1 WaterPump_Tier0 (Raiders) bots at <13505.106445, 17.411530, 14037.995117>
+21:33:14.125 [AI Object Patrol 00197] Global patrol count: 5
+21:33:14.125 [AI Object Patrol 00221] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15084.898438, 15.146793, 13847.564453>
+21:33:14.140 [AI Object Patrol 00221] Global patrol count: 6
+21:33:24.835 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<14462.332031, 94.009819, 13964.614258>) Left the safezone
+21:33:33.289 [Safezone] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<14456.843750, 94.018814, 13962.625977>) Left the safezone
+21:33:43.140 [AI Object Patrol 00215] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15123.098633, 10.713102, 13854.936523>
+21:33:43.164 [AI Object Patrol 00215] Global patrol count: 7
+21:33:44.296 [AI Object Patrol 00217] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15125.789063, 9.949903, 13833.010742>
+21:33:44.328 [AI Object Patrol 00217] Global patrol count: 8
+21:33:54.406 [AI Object Patrol 00216] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15177.744141, 4.565116, 13816.634766>
+21:33:54.421 [AI Object Patrol 00216] Global patrol count: 9
+21:33:55.804 [AI Object Patrol 00218] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15190.233398, 4.613638, 13831.498047>
+21:33:55.820 [AI Object Patrol 00218] Global patrol count: 10
+21:33:59.804 [AI Object Patrol 00219] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15197.695313, 3.641458, 13764.529297>
+21:33:59.812 [AI Object Patrol 00219] Global patrol count: 11
+21:34:01.734 [AI Object Patrol 00220] Spawning 1 QuestEnemyTier3 (Mercenaries) bots at <15213.736328, 1.699226, 13772.653320>
+21:34:01.757 [AI Object Patrol 00220] Global patrol count: 12
+21:34:42.507 [Killfeed] AI Baty (WaterPump_Tier0) был убит AI Helga (PoliceStation_Tier2) с Обрез Мосин 91/30 из 2 м расстояние.
+21:34:46.156 [AI Object Patrol 00045] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <13804.960938, 20.059999, 13311.228516>, 1/1 deceased)
+21:34:46.156 [AI Object Patrol 00045] Global patrol count: 11
+21:35:19.101 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:35:19.101 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:35:19.101 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:35:19.101 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:35:19.375 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:35:19.375 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:35:19.375 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:35:19.375 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:36:23.195 [Killfeed] AI Francis (QuestEnemyTier2) был убит [Falco] Survivor с Карабин c магазином из 129 м расстояние.
+21:36:25.062 [AI Object Patrol 00221] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15084.898438, 15.146793, 13847.564453>, 1/1 deceased)
+21:36:25.062 [AI Object Patrol 00221] Global patrol count: 10
+21:36:34.578 [Killfeed] AI Naomi (QuestEnemyTier3) был убит [Falco] Survivor (2) с CR-75 из 2 м расстояние.
+21:36:35.242 [AI Object Patrol 00220] QuestEnemyTier3 (Mercenaries) bots were wiped out (spawn position <15213.736328, 1.699226, 13772.653320>, 1/1 deceased)
+21:36:35.242 [AI Object Patrol 00220] Global patrol count: 9
+21:38:11.679 [Killfeed] AI Hassan (QuestEnemyTier2) был убит [Falco] Survivor (2) с CR-527 из 68 м расстояние.
+21:38:15.335 [AI Object Patrol 00217] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15125.789063, 9.949903, 13833.010742>, 1/1 deceased)
+21:38:15.335 [AI Object Patrol 00217] Global patrol count: 8
+21:38:20.242 [Killfeed] AI Gabi (QuestEnemyTier2) был убит [Falco] Survivor с Kolt 1911 с рисунком из 17 м расстояние.
+21:38:20.578 [AI Object Patrol 00218] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15190.233398, 4.613638, 13831.498047>, 1/1 deceased)
+21:38:20.578 [AI Object Patrol 00218] Global patrol count: 7
+21:38:43.695 [Killfeed] AI Frida (QuestEnemyTier2) был убит [Falco] Survivor (2) с CR-527 из 44 м расстояние.
+21:38:45.843 [AI Object Patrol 00216] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15177.744141, 4.565116, 13816.634766>, 1/1 deceased)
+21:38:45.843 [AI Object Patrol 00216] Global patrol count: 6
+21:39:10.875 [Killfeed] AI Manua (QuestEnemyTier2) умер от потери крови.
+21:39:14.976 [AI Object Patrol 00215] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15123.098633, 10.713102, 13854.936523>, 1/1 deceased)
+21:39:14.976 [AI Object Patrol 00215] Global patrol count: 5
+21:39:39.398 [Killfeed] AI Lewis (Svetloyarsk_Tier1) был убит AI Helga (PoliceStation_Tier2) при помощи.
+21:39:41.281 [AI Patrol 00073] Svetloyarsk_Tier1 (Raiders) bots were wiped out (spawn position <13941.825195, 3.955394, 13415.855469>, 1/1 deceased)
+21:39:41.281 [AI Patrol 00073] Global patrol count: 4
+21:39:42.765 [Killfeed] AI Judy (QuestEnemyTier2) был убит [Falco] Survivor (2) с CR-75 из 11 м расстояние.
+21:39:45.328 [AI Object Patrol 00219] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15197.695313, 3.641458, 13764.529297>, 1/1 deceased)
+21:39:45.328 [AI Object Patrol 00219] Global patrol count: 3
+21:40:14.140 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:40:14.140 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:40:14.148 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:40:14.148 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:40:26.742 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:40:26.742 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:40:26.742 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:40:26.742 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:40:26.742 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:40:26.742 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:40:26.742 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:40:26.750 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:40:27.250 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:40:27.250 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:40:27.250 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:40:27.250 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:40:42.171 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:40:42.171 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:40:42.171 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:40:42.171 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:42:23.257 [Killfeed] AI Irena (PoliceStation_Tier2) умер от потери крови.
+21:42:23.671 [MissionAirdrop] An airdrop is heading towards "Novy Sobor" (pos=<7436.000000, 0.000000, 7720.000000> type=Random_Novy Sobor) with a ExpansionAirdropContainer_Military
+21:43:21.359 [AI Patrol 00075] Despawning 1 ChernayaPolyana_Tier1 (Raiders) bots (spawn position <12175.064453, 96.558662, 13513.455078>, 0/1 deceased)
+21:43:21.359 [AI Patrol 00075] Global patrol count: 2
+21:44:02.039 [AI Object Patrol 00197] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <13505.106445, 17.411530, 14037.995117>, 0/1 deceased)
+21:44:02.039 [AI Object Patrol 00197] Global patrol count: 1
+21:44:11.171 [AI Object Patrol 00044] Despawning 1 PoliceStation_Tier2 (Raiders) bots (spawn position <13847.106445, 20.651569, 13233.647461>, 1/2 deceased)
+21:44:11.171 [AI Object Patrol 00044] Global patrol count: 0
+21:44:23.578 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:44:23.585 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:44:23.585 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:44:23.585 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:44:51.375 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:44:51.375 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:44:51.375 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:44:51.375 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:44:51.375 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:44:51.375 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:44:51.382 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:44:51.382 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:44:51.875 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:44:51.875 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:44:51.875 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:44:51.875 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:45:00.742 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+21:45:00.742 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:45:00.742 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+21:45:00.750 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:45:04.687 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=501
+21:45:04.687 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=401
+21:45:04.687 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=301
+21:45:04.687 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:57:47.703 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=61001
+21:57:47.703 [Expansion Quests] Player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= has cancelled quest with ID=61001. State=CAN_TURNIN
+21:57:47.703 [AI Object Patrol 00215] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15144.866211, 10.309862, 13847.514648>, 1/1 deceased)
+21:57:47.703 [AI Object Patrol 00216] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15185.665039, 3.024025, 13808.164063>, 1/1 deceased)
+21:57:47.703 [AI Object Patrol 00217] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15135.058594, 9.655604, 13829.532227>, 1/1 deceased)
+21:57:47.703 [AI Object Patrol 00218] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15190.233398, 4.613638, 13831.498047>, 1/1 deceased)
+21:57:47.703 [AI Object Patrol 00219] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15211.713867, 1.638291, 13761.517578>, 1/1 deceased)
+21:57:47.703 [AI Object Patrol 00220] Despawning 0 QuestEnemyTier3 (Mercenaries) bots (spawn position <15199.881836, 2.572787, 13773.071289>, 1/1 deceased)
+21:57:47.703 [AI Object Patrol 00221] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15084.898438, 15.146793, 13847.564453>, 1/1 deceased)
+21:57:47.828 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+21:57:47.828 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has cancelled quest with ID=61001. State=CAN_TURNIN
+21:58:02.523 [Party] Player "Survivor (2)" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+22:01:19.335 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+22:09:38.351 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+22:09:38.351 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=61101 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=61502 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.398 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:38.406 [Expansion Quests] Sending player quest data for 8 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+22:09:39.335 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+22:09:54.351 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11893.249023, 140.000000, 12480.825195>) Entered the safezone

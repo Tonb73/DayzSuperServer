@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь в последнюю известную точку",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                   6724,
+                    61,
+                    3626
+    ],
+    "MaxDistance": 3,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

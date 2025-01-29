@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5202,
+    "Type": 1,
+    "Title": "Охота за головами: Желтый Король [Часть 2]",
+    "Descriptions": [
+        "Тебе необходимо уничтожить мастерскую Желтого Короля. Так мы выведим его из себя и заставим совершить ошибку, а дальше дело техники. Удачи тебе, я жду хновостей.",
+		"Что-то еще? Вроде итак все ясно.",
+		"Отличная работа. Теперь будем ждать пока Король сделат свой шаг."
+
+    ],
+    "ObjectiveText": "Уничтожьте мастерскую Желтого Короля",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q5202",
+    "QuestItems": [],
+    "Rewards": [
+		 {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 8400,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":1202,
+            "ObjectiveType":3 
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1101,
+            "ObjectiveType":4 
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [5201],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

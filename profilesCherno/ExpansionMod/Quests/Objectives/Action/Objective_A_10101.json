@@ -1,0 +1,16 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Зажгите фальшфеер",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionTurnOnWhileInHands"
+    ],
+    "AllowedClassNames": [
+        "Roadflare"
+    ],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

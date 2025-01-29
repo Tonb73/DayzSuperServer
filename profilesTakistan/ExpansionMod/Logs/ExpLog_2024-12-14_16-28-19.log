@@ -1,0 +1,23 @@
+16:33:10.234 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3699.978760, 402.012421, 5982.610352>) Entered the safezone
+16:33:10.289 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+16:33:10.289 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:33:10.410 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:33:10.410 [Expansion Quests] Loaded existing group quest data for group with ID=1
+16:33:10.417 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:33:10.417 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:33:10.421 [AI Patrol 00114] Spawning 1 Zelenogorsk_Tier2 (Raiders) bots at <3009.383057, 228.224289, 5319.560059>
+16:33:10.437 [AI Patrol 00114] Global patrol count: 1
+16:33:11.199 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+16:33:45.832 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11015.979492, 226.468613, 12414.063477>
+16:33:45.843 [AI Object Patrol 00038] Global patrol count: 2
+16:33:45.843 [AI Object Patrol 00041] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11071.322266, 226.831879, 12503.399414>
+16:33:45.859 [AI Object Patrol 00041] Global patrol count: 3
+16:33:45.859 [AI Patrol 00073] Spawning 2 Krasnostav_Tier1 (Raiders) bots at <11109.548828, 200.351288, 12287.182617>
+16:33:45.894 [AI Patrol 00073] Global patrol count: 4
+16:34:09.140 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Basebuilding
+16:36:51.792 [Killfeed] AI Irena (Zelenogorsk_Tier2) умер от Химическое отравление.
+16:36:54.699 [AI Patrol 00114] Zelenogorsk_Tier2 (Raiders) bots were wiped out (spawn position <3009.383057, 228.224289, 5319.560059>, 1/1 deceased)
+16:36:54.699 [AI Patrol 00114] Global patrol count: 3
+16:38:02.406 [Killfeed] AI Gabi (WaterPump_Tier0) был убит AI Judy (PoliceStation_Tier1) с DT11 из 5 м расстояние.
+16:38:05.062 [AI Object Patrol 00038] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <11015.979492, 226.468613, 12414.063477>, 1/1 deceased)
+16:38:05.062 [AI Object Patrol 00038] Global patrol count: 2

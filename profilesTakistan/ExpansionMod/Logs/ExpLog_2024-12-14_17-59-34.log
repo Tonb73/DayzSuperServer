@@ -1,0 +1,23 @@
+18:00:54.433 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11851.975586, 140.605087, 12475.417969>) Entered the safezone
+18:00:54.433 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+18:00:54.433 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:00:54.476 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:00:54.476 [Expansion Quests] Loaded existing group quest data for group with ID=1
+18:00:54.484 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:00:54.484 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:00:54.488 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11011.837891, 226.468613, 12406.982422>
+18:00:54.503 [AI Object Patrol 00038] Global patrol count: 1
+18:00:54.503 [AI Object Patrol 00041] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11074.272461, 235.431778, 12488.127930>
+18:00:54.527 [AI Object Patrol 00041] Global patrol count: 2
+18:00:54.527 [AI Patrol 00071] Spawning 1 Krasnostav_Trader (InvincibleObservers) bots at <11874.231445, 140.134796, 12441.299805>
+18:00:54.550 [AI Patrol 00071] Global patrol count: 3
+18:00:54.550 [AI Patrol 00070] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11880.706055, 140.000000, 12502.993164>
+18:00:54.566 [AI Patrol 00070] Global patrol count: 4
+18:00:54.566 [AI Patrol 00075] Spawning 2 Krasnostav_Tier1 (Raiders) bots at <11059.458008, 211.324234, 12302.326172>
+18:00:54.585 [AI Patrol 00075] Global patrol count: 5
+18:00:54.585 [AI Patrol 00069] Spawning 1 Krasnostav_Trader (Guards) bots at <11862.713867, 141.813995, 12575.804688>
+18:00:54.601 [AI Patrol 00069] Global patrol count: 6
+18:00:55.410 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+18:01:22.558 [AI Patrol 00074] Spawning 1 ChernayaPolyana_Tier1 (Raiders) bots at <12058.575195, 115.249580, 13471.310547>
+18:01:22.578 [AI Patrol 00074] Global patrol count: 7
+18:02:36.531 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))

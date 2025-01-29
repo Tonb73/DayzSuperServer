@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 301,
+    "Type": 1,
+    "Title": "Родные люди",
+    "Descriptions": [
+		"Нужно что-то? Обратись к кому-нибудь еще. Я занимаюсь работой с ЧВК Щит, может слышал о нас. Если хочешь помочь, тебе придется сначало сделать кое-что лично для меня. Назовем это проверкой. Ну что, согласен? Славно, тогда поезжай в Дубровку и отыщи для меня там кое-что. Ты сразу поймешь что, когда увидишь!",
+		"Тебе что-то не понятно?",
+		"Ха-ха-ха, ну, сразу видно, наш человек! Эх, ладно, благодарствую. Может с тобой и можно иметь дело. Я - Борис, но все называют меня Буревестник. Я тут, типо представитель ЧВК Щит. Если понадобится работа, ты знаешь где меня найти."
+
+    ],
+    "ObjectiveText": "Отправляйтесь в Дубровку и найдите то, не знаю что...",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+	{
+            "ClassName": "Vodka",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        4
+    ],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID": 301,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 301,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 301,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 1,
+    "ReputationReward": 250,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

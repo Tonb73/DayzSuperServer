@@ -1,0 +1,91 @@
+09:37:58.031 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+09:37:58.031 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+09:37:58.074 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+09:37:58.074 [Expansion Quests] Loaded existing group quest data for group with ID=1
+09:37:58.074 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+09:37:58.078 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+09:37:58.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+09:41:49.769 [AI Patrol 00089] Spawning 1 Vysotovo_Tier1 (Raiders) bots at <5721.117676, 105.502998, 2514.461426>
+09:41:49.796 [AI Patrol 00089] Global patrol count: 1
+09:41:49.796 [AI Patrol 00082] Spawning 1 Novoselki_Tier1 (Raiders) bots at <6233.760254, 69.502998, 3223.286377>
+09:41:49.816 [AI Patrol 00082] Global patrol count: 2
+09:41:49.820 [AI Patrol 00083] Spawning 1 Novoselki_Tier1 (Raiders) bots at <6224.580078, 96.502998, 3216.224854>
+09:41:49.875 [AI Patrol 00083] Global patrol count: 3
+09:42:01.347 [AI Patrol 00088] Spawning 1 Vysotovo_Tier1 (Raiders) bots at <5805.383301, 121.502998, 2731.773193>
+09:42:01.363 [AI Patrol 00088] Global patrol count: 4
+09:42:04.570 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Basebuilding
+09:42:31.011 [AI Patrol 00079] Spawning 2 Chernogorsk_Tier1 (Raiders) bots at <7317.237793, 16.503000, 2815.162109>
+09:42:31.031 [AI Patrol 00079] Global patrol count: 5
+09:44:27.433 [AI Patrol 00087] Spawning 1 Vysotovo_Tier1 (Raiders) bots at <5848.305176, 97.502998, 2740.400146>
+09:44:27.558 [AI Patrol 00087] Global patrol count: 6
+09:44:30.531 [AI Object Patrol 00008] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <6217.849609, 25.674170, 2909.484131>
+09:44:30.550 [AI Object Patrol 00008] Global patrol count: 7
+09:44:50.980 [AI Patrol 00078] Spawning 2 Prigorodki_Tier1 (Raiders) bots at <7349.535156, 16.503000, 2846.834717>
+09:44:51.000 [AI Patrol 00078] Global patrol count: 8
+09:45:24.160 [Killfeed] AI Taiki (Vysotovo_Tier1) умер разбился с высоты.
+09:45:25.382 [AI Patrol 00087] Vysotovo_Tier1 (Raiders) bots were wiped out (spawn position <5848.305176, 97.502998, 2740.400146>, 1/1 deceased)
+09:45:25.382 [AI Patrol 00087] Global patrol count: 7
+09:46:06.738 [AI Patrol 00084] Spawning 1 Dubovo_Tier1 (Raiders) bots at <6653.162109, 101.423424, 3524.226318>
+09:46:06.753 [AI Patrol 00084] Global patrol count: 8
+09:57:45.394 [AI Patrol 00079] Despawning 2 Chernogorsk_Tier1 (Raiders) bots (spawn position <7317.237793, 16.503000, 2815.162109>, 0/2 deceased)
+09:57:45.394 [AI Patrol 00079] Global patrol count: 7
+09:59:19.605 [AI Patrol 00089] Despawning 1 Vysotovo_Tier1 (Raiders) bots (spawn position <5721.117676, 105.502998, 2514.461426>, 0/1 deceased)
+09:59:19.605 [AI Patrol 00089] Global patrol count: 6
+10:00:20.265 [AI Patrol 00084] Despawning 1 Dubovo_Tier1 (Raiders) bots (spawn position <6653.162109, 101.423424, 3524.226318>, 0/1 deceased)
+10:00:20.265 [AI Patrol 00084] Global patrol count: 5
+10:14:25.343 [AI Patrol 00088] Despawning 1 Vysotovo_Tier1 (Raiders) bots (spawn position <5805.383301, 121.502998, 2731.773193>, 0/1 deceased)
+10:14:25.343 [AI Patrol 00088] Global patrol count: 4
+10:16:10.003 [AI Patrol 00082] Despawning 1 Novoselki_Tier1 (Raiders) bots (spawn position <6233.760254, 69.502998, 3223.286377>, 0/1 deceased)
+10:16:10.003 [AI Patrol 00082] Global patrol count: 3
+10:25:53.890 [VehicleEnter] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Mh-6 Little Bird (id=2BE75B8E0C4092294BA863AE7E60021A pos=<6517.318359, 6.029795, 2265.658203>) as pilot
+10:25:58.214 [VehicleEngine] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Mh-6 Little Bird (id=2BE75B8E0C4092294BA863AE7E60021A pos=<6517.318359, 6.029867, 2265.658203>)
+10:27:05.929 [AI Patrol 00085] Spawning 1 Dubovo_Tier1 (Raiders) bots at <6752.625977, 100.502998, 3560.856201>
+10:27:05.953 [AI Patrol 00085] Global patrol count: 4
+10:27:12.765 [AI Patrol 00086] Spawning 1 Dubovo_Tier1 (Raiders) bots at <6704.966309, 78.502998, 3694.347656>
+10:27:12.792 [AI Patrol 00086] Global patrol count: 5
+10:27:14.238 [AI Object Patrol 00005] Spawning 1 WaterPump_Tier0 (Raiders) bots at <6534.083984, 6.188573, 2303.985840>
+10:27:14.250 [AI Object Patrol 00005] Global patrol count: 6
+10:27:15.417 [AI Patrol 00080] Spawning 2 Chernogorsk_Tier1 (Raiders) bots at <6418.542969, 6.028107, 2283.944824>
+10:27:15.437 [AI Patrol 00080] Global patrol count: 7
+10:27:17.636 [AI Patrol 00081] Spawning 1 Chernogorsk_Tier1 (Raiders) bots at <6528.421875, 6.000000, 2420.983887>
+10:27:17.656 [AI Patrol 00081] Global patrol count: 8
+10:27:21.695 [AI Object Patrol 00006] Spawning 3 PoliceStation_Tier2 (Raiders) bots at <6619.041504, 6.853081, 2596.094727>
+10:27:21.718 [AI Object Patrol 00006] Global patrol count: 9
+10:27:21.929 [AI Patrol 00090] Spawning 1 Komarovo_Tier1 (Raiders) bots at <6468.295410, 6.201979, 2492.518066>
+10:27:21.949 [AI Patrol 00090] Global patrol count: 10
+10:27:37.605 [AI Object Patrol 00007] Spawning 2 HospitalStation_Tier2 (Raiders) bots at <6477.812500, 9.290000, 2727.757568>
+10:27:37.621 [AI Object Patrol 00007] Global patrol count: 11
+10:27:39.378 [AI Object Patrol 00113] Spawning 3 FirelStation_Tier2 (Raiders) bots at <6267.929199, 8.450000, 2716.697998>
+10:27:39.433 [AI Object Patrol 00113] Global patrol count: 12
+10:28:08.042 [VehicleEngine] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Mh-6 Little Bird (id=2BE75B8E0C4092294BA863AE7E60021A pos=<6133.786133, 98.455025, 3202.021484>)
+10:28:19.167 [VehicleLeave] Player Survivor [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Mh-6 Little Bird (id=2BE75B8E0C4092294BA863AE7E60021A pos=<6133.734375, 98.487442, 3202.055176>)
+10:28:57.179 [Killfeed] AI Frida (HospitalStation_Tier2) был убит AI Manua (PoliceStation_Tier2) с CR-550 Savanna из 2 м расстояние.
+10:30:07.101 [Killfeed] AI Helga (FirelStation_Tier2) был убит AI Irena (Chernogorsk_Tier1) при помощи.
+10:30:12.101 [Killfeed] AI Naomi (Novoselki_Tier1) был убит [Falco] Survivor с Mlock-91 из 74 м расстояние.
+10:30:15.222 [AI Patrol 00083] Novoselki_Tier1 (Raiders) bots were wiped out (spawn position <6224.580078, 96.502998, 3216.224854>, 1/1 deceased)
+10:30:15.222 [AI Patrol 00083] Global patrol count: 11
+10:30:25.687 [Killfeed] AI Irena (Chernogorsk_Tier1) был убит AI Kaito (Chernogorsk_Tier1) с БК-43 из 4 м расстояние.
+10:30:26.917 [Killfeed] AI Peter (WaterPump_Tier0) был убит AI Seth (Komarovo_Tier1) с MK II из 2 м расстояние.
+10:30:29.656 [AI Patrol 00081] Chernogorsk_Tier1 (Raiders) bots were wiped out (spawn position <6528.421875, 6.000000, 2420.983887>, 1/1 deceased)
+10:30:29.656 [AI Patrol 00081] Global patrol count: 10
+10:30:30.261 [AI Object Patrol 00005] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <6534.083984, 6.188573, 2303.985840>, 1/1 deceased)
+10:30:30.261 [AI Object Patrol 00005] Global patrol count: 9
+10:30:41.894 [Killfeed] AI Elias (FirelStation_Tier2) был убит AI Frida (PoliceStation_Tier2) при помощи.
+10:30:44.304 [Killfeed] AI Keiko (HospitalStation_Tier2) был убит AI Hassan (PoliceStation_Tier1) с БK-18 из 9 м расстояние.
+10:30:45.625 [AI Object Patrol 00007] HospitalStation_Tier2 (Raiders) bots were wiped out (spawn position <6477.812500, 9.290000, 2727.757568>, 2/2 deceased)
+10:30:45.625 [AI Object Patrol 00007] Global patrol count: 8
+10:31:43.210 [Killfeed] AI Frida (PoliceStation_Tier2) был убит AI Baty (FirelStation_Tier2) с USG-45 из 2 м расстояние.
+10:32:28.820 [Killfeed] AI Francis (PoliceStation_Tier2) был убит AI Baty (FirelStation_Tier2) с USG-45 из 20 м расстояние.
+10:34:20.347 [Killfeed] AI Manua (PoliceStation_Tier2) был убит AI Baty (FirelStation_Tier2) с USG-45 из 2 м расстояние.
+10:34:20.722 [AI Object Patrol 00006] PoliceStation_Tier2 (Raiders) bots were wiped out (spawn position <6619.041504, 6.853081, 2596.094727>, 3/3 deceased)
+10:34:20.722 [AI Object Patrol 00006] Global patrol count: 7
+10:35:02.843 [Killfeed] AI Seth (Komarovo_Tier1) был убит AI Baty (FirelStation_Tier2) с USG-45 из 1 м расстояние.
+10:35:04.957 [AI Patrol 00090] Komarovo_Tier1 (Raiders) bots were wiped out (spawn position <6468.295410, 6.201979, 2492.518066>, 1/1 deceased)
+10:35:04.957 [AI Patrol 00090] Global patrol count: 6
+10:35:52.628 [Killfeed] AI Baty (FirelStation_Tier2) был убит AI Hassan (PoliceStation_Tier1) с БK-18 из 15 м расстояние.
+10:35:53.406 [AI Object Patrol 00113] FirelStation_Tier2 (Raiders) bots were wiped out (spawn position <6267.929199, 8.450000, 2716.697998>, 3/3 deceased)
+10:35:53.406 [AI Object Patrol 00113] Global patrol count: 5
+10:35:54.136 [Killfeed] AI Hassan (PoliceStation_Tier1) был убит AI Kaito (Chernogorsk_Tier1) с БК-43 из 11 м расстояние.
+10:35:55.558 [AI Object Patrol 00008] PoliceStation_Tier1 (Raiders) bots were wiped out (spawn position <6217.849609, 25.674170, 2909.484131>, 1/1 deceased)
+10:35:55.558 [AI Object Patrol 00008] Global patrol count: 4
+10:40:23.070 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))

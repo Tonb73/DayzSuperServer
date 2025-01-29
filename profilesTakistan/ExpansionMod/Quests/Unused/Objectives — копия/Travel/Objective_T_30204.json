@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 204,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь к Лестница",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    11560,
+					58,
+					14744
+    ],
+    "MaxDistance": 5,
+    "MarkerName": "Лестница",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,22 @@
+17:06:00.390 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+17:06:00.390 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:00.433 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:00.433 [Expansion Quests] Loaded existing group quest data for group with ID=0
+17:06:00.433 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:00.433 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:01.359 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+17:07:27.804 [Killfeed] AI Niki (Рейдеры) был убит [Spart] Tonby с КА-74 из 1 м расстояние.
+17:07:42.476 [Killfeed] AI Oliver (Рейдеры) был убит [Spart] Tonby с КА-74 из 1 м расстояние.
+17:07:54.492 [Killfeed] AI Peter (Рейдеры) был убит [Spart] Tonby с КА-74 из 5 м расстояние.
+17:08:01.632 [Killfeed] AI Peter (Рейдеры) был убит [Spart] Tonby с КА-74 из 2 м расстояние.
+17:08:13.976 [Killfeed] AI Quinn (Рейдеры) был убит [Spart] Tonby с КА-74 из 3 м расстояние.
+17:08:22.058 [Killfeed] AI Quinn (Рейдеры) был убит [Spart] Tonby с КА-74 из 3 м расстояние.
+17:08:55.277 [Killfeed] AI Rolf (Рейдеры) был убит [Spart] Tonby с КА-74 из 2 м расстояние.
+17:09:05.328 [Killfeed] AI Seth (Рейдеры) был убит [Spart] Tonby с КА-74 из 3 м расстояние.
+17:09:20.308 [Killfeed] AI Taiki (Рейдеры) был убит [Spart] Tonby с КА-74 из 2 м расстояние.
+17:09:36.937 [Killfeed] AI Baty (Рейдеры) был убит [Spart] Tonby с КА-74 из 3 м расстояние.
+17:10:27.972 [AI Patrol 00001] Spawning 3 Tier2_AlHalal (Mercenaries) bots at <6634.373047, 290.821625, 7056.410156>
+17:10:28.089 [AI Patrol 00001] Global patrol count: 1
+17:10:28.347 [AI Patrol 00000] Spawning 3 Tier3_AlHalal (Mercenaries) bots at <6576.597656, 293.000000, 7087.684570>
+17:10:36.250 [MissionAirdrop] An airdrop is heading towards "Mahahwit" (pos=<6118.988770, 0.000000, 10387.359375> type=Random_Mahahwit) with a ExpansionAirdropContainer_Military
+17:11:37.183 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)

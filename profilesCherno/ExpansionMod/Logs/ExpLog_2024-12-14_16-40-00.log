@@ -1,0 +1,17 @@
+16:40:59.449 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11859.899414, 140.598679, 12449.761719>) Entered the safezone
+16:40:59.449 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+16:40:59.453 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:40:59.496 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:40:59.496 [Expansion Quests] Loaded existing group quest data for group with ID=1
+16:40:59.507 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:40:59.507 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:40:59.515 [AI Object Patrol 00041] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11086.059570, 226.437347, 12480.243164>
+16:40:59.531 [AI Object Patrol 00041] Global patrol count: 1
+16:40:59.531 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10984.358398, 226.471298, 12416.619141>
+16:40:59.550 [AI Object Patrol 00038] Global patrol count: 2
+16:40:59.550 [AI Patrol 00072] Spawning 2 Krasnostav_Tier1 (Raiders) bots at <11160.250977, 198.832275, 12308.279297>
+16:40:59.605 [AI Patrol 00072] Global patrol count: 3
+16:41:00.414 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+16:45:47.566 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Basebuilding
+16:53:43.308 [AI Object Patrol 00038] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <10984.358398, 226.471298, 12416.619141>, 0/1 deceased)
+16:53:43.308 [AI Object Patrol 00038] Global patrol count: 2

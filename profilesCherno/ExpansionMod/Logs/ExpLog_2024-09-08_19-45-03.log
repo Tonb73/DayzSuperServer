@@ -1,0 +1,26 @@
+19:49:05.296 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:49:05.312 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:49:05.312 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:49:05.312 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:49:49.414 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <13534.671875, 1.644669, 6234.750000>
+19:52:41.953 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Military
+20:42:43.484 [VehicleDestroyed] Truck_01_Covered (id=6FCBDF6FF94A3E52A7947ABB58FC7BCB pos=<4176.444824, 338.752502, 10725.720703>)
+20:48:37.875 [VehicleDeleted] Truck_01_Covered (id=6FCBDF6FF94A3E52A7947ABB58FC7BCB pos=<4176.444824, 338.752502, 10725.720703>)
+20:49:29.226 [AI Object Patrol] Spawning 1 West bots at <13684.000000, -0.090720, 11073.000000>
+20:49:57.703 [AI Object Patrol] Spawning 2 West bots at <13752.000000, -0.052666, 11164.000000>
+20:50:38.875 [AI Object Patrol] Spawning 3 West bots at <13881.000000, -1.292053, 11172.000000>
+20:56:24.289 [Killfeed] Da da Ya был убит AI Taiki (Запад) с КА-74 из 11 м расстояние.
+20:57:12.375 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <14407.299805, 2.000000, 13253.000000>
+21:06:22.328 [AI Object Patrol] Despawning 3 West bots (spawn position <13881.000000, -1.292053, 11172.000000>, 0/3 deceased)
+21:06:22.632 [AI Object Patrol] Despawning 2 West bots (spawn position <13752.000000, -0.052666, 11164.000000>, 0/2 deceased)
+21:06:22.632 [AI Object Patrol] Despawning 1 West bots (spawn position <13684.000000, -0.090720, 11073.000000>, 0/1 deceased)
+21:23:06.382 [MissionAirdrop] An airdrop is heading towards "Skalisty Island" (pos=<13452.000000, 0.000000, 3112.000000> type=Random_Skalisty Island) with a ExpansionAirdropContainer
+21:51:02.500 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11972.781250, 142.182968, 12327.517578>) Entered the safezone
+21:55:18.359 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to sell izh18shotgun x1 at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>).
+21:55:18.359 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold izh18shotgun x1 at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 131.
+21:56:00.242 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase expansionbread3 x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>).
+21:56:00.250 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionbread3 x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 15.
+21:56:07.937 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase brisketspread x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>).
+21:56:07.937 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought brisketspread x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 15.
+21:56:23.421 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase waterbottle x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>).
+21:56:23.429 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought waterbottle x1 from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 15.

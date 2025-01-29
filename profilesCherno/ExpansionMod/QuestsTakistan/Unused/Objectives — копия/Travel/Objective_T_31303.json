@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1303,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь в пригородную зону Новодмитровска",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                    11349,
+                    112,
+                    14706
+    ],
+    "MaxDistance": 5,
+    "MarkerName": "Пригородная зона",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

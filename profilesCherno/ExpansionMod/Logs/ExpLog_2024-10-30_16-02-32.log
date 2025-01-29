@@ -1,0 +1,304 @@
+16:04:02.835 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11876.909180, 140.946732, 12477.464844>) Entered the safezone
+16:04:02.851 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.925 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.925 [Expansion Quests] Check quest initialization for quest with ID=6901 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.925 [Expansion Quests] Check quest initialization for quest with ID=61601 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61902 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61901 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=9 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61701 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61801 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.937 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=402 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61902 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.941 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.945 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.945 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.945 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.949 [Expansion Quests] Sending player quest data for 15 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:04:02.949 [AI Object Patrol 00039] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <11076.342773, 226.716217, 12499.579102>
+16:04:02.968 [AI Object Patrol 00039] Global patrol count: 1
+16:04:02.968 [AI Object Patrol 00037] Spawning 1 Ordinary_Raiders (Raiders) bots at <10984.308594, 226.470291, 12425.700195>
+16:04:02.980 [AI Object Patrol 00037] Global patrol count: 2
+16:04:02.980 [AI Patrol 00085] Spawning 2 Ordinary_Scavengers_Tier_1(Krasnostav) (Raiders) bots at <11186.593750, 202.754486, 12422.949219>
+16:04:02.996 [AI Patrol 00085] Global patrol count: 3
+16:04:49.871 [AI Object Patrol 00041] Spawning 1 Ordinary_Raiders (Raiders) bots at <13341.500000, 94.994217, 12865.639648>
+16:04:49.882 [AI Object Patrol 00041] Global patrol count: 4
+16:05:01.191 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12606.548828, 182.881561, 12809.816406>) Left the safezone
+16:06:15.238 [Killfeed] AI Keiko (Ordinary_Raiders) был убит AI Helga (PoliceStationScavs_Tier_1) с БК-43 из 2 м расстояние.
+16:06:18.601 [AI Object Patrol 00037] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <10984.308594, 226.470291, 12425.700195>, 1/1 deceased)
+16:06:18.601 [AI Object Patrol 00037] Global patrol count: 3
+16:06:44.308 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12251.948242, 140.012466, 12669.148438>) Entered the safezone
+16:08:08.292 [VehicleDeleted] Sedan_02 (id=53437B7BF644E2FA98C09BBCB361B425 pos=<0.000720, 0.626982, -0.153169>)
+16:08:08.339 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought sedan_02 x1 (3074dcb0, HeadlightH7<36c71ce0>, HeadlightH7<36c71ce0>, Sedan_02_Door_2_2<36c73f90>, Sedan_02_Door_1_2<36c784f0>, Sedan_02_Door_2_1<36c71150>, Sedan_02_Door_1_1<36c73400>, Sedan_02_Trunk<36c77960>, Sedan_02_Hood<36c705c0>, SparkPlug<36c72870>, CarRadiator<36c76dd0>, CarBattery<36c756b0>, Sedan_02_Wheel<36c6e310>, Sedan_02_Wheel<36c6e310>, Sedan_02_Wheel<36c6e310>, Sedan_02_Wheel<36c6e310>, Sedan_02_Wheel<36c6e310>) from the trader "Vehicles (Elias [#STR_EXPANSION_MARKET_TRADER_VEHICLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 23751.
+16:08:27.988 [VehicleCarKey] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11901.054688, 140.018433, 12456.012695>) used the  ExpansionCarKey to unlock Sedan_02 (id=8518B25CAD4170E558213F80555A8F78 pos=<11902.951172, 139.984650, 12454.955078>)
+16:08:42.765 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer
+16:09:17.804 [Killfeed] AI Helga (PoliceStationScavs_Tier_1) был убит AI Frida (Ordinary_Scavengers_Tier_1(Krasnostav)) с DT11 из 1 м расстояние.
+16:09:38.546 [Killfeed] AI Irena (PoliceStationScavs_Tier_1) был убит AI Frida (Ordinary_Scavengers_Tier_1(Krasnostav)) с DT11 из 4 м расстояние.
+16:09:43.066 [AI Object Patrol 00039] PoliceStationScavs_Tier_1 (Raiders) bots were wiped out (spawn position <11076.342773, 226.716217, 12499.579102>, 2/2 deceased)
+16:09:43.066 [AI Object Patrol 00039] Global patrol count: 2
+16:11:18.582 [ExplosionDamageSystem] About to explode Explosion_NonLethal from ExplosionTest<3a3481a0> at <11877.2, 140, 12462.8> EXPLOSION range 4 dropoff 1
+16:11:33.867 [ExplosionDamageSystem] About to explode Explosion_NonLethal from ExplosionTest<3a341df0> at <11919.6, 164.79, 12474.2> EXPLOSION range 4 dropoff 1
+16:11:36.074 [ExplosionDamageSystem] About to explode Explosion_NonLethal from ExplosionTest<3a34d330> at <11912.5, 166.91, 12463.3> EXPLOSION range 4 dropoff 1
+16:11:40.230 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<246916d0> at <11917.4, 166.84, 12500.1> EXPLOSION range 5 dropoff 2.5
+16:11:44.578 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<2468dd70> at <11877.3, 140, 12478.2> EXPLOSION range 5 dropoff 2.5
+16:12:01.074 [VehicleDeleted] CivilianSedan (id=0F7EC4B44043D37A168FBC98F78F9503 pos=<11877.711914, 139.987839, 12462.216797>)
+16:12:01.078 [VehicleDeleted] Sedan_02 (id=3B6BF1AF794183969B97F6A81E5FD0C3 pos=<11874.189453, 139.978043, 12454.766602>)
+16:12:01.136 [VehicleDeleted] Sedan_02 (id=8518B25CAD4170E558213F80555A8F78 pos=<11902.951172, 139.984634, 12454.955078>)
+16:12:03.007 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12586.550781, 171.426422, 12727.331055>) Left the safezone
+16:12:05.195 [Killfeed] AI Peter (Ordinary_Scavengers_Tier_1(Krasnostav)) умер от потери крови.
+16:12:52.683 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<dd64b280> at <12589.9, 171.82, 12725.5> EXPLOSION range 5 dropoff 2.5
+16:12:52.687 [VehicleDestroyed] ExpansionUAZ_Green (id=82CB4927094CF18CA3C34F830B925DF4 pos=<12589.728516, 171.805359, 12725.628906>)
+16:12:52.773 [Killfeed] AI Maria (Запад) умер от взрыва Заряд взрывчатки.
+16:12:52.792 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<dd676c90> at <12589.9, 171.82, 12725.5> EXPLOSION range 5 dropoff 2.5
+16:12:52.984 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<d5abdba0> at <12589.9, 171.82, 12725.5> EXPLOSION range 5 dropoff 2.5
+16:12:53.171 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<d5ab98b0> at <12590.1, 172.05, 12727.8> EXPLOSION range 5 dropoff 2.5
+16:12:53.234 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<d5aba240> at <12588.7, 172.17, 12731.8> EXPLOSION range 5 dropoff 2.5
+16:13:21.093 [Killfeed] AI Frida (Ordinary_Scavengers_Tier_1(Krasnostav)) умер от потери крови.
+16:13:23.496 [AI Patrol 00085] Ordinary_Scavengers_Tier_1(Krasnostav) (Raiders) bots were wiped out (spawn position <11186.593750, 202.754486, 12422.949219>, 2/2 deceased)
+16:13:23.496 [AI Patrol 00085] Global patrol count: 1
+16:13:57.539 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<8c69e5d0> at <12592.2, 172.44, 12726.6> EXPLOSION range 5 dropoff 2.5
+16:14:45.980 [AI Object Patrol 00042] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <13832.922852, 20.758284, 13225.605469>
+16:14:46.011 [AI Object Patrol 00042] Global patrol count: 2
+16:14:46.027 [AI Object Patrol 00043] Spawning 1 Ordinary_Raiders (Raiders) bots at <13813.258789, 20.077129, 13294.152344>
+16:14:46.050 [AI Object Patrol 00043] Global patrol count: 3
+16:16:55.609 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb20c0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:56.226 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb0da0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:56.453 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfacab0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:56.554 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb1730> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:56.738 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfaddd0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:56.906 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfae760> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:57.042 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfaf0f0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:57.222 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfac120> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:57.359 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfafa80> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:57.687 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfab790> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:57.843 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb5a20> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.031 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb33e0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.160 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb2a50> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.343 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfbfcb0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.492 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfc0640> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.687 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfbcce0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.839 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfc0fd0> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:58.988 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfbc350> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:59.140 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf88360> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:59.308 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf85390> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:16:59.429 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf8a010> at <14395.4, 29.97, 13155.6> EXPLOSION range 5 dropoff 2.5
+16:17:02.625 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf88cf0> at <14374.4, 3.31, 13270.2> EXPLOSION range 5 dropoff 2.5
+16:17:08.742 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf89680> at <14303.8, 3.32, 13275.6> EXPLOSION range 5 dropoff 2.5
+16:17:12.960 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf879d0> at <14305.6, 3.32, 13275.4> EXPLOSION range 5 dropoff 2.5
+16:17:17.109 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf8c650> at <14280.3, 3.56, 13283.6> EXPLOSION range 5 dropoff 2.5
+16:17:23.378 [AI Object Patrol 00115] Spawning 2 Ordinary_Raiders (Raiders) bots at <13504.668945, 17.272623, 14022.961914>
+16:17:23.394 [AI Object Patrol 00115] Global patrol count: 4
+16:17:28.785 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cfb89f0> at <14093.9, 3.32, 13264.8> EXPLOSION range 5 dropoff 2.5
+16:17:29.781 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf8cfe0> at <14093.9, 3.32, 13264.7> EXPLOSION range 5 dropoff 2.5
+16:17:35.355 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf8d970> at <14079.6, 3.31, 13281.9> EXPLOSION range 5 dropoff 2.5
+16:17:38.167 [ExplosionDamageSystem] About to explode ExpansionC4_Ammo from Expansion_C4_Explosion<3cf87040> at <14071.4, 3.07, 13283.8> EXPLOSION range 5 dropoff 2.5
+16:17:38.175 [Killfeed] AI Lewis (PoliceStationScavs_Tier_1) умер от взрыва Заряд взрывчатки.
+16:18:45.464 [VehicleDeleted] ExpansionUAZ_Green (id=82CB4927094CF18CA3C34F830B925DF4 pos=<12589.729492, 171.805420, 12725.628906>)
+16:20:58.609 [AI Object Patrol 00041] Despawning 1 Ordinary_Raiders (Raiders) bots (spawn position <13341.500000, 94.994217, 12865.639648>, 0/1 deceased)
+16:20:58.617 [AI Object Patrol 00041] Global patrol count: 3
+16:21:00.226 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1684.543091, 6.412456, 2222.666016>) Entered the safezone
+16:21:20.230 [AI Object Patrol 00094] Spawning 1 Ordinary_Raiders (Raiders) bots at <1908.070679, 6.115936, 2235.667725>
+16:21:20.250 [AI Object Patrol 00094] Global patrol count: 4
+16:24:08.703 [VehicleDeleted] ExpansionUAZRoofless_LightGreen (id=37E8FAFD914D58389B1BB68D376F8DC8 pos=<12290.297852, 89.761536, 13846.438477>)
+16:28:06.898 [Killfeed] AI Naomi (PoliceStationScavs_Tier_1) умер от потери крови.
+16:28:08.386 [AI Object Patrol 00042] PoliceStationScavs_Tier_1 (Raiders) bots were wiped out (spawn position <13832.922852, 20.758284, 13225.605469>, 2/2 deceased)
+16:28:08.386 [AI Object Patrol 00042] Global patrol count: 3
+16:29:43.929 [Killfeed] AI Oliver (Ordinary_Raiders) умер от потери крови.
+16:29:48.871 [AI Object Patrol 00043] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <13813.258789, 20.077129, 13294.152344>, 1/1 deceased)
+16:29:48.875 [AI Object Patrol 00043] Global patrol count: 2
+16:30:16.113 [AI Object Patrol 00115] Despawning 2 Ordinary_Raiders (Raiders) bots (spawn position <13504.668945, 17.272623, 14022.961914>, 0/2 deceased)
+16:30:16.117 [AI Object Patrol 00115] Global patrol count: 1
+16:33:23.828 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1769.057861, 6.738632, 2144.810547>) Entered the safezone
+16:33:42.183 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1953.673462, 6.416278, 2260.891113>) Left the safezone
+16:34:50.937 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1806.911499, 6.003138, 2205.734375>) Entered the safezone
+16:35:07.738 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1820.679443, 6.035230, 2209.671387>) Left the safezone
+16:35:15.250 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1803.949341, 6.007798, 2204.572998>) Entered the safezone
+16:50:12.578 [AI Object Patrol 00056] Spawning 2 Ordinary_Raiders (Raiders) bots at <4412.437500, 6.914275, 2497.322510>
+16:50:12.589 [AI Object Patrol 00056] Global patrol count: 2
+16:50:12.644 [AI Object Patrol 00005] Spawning 2 Road_Raiders (Raiders) bots at <5877.199219, 8.933394, 2222.051758>
+16:50:12.667 [AI Object Patrol 00005] Global patrol count: 3
+16:50:12.667 [AI Patrol 00069] Spawning 1 Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots at <5937.017090, 68.941864, 2638.487305>
+16:50:12.718 [AI Patrol 00069] Global patrol count: 4
+16:50:12.718 [AI Patrol 00068] Spawning 1 Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots at <5503.903809, 62.827038, 2566.191895>
+16:50:12.746 [AI Patrol 00068] Global patrol count: 5
+16:50:12.746 [AI Patrol 00070] Spawning 1 Ordinary_Scavengers_Tier_1(Cherno_Oil) (Raiders) bots at <5882.667480, 9.021815, 2197.901855>
+16:50:12.777 [AI Patrol 00070] Global patrol count: 6
+16:50:12.777 [AI Patrol 00067] Spawning 2 Ordinary_Scavengers_Tier_1(Balota) (Raiders) bots at <4495.276367, 5.194625, 2484.035156>
+16:50:12.800 [AI Patrol 00067] Global patrol count: 7
+16:50:13.039 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<5093.410645, 9.500000, 2382.693848>) Left the safezone
+16:50:37.277 [Killfeed] AI Baty (Road_Raiders) был убит AI Gabi (Ordinary_Scavengers_Tier_1(Cherno_Oil)) с CR-61 Skorpion из 2 м расстояние.
+16:51:16.644 [Killfeed] AI Niki (Road_Raiders) был убит AI Gabi (Ordinary_Scavengers_Tier_1(Cherno_Oil)) при помощи.
+16:51:18.800 [AI Object Patrol 00005] Road_Raiders (Raiders) bots were wiped out (spawn position <5877.199219, 8.933394, 2222.051758>, 2/2 deceased)
+16:51:18.800 [AI Object Patrol 00005] Global patrol count: 6
+16:52:37.105 [Killfeed] AI Judy (Ordinary_Raiders) был убит AI Eva (Ordinary_Scavengers_Tier_1(Balota)) с CR-75 из 1 м расстояние.
+16:53:15.292 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Крытый M3S (id=3833AB990C4D0C2680733B941991D78D pos=<4978.556641, 9.491670, 2448.945313>) as driver
+16:53:17.492 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Крытый M3S (id=3833AB990C4D0C2680733B941991D78D pos=<4978.556641, 9.491683, 2448.945801>)
+16:54:17.941 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Крытый M3S (id=3833AB990C4D0C2680733B941991D78D pos=<5251.254883, 8.581660, 2142.827637>)
+16:54:22.652 [Killfeed] AI Boris (Ordinary_Raiders) был убит AI Eva (Ordinary_Scavengers_Tier_1(Balota)) при помощи.
+16:54:23.570 [AI Object Patrol 00056] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <4412.437500, 6.914275, 2497.322510>, 2/2 deceased)
+16:54:23.574 [AI Object Patrol 00056] Global patrol count: 5
+16:56:55.921 [AI Object Patrol 00003] Spawning 1 PoliceStationScavs_Tier_1 (Raiders) bots at <3557.621338, 6.248147, 2437.443115>
+16:56:55.941 [AI Object Patrol 00003] Global patrol count: 6
+16:56:55.941 [AI Patrol 00092] Spawning 5 Tartilla_Squad(Storozh) (Raiders) bots at <2607.649658, 21.673420, 1313.583496>
+16:56:55.968 [AI Patrol 00092] Global patrol count: 7
+16:57:22.832 [VehicleDeleted] Truck_01_Covered_Blue (id=3833AB990C4D0C2680733B941991D78D pos=<5251.228027, 8.563439, 2142.821289>)
+16:58:37.828 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11883.537109, 140.000000, 12472.616211>) Entered the safezone
+16:59:24.273 [Killfeed] AI Gabi (Ordinary_Scavengers_Tier_1(Cherno_Oil)) был убит AI Eva (Ordinary_Scavengers_Tier_1(Balota)) при помощи.
+16:59:28.625 [AI Patrol 00070] Ordinary_Scavengers_Tier_1(Cherno_Oil) (Raiders) bots were wiped out (spawn position <5882.667480, 9.021815, 2197.901855>, 1/1 deceased)
+16:59:28.625 [AI Patrol 00070] Global patrol count: 6
+17:01:56.382 [AI Object Patrol 00094] Despawning 1 Ordinary_Raiders (Raiders) bots (spawn position <1908.070679, 6.115936, 2235.667725>, 0/1 deceased)
+17:01:56.382 [AI Object Patrol 00094] Global patrol count: 5
+17:01:56.667 [Killfeed] AI Eva (Ordinary_Scavengers_Tier_1(Balota)) был убит AI Francis (Ordinary_Scavengers_Tier_1(Vysotovo)) с MK II из 11 м расстояние.
+17:06:53.058 [AI Patrol 00069] Despawning 1 Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots (spawn position <5937.017090, 68.941864, 2638.487305>, 0/1 deceased)
+17:06:53.058 [AI Patrol 00069] Global patrol count: 4
+17:06:53.480 [AI Patrol 00068] Despawning 1 Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots (spawn position <5503.903809, 62.827038, 2566.191895>, 0/1 deceased)
+17:06:53.480 [AI Patrol 00068] Global patrol count: 3
+17:06:53.832 [AI Patrol 00067] Despawning 1 Ordinary_Scavengers_Tier_1(Balota) (Raiders) bots (spawn position <4495.276367, 5.194625, 2484.035156>, 1/2 deceased)
+17:06:53.835 [AI Patrol 00067] Global patrol count: 2
+17:08:33.285 [AI Object Patrol 00003] Despawning 1 PoliceStationScavs_Tier_1 (Raiders) bots (spawn position <3557.621338, 6.248147, 2437.443115>, 0/1 deceased)
+17:08:33.289 [AI Object Patrol 00003] Global patrol count: 1
+17:08:33.808 [AI Patrol 00092] Despawning 5 Tartilla_Squad(Storozh) (Raiders) bots (spawn position <2607.649658, 21.673420, 1313.583496>, 0/5 deceased)
+17:08:33.808 [AI Patrol 00092] Global patrol count: 0
+17:35:27.644 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11789.928711, 146.867401, 12210.634766>) Left the safezone
+17:38:34.925 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer
+17:44:50.222 [AI Object Patrol 00010] Spawning 1 Ordinary_Raiders (Raiders) bots at <8123.167969, 5.991243, 3225.263916>
+17:44:50.242 [AI Object Patrol 00010] Global patrol count: 1
+17:45:25.976 [Killfeed] AI Rolf (Ordinary_Raiders) был убит Da da Ya с M4-A1 из 1 м расстояние.
+17:45:28.648 [AI Object Patrol 00010] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <8123.167969, 5.991243, 3225.263916>, 1/1 deceased)
+17:45:28.648 [AI Object Patrol 00010] Global patrol count: 0
+17:45:41.871 [AI Patrol 00073] Spawning 1 Ordinary_Scavengers_Tier_1(Cherno_Exit) (Raiders) bots at <6586.766602, 14.058016, 2989.331055>
+17:45:42.000 [AI Patrol 00073] Global patrol count: 1
+17:45:42.695 [AI Object Patrol 00007] Spawning 1 PoliceStationScavs_Tier_1 (Raiders) bots at <6648.430664, 7.294648, 2594.963623>
+17:45:42.718 [AI Object Patrol 00007] Global patrol count: 2
+17:45:44.574 [AI Patrol 00071] Spawning 1 Ordinary_Scavengers_Tier_1(Cherno_Med) (Raiders) bots at <6515.033203, 11.694665, 2710.557861>
+17:45:44.601 [AI Patrol 00071] Global patrol count: 3
+17:45:51.921 [AI Object Patrol 00008] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <6189.738281, 29.227329, 2930.715088>
+17:45:51.957 [AI Object Patrol 00008] Global patrol count: 4
+17:45:51.957 [AI Object Patrol 00063] Spawning 2 FireStationScavs_Tier1 (Raiders) bots at <6262.318359, 8.461601, 2737.130859>
+17:45:51.988 [AI Object Patrol 00063] Global patrol count: 5
+17:45:53.328 [AI Patrol 00072] Spawning 5 Ordinary_Scavengers_Tier_2(Hotel_Cherno) (Raiders) bots at <6587.158691, 6.416282, 2305.611572>
+17:45:53.359 [AI Patrol 00072] Global patrol count: 6
+17:45:54.023 [AI Object Patrol 00006] Spawning 1 Ordinary_Raiders (Raiders) bots at <6533.293945, 6.260582, 2306.524902>
+17:45:54.035 [AI Object Patrol 00006] Global patrol count: 7
+17:46:12.898 [Killfeed] AI Hassan (Ordinary_Scavengers_Tier_1(Cherno_Exit)) был убит Da da Ya с M4-A1 из 17 м расстояние.
+17:46:13.605 [AI Patrol 00073] Ordinary_Scavengers_Tier_1(Cherno_Exit) (Raiders) bots were wiped out (spawn position <6586.766602, 14.058016, 2989.331055>, 1/1 deceased)
+17:46:13.605 [AI Patrol 00073] Global patrol count: 6
+17:46:41.250 [Killfeed] AI Cyril (Ordinary_Scavengers_Tier_1(Cherno_Med)) был убит Da da Ya с DMR из 83 м расстояние.
+17:46:43.292 [AI Patrol 00071] Ordinary_Scavengers_Tier_1(Cherno_Med) (Raiders) bots were wiped out (spawn position <6515.033203, 11.694665, 2710.557861>, 1/1 deceased)
+17:46:43.292 [AI Patrol 00071] Global patrol count: 5
+17:47:10.847 [Killfeed] AI Judy (PoliceStationScavs_Tier_1) был убит Da da Ya с DMR из 62 м расстояние.
+17:47:14.285 [AI Object Patrol 00007] PoliceStationScavs_Tier_1 (Raiders) bots were wiped out (spawn position <6648.430664, 7.294648, 2594.963623>, 1/1 deceased)
+17:47:14.285 [AI Object Patrol 00007] Global patrol count: 4
+17:47:39.953 [Killfeed] AI Gabi (Ordinary_Raiders) был убит AI Frida (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) с Mlock-91 из 4 м расстояние.
+17:47:44.031 [AI Object Patrol 00006] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <6533.293945, 6.260582, 2306.524902>, 1/1 deceased)
+17:47:44.031 [AI Object Patrol 00006] Global patrol count: 3
+17:48:16.761 [Killfeed] AI Baty (PoliceStationScavs_Tier_1) был убит Da da Ya с M4-A1 из 12 м расстояние.
+17:48:42.648 [Killfeed] AI Irena (FireStationScavs_Tier1) был убит Da da Ya с M4-A1 из 58 м расстояние.
+17:48:57.195 [Killfeed] AI Manua (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит Da da Ya с M4-A1 из 24 м расстояние.
+17:49:00.972 [Killfeed] AI Maria (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит Da da Ya с M4-A1 из 35 м расстояние.
+17:49:10.964 [Killfeed] AI Quinn (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит Da da Ya с M4-A1 из 56 м расстояние.
+17:49:20.507 [Killfeed] AI Keiko (PoliceStationScavs_Tier_1) был убит Da da Ya с M4-A1 из 56 м расстояние.
+17:49:23.800 [AI Object Patrol 00008] PoliceStationScavs_Tier_1 (Raiders) bots were wiped out (spawn position <6189.738281, 29.227329, 2930.715088>, 2/2 deceased)
+17:49:23.800 [AI Object Patrol 00008] Global patrol count: 2
+17:49:48.156 [Killfeed] AI Frida (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит Da da Ya с M4-A1 из 5 м расстояние.
+17:50:56.671 [Killfeed] AI Taiki (FireStationScavs_Tier1) был убит Da da Ya с M4-A1 из 41 м расстояние.
+17:51:00.863 [AI Object Patrol 00063] FireStationScavs_Tier1 (Raiders) bots were wiped out (spawn position <6262.318359, 8.461601, 2737.130859>, 2/2 deceased)
+17:51:00.867 [AI Object Patrol 00063] Global patrol count: 1
+17:51:36.195 [Killfeed] AI Guo (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит Da da Ya с M4-A1 из 20 м расстояние.
+17:51:38.964 [AI Patrol 00072] Ordinary_Scavengers_Tier_2(Hotel_Cherno) (Raiders) bots were wiped out (spawn position <6587.158691, 6.416282, 2305.611572>, 5/5 deceased)
+17:51:38.964 [AI Patrol 00072] Global patrol count: 0
+17:52:15.273 [AI Object Patrol 00038] Spawning 2 Ordinary_Raiders (Raiders) bots at <8079.230957, 117.527565, 12644.448242>
+17:52:15.289 [AI Object Patrol 00038] Global patrol count: 1
+17:52:15.320 [AI Object Patrol 00036] Spawning 2 Ordinary_Raiders (Raiders) bots at <8610.454102, 196.945663, 11918.896484>
+17:52:15.339 [AI Object Patrol 00036] Global patrol count: 2
+17:52:15.339 [AI Object Patrol 00035] Spawning 1 FireStationScavs_Tier1 (Raiders) bots at <7639.390137, 119.513763, 12635.388672>
+17:52:15.359 [AI Object Patrol 00035] Global patrol count: 3
+17:52:15.359 [AI Object Patrol 00065] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <7736.751953, 118.510002, 12616.953125>
+17:52:15.382 [AI Object Patrol 00065] Global patrol count: 4
+17:52:15.386 [AI Object Patrol 00132] Spawning 1 Road_Raiders (Raiders) bots at <7478.924805, 121.023842, 12659.594727>
+17:52:15.398 [AI Object Patrol 00132] Global patrol count: 5
+17:52:46.750 [Killfeed] AI Niki (Ordinary_Raiders) был убит Da da Ya с M4-A1 из 3 м расстояние.
+17:52:49.316 [Killfeed] AI Linda (Ordinary_Raiders) был убит Da da Ya с M4-A1 из 2 м расстояние.
+17:52:53.503 [AI Object Patrol 00038] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <8079.230957, 117.527565, 12644.448242>, 2/2 deceased)
+17:52:53.503 [AI Object Patrol 00038] Global patrol count: 4
+17:52:55.824 [AI Object Patrol 00059] Spawning 1 Ordinary_Raiders (Raiders) bots at <7569.326660, 209.282379, 13483.625977>
+17:52:55.835 [AI Object Patrol 00059] Global patrol count: 5
+17:53:15.140 [Killfeed] AI Indar (PoliceStationScavs_Tier_1) был убит Da da Ya с M4-A1 из 21 м расстояние.
+17:54:45.308 [Killfeed] AI Lewis (Road_Raiders) был убит Da da Ya с DMR из 76 м расстояние.
+17:54:46.011 [AI Object Patrol 00132] Road_Raiders (Raiders) bots were wiped out (spawn position <7478.924805, 121.023842, 12659.594727>, 1/1 deceased)
+17:54:46.011 [AI Object Patrol 00132] Global patrol count: 4
+17:55:03.175 [Killfeed] AI Frida (PoliceStationScavs_Tier_1) был убит AI Indar (FireStationScavs_Tier1) с CR-61 Skorpion из 5 м расстояние.
+17:55:05.781 [AI Object Patrol 00065] PoliceStationScavs_Tier_1 (Raiders) bots were wiped out (spawn position <7736.751953, 118.510002, 12616.953125>, 2/2 deceased)
+17:55:05.781 [AI Object Patrol 00065] Global patrol count: 3
+17:55:06.156 [Killfeed] AI Indar (FireStationScavs_Tier1) был убит Da da Ya с DMR из 75 м расстояние.
+17:55:09.296 [AI Object Patrol 00035] FireStationScavs_Tier1 (Raiders) bots were wiped out (spawn position <7639.390137, 119.513763, 12635.388672>, 1/1 deceased)
+17:55:09.296 [AI Object Patrol 00035] Global patrol count: 2
+17:59:42.468 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1740.874146, 6.023085, 2113.279785>) Entered the safezone
+18:00:09.210 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1755.020142, 1.614114, 2029.801758>) Left the safezone
+18:00:55.414 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1737.900635, 5.413929, 2054.449707>) Entered the safezone
+18:01:28.261 [AI Patrol 00093] Spawning 2 Ordinary_Raiders(Solnechy) (Raiders) bots at <1272.812744, 83.327316, 3407.502686>
+18:01:28.273 [AI Patrol 00093] Global patrol count: 3
+18:01:30.011 [AI Patrol 00077] Spawning 1 Ordinary_Scavengers_Tier_1(Kamyshovo) (Raiders) bots at <1288.633179, 81.364899, 3410.990723>
+18:01:30.042 [AI Patrol 00077] Global patrol count: 4
+18:01:50.078 [Killfeed] AI Oliver (Ordinary_Raiders(Solnechy)) был убит AI Kaito (Ordinary_Scavengers_Tier_1(Kamyshovo)) с CR-550 Savanna из 9 м расстояние.
+18:01:56.878 [Killfeed] AI Eva (Ordinary_Raiders(Solnechy)) был убит AI Kaito (Ordinary_Scavengers_Tier_1(Kamyshovo)) с CR-550 Savanna из 17 м расстояние.
+18:01:59.156 [AI Patrol 00093] Ordinary_Raiders(Solnechy) (Raiders) bots were wiped out (spawn position <1272.812744, 83.327316, 3407.502686>, 2/2 deceased)
+18:01:59.156 [AI Patrol 00093] Global patrol count: 3

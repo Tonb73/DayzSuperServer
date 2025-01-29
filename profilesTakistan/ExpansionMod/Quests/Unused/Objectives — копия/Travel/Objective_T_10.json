@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 11,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Find hostage and rescue it",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        236.110107421875,
+        315.7070007324219,
+        7511.08984375
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "The Room",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

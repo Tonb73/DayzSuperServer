@@ -1,0 +1,6 @@
+14:31:42.441 [VehicleDestroyed] ExpansionBus (id=78FC45D6714A50B5A1AD379746D4D251 pos=<6391.565918, 9.135974, 2696.854736>)
+14:31:43.750 [VehicleDeleted] ExpansionBus (id=AABF26D43C493C44A16CAF9BAAB74DC4 pos=<6391.565918, 9.135974, 2696.854736>)
+14:32:54.734 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:32:54.738 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:32:54.738 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:32:54.738 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=

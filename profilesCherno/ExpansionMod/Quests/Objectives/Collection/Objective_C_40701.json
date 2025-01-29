@@ -1,0 +1,22 @@
+{
+    "ConfigVersion": 28,
+    "ID": 701,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Отдайте образцы Артему",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+		{
+            "ClassName": "Grenade_ChemGas",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,7 @@
+12:52:59.414 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11877.053711, 140.012451, 12458.119141>) Entered the safezone
+12:52:59.457 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:52:59.457 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:52:59.457 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:52:59.457 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:54:05.347 [AI Patrol] Spawning 3 West bots at <4542.055176, 327.833862, 5630.907227>
+12:54:17.812 [AI Patrol] Spawning 2 West bots at <4115.280273, 354.116669, 5911.437988>

@@ -1,0 +1,81 @@
+13:03:14.441 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11877.053711, 140.012451, 12458.119141>) Entered the safezone
+13:03:14.546 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+13:03:14.546 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+13:03:14.546 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+13:03:14.546 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+13:07:05.386 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Medical
+13:09:55.152 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12183.480469, 141.499496, 12992.653320>) Left the safezone
+13:11:14.664 [Killfeed] AI Helga (Отряд Yeet) был убит Da da Ya с КА-101 из 3 м расстояние.
+13:11:37.824 [Killfeed] AI Judy (Шаманы) был убит Da da Ya с КА-101 из 14 м расстояние.
+13:11:38.652 [Killfeed] AI Denis (Шаманы) был убит Da da Ya с КА-101 из 14 м расстояние.
+13:11:39.968 [Killfeed] AI Taiki (Шаманы) был убит Da da Ya с КА-101 из 12 м расстояние.
+13:11:43.390 [Killfeed] AI Gabi (Шаманы) был убит Da da Ya с КА-101 из 18 м расстояние.
+13:11:46.898 [Killfeed] AI Irena (Шаманы) был убит Da da Ya с КА-101 из 6 м расстояние.
+13:11:50.527 [Killfeed] AI Linda (Шаманы) был убит Da da Ya с КА-101 из 6 м расстояние.
+13:11:50.933 [Killfeed] AI Eva (Шаманы) был убит Da da Ya с КА-101 из 7 м расстояние.
+13:11:55.750 [Killfeed] AI Peter (Шаманы) был убит Da da Ya с КА-101 из 54 м расстояние.
+13:11:58.464 [Killfeed] AI Baty (Шаманы) был убит Da da Ya с КА-101 из 7 м расстояние.
+13:12:08.835 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12169.310547, 140.012466, 12864.158203>) Entered the safezone
+13:14:19.375 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to sell ruger1022 x1 at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>).
+13:14:19.406 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ruger1022 x1 at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 1274.
+13:14:56.261 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12230.842773, 143.872864, 12962.403320>) Left the safezone
+13:18:01.140 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase expansionutilityboat x1 from the trader "Boats (Jose [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:18:01.214 [VehicleDeleted] ExpansionUtilityBoat (id=13ABDC1A984CCC7847EE999C7A45A8E2 pos=<0.008826, -0.030495, 0.385924>)
+13:18:01.257 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionutilityboat x1 from the trader "Boats (Jose [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 22030.
+13:18:24.769 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase fishingrod x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:18:24.777 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought fishingrod x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 60.
+13:18:32.019 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase hook x5 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:18:32.027 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought hook x5 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 35.
+13:18:32.953 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase worm x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:18:32.960 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought worm x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 2.
+13:18:33.621 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase worm x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:18:33.625 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought worm x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 2.
+13:18:34.019 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase worm x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:18:34.023 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought worm x1 from the trader "Fishing (Eva [#STR_EXPANSION_MARKET_TRADER_FISHING])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 2.
+13:19:15.617 [VehicleCarKey] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<14348.097656, 0.688944, 13236.318359>) used the  ExpansionCarKey to unlock ExpansionUtilityBoat (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.090095, 13236.185547>)
+13:19:41.015 [VehicleCarKey] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<14348.550781, 0.797350, 13236.042969>) used the  ExpansionCarKey to lock ExpansionUtilityBoat (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.014328, 13236.185547>)
+13:19:42.285 [VehicleCarKey] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<14348.550781, 0.797350, 13236.042969>) used the  ExpansionCarKey to unlock ExpansionUtilityBoat (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.014328, 13236.185547>)
+13:19:50.984 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle RHIB (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.014328, 13236.185547>) as passenger
+13:19:54.187 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle RHIB (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.014328, 13236.185547>)
+13:20:01.496 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle RHIB (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.183641, 13236.185547>) as driver
+13:20:04.503 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle RHIB (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, 0.019386, 13236.185547>)
+13:20:08.082 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle RHIB (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.339371, 13236.185547>)
+13:20:13.250 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle RHIB (id=903785A7004B1AA577BE148315E3CA65 pos=<14347.808594, -0.237011, 13236.185547>)
+13:20:43.550 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has send a requested to purchase expansionzodiacboat x1 from the trader "Boats (Jose [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>).
+13:20:43.558 [VehicleDeleted] ExpansionZodiacBoat (id=ECFD37BD9344674B0804F4B2F5A2A0A9 pos=<-0.004938, 0.609635, -1.417695>)
+13:20:43.562 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionzodiacboat x1 from the trader "Boats (Jose [#STR_EXPANSION_MARKET_TRADER_BOATS])" in market zone "Svetloyarsk Trading Zone" (pos=<14377.099609, 4.100000, 13272.900391>) for a price of 22030.
+13:21:09.214 [VehicleCarKey] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<14344.199219, 0.137774, 13218.651367>) used the  ExpansionCarKey to unlock ExpansionZodiacBoat (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14344.094727, 0.101665, 13218.283203>)
+13:21:38.558 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14343.529297, -0.175524, 13218.739258>) as driver
+13:21:41.160 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14343.425781, 0.095690, 13218.842773>)
+13:21:45.742 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14343.246094, 0.205960, 13219.021484>)
+13:21:48.097 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14343.154297, -0.073078, 13219.111328>)
+13:21:50.347 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14343.066406, -0.200176, 13219.111328>)
+13:21:53.644 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, 0.078903, 13219.111328>)
+13:22:48.113 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, 0.197509, 13219.111328>) as driver
+13:22:50.542 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, -0.087295, 13219.111328>)
+13:22:53.242 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, -0.211964, 13219.111328>)
+13:22:55.343 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, -0.030936, 13219.111328>)
+13:22:58.886 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, 0.277808, 13219.111328>)
+13:23:00.992 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, 0.155496, 13219.111328>)
+13:23:06.140 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle PBX (id=4ADFF76E22412D4D45DE25B1CF8C02C8 pos=<14342.941406, -0.198186, 13219.111328>)
+13:26:29.519 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle PBX (id=8CCF6720A04D8AAC8CE1E281D64A5CEF pos=<14298.631836, 0.120782, 13244.975586>) as driver
+13:26:31.671 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle PBX (id=8CCF6720A04D8AAC8CE1E281D64A5CEF pos=<14298.631836, 0.225303, 13244.975586>)
+13:27:09.640 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle PBX (id=8CCF6720A04D8AAC8CE1E281D64A5CEF pos=<14446.268555, 0.209862, 12992.116211>)
+13:27:49.925 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12099.113281, 139.819901, 12573.880859>) Entered the safezone
+13:28:28.285 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<12402.818359, 129.171158, 13163.882813>) Left the safezone
+13:28:52.851 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle M1025 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12501.554688, 131.097260, 13145.826172>) as driver
+13:28:55.320 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle M1025 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12501.554688, 131.097244, 13145.826172>)
+13:29:27.003 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle M1025 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12425.507813, 144.331207, 13059.321289>)
+13:30:00.750 [VehicleDestroyed] Offroad_02 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12425.630859, 144.380295, 13058.913086>)
+13:30:11.265 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle M1025 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12425.632813, 144.376007, 13058.920898>) as driver
+13:30:15.066 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle M1025 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12425.634766, 144.373337, 13058.924805>)
+13:30:37.816 [Killfeed] AI Cyril (Наёмники) был убит Da da Ya с КА-101 из 60 м расстояние.
+13:31:20.746 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Транзитный автобус (id=AABF26D43C493C44A16CAF9BAAB74DC4 pos=<6391.574707, 9.259137, 2696.855957>) as driver
+13:31:23.480 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Транзитный автобус (id=AABF26D43C493C44A16CAF9BAAB74DC4 pos=<6391.575195, 9.258921, 2696.855713>)
+13:31:28.332 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Транзитный автобус (id=AABF26D43C493C44A16CAF9BAAB74DC4 pos=<6391.575195, 9.258913, 2696.855713>)
+13:31:32.234 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Транзитный автобус (id=AABF26D43C493C44A16CAF9BAAB74DC4 pos=<6391.575195, 9.258917, 2696.855713>)
+13:32:05.214 [VehicleDestroyed] ExpansionBus (id=AABF26D43C493C44A16CAF9BAAB74DC4 pos=<6391.565918, 9.135974, 2696.854736>)
+13:35:01.546 [Killfeed] Da da Ya был убит AI Kaito (Наёмники) с AUR AX из 45 м расстояние.
+13:35:45.015 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <13345.599609, 1.877930, 6987.359863>
+13:36:08.574 [VehicleDeleted] Offroad_02 (id=2F6F898E6141DE259DDA89AEBDF64C9E pos=<12425.634766, 144.373505, 13058.924805>)
+13:38:14.281 [Killfeed] AI Naomi (Наёмники) умер от потери крови.

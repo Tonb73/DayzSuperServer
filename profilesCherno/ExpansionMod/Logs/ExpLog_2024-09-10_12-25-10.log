@@ -1,0 +1,25 @@
+12:25:13.160 [AI Object Patrol] Generating default Object Patrol config for chernarusplus
+12:25:13.160 [AI Patrol] Generating default Patrol config for chernarusplus
+12:28:19.203 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11885.837891, 140.033432, 12446.529297>) Entered the safezone
+12:28:19.234 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:28:19.234 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:28:19.234 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:28:19.238 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:28:59.328 [AI Object Patrol] Spawning 2 West bots at <4785.965820, 339.100006, 10582.545898>
+12:29:10.914 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4426.412109, 339.262573, 10179.602539>) Left the safezone
+12:32:10.656 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer_Military
+12:32:20.734 [AI Object Patrol] Spawning 2 West bots at <4121.494141, 339.000000, 10414.854492>
+12:43:45.761 [Killfeed] AI Mirek (Запад) был убит Da da Ya с M4-A1 из 111 м расстояние.
+12:47:00.089 [Killfeed] AI Boris (Запад) был убит Da da Ya при помощи.
+12:47:00.511 [AI Object Patrol] West bots were wiped out (spawn position <4785.965820, 339.100006, 10582.545898>, 2/2 deceased)
+12:49:03.992 [Killfeed] AI Baty (Запад) был убит Da da Ya при помощи.
+12:49:26.359 [Killfeed] AI Manua (Запад) был убит Da da Ya при помощи.
+12:49:29.968 [AI Object Patrol] West bots were wiped out (spawn position <4121.494141, 339.000000, 10414.854492>, 2/2 deceased)
+12:51:24.902 [Killfeed] AI Irena (Рейдеры) умер от Химическое отравление.
+12:51:35.792 [Killfeed] AI Denis (Наёмники) был убит Da da Ya с КА-M из 1 м расстояние.
+12:51:49.804 [Killfeed] AI Seth (Пассивные) был убит Da da Ya с КА-M из 2 м расстояние.
+12:52:02.789 [Killfeed] AI Elias (Отряд Yeet) был убит Da da Ya с КА-M из 1 м расстояние.
+12:54:06.449 [Killfeed] AI Guo (Шаманы) был убит Da da Ya голыми руками.
+12:54:46.652 [Killfeed] AI Peter (Охрана) был убит Da da Ya с M16-A2 из 1 м расстояние.
+13:05:08.882 [AI Object Patrol] Spawning 3 West bots at <4463.014648, 339.040009, 9795.827148>
+13:05:09.078 [AI Object Patrol] Spawning 3 West bots at <4744.733887, 339.000000, 10321.904297>

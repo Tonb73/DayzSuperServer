@@ -1,0 +1,82 @@
+{
+    "ConfigVersion": 22,
+    "ID": 1103,
+    "Type": 1,
+    "Title": "Контрабандисты Часть 3",
+    "Descriptions": [
+        "Вам удалось найти записку, с планом дейсвтий на случай экстренных ситуаций. Там указаны координаты, куда должен был направится торговец. Вы видите следы и следуете по ним.",
+		"Вам необходиом продолжать идти по следу контрабандиста, чтобы найти его.",
+		"Черт, поездка затянулась. Главное, что тебе удалось его спасти. Ожидай новостей. Думаю, после твоего подвига мне удастся выторговать скидку."
+
+
+    ],
+    "ObjectiveText": "Cпасите контрабандииста",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q1102",
+    "QuestItems": [
+		],
+    "Rewards": [
+		 {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 6000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+      
+    ],
+    "QuestTurnInIDs": [
+       1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":1504,
+            "ObjectiveType":3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1505,
+            "ObjectiveType":3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1506,
+            "ObjectiveType":3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":601,
+            "ObjectiveType":9
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [1102],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
