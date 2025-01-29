@@ -1,0 +1,17 @@
+# Ignore everything
+/*
+
+
+# ./profilesCherno/*
+# ./profilesTakistan/*
+
+# But not these files...
+!.gitignore
+!script.pl
+!template.latex
+# etc...
+
+!/mpmissions
+mpmissions/*
+!/mpmissions/ExpansionDNM.TakistanPlus
+!/mpmissions/ExpansionDNM.chernarusplus
