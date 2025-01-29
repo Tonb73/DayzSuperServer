@@ -11,6 +11,13 @@
 !template.latex
 # etc...
 
+!serverDZCherno.cfg
+!serverDZTakistan.cfg
+!startEarlyWinterChernarus.bat
+!startTakistanPlus.bat
+
+!/keys
+
 !/profilesCherno
 profilesCherno/*
 !/profilesCherno/AIMissions
