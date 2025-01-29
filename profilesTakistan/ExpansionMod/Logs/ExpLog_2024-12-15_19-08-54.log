@@ -1,0 +1,736 @@
+19:09:09.531 [Expansion Quests] Added objects set for quest ID=61001 from file=q61001
+19:09:09.531 [Expansion Quests] Added objects set for quest ID=6501 from file=q6501
+19:09:09.531 [Expansion Quests] Added objects set for quest ID=6601 from file=q6601
+19:09:59.789 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+19:09:59.796 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.851 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.859 [Expansion Quests] Loaded existing group quest data for group with ID=1
+19:09:59.859 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.859 [Expansion Quests] Check quest initialization for quest with ID=6601 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.859 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.859 [Expansion Quests] Create new quest instance for quest with ID=61001 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Spawned objects from set for quest ID=61001 from file=$mission:expansion\quests\\objects\q61001.map
+19:09:59.867 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.867 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Sending player quest data for 4 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:09:59.875 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+19:09:59.875 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+19:09:59.875 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+19:09:59.882 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+19:10:00.343 [AI Object Patrol 00161] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15109.831055, 10.612940, 13830.584961>
+19:10:00.359 [AI Object Patrol 00161] Global patrol count: 1
+19:10:00.398 [AI Object Patrol 00167] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15073.666992, 14.630593, 13821.838867>
+19:10:00.421 [AI Object Patrol 00167] Global patrol count: 2
+19:10:00.578 [AI Object Patrol 00163] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15117.799805, 13.498250, 13842.850586>
+19:10:00.593 [AI Object Patrol 00163] Global patrol count: 3
+19:10:00.765 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+19:10:25.648 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=501
+19:10:25.648 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+19:10:25.648 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+19:10:25.656 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+19:10:25.843 [AI Object Patrol 00165] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15218.363281, 1.438468, 13743.149414>
+19:10:25.882 [AI Object Patrol 00165] Global patrol count: 4
+19:10:26.218 [AI Object Patrol 00162] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15183.999023, 3.259924, 13806.811523>
+19:10:26.257 [AI Object Patrol 00162] Global patrol count: 5
+19:10:26.328 [AI Object Patrol 00164] Spawning 1 QuestEnemyTier2 (Mercenaries) bots at <15197.323242, 0.587501, 13800.914063>
+19:10:26.343 [AI Object Patrol 00164] Global patrol count: 6
+19:10:26.523 [AI Object Patrol 00166] Spawning 1 QuestEnemyTier3 (Mercenaries) bots at <15217.612305, 0.789041, 13763.211914>
+19:10:26.546 [AI Object Patrol 00166] Global patrol count: 7
+19:10:42.710 [Killfeed] AI Baty (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 3 м расстояние.
+19:10:45.351 [AI Object Patrol 00167] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15073.666992, 14.630593, 13821.838867>, 1/1 deceased)
+19:10:45.351 [AI Object Patrol 00167] Global patrol count: 6
+19:10:46.507 [Killfeed] AI Niki (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 31 м расстояние.
+19:10:49.937 [Killfeed] AI Elias (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 43 м расстояние.
+19:10:50.312 [AI Object Patrol 00161] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15109.831055, 10.612940, 13830.584961>, 1/1 deceased)
+19:10:50.312 [AI Object Patrol 00161] Global patrol count: 5
+19:10:50.546 [AI Object Patrol 00163] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15117.799805, 13.498250, 13842.850586>, 1/1 deceased)
+19:10:50.546 [AI Object Patrol 00163] Global patrol count: 4
+19:10:59.289 [Killfeed] AI Maria (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 13 м расстояние.
+19:11:00.265 [AI Object Patrol 00164] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15197.323242, 0.587501, 13800.914063>, 1/1 deceased)
+19:11:00.265 [AI Object Patrol 00164] Global patrol count: 3
+19:11:06.695 [Killfeed] AI Mirek (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 4 м расстояние.
+19:11:10.773 [AI Object Patrol 00165] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15218.363281, 1.438468, 13743.149414>, 1/1 deceased)
+19:11:10.773 [AI Object Patrol 00165] Global patrol count: 2
+19:11:13.765 [Killfeed] AI Helga (QuestEnemyTier2) был убит [Falco] Survivor с testing AKM из 3 м расстояние.
+19:11:15.156 [AI Object Patrol 00162] QuestEnemyTier2 (Mercenaries) bots were wiped out (spawn position <15183.999023, 3.259924, 13806.811523>, 1/1 deceased)
+19:11:15.156 [AI Object Patrol 00162] Global patrol count: 1
+19:11:20.718 [Killfeed] AI Quinn (QuestEnemyTier3) был убит [Falco] Survivor с testing AKM из 3 м расстояние.
+19:11:25.460 [AI Object Patrol 00166] QuestEnemyTier3 (Mercenaries) bots were wiped out (spawn position <15217.612305, 0.789041, 13763.211914>, 1/1 deceased)
+19:11:25.460 [AI Object Patrol 00166] Global patrol count: 0
+19:11:36.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61001
+19:11:36.093 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has cancelled quest with ID=61001. State=STARTED
+19:11:36.093 [AI Object Patrol 00161] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15130.227539, 9.719268, 13831.013672>, 1/1 deceased)
+19:11:36.093 [AI Object Patrol 00162] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15200.717773, 1.269320, 13818.354492>, 1/1 deceased)
+19:11:36.093 [AI Object Patrol 00163] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15138.926758, 10.252725, 13856.514648>, 1/1 deceased)
+19:11:36.093 [AI Object Patrol 00164] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15186.203125, 2.414919, 13794.720703>, 1/1 deceased)
+19:11:36.093 [AI Object Patrol 00165] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15218.363281, 1.438468, 13743.149414>, 1/1 deceased)
+19:11:36.093 [AI Object Patrol 00166] Despawning 0 QuestEnemyTier3 (Mercenaries) bots (spawn position <15210.525391, 2.183258, 13742.463867>, 1/1 deceased)
+19:11:36.093 [AI Object Patrol 00167] Despawning 0 QuestEnemyTier2 (Mercenaries) bots (spawn position <15090.454102, 14.169846, 13841.375977>, 1/1 deceased)
+19:11:45.335 [AI Object Patrol 00041] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <11051.066406, 227.129684, 12484.645508>
+19:11:45.359 [AI Object Patrol 00041] Global patrol count: 1
+19:11:45.359 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11000.875977, 226.592667, 12436.555664>
+19:11:45.375 [AI Object Patrol 00038] Global patrol count: 2
+19:11:45.375 [AI Patrol 00073] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11848.805664, 140.060806, 12425.198242>
+19:11:45.398 [AI Patrol 00073] Global patrol count: 3
+19:11:45.398 [AI Patrol 00071] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11864.199219, 139.996796, 12481.768555>
+19:11:45.414 [AI Patrol 00071] Global patrol count: 4
+19:11:45.414 [AI Patrol 00072] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11954.672852, 140.000000, 12467.312500>
+19:11:45.429 [AI Patrol 00072] Global patrol count: 5
+19:11:45.429 [AI Patrol 00070] Spawning 2 Krasnostav_Trader (Guards) bots at <11940.162109, 140.250000, 12443.251953>
+19:11:45.445 [AI Patrol 00070] Global patrol count: 6
+19:11:45.445 [AI Patrol 00077] Spawning 1 Krasnostav_Tier1 (Raiders) bots at <11081.179688, 213.831726, 12349.641602>
+19:11:45.460 [AI Patrol 00077] Global patrol count: 7
+19:11:46.718 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11891.038086, 140.000000, 12479.027344>) Entered the safezone
+19:14:44.859 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Military
+19:15:49.726 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:15:49.726 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:15:49.726 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:15:49.726 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:15:49.726 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:15:49.726 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=61101
+19:15:50.226 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:15:50.226 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:15:50.226 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:15:50.226 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:15:50.226 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:01.429 [AI Object Patrol 00057] Spawning 2 OilStation_Tier2RR (Raiders) bots at <13384.606445, 4.281984, 6620.350586>
+19:16:01.445 [AI Object Patrol 00057] Global patrol count: 8
+19:16:09.867 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:09.867 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:09.867 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:09.867 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:09.867 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:12.164 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<13420.576172, 11.022402, 6231.340332>) Left the safezone
+19:16:12.710 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:12.710 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:12.710 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:12.710 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:12.710 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:25.992 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:25.992 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:25.992 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:25.992 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:25.992 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:26.492 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:26.492 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:26.492 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:26.492 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:26.492 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:31.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:31.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:31.398 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:41.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:41.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:41.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:41.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:41.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:16:51.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:16:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:16:51.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:16:51.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:16:55.515 [Killfeed] Клиент был убит [Falco] Survivor с testing AKM из 3 м расстояние.
+19:17:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:17:01.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:17:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:17:01.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:17:01.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:17:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:17:11.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:17:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:17:11.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:17:11.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:17:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:17:21.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:17:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:17:21.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:17:21.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:17:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:17:31.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:17:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:17:31.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:17:31.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:17:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:17:41.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:17:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:17:41.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:17:41.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:17:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:17:51.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:17:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:17:51.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:17:51.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:18:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:18:01.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:18:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:18:01.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:18:01.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:18:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:18:11.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:18:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:18:11.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:18:11.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:18:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:18:21.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:18:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:18:21.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:18:21.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:18:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:18:31.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:18:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:18:31.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:18:31.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:18:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:18:41.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:18:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:18:41.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:18:41.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:18:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:18:51.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:18:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:18:51.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:18:51.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:19:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:19:01.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:19:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:19:01.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:19:01.398 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:19:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:19:11.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:19:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:19:11.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:19:11.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:19:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:19:21.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:19:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:19:21.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:19:21.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:19:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:19:31.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:19:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:19:31.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:19:31.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:19:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:19:41.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:19:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:19:41.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:19:41.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:19:44.890 [VehicleDeleted] Offroad_02 (id=D2FE0F9B5E4C484A8D24B29F6DC0AD61 pos=<4176.373535, 338.710693, 10725.800781>)
+19:19:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:19:51.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:19:51.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:19:51.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:19:51.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:20:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:20:01.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:20:01.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:20:01.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:20:01.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:20:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:20:11.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:20:11.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:20:11.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:20:11.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:20:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:20:21.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:20:21.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:20:21.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:20:21.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:20:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:20:31.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:20:31.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:20:31.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:20:31.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:20:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:20:41.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:20:41.390 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:20:41.390 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:20:41.390 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:20:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:20:51.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:20:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:20:51.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:20:51.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:21:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:21:01.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:21:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:21:01.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:21:01.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:21:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:21:11.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:21:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:21:11.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:21:11.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:21:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:21:21.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:21:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:21:21.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:21:21.398 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:21:28.257 [Killfeed] AI Judy (Krasnostav_Tier1) был убит AI Hassan (WaterPump_Tier0) при помощи.
+19:21:30.523 [AI Patrol 00077] Krasnostav_Tier1 (Raiders) bots were wiped out (spawn position <11081.179688, 213.831726, 12349.641602>, 1/1 deceased)
+19:21:30.523 [AI Patrol 00077] Global patrol count: 7
+19:21:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:21:31.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:21:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:21:31.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:21:31.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:21:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:21:41.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:21:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:21:41.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:21:41.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:21:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:21:51.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:21:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:21:51.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:21:51.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:22:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:22:01.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:22:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:22:01.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:22:01.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:22:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:22:11.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:22:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:22:11.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:22:11.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:22:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:22:21.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:22:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:22:21.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:22:21.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:22:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:22:31.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:22:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:22:31.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:22:31.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:22:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:22:41.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:22:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:22:41.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:22:41.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:22:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:22:51.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:22:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:22:51.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:22:51.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:23:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:23:01.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:23:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:23:01.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:23:01.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:23:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:23:11.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:23:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:23:11.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:23:11.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:23:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:23:21.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:23:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:23:21.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:23:21.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:23:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:23:31.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:23:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:23:31.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:23:31.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:23:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:23:41.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:23:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:23:41.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:23:41.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:23:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:23:51.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:23:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:23:51.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:23:51.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:24:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:24:01.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:24:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:24:01.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:24:01.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:24:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:24:11.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:24:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:24:11.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:24:11.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:24:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:24:21.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:24:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:24:21.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:24:21.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:24:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:24:31.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:24:31.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:24:31.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:24:31.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:24:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:24:41.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:24:41.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:24:41.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:24:41.398 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:24:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:24:51.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:24:51.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:24:51.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:24:51.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:25:01.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:25:01.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:25:01.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:25:01.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:25:11.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:25:11.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:25:11.398 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:25:11.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:25:21.398 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:25:21.398 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:25:21.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:25:21.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:31.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:25:31.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:25:31.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:25:31.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:25:31.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:41.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:25:41.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:25:41.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:25:41.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:25:41.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:51.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:25:51.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:25:51.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:25:51.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:25:51.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:25:55.500 [AI Patrol 00070] Despawning 2 Krasnostav_Trader (Guards) bots (spawn position <11940.162109, 140.250000, 12443.251953>, 0/2 deceased)
+19:25:55.500 [AI Patrol 00070] Global patrol count: 6
+19:25:59.890 [AI Patrol 00073] Despawning 2 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11848.805664, 140.060806, 12425.198242>, 0/2 deceased)
+19:25:59.890 [AI Patrol 00073] Global patrol count: 5
+19:25:59.976 [AI Patrol 00071] Despawning 2 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11864.199219, 139.996796, 12481.768555>, 0/2 deceased)
+19:25:59.976 [AI Patrol 00071] Global patrol count: 4
+19:26:00.023 [AI Patrol 00072] Despawning 2 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11954.672852, 140.000000, 12467.312500>, 0/2 deceased)
+19:26:00.023 [AI Patrol 00072] Global patrol count: 3
+19:26:00.820 [AI Object Patrol 00038] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <11000.875977, 226.592667, 12436.555664>, 0/1 deceased)
+19:26:00.820 [AI Object Patrol 00038] Global patrol count: 2
+19:26:00.820 [AI Object Patrol 00041] Despawning 1 PoliceStation_Tier1 (Raiders) bots (spawn position <11051.066406, 227.129684, 12484.645508>, 0/1 deceased)
+19:26:00.820 [AI Object Patrol 00041] Global patrol count: 1
+19:26:01.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:26:01.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:26:01.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:26:01.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:26:01.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:26:11.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:26:11.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:26:11.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:26:11.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:26:11.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:26:21.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:26:21.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:26:21.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:26:21.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:26:21.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:26:31.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:26:31.406 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:26:31.406 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:26:31.406 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:26:31.406 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:26:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:26:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:26:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:26:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:26:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:26:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:26:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:26:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:26:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:26:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:27:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:27:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:27:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:27:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:27:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:27:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:27:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:27:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:27:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:27:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:27:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:27:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:27:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:27:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:27:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:27:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:27:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:27:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:27:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:27:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:27:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:27:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:27:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:27:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:27:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:27:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:27:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:27:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:27:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:27:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:28:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:28:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:28:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:28:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:28:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:28:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:28:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:28:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:28:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:28:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:28:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:28:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:28:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:28:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:28:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:28:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:28:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:28:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:28:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:28:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:28:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:28:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:28:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:28:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:28:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:28:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:28:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:28:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:28:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:28:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:29:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:29:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:29:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:29:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:29:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:29:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:29:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:29:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:29:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:29:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:29:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:29:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:29:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:29:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:29:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:29:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:29:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:29:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:29:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:29:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:29:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:29:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:29:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:29:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:29:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:29:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:29:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:29:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:29:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:29:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:30:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:30:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:30:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:30:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:30:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:30:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:30:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:30:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:30:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:30:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:30:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:30:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:30:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:30:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:30:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:30:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:30:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:30:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:30:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:30:31.421 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:30:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:30:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:30:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:30:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:30:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:30:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:30:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:30:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:30:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:30:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:31:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:31:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:31:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:31:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:31:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:31:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:31:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:31:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:31:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:31:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:31:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:31:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:31:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:31:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:31:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:31:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:31:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:31:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:31:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:31:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:31:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:31:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:31:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:31:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:31:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:31:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:31:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:31:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:31:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:31:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:32:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:32:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:32:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:32:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:32:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:32:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:32:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:32:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:32:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:32:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:32:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:32:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:32:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:32:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:32:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:32:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:32:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:32:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:32:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:32:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:32:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:32:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:32:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:32:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:32:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:32:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:32:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:32:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:32:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:32:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:33:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:33:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:33:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:33:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:33:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:33:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:33:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:33:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:33:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:33:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:33:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:33:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:33:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:33:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:33:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:33:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:33:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:33:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:33:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:33:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:33:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:33:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:33:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:33:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:33:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:33:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:33:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:33:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:33:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:33:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:34:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:34:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:34:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:34:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:34:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:34:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:34:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:34:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:34:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:34:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:34:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:34:21.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:34:21.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:34:21.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:34:21.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:34:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:34:31.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:34:31.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:34:31.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:34:31.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:34:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:34:41.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:34:41.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:34:41.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:34:41.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:34:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:34:51.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:34:51.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:34:51.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:34:51.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:35:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:35:01.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:35:01.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:35:01.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:35:01.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:35:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+19:35:11.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+19:35:11.414 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+19:35:11.414 [Expansion Quests] Added new objective data for type=AIESCORT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+19:35:11.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:35:16.718 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61101
+19:35:16.718 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has cancelled quest with ID=61101. State=STARTED
+19:35:25.093 [AI Object Patrol 00058] Spawning 1 WaterPump_Tier0 (Raiders) bots at <12943.843750, 22.569546, 8031.224121>
+19:35:25.109 [AI Object Patrol 00058] Global patrol count: 2
+19:35:25.109 [AI Patrol 00146] Spawning 2 Nizhneye_Tier1 (Raiders) bots at <12977.673828, 19.643059, 8083.875977>
+19:35:25.125 [AI Patrol 00146] Global patrol count: 3
+19:35:25.125 [AI Object Patrol 00180] Spawning 1 WaterPump_Tier0 (Raiders) bots at <12084.663086, 190.774292, 7201.571289>
+19:35:25.132 [AI Object Patrol 00180] Global patrol count: 4
+19:35:25.859 [AI Object Patrol 00022] Spawning 1 WaterPump_Tier0 (Raiders) bots at <13404.658203, 5.713189, 6272.898438>
+19:35:25.875 [AI Object Patrol 00022] Global patrol count: 5
+19:38:47.250 [AI Object Patrol 00042] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10755.019531, 56.306244, 14382.314453>
+19:38:47.257 [AI Object Patrol 00042] Global patrol count: 6
+19:43:15.218 [AI Object Patrol 00057] Despawning 2 OilStation_Tier2RR (Raiders) bots (spawn position <13384.606445, 4.281984, 6620.350586>, 0/2 deceased)
+19:43:15.218 [AI Object Patrol 00057] Global patrol count: 5
+19:45:29.140 [AI Patrol 00100] Spawning 1 Novodmitrovsk_Tier1 (Raiders) bots at <11957.240234, 27.532154, 14360.955078>
+19:45:29.164 [AI Patrol 00100] Global patrol count: 6
+19:47:34.460 [AI Object Patrol 00180] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <12084.663086, 190.774292, 7201.571289>, 0/1 deceased)
+19:47:34.460 [AI Object Patrol 00180] Global patrol count: 5
+19:47:59.929 [AI Patrol 00146] Despawning 2 Nizhneye_Tier1 (Raiders) bots (spawn position <12977.673828, 19.643059, 8083.875977>, 0/2 deceased)
+19:47:59.929 [AI Patrol 00146] Global patrol count: 4
+19:48:45.531 [AI Object Patrol 00058] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <12943.843750, 22.569546, 8031.224121>, 0/1 deceased)
+19:48:45.531 [AI Object Patrol 00058] Global patrol count: 3
+19:48:45.867 [AI Object Patrol 00022] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <13404.658203, 5.713189, 6272.898438>, 0/1 deceased)
+19:48:45.867 [AI Object Patrol 00022] Global patrol count: 2
+19:54:05.882 [AI Object Patrol 00042] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <10755.019531, 56.306244, 14382.314453>, 0/1 deceased)
+19:54:05.882 [AI Object Patrol 00042] Global patrol count: 1

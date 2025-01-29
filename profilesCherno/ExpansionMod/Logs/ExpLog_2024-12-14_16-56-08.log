@@ -1,0 +1,42 @@
+16:57:09.597 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11839.456055, 140.605057, 12466.466797>) Entered the safezone
+16:57:09.597 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+16:57:09.597 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:57:09.636 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:57:09.636 [Expansion Quests] Loaded existing group quest data for group with ID=1
+16:57:09.648 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:57:09.648 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:57:09.656 [AI Object Patrol 00037] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11005.536133, 226.445679, 12425.210938>
+16:57:09.667 [AI Object Patrol 00037] Global patrol count: 1
+16:57:09.671 [AI Object Patrol 00040] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <11065.053711, 227.751419, 12482.837891>
+16:57:09.714 [AI Object Patrol 00040] Global patrol count: 2
+16:57:09.714 [AI Patrol 00080] Spawning 2 Krasnostav_Tier1 (Raiders) bots at <11043.763672, 211.074097, 12253.726563>
+16:57:09.734 [AI Patrol 00080] Global patrol count: 3
+16:57:10.570 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+16:58:15.308 [AI Object Patrol 00045] Spawning 1 WaterPump_Tier0 (Raiders) bots at <12112.363281, 95.259277, 13726.666992>
+16:58:15.320 [AI Object Patrol 00045] Global patrol count: 4
+16:58:15.320 [AI Patrol 00079] Spawning 1 ChernayaPolyana_Tier1 (Raiders) bots at <12194.516602, 92.322395, 13548.739258>
+16:58:15.382 [AI Patrol 00079] Global patrol count: 5
+16:58:15.500 [AI Patrol 00068] Spawning 1 Krasnostav_Trader (Civilian) bots at <11806.822266, 140.444489, 12442.449219>
+16:58:15.523 [AI Patrol 00068] Global patrol count: 6
+16:58:15.585 [AI Patrol 00074] Spawning 1 Krasnostav_Trader (Civilian) bots at <11795.762695, 140.980865, 12396.221680>
+16:58:15.601 [AI Patrol 00074] Global patrol count: 7
+16:58:16.089 [AI Patrol 00072] Spawning 1 Krasnostav_Trader (Civilian) bots at <11858.562500, 140.486893, 12400.065430>
+16:58:16.113 [AI Patrol 00072] Global patrol count: 8
+16:58:16.117 [AI Patrol 00073] Spawning 1 Krasnostav_Trader (Civilian) bots at <11908.857422, 141.612320, 12409.476563>
+16:58:16.132 [AI Patrol 00073] Global patrol count: 9
+16:58:16.167 [AI Patrol 00076] Spawning 1 Krasnostav_Trader (Civilian) bots at <11899.760742, 141.787949, 12391.440430>
+16:58:16.187 [AI Patrol 00076] Global patrol count: 10
+16:58:16.554 [AI Patrol 00069] Spawning 1 Krasnostav_Trader (Civilian) bots at <11941.461914, 141.879135, 12405.215820>
+16:58:16.582 [AI Patrol 00069] Global patrol count: 11
+16:58:16.730 [AI Patrol 00070] Spawning 1 Krasnostav_Trader (Civilian) bots at <11901.109375, 140.582291, 12429.494141>
+16:58:16.753 [AI Patrol 00070] Global patrol count: 12
+16:58:19.757 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11854.288086, 141.759903, 12655.571289>) Entered the safezone
+17:01:16.671 [AI Patrol 00070] Krasnostav_Trader (Civilian) bots were wiped out (spawn position <11901.109375, 140.582291, 12429.494141>, 1/1 deceased)
+17:01:16.671 [AI Patrol 00070] Global patrol count: 11
+17:01:56.191 [MissionAirdrop] An airdrop is heading towards "Novy Sobor" (pos=<7436.000000, 0.000000, 7720.000000> type=Random_Novy Sobor) with a ExpansionAirdropContainer_Medical
+17:02:11.753 [Killfeed] AI Manua (ChernayaPolyana_Tier1) был убит AI Helga (WaterPump_Tier0) голыми руками.
+17:02:12.039 [AI Patrol 00079] ChernayaPolyana_Tier1 (Raiders) bots were wiped out (spawn position <12194.516602, 92.322395, 13548.739258>, 1/1 deceased)
+17:02:12.039 [AI Patrol 00079] Global patrol count: 10
+17:03:33.207 [Killfeed] AI Indar (WaterPump_Tier0) был убит AI Maria (PoliceStation_Tier1) при помощи.
+17:03:36.500 [AI Object Patrol 00037] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <11005.536133, 226.445679, 12425.210938>, 1/1 deceased)
+17:03:36.500 [AI Object Patrol 00037] Global patrol count: 9

@@ -1,0 +1,259 @@
+{
+    "OverrideMapSize": 1,
+    "MapSize": 12800,
+    "BomberAltitude": 1000,
+    "BomberSpeed": 25,
+    "NumOfBombs": 30,
+    "Notifications": 1,
+    "EnableShips": 0,
+    "EnableSubmarine": 0,
+    "EnableAndula": 0,
+    "EnableMig21": 1,
+    "EnableUFO": 0,
+    "EnableMi24": 1,
+    "EnableMi6": 1,
+    "EnableBalloon": 0,
+    "Interval": 10.0,
+    "SubmarineInterval": 60.0,
+    "BoatInterval": 60.0,
+    "AndulaInterval": 60.0,
+    "Mig21Interval": 30.0,
+    "UFOInterval": 60.0,
+    "Mi24Interval": 30.0,
+    "Mi6Interval": 30.0,
+    "BalloonInterval": 60.0,
+    "AirRaidLocations": [
+        {
+            "name": "Adinaqla",
+            "sirenpos": "7373.9 310 1688.1",
+            "target": "7396.51 0 1669",
+            "type": "normal"
+        },
+        {
+            "name": "LoyManara AirBase 1",
+            "sirenpos": "8123.9 310 1989.1",
+            "target": "8240.624 0 2140.1533",
+            "type": "normal"
+        },
+        {
+            "name": "LoyManara AirBase 2",
+            "sirenpos": "8123.9 310 1989.1",
+            "target": "8090 0 2013",
+            "type": "normal"
+        },
+        {
+            "name": "LoyManara AirBase 3",
+            "sirenpos": "8123.9 310 1989.1",
+            "target": "8350 0 1875",
+            "type": "normal"
+        },
+        {
+            "name": "LoyManara",
+            "sirenpos": "8534 322 2392",
+            "target": "8447 0 2466",
+            "type": "normal"
+        },
+        {
+            "name": "Qaikkah",
+            "sirenpos": "10321 375 2334",
+            "target": "10210 0 2372",
+            "type": "normal"
+        },
+        {
+            "name": "Zarandaj",
+            "sirenpos": "8625 443 3758",
+            "target": "8605 0 3855",
+            "type": "normal"
+        },
+        {
+            "name": "Garmsar",
+            "sirenpos": "10820 303 6365",
+            "target": "10820 0 6365",
+            "type": "normal"
+        },
+        {
+            "name": "Garmsar Military",
+            "sirenpos": "10444 265 6425",
+            "target": "10500 0 6442",
+            "type": "normal"
+        },
+        {
+            "name": "Al  Nadaya",
+            "sirenpos": "6705 355 4844",
+            "target": "6692 0 4892",
+            "type": "normal"
+        },
+        {
+            "name": "FeeruzAbad",
+            "sirenpos": "5394 174 6246",
+            "target": "5302 0 6214",
+            "type": "normal"
+        },
+        {
+            "name": "FeeruzAbad Military",
+            "sirenpos": "5193 154 6105",
+            "target": "5144 0 6071",
+            "type": "normal"
+        },
+        {
+            "name": "Al Falludiyah",
+            "sirenpos": "1390 235 3541",
+            "target": "1390 0 3541",
+            "type": "normal"
+        },
+        {
+            "name": "Rustaq Military",
+            "sirenpos": "2627 197 5100",
+            "target": "2627 0 5100",
+            "type": "normal"
+        },
+        {
+            "name": "Gospandi",
+            "sirenpos": "3915 147 9337",
+            "target": "3915 0 9337",
+            "type": "normal"
+        },
+        {
+            "name": "Nagara",
+            "sirenpos": "3145 80 9920",
+            "target": "3047 0 9896",
+            "type": "normal"
+        },
+        {
+            "name": "Laschar_Radarbase",
+            "sirenpos": "11199 312 9083",
+            "target": "11261 0 9117",
+            "type": "normal"
+        },
+        {
+            "name": "Hammaqiya",
+            "sirenpos": "11513 295 8232",
+            "target": "11513 0 8232",
+            "type": "normal"
+        },
+        {
+            "name": "Hachaman",
+            "sirenpos": "9132 203 9571",
+            "target": "9180 0 9685",
+            "type": "normal"
+        },
+        {
+            "name": "Zavarak",
+            "sirenpos": "9832 135 11478",
+            "target": "9832 0 11478",
+            "type": "normal"
+        },
+        {
+            "name": "Rasman 1",
+            "sirenpos": "6205 90 11193",
+            "target": "6205 0 11193",
+            "type": "normal"
+        },
+        {
+            "name": "Rasman 2",
+            "sirenpos": "6205 90 11193",
+            "target": "6376 0 11330",
+            "type": "normal"
+        },
+        {
+            "name": "Rasman Airbase 1",
+            "sirenpos": "5640 90 11148",
+            "target": "5640 0 11148",
+            "type": "normal"
+        },
+        {
+            "name": "Rasman Airbase 2",
+            "sirenpos": "5640 90 11148",
+            "target": "5873 0 11269",
+            "type": "normal"
+        },
+        {
+            "name": "Rasman Airbase 3",
+            "sirenpos": "5640 90 11148",
+            "target": "6050 0 11452",
+            "type": "normal"
+        },
+        {
+            "name": "Jaglangir",
+            "sirenpos": "4855 120 10550",
+            "target": "4855 0 10550",
+            "type": "normal"
+        },
+        {
+            "name": "Al-Falqas Fields",
+            "sirenpos": "3752 118 11040",
+            "target": "3752 0 11040",
+            "type": "normal"
+        },
+        {
+            "name": "Bastam",
+            "sirenpos": "5635 100 8915",
+            "target": "5635 0 8915",
+            "type": "normal"
+        },
+        {
+            "name": "Nur",
+            "sirenpos": "1782 165 11950",
+            "target": "1782 0 11950",
+            "type": "normal"
+        },
+        {
+            "name": "Nagara",
+            "sirenpos": "3143 80 9916",
+            "target": "3143 0 9916",
+            "type": "normal"
+        }
+    ],
+    "SubTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "0 -1 800",
+                "3092 -1 985",
+                "3676 -1 1677",
+                "6491 -1 1599",
+                "10310 -1 1319",
+                "15500 -1 2500"
+            ]
+        },
+        {
+            "name": "2",
+            "pos": [
+                "3092 -1 985"
+            ]
+        }
+    ],
+    "BoatTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "15323 -1 13495",
+                "13981 -1 8879",
+                "15272 -1 153"
+            ]
+        }
+    ],
+    "PlaneTrajectory": [
+        {
+            "name": "1",
+            "pos": [
+                "4192.7060546875 344.4538269042969 10699.0849609375",
+                "4277.8857421875 344.0179443359375 10550.7919921875",
+                "4374.361328125 344.4550476074219 10384.8037109375",
+                "4422.31787109375 344.4548034667969 10301.302734375",
+                "4496.35009765625 344.7408752441406 10173.0",
+                "4555.76953125 350.7513732910156 10068.740234375",
+                "4666.1533203125 369.5489501953125 9878.236328125",
+                "4812.08984375 412.1827697753906 9626.33984375",
+                "5046.82470703125 518.0183715820313 9205.5380859375",
+                "5276.85986328125 492.1279907226563 8802.3603515625",
+                "6556.58984375 468.00274658203127 6615.77978515625",
+                "8347.1201171875 410.0 3981.1298828125",
+                "8980.419921875 274.90203857421877 2869.1298828125",
+                "9653.0703125 300.0 1782.510009765625",
+                "10236.7998046875 300.0 756.5830078125",
+                "11323.2998046875 300.0 -748.4459838867188"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+19:53:04.632 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11866.985352, 140.197845, 12432.196289>) Entered the safezone
+19:53:04.671 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:53:04.671 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:53:04.671 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+19:53:04.679 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=

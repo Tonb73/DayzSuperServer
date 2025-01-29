@@ -1,0 +1,60 @@
+12:32:36.929 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+12:32:36.929 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:32:36.957 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:32:36.957 [Expansion Quests] Loaded existing group quest data for group with ID=0
+12:32:36.960 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:32:36.960 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:32:37.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+12:35:20.769 [AI Object Patrol 00001] Spawning 2 East bots at <8103.820801, 320.287354, 2370.636719>
+12:35:20.792 [AI Object Patrol 00001] Global patrol count: 1
+12:35:47.296 [AI Patrol 00005] Spawning 1 Raiders bots at <7813.823242, 294.354401, 2036.006836>
+12:35:47.316 [AI Patrol 00005] Global patrol count: 2
+12:36:48.023 [MissionAirdrop] An airdrop is heading towards "Gospandi" (pos=<4135.788086, 0.000000, 9271.548828> type=Random_Gospandi) with a ExpansionAirdropContainer_Military
+12:45:50.738 [Killfeed] AI Keiko (Рейдеры) был убит AI Baty (Восток) с КА-M из 11 м расстояние.
+12:45:53.257 [AI Patrol 00005] Raiders bots were wiped out (spawn position <7813.823242, 294.354401, 2036.006836>, 1/1 deceased)
+12:45:53.257 [AI Patrol 00005] Global patrol count: 1
+12:59:32.582 [AI Object Patrol 00012] Spawning 2 East bots at <7199.699219, 286.454315, 926.540466>
+12:59:32.605 [AI Object Patrol 00012] Global patrol count: 2
+12:59:32.605 [AI Object Patrol 00011] Spawning 3 East bots at <7202.104492, 285.866516, 894.991760>
+12:59:32.621 [AI Object Patrol 00011] Global patrol count: 3
+13:03:18.304 [AI Object Patrol 00011] Despawning 3 East bots (spawn position <7202.104492, 285.866516, 894.991760>, 0/3 deceased)
+13:03:18.304 [AI Object Patrol 00011] Global patrol count: 2
+13:03:18.304 [AI Object Patrol 00012] Despawning 2 East bots (spawn position <7199.699219, 286.454315, 926.540466>, 0/2 deceased)
+13:03:18.304 [AI Object Patrol 00012] Global patrol count: 1
+13:05:05.062 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+13:05:05.855 [AI Object Patrol 00001] Despawning 2 East bots (spawn position <8103.820801, 320.287354, 2370.636719>, 0/2 deceased)
+13:05:05.855 [AI Object Patrol 00001] Global patrol count: 0
+14:42:59.011 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+14:42:59.011 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:42:59.058 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:42:59.062 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:42:59.062 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:42:59.062 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:42:59.992 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+14:44:00.082 [AI Object Patrol 00024] Spawning 3 East bots at <7857.607422, 359.783539, 3194.276123>
+14:44:00.101 [AI Object Patrol 00024] Global patrol count: 1
+14:55:24.902 [AI Object Patrol 00026] Spawning 3 East bots at <5377.840820, 349.823914, 6809.712402>
+14:55:24.921 [AI Object Patrol 00026] Global patrol count: 2
+14:57:01.781 [AI Object Patrol 00024] Despawning 3 East bots (spawn position <7857.607422, 359.783539, 3194.276123>, 0/3 deceased)
+14:57:01.781 [AI Object Patrol 00024] Global patrol count: 1
+14:58:52.937 [AI Object Patrol 00020] Spawning 2 East bots at <3614.147461, 206.368576, 4913.978516>
+14:58:52.953 [AI Object Patrol 00020] Global patrol count: 2
+14:58:52.953 [AI Object Patrol 00019] Spawning 2 East bots at <3620.322266, 205.447601, 4922.816895>
+14:58:52.972 [AI Object Patrol 00019] Global patrol count: 3
+14:58:52.972 [AI Object Patrol 00021] Spawning 1 East bots at <3631.905762, 206.882889, 4896.678223>
+14:58:52.984 [AI Object Patrol 00021] Global patrol count: 4
+14:59:11.964 [AI Patrol 00003] Spawning 1 Raiders bots at <1928.207031, 207.451355, 4013.264404>
+14:59:11.980 [AI Patrol 00003] Global patrol count: 5
+15:08:53.199 [AI Object Patrol 00026] Despawning 3 East bots (spawn position <5377.840820, 349.823914, 6809.712402>, 0/3 deceased)
+15:08:53.199 [AI Object Patrol 00026] Global patrol count: 4
+15:10:12.273 [AI Object Patrol 00019] Despawning 2 East bots (spawn position <3620.322266, 205.447601, 4922.816895>, 0/2 deceased)
+15:10:12.273 [AI Object Patrol 00019] Global patrol count: 3
+15:10:12.320 [AI Object Patrol 00021] Despawning 1 East bots (spawn position <3631.905762, 206.882889, 4896.678223>, 0/1 deceased)
+15:10:12.320 [AI Object Patrol 00021] Global patrol count: 2
+15:10:13.378 [AI Patrol 00003] Despawning 1 Raiders bots (spawn position <1928.207031, 207.451355, 4013.264404>, 0/1 deceased)
+15:10:13.378 [AI Patrol 00003] Global patrol count: 1
+15:10:16.585 [AI Object Patrol 00020] Despawning 2 East bots (spawn position <3614.147461, 206.368576, 4913.978516>, 0/2 deceased)
+15:10:16.585 [AI Object Patrol 00020] Global patrol count: 0
+15:15:23.093 [AI Object Patrol 00031] Spawning 2 East bots at <4184.670410, 79.255913, 10126.335938>
+15:15:23.113 [AI Object Patrol 00031] Global patrol count: 1
+15:20:09.046 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)

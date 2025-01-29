@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 61501,
+    "Type": 1,
+    "Title": "Визит к доктору",
+    "Descriptions": [
+	"Ко мне поступил заказ. Немного мутный, но все же.Пришел какой-то пендос с нарукавной повязкой NATO и предложил гору денег за то, что ты найдешь для него образец какого-то химиката. Тебе нужно будте отправится в Новодмитровск. Но учти, сам город - опасное место и помню бандосы окупировали больничку.. Платят много, даже слишком, честно говоря... Возьмешься?",
+	"Что? Решил все таки отказаться?",
+	"Вы слышите гул на улице. Здание явно окружают!"
+
+    ],
+    "ObjectiveText": "Достаньте образец",
+    "FollowUpQuest": 61502,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q61501",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "Grenade_ChemGas",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":701,
+            "ObjectiveType":3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1001,
+            "ObjectiveType":6
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 200,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [61001],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

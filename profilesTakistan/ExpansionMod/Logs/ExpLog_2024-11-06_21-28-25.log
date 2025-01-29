@@ -1,0 +1,129 @@
+21:28:41.257 [Expansion Quests] Added objects set for quest ID=62001 from file=test
+21:29:56.304 [Party] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Zenith Resolute" (id=0 ownerUID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= ownerName=acey)
+21:29:56.304 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Loaded existing group quest data for group with ID=0
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=61601 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Create new quest instance for quest with ID=61601 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=61902 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.359 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=61901 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=61801 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Create new quest instance for quest with ID=61801 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=61701 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=6901 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=6202 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=9 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=402 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61902 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.367 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.375 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.375 [Expansion Quests] Sending player quest data for 17 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:29:56.437 [AI Object Patrol 00000] Spawning 2 Mercenaries bots at <2768.460693, 107.344696, 2414.005859>
+21:29:56.453 [AI Object Patrol 00000] Global patrol count: 1
+21:29:56.453 [AI Patrol 00090] Spawning 5 Tartilla_Squad(Storozh) (Raiders) bots at <2591.561035, 21.730000, 1304.008301>
+21:29:56.476 [AI Patrol 00090] Global patrol count: 2
+21:29:56.476 [AI Object Patrol 00092] Spawning 2 Ordinary_Raiders (Raiders) bots at <1896.819336, 6.146412, 2239.732178>
+21:29:56.492 [AI Object Patrol 00092] Global patrol count: 3
+21:29:56.710 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1301
+21:29:56.710 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1302
+21:29:56.710 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=1303
+21:29:56.710 [Expansion Quests] Added new objective data for type=DELIVERY | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=401
+21:29:56.710 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=61801
+21:29:57.117 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+21:31:28.171 [AI Object Patrol 00003] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <3563.132568, 5.932605, 2418.447266>
+21:31:28.242 [AI Object Patrol 00003] Global patrol count: 4
+21:31:37.062 [AI Object Patrol 00004] Spawning 1 Ordinary_Raiders (Raiders) bots at <3640.105957, 6.930000, 2468.406982>
+21:31:37.085 [AI Object Patrol 00004] Global patrol count: 5
+21:31:58.796 [AI Object Patrol 00111] Spawning 5 TEST (Raiders) bots at <2665.734131, 5.910436, 2004.281006>
+21:31:58.875 [AI Object Patrol 00111] Global patrol count: 6
+21:33:11.117 [Killfeed] AI Helga (Ordinary_Raiders) был убит AI Baty (PoliceStationScavs_Tier_1) при помощи.
+21:33:11.875 [AI Object Patrol 00004] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <3640.105957, 6.930000, 2468.406982>, 1/1 deceased)
+21:33:11.875 [AI Object Patrol 00004] Global patrol count: 5
+21:33:32.070 [Killfeed] AI Taiki (TEST) был убит AI Jose (Наёмники) с AUR A1 из 120 м расстояние.
+21:33:46.062 [AI Object Patrol 00117] Spawning 3 TEST (Raiders) bots at <2643.761475, 6.028613, 2004.645996>
+21:33:46.156 [AI Object Patrol 00117] Global patrol count: 6
+21:33:49.054 [Killfeed] AI Eva (TEST) был убит AI Elias (TEST) с КАС-74У из 3 м расстояние.
+21:34:03.054 [Killfeed] AI Kaito (TEST) был убит AI Indar (Наёмники) с M16-A2 из 3 м расстояние.
+21:34:10.523 [Killfeed] AI Judy (TEST) был убит AI Keiko (TEST) с CR-527 из 9 м расстояние.
+21:34:30.695 [MissionAirdrop] An airdrop is heading towards "Chernogorsk" (pos=<6128.000000, 0.000000, 2497.000000> type=Random_Chernogorsk) with a ExpansionAirdropContainer
+21:35:31.023 [Killfeed] AI Keiko (TEST) был убит [Zenit] Da da Ya с КА-74 из 5 м расстояние.
+21:35:41.171 [Killfeed] AI Elias (TEST) был убит [Zenit] Da da Ya с КА-74 из 2 м расстояние.
+21:35:51.070 [Killfeed] AI Jose (Наёмники) был убит [Zenit] Da da Ya с КА-74 из 124 м расстояние.
+21:35:57.375 [Killfeed] AI Indar (Наёмники) был убит [Zenit] Da da Ya с КА-74 из 3 м расстояние.
+21:36:00.976 [AI Object Patrol 00000] Mercenaries bots were wiped out (spawn position <2768.460693, 107.344696, 2414.005859>, 2/2 deceased)
+21:36:00.976 [AI Object Patrol 00000] Global patrol count: 5
+21:36:06.507 [Killfeed] AI Naomi (TEST) был убит [Zenit] Da da Ya с КА-74 из 28 м расстояние.
+21:36:08.726 [AI Object Patrol 00111] TEST (Raiders) bots were wiped out (spawn position <2665.734131, 5.910436, 2004.281006>, 5/5 deceased)
+21:36:08.734 [AI Object Patrol 00111] Global patrol count: 4
+21:37:17.898 [Killfeed] AI Irena (TEST) был убит [Zenit] Da da Ya с КА-74 из 2 м расстояние.
+21:37:21.265 [AI Object Patrol 00117] TEST (Raiders) bots were wiped out (spawn position <2643.761475, 6.028613, 2004.645996>, 3/3 deceased)
+21:37:21.265 [AI Object Patrol 00117] Global patrol count: 3
+21:37:32.257 [Killfeed] AI Gabi (Tartilla_Squad(Storozh)) был убит.
+21:37:59.789 [AI Object Patrol 00118] Spawning 5 TEST (Raiders) bots at <2639.995605, 6.114108, 2020.524170>
+21:37:59.867 [AI Object Patrol 00118] Global patrol count: 4
+21:38:07.367 [Killfeed] AI Helga (TEST) был убит [Zenit] Da da Ya с КА-74 из 13 м расстояние.
+21:38:11.687 [Killfeed] AI Manua (TEST) был убит [Zenit] Da da Ya с КА-74 из 17 м расстояние.
+21:38:15.414 [Killfeed] AI Niki (TEST) был убит [Zenit] Da da Ya с КА-74 из 14 м расстояние.
+21:38:17.281 [Killfeed] AI Linda (TEST) был убит [Zenit] Da da Ya с КА-74 из 10 м расстояние.
+21:38:19.531 [Killfeed] AI Francis (TEST) был убит [Zenit] Da da Ya с КА-74 из 11 м расстояние.
+21:38:19.718 [AI Object Patrol 00118] TEST (Raiders) bots were wiped out (spawn position <2639.995605, 6.114108, 2020.524170>, 5/5 deceased)
+21:38:19.718 [AI Object Patrol 00118] Global patrol count: 3

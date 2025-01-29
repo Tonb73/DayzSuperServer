@@ -1,0 +1,45 @@
+15:04:00.867 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:04:00.867 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:04:00.871 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:04:00.871 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:07:37.996 [AI Patrol] Spawning 1 East bots at <1759.342529, 290.333008, 3001.681396>
+15:07:43.019 [AI Patrol] Spawning 1 East bots at <1555.010986, 294.291992, 3077.208252>
+15:07:43.621 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<1685.238159, 6.012496, 2152.249756>) Entered the safezone
+15:07:44.597 [Killfeed] AI Frida (Восток) умер разбился с высоты.
+15:07:49.136 [AI Patrol] East bots were wiped out (spawn position <1759.342529, 290.333008, 3001.681396>, 1/1 deceased)
+15:07:49.769 [Killfeed] AI Baty (Восток) умер разбился с высоты.
+15:07:49.914 [AI Patrol] East bots were wiped out (spawn position <1555.010986, 294.291992, 3077.208252>, 1/1 deceased)
+15:08:06.437 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<520.776367, 77.803947, 4100.036621>) Left the safezone
+15:08:39.164 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military
+15:10:13.679 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.441742, 422.094818, 11237.184570>) as pilot
+15:10:16.093 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.441925, 422.094574, 11237.184570>)
+15:10:20.945 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.442200, 422.094482, 11237.184570>)
+15:11:49.039 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.442291, 422.094452, 11237.185547>) as pilot
+15:11:51.320 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.442291, 422.094452, 11237.185547>)
+15:11:54.425 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.442291, 422.094452, 11237.185547>) as pilot
+15:11:56.519 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<504.442291, 422.094452, 11237.185547>)
+15:16:52.000 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<343.078735, 292.745605, 7999.024902>)
+15:16:54.460 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle UH-1H (id=C26AF63096429E936CCB529A9346F66B pos=<343.062225, 292.748199, 7999.034180>)
+15:21:37.378 [Killfeed] AI Gabi (Наёмники) умер от потери крови.
+15:22:30.644 [Killfeed] AI Kaito (Наёмники) был убит Da da Ya с MP5SD из 5 м расстояние.
+15:23:52.617 [Killfeed] AI Irena (Наёмники) был убит Da da Ya с M4-A1 из 82 м расстояние.
+15:27:53.203 [Killfeed] AI Linda (Наёмники) был убит Da da Ya с MP5SD из 2 м расстояние.
+15:29:29.066 [Killfeed] AI Francis (Наёмники) был убит Da da Ya с LAR из 64 м расстояние.
+15:29:51.433 [Killfeed] AI Taiki (Наёмники) был убит Da da Ya с LAR из 63 м расстояние.
+15:30:27.332 [Killfeed] AI Elias (Наёмники) был убит Da da Ya с LAR из 50 м расстояние.
+15:31:19.546 [Killfeed] Da da Ya был убит AI Peter (Наёмники) с AUR AX из 25 м расстояние.
+15:31:50.265 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <13515.912109, 2.679648, 6117.384277>
+15:33:14.343 [Killfeed] AI Keiko (Наёмники) был убит AI Helga (Охрана) с AUR AX из 24 м расстояние.
+15:35:44.539 [Killfeed] AI Mirek (Пассивные) был убит Da da Ya с Pioneer из 64 м расстояние.
+15:36:55.425 [Killfeed] AI Judy (Пассивные) был убит Da da Ya с Pioneer из 2 м расстояние.
+15:38:08.105 [Killfeed] AI Manua (Шаманы) был убит Da da Ya с Pioneer из 55 м расстояние.
+15:41:01.664 [Killfeed] AI Naomi (Шаманы) был убит Da da Ya с Pioneer из 2 м расстояние.
+15:41:55.328 [Killfeed] AI Jose (Рейдеры) был убит Da da Ya с Pioneer из 4 м расстояние.
+15:42:33.929 [Killfeed] AI Maria (Шаманы) был убит Da da Ya с Pioneer из 61 м расстояние.
+15:43:38.640 [Killfeed] AI Eva (Шаманы) был убит Da da Ya с Pioneer из 49 м расстояние.
+15:43:53.652 [Killfeed] AI Guo (Рейдеры) был убит AI Frida (Шаманы) с AUR AX из 30 м расстояние.
+15:44:04.250 [Killfeed] AI Linda (Шаманы) был убит Da da Ya с Pioneer из 47 м расстояние.
+15:44:52.230 [Killfeed] AI Frida (Шаманы) был убит Da da Ya с Pioneer из 5 м расстояние.
+15:45:16.058 [Killfeed] AI Judy (Шаманы) был убит Da da Ya с Pioneer из 62 м расстояние.
+15:46:48.300 [Killfeed] Da da Ya был убит AI Quinn (Шаманы) с LE-MAS из 21 м расстояние.
+15:47:30.062 [Killfeed] AI Helga (Шаманы) был убит AI Irena (Наёмники) голыми руками.

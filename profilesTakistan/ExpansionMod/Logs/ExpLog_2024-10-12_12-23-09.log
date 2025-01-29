@@ -1,0 +1,454 @@
+12:24:23.878 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=203 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=101 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=102 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=202 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=301 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=201 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=20 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=22 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=23 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=28 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Check quest initialization for quest with ID=31 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.921 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.925 [Expansion Quests] Quest with ID=301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.929 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.929 [Expansion Quests] Sending player quest data for 15 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+12:24:23.933 [AI Object Patrol 00048] Spawning 1 Ordinary_Civilian (Civilian) bots at <10763.415039, 53.435474, 14364.730469>
+12:24:23.945 [AI Object Patrol 00048] Global patrol count: 1
+12:24:37.343 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3768.040283, 401.786713, 6009.929199>) Entered the safezone
+12:25:19.300 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:25:19.300 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:25:19.300 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:25:19.304 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:25:19.304 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=301
+12:25:19.800 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:25:19.800 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:25:19.800 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:25:19.804 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:25:29.832 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:25:29.832 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has cancelled quest with ID=301. State=STARTED
+12:26:06.050 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:06.050 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:06.050 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:06.054 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:06.054 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=301
+12:26:06.554 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:06.554 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:06.554 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:06.554 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:26.750 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:26.750 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:26.750 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:26.753 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:26.757 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:26.757 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:26.757 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:26.765 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:27.136 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:27.136 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:27.140 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:27.140 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:30.503 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:30.503 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:30.503 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:30.507 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:33.781 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<10015.637695, 152.552475, 10351.010742>) Left the safezone
+12:26:44.699 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:44.699 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:44.699 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:44.703 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:44.707 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:44.707 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:44.707 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:44.710 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:45.199 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:45.199 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:45.199 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:45.203 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:53.777 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:53.777 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:53.777 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:26:53.781 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:26:54.160 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3767.615479, 401.839020, 6009.750977>) Entered the safezone
+12:27:02.378 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:27:02.382 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:27:02.382 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:27:02.382 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:27:02.386 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:27:02.386 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:27:02.386 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=301
+12:27:02.398 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=301
+12:27:02.398 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=301
+12:27:10.761 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:27:10.761 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:27:10.761 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:27:10.761 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:27:10.761 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:27:10.765 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:27:10.765 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=201
+12:27:11.261 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:27:11.261 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:27:11.261 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:27:11.261 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:27:11.261 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:27:11.265 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:28:51.675 [AI Object Patrol 00028] Spawning 2 Ordinary_Civilian (Civilian) bots at <8595.643555, 194.562607, 11930.129883>
+12:28:51.691 [AI Object Patrol 00028] Global patrol count: 2
+12:28:51.691 [AI Object Patrol 00102] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <7737.293945, 125.054207, 12636.638672>
+12:28:51.718 [AI Object Patrol 00102] Global patrol count: 3
+12:28:52.484 [AI Object Patrol 00110] Spawning 2 FireStationScavs_Tier1 (Raiders) bots at <7631.610352, 119.640404, 12641.790039>
+12:28:52.500 [AI Object Patrol 00110] Global patrol count: 4
+12:29:00.863 [AI Object Patrol 00107] Spawning 1 Ordinary_Civilian (Civilian) bots at <7576.624023, 208.280396, 13467.450195>
+12:29:00.878 [AI Object Patrol 00107] Global patrol count: 5
+12:29:02.824 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<8054.492188, 119.787148, 12619.728516>) Left the safezone
+12:29:03.351 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military
+12:29:11.875 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:11.875 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:11.875 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:11.875 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:11.875 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:11.878 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:29:11.945 [AI Patrol 00112] Spawning 1 Mercenaries bots at <8018.000000, 114.215309, 12760.000000>
+12:29:11.984 [AI Patrol 00112] Global patrol count: 6
+12:29:12.246 [AI Patrol 00113] Spawning 1 Mercenaries bots at <8013.000000, 124.902702, 12769.000000>
+12:29:12.277 [AI Patrol 00113] Global patrol count: 7
+12:29:12.433 [AI Patrol 00111] Spawning 1 Mercenaries bots at <8018.000000, 114.215309, 12760.000000>
+12:29:12.460 [AI Patrol 00111] Global patrol count: 8
+12:29:12.871 [AI Patrol 00114] Spawning 1 Mercenaries bots at <8019.000000, 114.215309, 12732.000000>
+12:29:12.898 [AI Patrol 00114] Global patrol count: 9
+12:29:19.859 [Killfeed] PMC_WEST был убит Da da Ya с M4-A1 из 2 м расстояние.
+12:29:19.859 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:19.863 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:19.863 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:19.863 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:19.863 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:19.863 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:29:20.460 [Killfeed] PMC_WEST был убит Da da Ya с M4-A1 из 2 м расстояние.
+12:29:20.464 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:20.464 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:20.464 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:20.464 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:20.464 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:20.468 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:29:21.929 [AI Patrol 00112] Mercenaries bots were wiped out (spawn position <8018.000000, 114.215309, 12760.000000>, 1/1 deceased)
+12:29:21.929 [AI Patrol 00112] Global patrol count: 8
+12:29:22.429 [AI Patrol 00111] Mercenaries bots were wiped out (spawn position <8018.000000, 114.215309, 12760.000000>, 1/1 deceased)
+12:29:22.429 [AI Patrol 00111] Global patrol count: 7
+12:29:39.078 [Killfeed] Tier_4_PMC_N был убит Da da Ya с MPX из 1 м расстояние.
+12:29:39.078 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:39.078 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:39.078 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:39.078 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:39.078 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:39.082 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:29:42.839 [AI Patrol 00114] Mercenaries bots were wiped out (spawn position <8019.000000, 114.215309, 12732.000000>, 1/1 deceased)
+12:29:42.839 [AI Patrol 00114] Global patrol count: 6
+12:29:48.496 [Killfeed] PMC_WEST был убит Da da Ya с MPX из 21 м расстояние.
+12:29:48.496 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:48.496 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:48.496 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:48.496 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:48.496 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:48.500 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:29:48.992 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:48.996 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:48.996 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:48.996 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:29:48.996 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:29:48.996 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:29:52.910 [Killfeed] AI Peter (PoliceStationScavs_Tier_1) был убит AI Judy (FireStationScavs_Tier1) при помощи.
+12:29:58.988 [Killfeed] AI Hassan (FireStationScavs_Tier1) был убит AI Francis (PoliceStationScavs_Tier_1) с P1 из 2 м расстояние.
+12:31:46.667 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:46.667 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:46.667 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:46.667 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:46.667 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:46.671 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:31:47.378 [AI Patrol 00116] Spawning 1 Mercenaries bots at <8016.000000, 114.215309, 12733.000000>
+12:31:47.402 [AI Patrol 00116] Global patrol count: 7
+12:31:51.675 [Killfeed] PMC_WEST_NBC был убит Da da Ya с MPX из 3 м расстояние.
+12:31:51.679 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:51.679 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:51.679 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:51.679 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:51.679 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:51.679 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:31:52.175 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:52.175 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:52.175 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:52.175 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:52.175 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:52.179 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:31:57.503 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:57.507 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:57.507 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:57.507 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:31:57.507 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:31:57.507 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:32:09.210 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3766.378418, 401.811432, 6011.672852>) Entered the safezone
+12:32:18.761 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:32:18.761 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:32:18.761 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:32:18.761 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:32:18.761 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:32:18.765 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:32:18.769 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:32:18.769 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:32:18.769 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:32:18.769 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:32:18.769 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:32:18.777 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=201
+12:32:18.777 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=201
+12:32:27.984 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:32:27.984 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:32:27.988 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:32:27.988 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=202
+12:32:28.484 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:32:28.484 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:32:28.484 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:32:34.675 [AI Object Patrol 00108] Spawning 2 FireStationScavs_Tier1 (Raiders) bots at <12182.975586, 92.991562, 13863.704102>
+12:32:34.695 [AI Object Patrol 00108] Global patrol count: 8
+12:32:45.578 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11327.228516, 42.119942, 14394.903320>) Left the safezone
+12:32:47.304 [AI Object Patrol 00032] Spawning 1 Ordinary_Civilian (Civilian) bots at <12102.982422, 95.608147, 13718.819336>
+12:32:47.320 [AI Object Patrol 00032] Global patrol count: 9
+12:32:55.410 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:32:55.410 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:32:55.414 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:32:55.785 [AI Patrol 00117] Spawning 1 Mercenaries bots at <11618.000000, 58.097553, 14651.000000>
+12:32:55.816 [AI Patrol 00117] Global patrol count: 10
+12:32:56.015 [AI Patrol 00121] Spawning 1 Mercenaries bots at <11553.000000, 57.910000, 14727.000000>
+12:32:56.039 [AI Patrol 00121] Global patrol count: 11
+12:32:56.085 [AI Patrol 00119] Spawning 1 Mercenaries bots at <11587.000000, 58.113129, 14736.000000>
+12:32:56.117 [AI Patrol 00119] Global patrol count: 12
+12:32:56.152 [AI Patrol 00122] Spawning 1 Mercenaries bots at <11621.000000, 57.910000, 14689.000000>
+12:32:56.175 [AI Patrol 00122] Global patrol count: 13
+12:32:56.332 [AI Patrol 00120] Spawning 1 Mercenaries bots at <11587.000000, 58.113129, 14736.000000>
+12:32:56.363 [AI Patrol 00120] Global patrol count: 14
+12:32:56.363 [AI Patrol 00118] Spawning 1 Mercenaries bots at <11587.000000, 58.113129, 14736.000000>
+12:32:56.386 [AI Patrol 00118] Global patrol count: 15
+12:33:00.632 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 3 м расстояние.
+12:33:00.632 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:00.632 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:00.636 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:00.785 [AI Patrol 00117] Mercenaries bots were wiped out (spawn position <11618.000000, 58.097553, 14651.000000>, 1/1 deceased)
+12:33:00.785 [AI Patrol 00117] Global patrol count: 14
+12:33:09.175 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 2 м расстояние.
+12:33:09.179 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:09.179 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:09.183 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:11.066 [AI Patrol 00122] Mercenaries bots were wiped out (spawn position <11621.000000, 57.910000, 14689.000000>, 1/1 deceased)
+12:33:11.066 [AI Patrol 00122] Global patrol count: 13
+12:33:21.074 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 1 м расстояние.
+12:33:21.074 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:21.074 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:21.078 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:21.285 [AI Patrol 00118] Mercenaries bots were wiped out (spawn position <11587.000000, 58.113129, 14736.000000>, 1/1 deceased)
+12:33:21.285 [AI Patrol 00118] Global patrol count: 12
+12:33:28.039 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 1 м расстояние.
+12:33:28.042 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:28.046 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:28.046 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:31.039 [AI Patrol 00119] Mercenaries bots were wiped out (spawn position <11587.000000, 58.113129, 14736.000000>, 1/1 deceased)
+12:33:31.039 [AI Patrol 00119] Global patrol count: 11
+12:33:36.171 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 1 м расстояние.
+12:33:36.171 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:36.171 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:36.175 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:36.285 [AI Patrol 00120] Mercenaries bots were wiped out (spawn position <11587.000000, 58.113129, 14736.000000>, 1/1 deceased)
+12:33:36.285 [AI Patrol 00120] Global patrol count: 10
+12:33:42.335 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 2 м расстояние.
+12:33:42.335 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:42.335 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:42.339 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:45.238 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:45.238 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+12:33:45.242 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=202
+12:33:45.242 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=202
+12:33:50.882 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:33:50.882 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:33:50.882 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:33:50.882 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:33:50.886 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:33:50.886 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=203
+12:33:51.382 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:33:51.382 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:33:51.382 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:33:51.382 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:33:51.386 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:34:06.539 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:06.539 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:06.539 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:34:06.539 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:34:06.539 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:34:06.671 [AI Patrol 00123] Spawning 1 Mercenaries bots at <11560.000000, 65.157936, 14750.000000>
+12:34:06.707 [AI Patrol 00123] Global patrol count: 11
+12:34:13.921 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 1 м расстояние.
+12:34:13.921 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:13.921 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:13.921 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:34:13.921 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:34:13.925 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:34:16.667 [AI Patrol 00123] Mercenaries bots were wiped out (spawn position <11560.000000, 65.157936, 14750.000000>, 1/1 deceased)
+12:34:16.671 [AI Patrol 00123] Global patrol count: 10
+12:34:24.039 [AI Patrol 00124] Spawning 1 Mercenaries bots at <11561.000000, 76.034538, 14750.000000>
+12:34:24.062 [AI Patrol 00124] Global patrol count: 11
+12:34:31.003 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с MPX из 1 м расстояние.
+12:34:31.007 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:31.007 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:31.007 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:34:31.007 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:34:31.011 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:34:31.914 [AI Patrol 00124] Mercenaries bots were wiped out (spawn position <11561.000000, 76.034538, 14750.000000>, 1/1 deceased)
+12:34:31.914 [AI Patrol 00124] Global patrol count: 10
+12:34:42.167 [AI Patrol 00128] Spawning 1 Mercenaries bots at <11565.000000, 85.654243, 14745.000000>
+12:34:42.203 [AI Patrol 00128] Global patrol count: 11
+12:34:44.066 [AI Patrol 00127] Spawning 1 Mercenaries bots at <11556.000000, 85.654243, 14745.000000>
+12:34:44.109 [AI Patrol 00127] Global patrol count: 12
+12:34:45.113 [AI Patrol 00126] Spawning 1 Mercenaries bots at <11562.000000, 82.474251, 14737.000000>
+12:34:45.132 [AI Patrol 00126] Global patrol count: 13
+12:34:48.140 [AI Patrol 00129] Spawning 1 Mercenaries bots at <11559.000000, 89.283745, 14740.000000>
+12:34:48.164 [AI Patrol 00129] Global patrol count: 14
+12:34:49.441 [AI Patrol 00130] Spawning 1 Mercenaries bots at <11571.000000, 89.283745, 14743.000000>
+12:34:49.464 [AI Patrol 00130] Global patrol count: 15
+12:34:54.308 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с LE-MAS из 5 м расстояние.
+12:34:54.308 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:54.308 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:34:54.308 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:34:54.308 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:34:54.312 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:34:57.097 [AI Patrol 00126] Mercenaries bots were wiped out (spawn position <11562.000000, 82.474251, 14737.000000>, 1/1 deceased)
+12:34:57.097 [AI Patrol 00126] Global patrol count: 14
+12:35:01.523 [AI Patrol 00125] Spawning 1 Mercenaries bots at <11571.000000, 82.024841, 14739.000000>
+12:35:01.542 [AI Patrol 00125] Global patrol count: 15
+12:35:09.179 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с LE-MAS из 5 м расстояние.
+12:35:09.179 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:09.179 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:09.179 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:35:09.179 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:35:09.183 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:35:11.218 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с LE-MAS из 3 м расстояние.
+12:35:11.218 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:11.218 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:11.218 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:35:11.218 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:35:11.222 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:35:11.917 [AI Patrol 00127] Mercenaries bots were wiped out (spawn position <11556.000000, 85.654243, 14745.000000>, 1/1 deceased)
+12:35:11.921 [AI Patrol 00127] Global patrol count: 14
+12:35:12.117 [AI Patrol 00128] Mercenaries bots were wiped out (spawn position <11565.000000, 85.654243, 14745.000000>, 1/1 deceased)
+12:35:12.121 [AI Patrol 00128] Global patrol count: 13
+12:35:19.207 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с LE-MAS из 1 м расстояние.
+12:35:19.207 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:19.207 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:19.207 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:35:19.207 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:35:19.210 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:35:22.128 [AI Patrol 00125] Mercenaries bots were wiped out (spawn position <11571.000000, 82.024841, 14739.000000>, 1/1 deceased)
+12:35:22.128 [AI Patrol 00125] Global patrol count: 12
+12:35:29.941 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с LE-MAS из 4 м расстояние.
+12:35:29.941 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:29.941 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:29.941 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:35:29.941 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:35:29.945 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:35:32.191 [AI Patrol 00129] Mercenaries bots were wiped out (spawn position <11559.000000, 89.283745, 14740.000000>, 1/1 deceased)
+12:35:32.195 [AI Patrol 00129] Global patrol count: 11
+12:35:32.675 [Killfeed] Боец ЧВК Вэст был убит Da da Ya с LE-MAS из 2 м расстояние.
+12:35:32.675 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:32.675 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:35:32.675 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:35:32.675 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:35:32.679 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:35:37.453 [AI Patrol 00130] Mercenaries bots were wiped out (spawn position <11571.000000, 89.283745, 14743.000000>, 1/1 deceased)
+12:35:37.453 [AI Patrol 00130] Global patrol count: 10
+12:37:21.402 [AI Patrol 00131] Spawning 1 Mercenaries bots at <11562.000000, 95.419540, 14735.000000>
+12:37:21.425 [AI Patrol 00131] Global patrol count: 11
+12:37:26.242 [Killfeed] AI Rolf (Ordinary_Civilian) был убит Da da Ya с LAR из 4 м расстояние.
+12:37:30.925 [AI Object Patrol 00048] Ordinary_Civilian (Civilian) bots were wiped out (spawn position <10763.415039, 53.435474, 14364.730469>, 1/1 deceased)
+12:37:30.925 [AI Object Patrol 00048] Global patrol count: 10
+12:38:07.460 [Killfeed] Ученый ЧВК Вэст был убит Da da Ya с LAR из 1 м расстояние.
+12:38:07.464 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:07.464 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:07.464 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:38:07.464 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:38:07.464 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:38:11.093 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:11.093 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:11.093 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:38:11.093 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:38:11.097 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:38:15.500 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:15.500 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:15.500 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:38:15.500 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:38:15.503 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:38:15.507 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:15.507 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:15.507 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:38:15.507 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:38:15.511 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:38:16.000 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:16.000 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:16.000 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:38:16.000 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:38:16.003 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:38:52.593 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:52.593 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:38:52.593 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:38:52.593 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:38:52.597 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:38:53.500 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3768.690186, 401.754486, 6009.244141>) Entered the safezone
+12:39:09.867 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:39:09.867 [Expansion Quests] Added new objective data for type=AICAMP | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=204
+12:39:09.867 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+12:39:09.867 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+12:39:09.878 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=203
+12:39:09.878 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=203
+12:41:28.855 [Killfeed] AI Judy (FireStationScavs_Tier1) был убит AI Francis (PoliceStationScavs_Tier_1) при помощи.
+12:41:32.492 [AI Object Patrol 00110] FireStationScavs_Tier1 (Raiders) bots were wiped out (spawn position <7631.610352, 119.640404, 12641.790039>, 2/2 deceased)
+12:41:32.492 [AI Object Patrol 00110] Global patrol count: 9
+12:42:04.390 [AI Object Patrol 00102] Despawning 1 PoliceStationScavs_Tier_1 (Raiders) bots (spawn position <7737.293945, 125.054207, 12636.638672>, 1/2 deceased)
+12:42:04.390 [AI Object Patrol 00102] Global patrol count: 8
+12:42:07.539 [AI Object Patrol 00107] Despawning 1 Ordinary_Civilian (Civilian) bots (spawn position <7576.624023, 208.280396, 13467.450195>, 0/1 deceased)
+12:42:07.539 [AI Object Patrol 00107] Global patrol count: 7
+12:42:08.664 [AI Object Patrol 00028] Despawning 2 Ordinary_Civilian (Civilian) bots (spawn position <8595.643555, 194.562607, 11930.129883>, 0/2 deceased)
+12:42:08.664 [AI Object Patrol 00028] Global patrol count: 6
+12:43:59.164 [AI Object Patrol 00032] Despawning 1 Ordinary_Civilian (Civilian) bots (spawn position <12102.982422, 95.608147, 13718.819336>, 0/1 deceased)
+12:43:59.164 [AI Object Patrol 00032] Global patrol count: 5
+12:48:50.523 [AI Object Patrol 00108] Despawning 2 FireStationScavs_Tier1 (Raiders) bots (spawn position <12182.975586, 92.991562, 13863.704102>, 0/2 deceased)
+12:48:50.523 [AI Object Patrol 00108] Global patrol count: 4

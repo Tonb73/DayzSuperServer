@@ -1,0 +1,36 @@
+17:06:20.542 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11896.439453, 140.233185, 12431.561523>) Entered the safezone
+17:06:20.546 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+17:06:20.546 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:20.585 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:20.585 [Expansion Quests] Loaded existing group quest data for group with ID=1
+17:06:20.597 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:20.597 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:06:20.605 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11019.436523, 226.194107, 12416.997070>
+17:06:20.613 [AI Object Patrol 00038] Global patrol count: 1
+17:06:20.613 [AI Object Patrol 00041] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11060.023438, 226.788376, 12471.227539>
+17:06:20.628 [AI Object Patrol 00041] Global patrol count: 2
+17:06:20.628 [AI Patrol 00082] Spawning 1 Krasnostav_Tier1 (Raiders) bots at <11044.739258, 211.725067, 12290.588867>
+17:06:20.664 [AI Patrol 00082] Global patrol count: 3
+17:06:20.664 [AI Patrol 00074] Spawning 1 Krasnostav_Trader (Civilian) bots at <11866.332031, 140.060654, 12495.664063>
+17:06:20.683 [AI Patrol 00074] Global patrol count: 4
+17:06:20.687 [AI Patrol 00077] Spawning 1 Krasnostav_Trader (Civilian) bots at <11776.544922, 140.115723, 12491.939453>
+17:06:20.703 [AI Patrol 00077] Global patrol count: 5
+17:06:20.707 [AI Patrol 00071] Spawning 2 Krasnostav_Trader (Civilian) bots at <11798.487305, 139.787704, 12549.166016>
+17:06:20.726 [AI Patrol 00071] Global patrol count: 6
+17:06:20.726 [AI Patrol 00073] Spawning 2 Krasnostav_Trader (Civilian) bots at <11900.233398, 140.000000, 12502.625977>
+17:06:20.746 [AI Patrol 00073] Global patrol count: 7
+17:06:20.746 [AI Patrol 00076] Spawning 1 Krasnostav_Trader (Civilian) bots at <11895.321289, 140.000000, 12489.369141>
+17:06:20.765 [AI Patrol 00076] Global patrol count: 8
+17:06:20.765 [AI Patrol 00072] Spawning 1 Krasnostav_Trader (Civilian) bots at <11798.679688, 140.263092, 12453.196289>
+17:06:20.781 [AI Patrol 00072] Global patrol count: 9
+17:06:20.781 [AI Patrol 00078] Spawning 1 Krasnostav_Trader (Civilian) bots at <11840.837891, 140.075851, 12426.155273>
+17:06:20.812 [AI Patrol 00078] Global patrol count: 10
+17:06:20.812 [AI Patrol 00070] Spawning 1 Krasnostav_Trader (Civilian) bots at <11885.232422, 140.000000, 12478.348633>
+17:06:20.843 [AI Patrol 00070] Global patrol count: 11
+17:06:20.843 [AI Patrol 00075] Spawning 1 Krasnostav_Trader (Civilian) bots at <11777.779297, 141.667282, 12460.858398>
+17:06:20.863 [AI Patrol 00075] Global patrol count: 12
+17:06:21.585 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+17:06:39.218 [AI Patrol 00076] Krasnostav_Trader (Civilian) bots were wiped out (spawn position <11895.321289, 140.000000, 12489.369141>, 1/1 deceased)
+17:06:39.218 [AI Patrol 00076] Global patrol count: 11
+17:06:41.023 [AI Patrol 00081] Spawning 1 ChernayaPolyana_Tier1 (Raiders) bots at <12130.109375, 103.266075, 13462.627930>
+17:06:41.039 [AI Patrol 00081] Global patrol count: 12

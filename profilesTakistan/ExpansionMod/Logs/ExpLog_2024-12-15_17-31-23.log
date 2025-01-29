@@ -1,0 +1,57 @@
+17:32:08.625 [VehicleDestroyed] Offroad_02 (id=990831086B48129B27CCFA9BED292574 pos=<4176.374023, 338.708527, 10725.791016>)
+17:32:09.121 [VehicleDeleted] Offroad_02 (id=5E01FAD05946BE3C0F12DAB7F5330918 pos=<4176.310059, 339.491058, 10725.687500>)
+17:36:56.140 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+17:36:56.140 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.214 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.214 [Expansion Quests] Loaded existing group quest data for group with ID=1
+17:36:56.214 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.214 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.214 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.214 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.214 [Expansion Quests] Create new achievement/auto-start quest for quest ID=101 for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.218 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+17:36:56.218 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=101
+17:36:56.218 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.218 [Expansion Quests] Sending player quest data for 1 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+17:36:56.609 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+17:36:56.609 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=101
+17:36:57.109 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+17:37:10.589 [MissionAirdrop] An airdrop is heading towards "Novy Sobor" (pos=<7436.000000, 0.000000, 7720.000000> type=Random_Novy Sobor) with a ExpansionAirdropContainer
+17:39:26.253 [AI Object Patrol 00020] Spawning 1 WaterPump_Tier0 (Raiders) bots at <11193.666992, 76.257263, 6562.281250>
+17:39:26.265 [AI Object Patrol 00020] Global patrol count: 1
+17:39:26.953 [AI Object Patrol 00021] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <11194.632813, 76.397018, 6599.488770>
+17:39:26.972 [AI Object Patrol 00021] Global patrol count: 2
+17:40:01.675 [AI Object Patrol 00172] Spawning 1 WaterPump_Tier0 (Raiders) bots at <12089.151367, 191.000000, 7223.041992>
+17:40:01.683 [AI Object Patrol 00172] Global patrol count: 3
+17:40:12.757 [AI Object Patrol 00038] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10995.680664, 226.469833, 12417.449219>
+17:40:12.765 [AI Object Patrol 00038] Global patrol count: 4
+17:40:12.765 [AI Object Patrol 00041] Spawning 2 PoliceStation_Tier1 (Raiders) bots at <11060.090820, 227.370560, 12501.467773>
+17:40:12.781 [AI Object Patrol 00041] Global patrol count: 5
+17:40:12.781 [AI Patrol 00070] Spawning 2 Krasnostav_Trader (Guards) bots at <11882.677734, 140.000000, 12555.810547>
+17:40:12.796 [AI Patrol 00070] Global patrol count: 6
+17:40:12.796 [AI Patrol 00077] Spawning 2 Krasnostav_Tier1 (Raiders) bots at <11219.483398, 195.576996, 12216.262695>
+17:40:12.832 [AI Patrol 00077] Global patrol count: 7
+17:40:12.832 [AI Patrol 00076] Spawning 1 ChernayaPolyana_Tier1 (Raiders) bots at <12090.001953, 105.253922, 13472.738281>
+17:40:12.847 [AI Patrol 00076] Global patrol count: 8
+17:40:12.847 [AI Patrol 00073] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11797.605469, 140.994980, 12376.930664>
+17:40:12.867 [AI Patrol 00073] Global patrol count: 9
+17:40:12.867 [AI Patrol 00071] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11791.077148, 140.979996, 12385.951172>
+17:40:12.882 [AI Patrol 00071] Global patrol count: 10
+17:40:12.882 [AI Patrol 00072] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11884.407227, 141.107285, 12400.948242>
+17:40:12.898 [AI Patrol 00072] Global patrol count: 11
+17:40:13.269 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11927.577148, 140.000000, 12567.656250>) Entered the safezone
+17:40:43.023 [Expansion Quests] Added new objective data for type=TRAVEL | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+17:40:43.023 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=101
+17:40:43.023 [Expansion Quests] Player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= has completed quest with ID=101
+17:40:43.031 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=101
+17:42:08.359 [Killfeed] AI Eva (PoliceStation_Tier1) был убит AI Gabi (WaterPump_Tier0) при помощи.
+17:42:10.906 [AI Object Patrol 00021] PoliceStation_Tier1 (Raiders) bots were wiped out (spawn position <11194.632813, 76.397018, 6599.488770>, 1/1 deceased)
+17:42:10.906 [AI Object Patrol 00021] Global patrol count: 10
+17:43:16.925 [Killfeed] AI Gabi (WaterPump_Tier0) умер от потери крови.
+17:43:21.207 [AI Object Patrol 00020] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <11193.666992, 76.257263, 6562.281250>, 1/1 deceased)
+17:43:21.207 [AI Object Patrol 00020] Global patrol count: 9
+17:43:44.210 [AI Object Patrol 00046] Spawning 1 WaterPump_Tier0 (Raiders) bots at <12092.436523, 95.139122, 13717.967773>
+17:43:44.226 [AI Object Patrol 00046] Global patrol count: 10
+17:43:55.597 [Safezone] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11699.553711, 143.724533, 12738.206055>) Left the safezone
+17:50:12.640 [AI Object Patrol 00172] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <12089.151367, 191.000000, 7223.041992>, 0/1 deceased)
+17:50:12.640 [AI Object Patrol 00172] Global patrol count: 9

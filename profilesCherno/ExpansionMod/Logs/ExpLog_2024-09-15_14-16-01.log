@@ -1,0 +1,55 @@
+14:21:52.757 [MissionAirdrop] An airdrop is heading towards "Skalisty Island" (pos=<13452.000000, 0.000000, 3112.000000> type=Random_Skalisty Island) with a ExpansionAirdropContainer_Medical
+14:27:32.992 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.039 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.039 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.039 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.042 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.046 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.046 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.046 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.046 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.046 [Expansion Quests] Sending player quest data for 4 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+14:27:33.050 [AI Patrol] Spawning 2 Civilian bots at <9876.466797, 202.549728, 10979.984375>
+14:39:28.429 [AI Patrol] Despawning 2 Civilian bots (spawn position <9876.466797, 202.549728, 10979.984375>, 0/2 deceased)
+14:48:21.457 [AI Patrol] Spawning 1 Ordinary_Scavengers(Severograd) bots at <8015.324219, 116.845970, 12604.687500>
+14:52:49.011 [AI Object Patrol] Spawning 1 PoliceStationScavs bots at <7737.293945, 125.054207, 12636.638672>
+14:53:17.628 [AI Object Patrol] Spawning 2 FireStationScavs bots at <7631.610352, 119.640404, 12641.790039>
+14:57:04.207 [Killfeed] AI Keiko (FireStationScavs) был убит AI Taiki (PoliceStationScavs) голыми руками.
+14:58:47.968 [Killfeed] AI Taiki (PoliceStationScavs) был убит AI Gabi (Ordinary_Scavengers(Severograd)) с КА-M из 31 м расстояние.
+14:58:50.847 [AI Object Patrol] PoliceStationScavs bots were wiped out (spawn position <7737.293945, 125.054207, 12636.638672>, 1/1 deceased)
+15:04:12.726 [AI Object Patrol] Spawning 2 West bots at <8175.000000, 112.204651, 12754.000000>
+15:11:54.394 [VehicleDestroyed] OffroadHatchback (id=A0DF71603543A135F4512987FCAD7A0D pos=<4176.433105, 338.801605, 10725.694336>)
+15:17:48.753 [VehicleDeleted] OffroadHatchback (id=A0DF71603543A135F4512987FCAD7A0D pos=<4176.433105, 338.801605, 10725.694336>)
+15:18:08.531 [AI Patrol] Despawning 1 Ordinary_Scavengers(Severograd) bots (spawn position <8015.324219, 116.845970, 12604.687500>, 0/1 deceased)
+15:23:47.757 [AI Object Patrol] Despawning 2 West bots (spawn position <8175.000000, 112.204651, 12754.000000>, 0/2 deceased)
+15:26:54.402 [AI Object Patrol] Despawning 1 FireStationScavs bots (spawn position <7631.610352, 119.640404, 12641.790039>, 1/2 deceased)
+15:29:36.503 [AI Patrol] Spawning 3 Raiders bots at <4602.431152, 339.000000, 10624.852539>
+15:32:26.265 [AI Object Patrol] Spawning 1 West bots at <4744.733887, 339.000000, 10321.904297>
+15:41:08.109 [AI Object Patrol] Despawning 1 West bots (spawn position <4744.733887, 339.000000, 10321.904297>, 0/1 deceased)
+15:52:40.851 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer
+16:02:53.359 [AI Patrol] Despawning 3 Raiders bots (spawn position <4602.431152, 339.000000, 10624.852539>, 0/3 deceased)
+16:47:13.582 [ExplosionDamageSystem] About to explode LandFuelFeed_Ammo from Land_FuelStation_Feed<c42659d0> at <3659.29, 312.34, 8988.91> EXPLOSION range 20 dropoff 5
+16:52:49.609 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+16:52:49.609 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+16:52:49.609 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.

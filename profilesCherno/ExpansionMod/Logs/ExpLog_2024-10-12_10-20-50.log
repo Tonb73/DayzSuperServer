@@ -1,0 +1,75 @@
+10:21:59.625 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3724.492188, 402.618958, 5972.530273>) Entered the safezone
+10:21:59.628 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.667 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.667 [Expansion Quests] Check quest initialization for quest with ID=101 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.667 [Expansion Quests] Check quest initialization for quest with ID=102 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=202 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=301 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=201 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=20 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=22 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=23 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=28 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Check quest initialization for quest with ID=31 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.671 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.675 [Expansion Quests] Quest with ID=301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.679 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:21:59.679 [Expansion Quests] Sending player quest data for 14 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:26:42.664 [MissionAirdrop] An airdrop is heading towards "Stary Sobor" (pos=<5823.000000, 0.000000, 7764.000000> type=Random_Stary Sobor) with a ExpansionAirdropContainer_Medical
+11:25:21.062 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold akm x1 (3a500540, AK_WoodBttstck<2d296040>, AK_RailHndgrd<2d29b8c0>, AK_Bayonet<357a1830>, UniversalLight<357a74b0>, Battery9V<357a8040>, KobraOptic<357a8bd0>, Battery9V<357a23c0>, Mag_AKM_Drum75Rnd<357aa2f0>, ammo_762x39 x18) at the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) and got 2431.
+11:25:32.250 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m4a1 x1 (11dbe240, M4_PlasticHndgrd<10b136f0>, M4_OEBttstck<10b09c10>, Mag_STANAG_30Rnd<19c745d0>, ammo_556x45 x30, M4_CarryHandleOptic<1e98c870>) from the trader "Weapons (Naomi [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 2330.
+11:26:11.242 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mag_cmag_20rnd x1 (11ad1480, ammo_556x45 x20) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 220.
+11:26:16.636 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mag_cmag_20rnd x1 (7e2b9360) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 180.
+11:28:16.839 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought acogoptic_6x x1 (22af6650) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 1200.
+11:28:19.085 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought acogoptic_6x x1 (22afa020) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 1200.
+11:28:21.835 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionexps3holooptic x1 (22afc2d0, Battery9V<22ac3cf0>) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 210.
+11:28:23.738 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansionexps3holooptic x1 (22abe070, Battery9V<22abec00>) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 210.
+11:28:31.703 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m4_mpbttstck x1 (138200d0) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 150.
+11:28:41.089 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m4_rishndgrd x1 (20f8f290) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 200.
+11:28:43.003 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m4_rishndgrd x1 (10b22a50) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 200.
+11:28:47.613 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m9a1_bayonet x1 (13c996c0) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 150.
+11:28:49.656 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m9a1_bayonet x1 (13c97fa0) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 150.
+11:28:53.738 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought universallight x1 (13c945d0) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 120.
+11:28:55.535 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought universallight x1 (13c92eb0) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 120.
+11:28:59.394 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ak_suppressor x1 (cf98390) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 25.
+11:29:01.484 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ak_suppressor x1 (cf62060) from the trader "Attachments (Seth [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Green Mountain Trading Zone" (pos=<3728.270020, 403.000000, 6003.600098>) for a price of 25.
+11:30:12.468 [AI Object Patrol 00052] Spawning 1 Ordinary_Civilian (Civilian) bots at <2550.454834, 306.304474, 6369.231934>
+11:30:12.484 [AI Object Patrol 00052] Global patrol count: 1
+11:30:23.312 [AI Patrol 00067] Spawning 1 Ordinary_Scavengers_Tier_2(Rugovo) (Raiders) bots at <4708.175293, 271.722900, 6762.402344>
+11:30:23.347 [AI Patrol 00067] Global patrol count: 2
+11:30:23.347 [AI Object Patrol 00092] Spawning 2 Ordinary_Civilian (Civilian) bots at <4798.157227, 270.992676, 6826.440430>
+11:30:23.359 [AI Object Patrol 00092] Global patrol count: 3
+11:30:26.601 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<4175.158203, 294.579346, 7584.291992>) Left the safezone

@@ -1,0 +1,110 @@
+16:11:56.449 [Party] Player "Survivor" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Falcon Resolute" (id=1 ownerUID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= ownerName=Survivor (2))
+16:11:56.449 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:11:56.531 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:11:56.531 [Expansion Quests] Loaded existing group quest data for group with ID=1
+16:11:56.531 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:11:56.539 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+16:11:56.546 [AI Object Patrol 00046] Spawning 1 WaterPump_Tier0 (Raiders) bots at <12110.794922, 95.252838, 13732.981445>
+16:11:56.570 [AI Object Patrol 00046] Global patrol count: 1
+16:11:56.570 [AI Object Patrol 00042] Spawning 1 WaterPump_Tier0 (Raiders) bots at <10773.632813, 56.085163, 14378.642578>
+16:11:56.589 [AI Object Patrol 00042] Global patrol count: 2
+16:11:56.589 [AI Patrol 00099] Spawning 1 Novodmitrovsk_Tier2 (Raiders) bots at <10993.810547, 67.502998, 14410.838867>
+16:11:56.914 [AI Patrol 00099] Global patrol count: 3
+16:11:56.917 [AI Patrol 00072] Spawning 1 ChernayaPolyana_Tier1 (Raiders) bots at <12074.933594, 101.869370, 13532.831055>
+16:11:56.929 [AI Patrol 00072] Global patrol count: 4
+16:11:56.929 [AI Patrol 00098] Spawning 1 Novodmitrovsk_Tier2 (Raiders) bots at <10993.092773, 75.502998, 14397.615234>
+16:11:56.949 [AI Patrol 00098] Global patrol count: 5
+16:11:57.562 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=1
+16:12:17.894 [AI Object Patrol 00130] Spawning 2 FirelStation_Tier2 (Raiders) bots at <12189.884766, 92.727913, 13857.177734>
+16:12:17.925 [AI Object Patrol 00130] Global patrol count: 6
+16:15:03.250 [Killfeed] AI Seth (WaterPump_Tier0) был убит AI Hassan (FirelStation_Tier2) с CR-75 из 14 м расстояние.
+16:15:06.417 [AI Object Patrol 00046] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <12110.794922, 95.252838, 13732.981445>, 1/1 deceased)
+16:15:06.417 [AI Object Patrol 00046] Global patrol count: 5
+16:16:06.113 [MissionAirdrop] An airdrop is heading towards "Zelenogorsk" (pos=<2351.000000, 0.000000, 5393.000000> type=Random_Zelenogorsk) with a ExpansionAirdropContainer_Medical
+16:23:10.769 [Killfeed] AI Eva (Novodmitrovsk_Tier2) был убит AI Keiko (Наёмники) с M4-A1 из 3 м расстояние.
+16:23:11.347 [AI Patrol 00099] Novodmitrovsk_Tier2 (Raiders) bots were wiped out (spawn position <10993.810547, 67.502998, 14410.838867>, 1/1 deceased)
+16:23:11.347 [AI Patrol 00099] Global patrol count: 4
+16:33:05.972 [Killfeed] AI Rolf (Novodmitrovsk_Tier2) был убит AI Guo (FirelStation_Tier2) с SG5-K из 3 м расстояние.
+16:33:06.757 [AI Patrol 00098] Novodmitrovsk_Tier2 (Raiders) bots were wiped out (spawn position <10993.092773, 75.502998, 14397.615234>, 1/1 deceased)
+16:33:06.757 [AI Patrol 00098] Global patrol count: 3
+16:36:57.382 [Killfeed] AI Hassan (FirelStation_Tier2) был убит AI Boris (ChernayaPolyana_Tier1) с M9 из 2 м расстояние.
+16:40:39.683 [Killfeed] AI Boris (ChernayaPolyana_Tier1) умер от потери крови.
+16:40:41.492 [AI Patrol 00072] ChernayaPolyana_Tier1 (Raiders) bots were wiped out (spawn position <12074.933594, 101.869370, 13532.831055>, 1/1 deceased)
+16:40:41.492 [AI Patrol 00072] Global patrol count: 2
+16:43:27.445 [Killfeed] AI Guo (FirelStation_Tier2) был убит AI Maria (WaterPump_Tier0) при помощи.
+16:43:27.910 [AI Object Patrol 00130] FirelStation_Tier2 (Raiders) bots were wiped out (spawn position <12189.884766, 92.727913, 13857.177734>, 2/2 deceased)
+16:43:27.910 [AI Object Patrol 00130] Global patrol count: 1
+16:51:43.828 [Killfeed] AI Keiko (Наёмники) был убит AI Maria (WaterPump_Tier0) при помощи.
+17:37:02.179 [AI Object Patrol 00042] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <10773.632813, 56.085163, 14378.642578>, 0/1 deceased)
+17:37:02.179 [AI Object Patrol 00042] Global patrol count: 0
+17:43:24.382 [AI Patrol 00115] Spawning 1 Svirigino_Tier2 (Raiders) bots at <9138.552734, 101.392265, 13608.720703>
+17:43:24.406 [AI Patrol 00115] Global patrol count: 1
+17:43:45.074 [AI Object Patrol 00036] Spawning 2 FirelStation_Tier2 (Raiders) bots at <7619.591309, 125.344948, 12643.215820>
+17:43:45.097 [AI Object Patrol 00036] Global patrol count: 2
+17:43:45.097 [AI Object Patrol 00060] Spawning 1 WaterPump_Tier0 (Raiders) bots at <7571.858398, 209.279205, 13483.140625>
+17:43:45.109 [AI Object Patrol 00060] Global patrol count: 3
+17:43:45.109 [AI Object Patrol 00037] Spawning 1 WaterPump_Tier0 (Raiders) bots at <8599.898438, 193.926071, 11935.869141>
+17:43:45.121 [AI Object Patrol 00037] Global patrol count: 4
+17:45:23.195 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer_Basebuilding
+17:46:44.085 [AI Object Patrol 00164] Spawning 1 WaterPump_Tier0 (Raiders) bots at <8482.192383, 203.934418, 13958.627930>
+17:46:44.101 [AI Object Patrol 00164] Global patrol count: 5
+17:54:57.148 [AI Patrol 00115] Despawning 1 Svirigino_Tier2 (Raiders) bots (spawn position <9138.552734, 101.392265, 13608.720703>, 0/1 deceased)
+17:54:57.148 [AI Patrol 00115] Global patrol count: 4
+17:56:41.898 [AI Object Patrol 00036] Despawning 2 FirelStation_Tier2 (Raiders) bots (spawn position <7619.591309, 125.344948, 12643.215820>, 0/2 deceased)
+17:56:41.898 [AI Object Patrol 00036] Global patrol count: 3
+17:56:42.414 [AI Object Patrol 00037] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <8599.898438, 193.926071, 11935.869141>, 0/1 deceased)
+17:56:42.414 [AI Object Patrol 00037] Global patrol count: 2
+17:58:27.316 [AI Object Patrol 00060] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <7571.858398, 209.279205, 13483.140625>, 0/1 deceased)
+17:58:27.316 [AI Object Patrol 00060] Global patrol count: 1
+17:58:53.203 [AI Object Patrol 00135] Spawning 1 WaterPump_Tier0 (Raiders) bots at <1147.476929, 344.380371, 10005.302734>
+17:58:53.222 [AI Object Patrol 00135] Global patrol count: 2
+18:00:15.695 [AI Object Patrol 00163] Spawning 3 West bots at <1059.896851, 347.729980, 10804.927734>
+18:00:15.718 [AI Object Patrol 00163] Global patrol count: 3
+18:01:20.214 [AI Object Patrol 00164] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <8482.192383, 203.934418, 13958.627930>, 0/1 deceased)
+18:01:20.214 [AI Object Patrol 00164] Global patrol count: 2
+18:04:17.796 [AI Object Patrol 00163] Despawning 3 West bots (spawn position <1059.896851, 347.729980, 10804.927734>, 0/3 deceased)
+18:04:17.796 [AI Object Patrol 00163] Global patrol count: 1
+18:06:55.492 [AI Object Patrol 00166] Spawning 2 OilStation_Tier2RR (Raiders) bots at <4363.690918, 176.386002, 13087.016602>
+18:06:55.507 [AI Object Patrol 00166] Global patrol count: 2
+18:06:55.507 [AI Object Patrol 00167] Spawning 2 West bots at <4335.266113, 175.852814, 13027.829102>
+18:06:55.531 [AI Object Patrol 00167] Global patrol count: 3
+18:06:55.535 [AI Object Patrol 00140] Spawning 3 OilStation_Tier2RR (Raiders) bots at <3021.143799, 209.733841, 12647.211914>
+18:06:55.613 [AI Object Patrol 00140] Global patrol count: 4
+18:08:32.671 [Killfeed] AI Baty (OilStation_Tier2RR) умер от Химическое отравление.
+18:08:35.765 [Killfeed] AI Frida (OilStation_Tier2RR) умер от Химическое отравление.
+18:08:36.816 [AI Object Patrol 00166] OilStation_Tier2RR (Raiders) bots were wiped out (spawn position <4363.690918, 176.386002, 13087.016602>, 2/2 deceased)
+18:08:36.816 [AI Object Patrol 00166] Global patrol count: 3
+18:10:08.253 [AI Object Patrol 00135] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <1147.476929, 344.380371, 10005.302734>, 0/1 deceased)
+18:10:08.253 [AI Object Patrol 00135] Global patrol count: 2
+18:12:32.070 [AI Object Patrol 00035] Spawning 1 WaterPump_Tier0 (Raiders) bots at <3418.600342, 192.951981, 13044.721680>
+18:12:32.085 [AI Object Patrol 00035] Global patrol count: 3
+18:12:32.085 [AI Object Patrol 00141] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <3414.930176, 192.927841, 13010.775391>
+18:12:32.179 [AI Object Patrol 00141] Global patrol count: 4
+18:14:03.531 [Killfeed] AI Helga (WaterPump_Tier0) был убит AI Peter (PoliceStation_Tier1) с DT11 из 1 м расстояние.
+18:14:07.250 [AI Object Patrol 00035] WaterPump_Tier0 (Raiders) bots were wiped out (spawn position <3418.600342, 192.951981, 13044.721680>, 1/1 deceased)
+18:14:07.250 [AI Object Patrol 00035] Global patrol count: 3
+18:18:07.351 [AI Object Patrol 00167] Despawning 2 West bots (spawn position <4335.266113, 175.852814, 13027.829102>, 0/2 deceased)
+18:18:07.351 [AI Object Patrol 00167] Global patrol count: 2
+18:19:00.835 [AI Object Patrol 00140] Despawning 3 OilStation_Tier2RR (Raiders) bots (spawn position <3021.143799, 209.733841, 12647.211914>, 0/3 deceased)
+18:19:00.835 [AI Object Patrol 00140] Global patrol count: 1
+18:23:24.921 [AI Object Patrol 00141] Despawning 1 PoliceStation_Tier1 (Raiders) bots (spawn position <3414.930176, 192.927841, 13010.775391>, 0/1 deceased)
+18:23:24.921 [AI Object Patrol 00141] Global patrol count: 0
+18:36:06.937 [VehicleDestroyed] Offroad_02 (id=8C5E0649E047370BA43D99BAF04B21AE pos=<4176.379395, 338.710602, 10725.791992>)
+18:41:57.828 [VehicleDeleted] Offroad_02 (id=8C5E0649E047370BA43D99BAF04B21AE pos=<4176.378418, 338.708405, 10725.791992>)
+19:09:30.687 [AI Object Patrol 00178] Spawning 1 West bots at <1582.997070, 445.417572, 13713.922852>
+19:09:30.718 [AI Object Patrol 00178] Global patrol count: 1
+19:16:05.359 [MissionAirdrop] An airdrop is heading towards "Berezino" (pos=<11464.000000, 0.000000, 8908.000000> type=Random_Berezino) with a ExpansionAirdropContainer_Basebuilding
+19:22:44.554 [AI Object Patrol 00181] Spawning 2 West bots at <4111.773926, 339.010010, 10525.189453>
+19:22:44.578 [AI Object Patrol 00181] Global patrol count: 2
+19:24:23.687 [AI Object Patrol 00178] Despawning 1 West bots (spawn position <1582.997070, 445.417572, 13713.922852>, 0/1 deceased)
+19:24:23.687 [AI Object Patrol 00178] Global patrol count: 1
+19:43:12.539 [AI Object Patrol 00121] Spawning 1 WaterPump_Tier0 (Raiders) bots at <7089.057129, 192.558899, 4317.149414>
+19:43:12.546 [AI Object Patrol 00121] Global patrol count: 2
+19:43:51.578 [AI Object Patrol 00131] Spawning 1 WaterPump_Tier0 (Raiders) bots at <5405.551758, 330.615601, 8582.002930>
+19:43:51.593 [AI Object Patrol 00131] Global patrol count: 3
+19:50:34.554 [AI Object Patrol 00181] Despawning 2 West bots (spawn position <4111.773926, 339.010010, 10525.189453>, 0/2 deceased)
+19:50:34.554 [AI Object Patrol 00181] Global patrol count: 2
+19:54:50.109 [AI Object Patrol 00121] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <7089.057129, 192.558899, 4317.149414>, 0/1 deceased)
+19:54:50.109 [AI Object Patrol 00121] Global patrol count: 1
+19:55:25.304 [AI Object Patrol 00131] Despawning 1 WaterPump_Tier0 (Raiders) bots (spawn position <5405.551758, 330.615601, 8582.002930>, 0/1 deceased)
+19:55:25.304 [AI Object Patrol 00131] Global patrol count: 0

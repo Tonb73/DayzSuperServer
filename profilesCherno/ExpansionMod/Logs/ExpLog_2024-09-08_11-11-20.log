@@ -1,0 +1,41 @@
+11:13:52.492 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:13:52.492 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:13:52.492 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:13:52.492 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+11:13:52.503 [AI Object Patrol] Spawning 2 West bots at <4553.063965, 294.882019, 11487.808594>
+11:17:33.714 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer
+11:19:54.972 [Killfeed] AI Cyril (Рейдеры) был убит Da da Ya с КА-101 из 6 м расстояние.
+11:20:54.855 [Killfeed] AI Manua (Рейдеры) был убит Da da Ya с КА-101 из 7 м расстояние.
+11:23:11.183 [Killfeed] AI Kaito (Рейдеры) был убит Da da Ya с КА-101 из 14 м расстояние.
+11:23:12.839 [Killfeed] AI Baty (Наёмники) был убит Da da Ya с КА-101 из 4 м расстояние.
+11:24:37.695 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4211.020508, 338.958069, 10564.091797>) as driver
+11:24:45.546 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4211.020508, 338.958069, 10564.091797>)
+11:25:22.734 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4210.481934, 338.946259, 10565.732422>)
+11:26:05.695 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4210.481934, 338.946259, 10565.732422>) as driver
+11:26:19.792 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4210.481934, 338.946289, 10565.732422>)
+11:26:28.726 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4208.360840, 338.907959, 10572.354492>)
+11:27:16.296 [Killfeed] AI Peter (Рейдеры) был убит Da da Ya с AUR A1 из 56 м расстояние.
+11:27:26.027 [Killfeed] AI Denis (Рейдеры) был убит Da da Ya с AUR A1 из 14 м расстояние.
+11:27:37.429 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4208.360840, 338.907959, 10572.354492>) as driver
+11:27:39.957 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<4208.360840, 338.907928, 10572.354492>)
+11:31:06.589 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<2582.673584, 302.425385, 6312.692383>)
+11:34:00.113 [VehicleDeleted] CivilianSedan (id=F5417B26AD43EC5444F4F1AFD5E32BB4 pos=<2582.673340, 302.425446, 6312.692383>)
+11:42:54.539 [Killfeed] AI Naomi (Наёмники) был убит Da da Ya с СК 59/66 из 25 м расстояние.
+11:44:13.550 [Killfeed] AI Jose (Наёмники) был убит AI Judy (Рейдеры) с СК 59/66 из 38 м расстояние.
+11:47:25.128 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<281.422333, 297.093994, 8066.711914>) as driver
+11:47:36.042 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<281.421967, 297.093994, 8066.711914>)
+11:52:07.421 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<4970.661621, 9.540704, 2445.990234>)
+11:52:56.351 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<4970.661133, 9.540703, 2445.990234>) as driver
+11:53:57.070 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<4970.661621, 9.540703, 2445.990234>)
+11:54:06.300 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<4970.661133, 9.540704, 2445.990234>) as driver
+11:54:12.332 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<4970.661621, 9.540704, 2445.990234>)
+11:55:43.398 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<14103.694336, 3.365861, 13265.840820>)
+11:55:52.265 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<14103.694336, 3.365857, 13265.840820>) as driver
+11:56:00.132 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<14103.694336, 3.365856, 13265.840820>)
+11:56:28.589 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<14381.019531, 3.345796, 13260.697266>)
+11:56:54.101 [Killfeed] AI Judy (Рейдеры) был убит Da da Ya с CR-527 из 3 м расстояние.
+11:57:02.898 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<14381.019531, 3.345796, 13260.697266>) as driver
+11:57:32.160 [AI Patrol] Spawning 2 West bots at <4606.832520, 310.038513, 5797.672852>
+11:57:32.398 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3768.703857, 402.405975, 6011.632324>) Entered the safezone
+11:57:42.628 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Ada 4x4 (id=10D103AC56411FC9ABFF5191498B1B37 pos=<3768.552246, 401.634521, 6011.091309>)
+11:57:56.207 [AI Patrol] Spawning 2 West bots at <4099.522461, 359.356934, 5865.722168>

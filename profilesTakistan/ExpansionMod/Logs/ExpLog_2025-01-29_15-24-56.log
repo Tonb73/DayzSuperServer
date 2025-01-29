@@ -1,0 +1,160 @@
+15:25:56.937 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+15:25:56.937 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:25:56.968 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:25:56.968 [Expansion Quests] Loaded existing group quest data for group with ID=0
+15:25:56.968 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:25:56.968 [Expansion Quests] Sending player quest data for 0 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+15:25:57.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+15:28:07.531 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb937db0> at <11308.9, 296.45, 9063.81> EXPLOSION range 60 dropoff 15
+15:28:07.531 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb937db0> at <11308.9, 296.45, 9063.81> EXPLOSION range 60 dropoff 15
+15:28:07.871 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9371a0> at <11192.2, 297.59, 9139> EXPLOSION range 60 dropoff 15
+15:28:07.875 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9371a0> at <11192.2, 297.59, 9139> EXPLOSION range 60 dropoff 15
+15:28:08.570 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11281.3, 302.03, 9047.35> EXPLOSION range 60 dropoff 15
+15:28:08.570 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11281.3, 302.03, 9047.35> EXPLOSION range 60 dropoff 15
+15:28:08.855 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11209, 304.63, 9101.72> EXPLOSION range 60 dropoff 15
+15:28:08.855 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11209, 304.63, 9101.72> EXPLOSION range 60 dropoff 15
+15:28:09.437 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11234.8, 302.12, 9118.84> EXPLOSION range 60 dropoff 15
+15:28:09.441 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11234.8, 302.12, 9118.84> EXPLOSION range 60 dropoff 15
+15:28:10.078 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <11266.3, 301.64, 9085.97> EXPLOSION range 60 dropoff 15
+15:28:10.082 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <11266.3, 301.64, 9085.97> EXPLOSION range 60 dropoff 15
+15:28:10.761 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11253.1, 279.25, 9190.1> EXPLOSION range 60 dropoff 15
+15:28:10.761 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11253.1, 279.25, 9190.1> EXPLOSION range 60 dropoff 15
+15:28:11.265 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11310, 288.64, 9094.21> EXPLOSION range 60 dropoff 15
+15:28:11.269 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11310, 288.64, 9094.21> EXPLOSION range 60 dropoff 15
+15:28:11.765 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <11268.1, 300.88, 9071.25> EXPLOSION range 60 dropoff 15
+15:28:11.769 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <11268.1, 300.88, 9071.25> EXPLOSION range 60 dropoff 15
+15:28:12.054 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11259.7, 297.88, 9121.84> EXPLOSION range 60 dropoff 15
+15:28:12.058 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11259.7, 297.88, 9121.84> EXPLOSION range 60 dropoff 15
+15:28:12.062 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<ac615cb0> at <11292.6, 281.59, 9163.11> EXPLOSION range 12 dropoff 3
+15:28:12.062 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<ac615cb0> at <11292.6, 281.59, 9163.11> EXPLOSION range 12 dropoff 3
+15:28:12.667 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11277.3, 284.41, 9130.89> EXPLOSION range 60 dropoff 15
+15:28:12.667 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11277.3, 284.41, 9130.89> EXPLOSION range 60 dropoff 15
+15:28:12.992 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11290.1, 279.4, 9179.46> EXPLOSION range 60 dropoff 15
+15:28:12.996 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11290.1, 279.4, 9179.46> EXPLOSION range 60 dropoff 15
+15:28:13.277 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11207, 304.58, 9083.52> EXPLOSION range 60 dropoff 15
+15:28:13.281 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11207, 304.58, 9083.52> EXPLOSION range 60 dropoff 15
+15:28:14.261 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11245.8, 305.37, 9050.21> EXPLOSION range 60 dropoff 15
+15:28:14.261 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11245.8, 305.37, 9050.21> EXPLOSION range 60 dropoff 15
+15:28:14.679 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11313.2, 278.14, 9144.86> EXPLOSION range 60 dropoff 15
+15:28:14.683 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11313.2, 278.14, 9144.86> EXPLOSION range 60 dropoff 15
+15:28:15.406 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11220.9, 304.56, 9075.12> EXPLOSION range 60 dropoff 15
+15:28:15.406 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11220.9, 304.56, 9075.12> EXPLOSION range 60 dropoff 15
+15:28:15.781 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11256.4, 304.21, 9063.59> EXPLOSION range 60 dropoff 15
+15:28:15.781 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11256.4, 304.21, 9063.59> EXPLOSION range 60 dropoff 15
+15:28:16.515 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11289.1, 281.66, 9130.85> EXPLOSION range 60 dropoff 15
+15:28:16.519 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11289.1, 281.66, 9130.85> EXPLOSION range 60 dropoff 15
+15:28:16.750 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11234.5, 293.2, 9145.98> EXPLOSION range 60 dropoff 15
+15:28:16.753 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11234.5, 293.2, 9145.98> EXPLOSION range 60 dropoff 15
+15:28:17.230 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11293.1, 279.36, 9177.53> EXPLOSION range 60 dropoff 15
+15:28:17.230 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11293.1, 279.36, 9177.53> EXPLOSION range 60 dropoff 15
+15:28:17.917 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11282, 280.53, 9170.84> EXPLOSION range 60 dropoff 15
+15:28:17.921 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11282, 280.53, 9170.84> EXPLOSION range 60 dropoff 15
+15:28:18.320 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11210.2, 304.6, 9078.44> EXPLOSION range 60 dropoff 15
+15:28:18.320 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11210.2, 304.6, 9078.44> EXPLOSION range 60 dropoff 15
+15:28:18.562 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb93a1e0> at <11207.1, 304.58, 9075.78> EXPLOSION range 60 dropoff 15
+15:28:18.562 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb93a1e0> at <11207.1, 304.58, 9075.78> EXPLOSION range 60 dropoff 15
+15:28:18.929 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11209.2, 302.75, 9120.19> EXPLOSION range 60 dropoff 15
+15:28:18.933 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11209.2, 302.75, 9120.19> EXPLOSION range 60 dropoff 15
+15:28:19.277 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <11224.2, 303.81, 9106.02> EXPLOSION range 60 dropoff 15
+15:28:19.277 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <11224.2, 303.81, 9106.02> EXPLOSION range 60 dropoff 15
+15:28:20.011 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11246.2, 304.26, 9068.61> EXPLOSION range 60 dropoff 15
+15:28:20.011 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11246.2, 304.26, 9068.61> EXPLOSION range 60 dropoff 15
+15:28:20.777 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11231.1, 305.24, 9056.5> EXPLOSION range 60 dropoff 15
+15:28:20.777 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11231.1, 305.24, 9056.5> EXPLOSION range 60 dropoff 15
+15:28:21.621 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11230.1, 305.06, 9061.51> EXPLOSION range 60 dropoff 15
+15:28:21.621 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <11230.1, 305.06, 9061.51> EXPLOSION range 60 dropoff 15
+15:28:21.972 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11291.1, 300.53, 9050.99> EXPLOSION range 60 dropoff 15
+15:28:21.976 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11291.1, 300.53, 9050.99> EXPLOSION range 60 dropoff 15
+15:28:22.296 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11230.4, 304.15, 9093.28> EXPLOSION range 60 dropoff 15
+15:28:22.300 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <11230.4, 304.15, 9093.28> EXPLOSION range 60 dropoff 15
+15:28:45.007 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8640.89, 437.56, 3820.17> EXPLOSION range 60 dropoff 15
+15:28:45.007 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8640.89, 437.56, 3820.17> EXPLOSION range 60 dropoff 15
+15:28:45.210 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8684.04, 438.14, 3861.85> EXPLOSION range 60 dropoff 15
+15:28:45.214 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8684.04, 438.14, 3861.85> EXPLOSION range 60 dropoff 15
+15:28:45.851 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8627.53, 437.7, 3793.11> EXPLOSION range 60 dropoff 15
+15:28:45.855 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8627.53, 437.7, 3793.11> EXPLOSION range 60 dropoff 15
+15:28:46.281 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8617.07, 438.19, 3877.39> EXPLOSION range 60 dropoff 15
+15:28:46.281 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8617.07, 438.19, 3877.39> EXPLOSION range 60 dropoff 15
+15:28:46.511 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8666.05, 438.2, 3890.46> EXPLOSION range 60 dropoff 15
+15:28:46.511 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8666.05, 438.2, 3890.46> EXPLOSION range 60 dropoff 15
+15:28:47.054 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8593.59, 443.31, 3886.56> EXPLOSION range 60 dropoff 15
+15:28:47.054 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8593.59, 443.31, 3886.56> EXPLOSION range 60 dropoff 15
+15:28:47.410 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8607.47, 437.68, 3845.38> EXPLOSION range 60 dropoff 15
+15:28:47.410 [ExplosionDamageSystem] Queued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:47.414 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8607.47, 437.68, 3845.38> EXPLOSION range 60 dropoff 15
+15:28:47.414 [ExplosionDamageSystem] Queued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:47.445 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed false) was not hit by ARBomb_Ammo from ARBomb<bb936590> at <8607.47, 437.68, 3845.38> - applying direct EXPLOSION damage coef 0.592303
+15:28:47.445 [ExplosionDamageSystem] Dequeued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:47.445 [BaseBuildingRaiding] BaseRaiding: ExpansionSafeMedium<a5c16e00> at <8575.540039, 439.193481, 3835.890625> has been hit by explosive ARBomb<bb936590>
+15:28:47.445 [BaseBuildingRaiding] ------------------------- Expansion Base Raiding Damage Report -------------------------
+15:28:47.445 [BaseBuildingRaiding] A player damaged ExpansionSafeMedium at <8575.54, 439.19, 3835.89>
+15:28:47.445 [BaseBuildingRaiding] They dealt 296.152 * 17 = 5034.58 damage with ARBomb_Ammo from ARBomb
+15:28:47.445 [BaseBuildingRaiding] GlobalHealth hitpoints decreased from 4273.72 to 0
+15:28:47.445 [BaseBuildingRaiding] ----------------------------------------------------------------------------------------
+15:28:47.445 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb936590> at <8607.47, 437.68, 3845.38> - applying direct EXPLOSION damage coef 0.592303
+15:28:47.445 [ExplosionDamageSystem] Dequeued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:47.937 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8570.41, 440, 3805.27> EXPLOSION range 60 dropoff 15
+15:28:47.937 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:47.937 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8570.41, 440, 3805.27> EXPLOSION range 60 dropoff 15
+15:28:47.937 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:47.968 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8570.41, 440, 3805.27> - applying direct EXPLOSION damage coef 0.643257
+15:28:47.968 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:47.968 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8570.41, 440, 3805.27> - applying direct EXPLOSION damage coef 0.643257
+15:28:47.968 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:48.312 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8595.8, 437.9, 3848.41> EXPLOSION range 60 dropoff 15
+15:28:48.312 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8595.8, 437.9, 3848.41> EXPLOSION range 60 dropoff 15
+15:28:48.898 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8617.86, 446.26, 3920.61> EXPLOSION range 60 dropoff 15
+15:28:48.898 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8617.86, 446.26, 3920.61> EXPLOSION range 60 dropoff 15
+15:28:49.527 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8533.56, 451.88, 3851.8> EXPLOSION range 60 dropoff 15
+15:28:49.527 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8533.56, 451.88, 3851.8> EXPLOSION range 60 dropoff 15
+15:28:50.464 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8548.57, 454, 3892.67> EXPLOSION range 60 dropoff 15
+15:28:50.468 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8548.57, 454, 3892.67> EXPLOSION range 60 dropoff 15
+15:28:51.261 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8568.51, 453.26, 3912.25> EXPLOSION range 60 dropoff 15
+15:28:51.265 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8568.51, 453.26, 3912.25> EXPLOSION range 60 dropoff 15
+15:28:51.707 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8585.12, 438.99, 3828.24> EXPLOSION range 60 dropoff 15
+15:28:51.710 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8585.12, 438.99, 3828.24> EXPLOSION range 60 dropoff 15
+15:28:52.378 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8594.6, 438.8, 3818.77> EXPLOSION range 60 dropoff 15
+15:28:52.378 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8594.6, 438.8, 3818.77> EXPLOSION range 60 dropoff 15
+15:28:53.242 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8562.97, 442.99, 3854.89> EXPLOSION range 60 dropoff 15
+15:28:53.246 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:53.246 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8562.97, 442.99, 3854.89> EXPLOSION range 60 dropoff 15
+15:28:53.246 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:53.277 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8562.97, 442.99, 3854.89> - applying direct EXPLOSION damage coef 0.820035
+15:28:53.277 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:53.277 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8562.97, 442.99, 3854.89> - applying direct EXPLOSION damage coef 0.820035
+15:28:53.277 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:54.218 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8589.84, 438.69, 3865.97> EXPLOSION range 60 dropoff 15
+15:28:54.242 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:54.246 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8589.84, 438.69, 3865.97> EXPLOSION range 60 dropoff 15
+15:28:54.246 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:54.253 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8589.84, 438.69, 3865.97> - applying direct EXPLOSION damage coef 0.593216
+15:28:54.253 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:54.253 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8589.84, 438.69, 3865.97> - applying direct EXPLOSION damage coef 0.593216
+15:28:54.253 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:54.937 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8590.8, 439.34, 3787.99> EXPLOSION range 60 dropoff 15
+15:28:54.941 [ExplosionDamageSystem] Queued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:54.941 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8590.8, 439.34, 3787.99> EXPLOSION range 60 dropoff 15
+15:28:54.941 [ExplosionDamageSystem] Queued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:54.972 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb936590> at <8590.8, 439.34, 3787.99> - applying direct EXPLOSION damage coef 0.216089
+15:28:54.972 [ExplosionDamageSystem] Dequeued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:54.972 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb936590> at <8590.8, 439.34, 3787.99> - applying direct EXPLOSION damage coef 0.216089
+15:28:54.972 [ExplosionDamageSystem] Dequeued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:55.648 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8654.15, 437.47, 3848.54> EXPLOSION range 60 dropoff 15
+15:28:55.648 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9395d0> at <8654.15, 437.47, 3848.54> EXPLOSION range 60 dropoff 15
+15:28:56.511 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8607.57, 438.15, 3818.3> EXPLOSION range 60 dropoff 15
+15:28:56.515 [ExplosionDamageSystem] Queued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:56.515 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb936590> at <8607.57, 438.15, 3818.3> EXPLOSION range 60 dropoff 15
+15:28:56.515 [ExplosionDamageSystem] Queued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:56.546 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb936590> at <8607.57, 438.15, 3818.3> - applying direct EXPLOSION damage coef 0.520991
+15:28:56.546 [ExplosionDamageSystem] Dequeued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:56.546 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb936590> at <8607.57, 438.15, 3818.3> - applying direct EXPLOSION damage coef 0.520991
+15:28:56.546 [ExplosionDamageSystem] Dequeued ARBomb<bb936590> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:57.050 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8583.08, 438.36, 3851.44> EXPLOSION range 60 dropoff 15
+15:28:57.050 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:57.050 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<bb9389c0> at <8583.08, 438.36, 3851.44> EXPLOSION range 60 dropoff 15
+15:28:57.050 [ExplosionDamageSystem] Queued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 2
+15:28:57.082 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8583.08, 438.36, 3851.44> - applying direct EXPLOSION damage coef 0.948861
+15:28:57.082 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 1
+15:28:57.082 [ExplosionDamageSystem] ExpansionSafeMedium<a5c16e00> at <8575.54, 439.19, 3835.89> (destroyed true) was not hit by ARBomb_Ammo from ARBomb<bb9389c0> at <8583.08, 438.36, 3851.44> - applying direct EXPLOSION damage coef 0.948861
+15:28:57.082 [ExplosionDamageSystem] Dequeued ARBomb<bb9389c0> ARBomb_Ammo for ExpansionSafeMedium<a5c16e00> - count: 0
+15:28:58.292 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)

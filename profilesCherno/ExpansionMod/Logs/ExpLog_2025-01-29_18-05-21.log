@@ -1,0 +1,797 @@
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=5401 from file=q5301
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2202 from file=q2202
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2203 from file=q2203
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2204 from file=q2204
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2101 from file=q2101
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=61601 from file=q61601
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2102 from file=q2102
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2103 from file=q2103
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2104 from file=q2104
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=2105 from file=q2105
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=6501 from file=q6501
+18:05:41.164 [Expansion Quests] Added objects set for quest ID=5301 from file=q5301
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5302 from file=q5302
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5303 from file=q5303
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5304 from file=q5304
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=61501 from file=q61501
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=61502 from file=q61502
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=61001 from file=q61001
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=2201 from file=q2201
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=1101 from file=q1101
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=1102 from file=q1102
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=1103 from file=q1102
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=1104 from file=q1104
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=1105 from file=q1105
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5202 from file=q5202
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5203 from file=q5203
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=2205 from file=q2205
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=6601 from file=q6601
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5101 from file=q5101
+18:05:41.167 [Expansion Quests] Added objects set for quest ID=5102 from file=q5102
+18:05:41.171 [Expansion Quests] Added objects set for quest ID=5201 from file=q5201
+18:07:05.308 [Safezone] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11848.8, 140.61, 12464.8>) entered the safezone
+18:07:05.312 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:07:05.312 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.355 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Loaded existing group quest data for group with ID=0
+18:07:05.359 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Create new quest instance for quest with ID=6301 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Create new quest instance for quest with ID=6201 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=5401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.359 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=1101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=1102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=1103 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=1104 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=1105 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.363 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.367 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.367 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.367 [Expansion Quests] Quest with ID=2301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.367 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.367 [Expansion Quests] Sending player quest data for 5 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:07:05.371 [AI Patrol 00084] Spawning 1 Krasnostav_Trader (InvincibleObservers) bots at <11866.564453, 140.134796, 12436.607422>
+18:07:05.398 [AI Patrol 00084] Global patrol count: 1
+18:07:05.398 [AI Patrol 00080] Spawning 2 Krasnostav_Trader (Guards) bots at <11946.312500, 140.000000, 12546.916016>
+18:07:05.437 [AI Patrol 00080] Global patrol count: 2
+18:07:05.437 [AI Patrol 00083] Spawning 1 Krasnostav_Trader (InvincibleObservers) bots at <11977.243164, 140.000000, 12511.895508>
+18:07:05.492 [AI Patrol 00083] Global patrol count: 3
+18:07:05.492 [AI Patrol 00081] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11822.002930, 140.778503, 12416.341797>
+18:07:05.511 [AI Patrol 00081] Global patrol count: 4
+18:07:05.765 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+18:07:05.765 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+18:07:05.765 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+18:07:05.765 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+18:07:05.769 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6301
+18:07:06.257 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:08:08.906 [Safezone] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<11847.7, 141.11, 12464.2>) entered the safezone
+18:08:08.906 [Party] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:08:08.910 [Expansion Quests] Initialize quest system on the connected client with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Loaded existing player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:08:08.949 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=STARTED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Create new quest instance for quest with ID=6301 | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=STARTED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Create new quest instance for quest with ID=6201 | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.949 [Expansion Quests] Quest with ID=5401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=1101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=1102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=1103 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=1104 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=1105 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.953 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.957 [Expansion Quests] Quest with ID=2301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.960 [Expansion Quests] Sending z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= quest configs to client for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:08.960 [Expansion Quests] Sending player quest data for 5 quests to player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:08:09.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:08:09.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=202
+18:08:09.390 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=203
+18:08:09.390 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:08:09.394 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6301
+18:08:09.890 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:08:57.761 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<11858, 140.61, 12464.5>) entered the safezone
+18:08:57.765 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:08:57.765 [Expansion Quests] Initialize quest system on the connected client with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Loaded existing player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:08:57.812 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=STARTED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Create new quest instance for quest with ID=6301 | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=STARTED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Create new quest instance for quest with ID=6201 | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Quest with ID=5401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.812 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=1101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=1102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=1103 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=1104 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=1105 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.816 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.820 [Expansion Quests] Quest with ID=2301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.824 [Expansion Quests] Sending zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= quest configs to client for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:57.824 [Expansion Quests] Sending player quest data for 5 quests to player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:08:58.230 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:08:58.230 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:08:58.230 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:08:58.230 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:08:58.234 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:08:58.730 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:10:22.324 [Market] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) has bought honey x1 (5d59e930) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 446.
+18:10:23.406 [Market] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) has bought honey x1 (5d5a0be0) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 446.
+18:10:51.218 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>) as driver
+18:10:55.367 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>)
+18:11:24.605 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has bought headlighth7 x1 (2a9a6e70) from the trader "Vehicle_Parts (Hassan [#STR_EXPANSION_MARKET_TRADER_VEHICLE_PARTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 360.
+18:11:27.871 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer_Military
+18:12:41.882 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>) as driver
+18:12:44.109 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>)
+18:13:07.609 [Market] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought heatpack x1 (6d65fa60) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 560.
+18:13:08.000 [Market] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought heatpack x1 (6d6605f0) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 560.
+18:13:08.445 [Market] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought heatpack x1 (6d664b50) from the trader "Medicals (Keiko [#STR_EXPANSION_MARKET_TRADER_MEDICALS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 560.
+18:13:47.109 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>) as driver
+18:13:56.781 [VehicleEnter] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>) as passenger
+18:14:01.828 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.789063, 139.968582, 12477.156250>)
+18:14:07.429 [VehicleEnter] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.8, 139.97, 12477.2>) as passenger
+18:14:43.820 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11826.2, 143.2, 12223>)
+18:14:47.226 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:14:47.351 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:14:47.757 [Safezone] Player "{1:name}" (id={1:id} pos={1:position}) left the safezone
+18:14:49.117 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11826.3, 143.2, 12222.9>) as driver
+18:14:50.609 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11826.278320, 143.197006, 12222.874023>)
+18:16:10.531 [AI Patrol 00086] Spawning 1 Rify_Tier1 (Raiders) bots at <13538.357422, 33.745651, 11690.970703>
+18:16:10.554 [AI Patrol 00086] Global patrol count: 5
+18:16:23.054 [AI Patrol 00084] Despawning 1 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11866.564453, 140.134796, 12436.607422>, 0/1 deceased)
+18:16:23.054 [AI Patrol 00084] Global patrol count: 4
+18:16:23.421 [AI Patrol 00080] Despawning 2 Krasnostav_Trader (Guards) bots (spawn position <11946.312500, 140.000000, 12546.916016>, 0/2 deceased)
+18:16:23.421 [AI Patrol 00080] Global patrol count: 3
+18:16:23.656 [AI Patrol 00081] Despawning 2 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11822.002930, 140.778503, 12416.341797>, 0/2 deceased)
+18:16:23.656 [AI Patrol 00081] Global patrol count: 2
+18:16:28.054 [VehicleDeleted] Offroad_02 (id=BBBD716F97470251C5579BA349329223 pos=<4176.36, 338.71, 10725.8>)
+18:16:28.609 [AI Patrol 00083] Despawning 1 Krasnostav_Trader (InvincibleObservers) bots (spawn position <11977.243164, 140.000000, 12511.895508>, 0/1 deceased)
+18:16:28.609 [AI Patrol 00083] Global patrol count: 1
+18:16:52.460 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>)
+18:16:52.609 [VehicleLeave] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>)
+18:16:53.460 [VehicleLeave] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>)
+18:17:10.101 [Killfeed] AI Irena (Rify_Tier1) был убит [Spart] acey с Blaze из 35 м расстояние.
+18:17:13.359 [AI Patrol 00086] Rify_Tier1 (Raiders) bots were wiped out (spawn position <13538.357422, 33.745651, 11690.970703>, 1/1 deceased)
+18:17:13.359 [AI Patrol 00086] Global patrol count: 0
+18:18:38.679 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>) as passenger
+18:18:44.156 [VehicleEnter] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>) as passenger
+18:18:46.820 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>)
+18:18:55.250 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.2, 36.49, 11725.8>) as driver
+18:18:59.195 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13522.176758, 36.493153, 11725.797852>)
+18:19:16.265 [VehicleEnter] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.1, 33.25, 11720.9>) as passenger
+18:19:25.875 [AI Object Patrol 00051] Spawning 1 ContaminatedArea_Tier4 (Raiders) bots at <13760.406250, 1.056370, 11173.469727>
+18:19:25.906 [AI Object Patrol 00051] Global patrol count: 1
+18:19:28.875 [AI Object Patrol 00049] Spawning 1 ContaminatedArea_Tier4 (Raiders) bots at <13668.194336, 0.485603, 11079.917969>
+18:19:28.906 [AI Object Patrol 00049] Global patrol count: 2
+18:19:29.351 [AI Object Patrol 00050] Spawning 1 ContaminatedArea_Tier4 (Raiders) bots at <13870.916992, -0.150422, 11170.452148>
+18:19:29.375 [AI Object Patrol 00050] Global patrol count: 3
+18:19:58.750 [AI Patrol 00086] Despawning 0 Rify_Tier1 (Raiders) bots (spawn position <13538.357422, 33.745651, 11690.970703>, 1/1 deceased)
+18:20:08.007 [AI Patrol 00089] Spawning 1 Berezino_Tier1 (Raiders) bots at <13116.820313, 5.990000, 10338.366211>
+18:20:08.023 [AI Patrol 00089] Global patrol count: 4
+18:20:15.898 [AI Object Patrol 00034] Spawning 1 PoliceStation_Tier1 (Raiders) bots at <12915.190430, 6.009235, 10176.535156>
+18:20:15.914 [AI Object Patrol 00034] Global patrol count: 5
+18:20:18.140 [AI Object Patrol 00033] Spawning 2 OilStation_Tier2RR (Raiders) bots at <12971.858398, 6.000000, 10091.509766>
+18:20:18.179 [AI Object Patrol 00033] Global patrol count: 6
+18:20:19.632 [AI Patrol 00090] Spawning 1 Berezhino_Tier1 (Raiders) bots at <13008.709961, 5.833623, 10056.712891>
+18:20:19.648 [AI Patrol 00090] Global patrol count: 7
+18:20:33.820 [VehicleLeave] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>)
+18:20:34.062 [VehicleLeave] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>)
+18:20:35.781 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>)
+18:20:43.781 [Killfeed] AI Taiki (Berezino_Tier1) был убит [Spart] acey с Blaze из 110 м расстояние.
+18:20:43.804 [AI Patrol 00089] Berezino_Tier1 (Raiders) bots were wiped out (spawn position <13116.820313, 5.990000, 10338.366211>, 1/1 deceased)
+18:20:43.804 [AI Patrol 00089] Global patrol count: 6
+18:20:49.625 [Killfeed] AI Seth (ContaminatedArea_Tier4) был убит AI Helga (ContaminatedArea_Tier4) с СВАЛ из 173 м расстояние.
+18:20:49.640 [AI Object Patrol 00049] ContaminatedArea_Tier4 (Raiders) bots were wiped out (spawn position <13668.194336, 0.485603, 11079.917969>, 1/1 deceased)
+18:20:49.640 [AI Object Patrol 00049] Global patrol count: 5
+18:20:52.226 [AI Object Patrol 00200] Spawning 2 FirelStation_Tier2 (Raiders) bots at <12812.071289, 6.129560, 9968.023438>
+18:20:52.242 [AI Object Patrol 00200] Global patrol count: 6
+18:21:03.757 [AI Object Patrol 00050] Despawning 1 ContaminatedArea_Tier4 (Raiders) bots (spawn position <13870.916992, -0.150422, 11170.452148>, 0/1 deceased)
+18:21:03.757 [AI Object Patrol 00050] Global patrol count: 5
+18:21:04.054 [AI Object Patrol 00051] Despawning 1 ContaminatedArea_Tier4 (Raiders) bots (spawn position <13760.406250, 1.056370, 11173.469727>, 0/1 deceased)
+18:21:04.054 [AI Object Patrol 00051] Global patrol count: 4
+18:21:09.640 [AI Object Patrol 00049] Despawning 0 ContaminatedArea_Tier4 (Raiders) bots (spawn position <13687.692383, 0.456810, 11092.629883>, 1/1 deceased)
+18:21:21.781 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:21:21.781 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:21:31.812 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:21:31.812 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:21:42.500 [Killfeed] AI Naomi (Berezhino_Tier1) был убит [Spart] Quvio с DT11 из 34 м расстояние.
+18:21:43.953 [AI Patrol 00090] Berezhino_Tier1 (Raiders) bots were wiped out (spawn position <13008.709961, 5.833623, 10056.712891>, 1/1 deceased)
+18:21:43.953 [AI Patrol 00090] Global patrol count: 3
+18:21:48.093 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:21:48.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:22:01.468 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:22:01.468 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:22:11.382 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:22:11.382 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:22:19.320 [Killfeed] [Spart] Quvio был убит AI Judy (FirelStation_Tier2) с M9 из 17 м расстояние.
+18:22:33.703 [Party] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:22:34.687 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:22:35.523 [Killfeed] AI Judy (FirelStation_Tier2) был убит [Spart] Tonby с CR-75 из 13 м расстояние.
+18:22:39.921 [SpawnSelection] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) spawned at <13057.200195, 2.300000, 9584.480469>
+18:22:53.882 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:22:53.890 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:22:54.726 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:22:54.726 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:22:56.437 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:22:56.445 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:22:57.523 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:22:57.523 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:23:16.812 [Killfeed] AI Francis (FirelStation_Tier2) был убит [Spart] acey с Blaze из 23 м расстояние.
+18:23:19.382 [AI Object Patrol 00200] FirelStation_Tier2 (Raiders) bots were wiped out (spawn position <12812.071289, 6.129560, 9968.023438>, 2/2 deceased)
+18:23:19.382 [AI Object Patrol 00200] Global patrol count: 2
+18:23:33.734 [Killfeed] AI Niki (OilStation_Tier2RR) был убит [Spart] acey с Blaze из 10 м расстояние.
+18:24:10.296 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:24:10.296 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:24:42.015 [Killfeed] AI Maria (OilStation_Tier2RR) был убит [Spart] Tonby с CR-75 из 21 м расстояние.
+18:24:44.640 [AI Object Patrol 00033] OilStation_Tier2RR (Raiders) bots were wiped out (spawn position <12971.858398, 6.000000, 10091.509766>, 2/2 deceased)
+18:24:44.640 [AI Object Patrol 00033] Global patrol count: 1
+18:24:46.765 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:24:46.765 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=202
+18:24:46.765 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=203
+18:24:46.765 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:24:46.773 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6301
+18:25:01.078 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:25:01.078 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:27:54.203 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:27:54.203 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:28:02.468 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:28:02.468 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:28:20.664 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:28:20.664 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:28:36.171 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:28:36.171 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:28:40.828 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:28:40.835 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:28:53.296 [Killfeed] AI Boris (PoliceStation_Tier1) был убит [Spart] Tonby с CR-75 из 23 м расстояние.
+18:28:53.757 [AI Object Patrol 00034] PoliceStation_Tier1 (Raiders) bots were wiped out (spawn position <12915.190430, 6.009235, 10176.535156>, 1/1 deceased)
+18:28:53.757 [AI Object Patrol 00034] Global patrol count: 0
+18:29:03.960 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:29:03.960 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:29:03.968 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:29:03.968 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:29:22.085 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:29:22.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:29:22.093 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:29:22.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:29:30.835 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:29:30.843 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:29:30.843 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:29:30.843 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:30:06.468 [Expansion Quests] Added new objective data for type=TARGET | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=101
+18:30:06.476 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6201
+18:30:06.476 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:30:06.476 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:30:10.632 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:30:10.640 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:30:10.640 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:30:10.640 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:31:38.179 [Party] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:31:38.179 [Expansion Quests] Deleted quest with ID=6201 is a of player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=.
+18:31:38.179 [Expansion Quests] Deleted quest with ID=6301 is a of player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=.
+18:31:40.335 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:31:40.335 [Expansion Quests] Deleted quest with ID=6201 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+18:31:40.335 [Expansion Quests] Deleted quest with ID=6301 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+18:31:41.093 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:31:41.093 [Expansion Quests] Deleted quest with ID=6201 is a of player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=.
+18:31:41.093 [Expansion Quests] Deleted quest with ID=6301 is a of player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=.
+18:31:43.765 [AI Object Patrol 00034] Despawning 0 PoliceStation_Tier1 (Raiders) bots (spawn position <12940.299805, 6.680757, 10176.993164>, 1/1 deceased)
+18:31:43.820 [AI Patrol 00089] Despawning 0 Berezino_Tier1 (Raiders) bots (spawn position <13116.820313, 5.990000, 10338.366211>, 1/1 deceased)
+18:31:43.968 [AI Patrol 00090] Despawning 0 Berezhino_Tier1 (Raiders) bots (spawn position <13008.709961, 5.833623, 10056.712891>, 1/1 deceased)
+18:31:44.398 [AI Object Patrol 00200] Despawning 0 FirelStation_Tier2 (Raiders) bots (spawn position <12802.993164, 5.971147, 9997.606445>, 2/2 deceased)
+18:31:44.656 [AI Object Patrol 00033] Despawning 0 OilStation_Tier2RR (Raiders) bots (spawn position <12965.079102, 6.000000, 10085.042969>, 2/2 deceased)
+18:31:56.750 [Party] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:31:56.750 [Expansion Quests] Initialize quest system on the connected client with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Loaded existing player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:31:56.773 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=STARTED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Create new quest instance for quest with ID=6301 | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=STARTED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Create new quest instance for quest with ID=6201 | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=5401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.773 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=1101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=1102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=1103 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=1104 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=1105 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Quest with ID=2301 is not a a valid achievement or auto start quest. Skip quest for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Sending z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= quest configs to client for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.781 [Expansion Quests] Sending player quest data for 5 quests to player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=
+18:31:56.789 [AI Patrol 00089] Spawning 1 Berezino_Tier1 (Raiders) bots at <13116.820313, 5.990000, 10338.366211>
+18:31:56.804 [AI Patrol 00089] Global patrol count: 1
+18:31:57.234 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:31:57.234 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=202
+18:31:57.234 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=203
+18:31:57.234 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:31:57.234 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6301
+18:31:57.734 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:31:58.484 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:31:58.484 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:31:58.515 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Create new quest instance for quest with ID=6201 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Create new quest instance for quest with ID=6301 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=5401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.515 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=1101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=1102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=1103 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=1104 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=1105 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Quest with ID=2301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.523 [Expansion Quests] Sending player quest data for 5 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+18:31:58.945 [Party] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:31:58.945 [Expansion Quests] Initialize quest system on the connected client with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Loaded existing player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:31:58.968 [Expansion Quests] Check quest initialization for quest with ID=101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Check quest initialization for quest with ID=6401 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=STARTED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Create new quest instance for quest with ID=6201 | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Check quest initialization for quest with ID=6301 | State=STARTED | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Create new quest instance for quest with ID=6301 | Player UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2202 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2203 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2204 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2103 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2104 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2105 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5302 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5303 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5304 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=61502 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=2201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=1101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=1102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=1103 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=1104 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=1105 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5202 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=5203 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.968 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=2205 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=5101 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=5102 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=5201 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Quest with ID=2301 is not a a valid achievement or auto start quest. Skip quest for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Sending zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= quest configs to client for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.976 [Expansion Quests] Sending player quest data for 5 quests to player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=
+18:31:58.984 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+18:31:58.984 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+18:31:58.984 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+18:31:58.984 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+18:31:58.984 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6301
+18:31:59.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:31:59.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:31:59.414 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:31:59.414 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:31:59.421 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:31:59.468 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:31:59.914 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:32:57.289 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+18:32:57.289 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=202
+18:32:57.289 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=203
+18:32:57.289 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=201
+18:32:57.289 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6301
+18:33:03.539 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:33:03.539 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:33:03.539 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:33:03.539 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:33:03.546 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:33:04.218 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:33:04.218 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=202
+18:33:04.218 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=203
+18:33:04.218 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:33:04.226 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6301
+18:34:32.164 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:34:32.164 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:34:32.890 [Expansion Quests] Added new objective data for type=TARGET | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=101
+18:34:32.890 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6201
+18:35:34.281 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:35:34.289 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:35:39.937 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:35:39.945 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:35:45.070 [Expansion Quests] Added new objective data for type=TARGET | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=101
+18:35:45.078 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6201
+18:35:54.609 [Expansion Quests] Added new objective data for type=TARGET | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=101
+18:35:54.609 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6201
+18:37:15.414 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4195.83, 338.44, 11093.3> EXPLOSION range 60 dropoff 15
+18:37:15.429 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4195.83, 338.44, 11093.3> EXPLOSION range 60 dropoff 15
+18:37:16.117 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4148.58, 338.44, 11001.7> EXPLOSION range 60 dropoff 15
+18:37:16.125 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4148.58, 338.44, 11001.7> EXPLOSION range 60 dropoff 15
+18:37:16.351 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bba030> at <4224.56, 338.44, 11004.7> EXPLOSION range 60 dropoff 15
+18:37:16.351 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bba030> at <4224.56, 338.44, 11004.7> EXPLOSION range 60 dropoff 15
+18:37:16.359 [ExplosionDamageSystem] About to explode TF_EMPGrenade_Ammo from TF_EMPGrenade<fc73f8d0> at <4205.9, 338.45, 11023.2> EXPLOSION range 20 dropoff 5
+18:37:16.359 [ExplosionDamageSystem] About to explode TF_EMPGrenade_Ammo from TF_EMPGrenade<fc73f8d0> at <4205.9, 338.45, 11023.2> EXPLOSION range 20 dropoff 5
+18:37:17.343 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4240.6, 338.85, 11013.3> EXPLOSION range 60 dropoff 15
+18:37:17.351 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4240.6, 338.85, 11013.3> EXPLOSION range 60 dropoff 15
+18:37:17.898 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4240.48, 339.04, 11064.1> EXPLOSION range 60 dropoff 15
+18:37:17.898 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4240.48, 339.04, 11064.1> EXPLOSION range 60 dropoff 15
+18:37:18.320 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4189.15, 338.44, 11031.1> EXPLOSION range 60 dropoff 15
+18:37:18.320 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4189.15, 338.44, 11031.1> EXPLOSION range 60 dropoff 15
+18:37:18.617 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4245.89, 338.43, 11046.6> EXPLOSION range 60 dropoff 15
+18:37:18.617 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4245.89, 338.43, 11046.6> EXPLOSION range 60 dropoff 15
+18:37:19.023 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4222.82, 338.44, 11000.2> EXPLOSION range 60 dropoff 15
+18:37:19.023 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4222.82, 338.44, 11000.2> EXPLOSION range 60 dropoff 15
+18:37:19.031 [ExplosionDamageSystem] About to explode TF_WPGrenade_Ammo from TF_PhosphorusGrenade<fc748990> at <4203.5, 339.24, 11000.8> EXPLOSION range 20 dropoff 5
+18:37:19.046 [ExplosionDamageSystem] About to explode TF_WPGrenade_Ammo from TF_PhosphorusGrenade<fc748990> at <4203.5, 339.24, 11000.8> EXPLOSION range 20 dropoff 5
+18:37:19.953 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4150.45, 338.42, 11030.8> EXPLOSION range 60 dropoff 15
+18:37:19.953 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4150.45, 338.42, 11030.8> EXPLOSION range 60 dropoff 15
+18:37:20.734 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4221.78, 338.43, 11007.3> EXPLOSION range 60 dropoff 15
+18:37:20.734 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb63e0> at <4221.78, 338.43, 11007.3> EXPLOSION range 60 dropoff 15
+18:37:20.742 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<83bb6ff0> at <4211.75, 339.05, 11026.3> EXPLOSION range 12 dropoff 3
+18:37:20.750 [ExplosionDamageSystem] About to explode RGD5Grenade_Ammo from RGD5Grenade<83bb6ff0> at <4211.75, 339.05, 11026.3> EXPLOSION range 12 dropoff 3
+18:37:21.398 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4198.8, 338.44, 11123.6> EXPLOSION range 60 dropoff 15
+18:37:21.398 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4198.8, 338.44, 11123.6> EXPLOSION range 60 dropoff 15
+18:37:22.054 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4214.32, 338.44, 10984.1> EXPLOSION range 60 dropoff 15
+18:37:22.054 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4214.32, 338.44, 10984.1> EXPLOSION range 60 dropoff 15
+18:37:22.679 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4212.12, 338.44, 11000.7> EXPLOSION range 60 dropoff 15
+18:37:22.687 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4212.12, 338.44, 11000.7> EXPLOSION range 60 dropoff 15
+18:37:23.093 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4195.22, 338.44, 10988.5> EXPLOSION range 60 dropoff 15
+18:37:23.101 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4195.22, 338.44, 10988.5> EXPLOSION range 60 dropoff 15
+18:37:23.906 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4222.52, 338.44, 11053.8> EXPLOSION range 60 dropoff 15
+18:37:23.906 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4222.52, 338.44, 11053.8> EXPLOSION range 60 dropoff 15
+18:37:24.343 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4165.26, 338.42, 11023.4> EXPLOSION range 60 dropoff 15
+18:37:24.343 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4165.26, 338.42, 11023.4> EXPLOSION range 60 dropoff 15
+18:37:25.140 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4239.29, 338.44, 11103.6> EXPLOSION range 60 dropoff 15
+18:37:25.140 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4239.29, 338.44, 11103.6> EXPLOSION range 60 dropoff 15
+18:37:25.546 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4170.83, 338.44, 11116.6> EXPLOSION range 60 dropoff 15
+18:37:25.546 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4170.83, 338.44, 11116.6> EXPLOSION range 60 dropoff 15
+18:37:26.500 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4191.18, 338.56, 10978.3> EXPLOSION range 60 dropoff 15
+18:37:26.500 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4191.18, 338.56, 10978.3> EXPLOSION range 60 dropoff 15
+18:37:27.187 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4148.34, 338.39, 11093.6> EXPLOSION range 60 dropoff 15
+18:37:27.195 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4148.34, 338.39, 11093.6> EXPLOSION range 60 dropoff 15
+18:37:27.445 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4219.37, 338.44, 11039.5> EXPLOSION range 60 dropoff 15
+18:37:27.445 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4219.37, 338.44, 11039.5> EXPLOSION range 60 dropoff 15
+18:37:28.398 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4190.07, 338.44, 11128.9> EXPLOSION range 60 dropoff 15
+18:37:28.398 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4190.07, 338.44, 11128.9> EXPLOSION range 60 dropoff 15
+18:37:28.640 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bbb850> at <4147.58, 338.43, 11041> EXPLOSION range 60 dropoff 15
+18:37:28.640 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bbb850> at <4147.58, 338.43, 11041> EXPLOSION range 60 dropoff 15
+18:37:29.562 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4152.68, 338.44, 11056.7> EXPLOSION range 60 dropoff 15
+18:37:29.562 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4152.68, 338.44, 11056.7> EXPLOSION range 60 dropoff 15
+18:37:29.796 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bbac40> at <4224.76, 338.98, 11121.8> EXPLOSION range 60 dropoff 15
+18:37:29.804 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bbac40> at <4224.76, 338.98, 11121.8> EXPLOSION range 60 dropoff 15
+18:37:30.312 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4182.98, 338.44, 11056> EXPLOSION range 60 dropoff 15
+18:37:30.312 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4182.98, 338.44, 11056> EXPLOSION range 60 dropoff 15
+18:37:31.218 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4165.32, 338.44, 11050.3> EXPLOSION range 60 dropoff 15
+18:37:31.226 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4165.32, 338.44, 11050.3> EXPLOSION range 60 dropoff 15
+18:37:31.906 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4264.29, 338.42, 11017.4> EXPLOSION range 60 dropoff 15
+18:37:31.906 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4264.29, 338.42, 11017.4> EXPLOSION range 60 dropoff 15
+18:37:32.640 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4147.75, 338, 11110.1> EXPLOSION range 60 dropoff 15
+18:37:32.648 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4147.75, 338, 11110.1> EXPLOSION range 60 dropoff 15
+18:37:33.187 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4229.49, 338.44, 11054.4> EXPLOSION range 60 dropoff 15
+18:37:33.187 [ExplosionDamageSystem] About to explode ARBomb_Ammo from ARBomb<83bb6ff0> at <4229.49, 338.44, 11054.4> EXPLOSION range 60 dropoff 15
+18:37:43.320 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>) as passenger
+18:37:49.367 [VehicleAttachments] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) detached Land Rover Defender задняя правая дверь (type=Expansion_Landrover_Right_Grey) from vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>)
+18:37:49.703 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>)
+18:37:53.375 [VehicleEnter] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>) as passenger
+18:37:53.382 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>) as driver
+18:37:55.695 [VehicleEnter] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13128, 5.97, 10428.3>) as passenger
+18:37:56.234 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13127.955078, 5.968573, 10428.315430>)
+18:38:12.101 [AI Patrol 00090] Spawning 2 Berezhino_Tier1 (Raiders) bots at <13008.709961, 5.833623, 10056.712891>
+18:38:12.125 [AI Patrol 00090] Global patrol count: 2
+18:38:30.789 [AI Object Patrol 00049] Spawning 1 ContaminatedArea_Tier4 (Raiders) bots at <13687.692383, 0.456810, 11092.629883>
+18:38:30.828 [AI Object Patrol 00049] Global patrol count: 3
+18:38:34.984 [AI Object Patrol 00051] Spawning 3 ContaminatedArea_Tier4 (Raiders) bots at <13760.406250, 1.056370, 11173.469727>
+18:38:35.015 [AI Object Patrol 00051] Global patrol count: 4
+18:38:39.054 [AI Object Patrol 00050] Spawning 2 ContaminatedArea_Tier4 (Raiders) bots at <13870.916992, -0.150422, 11170.452148>
+18:38:39.078 [AI Object Patrol 00050] Global patrol count: 5
+18:38:47.492 [AI Patrol 00086] Spawning 2 Rify_Tier1 (Raiders) bots at <13538.357422, 33.745651, 11690.970703>
+18:38:47.523 [AI Patrol 00086] Global patrol count: 6
+18:39:19.046 [AI Patrol 00090] Despawning 2 Berezhino_Tier1 (Raiders) bots (spawn position <13008.709961, 5.833623, 10056.712891>, 0/2 deceased)
+18:39:19.046 [AI Patrol 00090] Global patrol count: 5
+18:39:23.898 [AI Patrol 00089] Despawning 1 Berezino_Tier1 (Raiders) bots (spawn position <13116.820313, 5.990000, 10338.366211>, 0/1 deceased)
+18:39:23.898 [AI Patrol 00089] Global patrol count: 4
+18:39:31.226 [Killfeed] [Spart] Quvio был убит AI Keiko (Rify_Tier1) с Blaze из 17 м расстояние.
+18:39:45.328 [Party] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) joinded the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:39:46.320 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+18:39:47.367 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13300.5, 44.1, 11717.3>)
+18:39:48.625 [VehicleLeave] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13300.5, 44.1, 11717.3>)
+18:39:54.007 [SpawnSelection] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) spawned at <13207.200195, 2.300000, 10193.700195>
+18:40:14.734 [AI Object Patrol 00049] Despawning 1 ContaminatedArea_Tier4 (Raiders) bots (spawn position <13687.692383, 0.456810, 11092.629883>, 0/1 deceased)
+18:40:14.734 [AI Object Patrol 00049] Global patrol count: 3
+18:40:23.851 [AI Object Patrol 00050] Despawning 2 ContaminatedArea_Tier4 (Raiders) bots (spawn position <13870.916992, -0.150422, 11170.452148>, 0/2 deceased)
+18:40:23.851 [AI Object Patrol 00050] Global patrol count: 2
+18:40:48.632 [Killfeed] AI Keiko (Rify_Tier1) был убит [Spart] acey с Blaze из 15 м расстояние.
+18:40:59.234 [Killfeed] AI Mirek (Rify_Tier1) был убит [Spart] Tonby с MP-443 «Грач» из 43 м расстояние.
+18:41:03.843 [AI Patrol 00086] Rify_Tier1 (Raiders) bots were wiped out (spawn position <13538.357422, 33.745651, 11690.970703>, 2/2 deceased)
+18:41:03.843 [AI Patrol 00086] Global patrol count: 1
+18:42:55.718 [VehicleEnter] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13300.5, 44.1, 11717.3>) as passenger
+18:42:57.593 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13300.5, 44.1, 11717.3>) as driver
+18:43:01.140 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13300.509766, 44.099361, 11717.247070>)
+18:43:31.656 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13555.1, 33.17, 11722.8>)
+18:43:32.351 [VehicleLeave] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13555.1, 33.17, 11722.8>)
+18:44:36.328 [Killfeed] AI Peter (ContaminatedArea_Tier4) был убит [Spart] Tonby с CR-527 из 72 м расстояние.
+18:45:01.023 [Killfeed] AI Gabi (ContaminatedArea_Tier4) был убит [Spart] Tonby с CR-75 из 23 м расстояние.
+18:45:40.546 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:45:40.554 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=202
+18:45:40.554 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=203
+18:45:40.554 [Expansion Quests] Added new objective data for type=COLLECT | Key=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | ID=201
+18:45:40.554 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= | Quest ID=6301
+18:46:28.500 [VehicleEnter] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13555.1, 33.17, 11722.8>) as driver
+18:46:34.992 [VehicleEngine] Player "Quvio" [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13555.065430, 33.172054, 11722.791992>)
+18:46:43.437 [Killfeed] AI Indar (ContaminatedArea_Tier4) был убит [Spart] acey с Витязь-СН ПП19-01 из 62 м расстояние.
+18:46:44.257 [AI Object Patrol 00051] ContaminatedArea_Tier4 (Raiders) bots were wiped out (spawn position <13760.406250, 1.056370, 11173.469727>, 3/3 deceased)
+18:46:44.257 [AI Object Patrol 00051] Global patrol count: 0
+18:46:57.625 [VehicleEngine] Player "Quvio" [uid=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=] stopped vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.364258, 29.522764, 11608.486328>)
+18:47:03.429 [VehicleLeave] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.4, 29.52, 11608.5>)
+18:47:11.695 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:47:11.695 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:47:11.695 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:47:11.695 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:47:11.695 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:47:34.093 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:47:34.093 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:47:34.093 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:47:34.093 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:47:34.093 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:50:35.171 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:50:35.171 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:50:35.171 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:50:35.171 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:50:35.171 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:50:41.101 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:50:41.101 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:50:41.101 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:50:41.101 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:50:41.109 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:50:45.226 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:50:45.226 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:50:45.226 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:50:45.226 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:50:45.226 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:51:04.570 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:51:04.570 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:51:04.570 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:51:04.570 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:51:04.578 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:51:11.085 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:51:11.085 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:51:11.085 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:51:11.085 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:51:11.085 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:52:43.054 [VehicleEnter] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.4, 29.52, 11608.5>) as passenger
+18:52:56.257 [VehicleEnter] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.4, 29.52, 11608.5>) as passenger
+18:53:19.406 [VehicleLeave] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.4, 29.52, 11608.5>)
+18:54:31.070 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:54:31.070 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:54:31.070 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:54:31.070 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:54:31.070 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:54:43.375 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:54:43.375 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=202
+18:54:43.375 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=203
+18:54:43.375 [Expansion Quests] Added new objective data for type=COLLECT | Key=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | ID=201
+18:54:43.375 [Expansion Quests] Updated and saved persistent player quest data for player with UID=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= | Quest ID=6301
+18:54:53.875 [VehicleEnter] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.4, 29.52, 11608.5>) as passenger
+18:54:55.359 [VehicleEnter] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) entered vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.4, 29.52, 11608.5>) as driver
+18:54:58.703 [VehicleEngine] Player "acey" [uid=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=] started vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<13553.363281, 29.522772, 11608.486328>)
+18:55:14.562 [AI Object Patrol 00051] Despawning 0 ContaminatedArea_Tier4 (Raiders) bots (spawn position <13738.526367, 0.493425, 11155.425781>, 3/3 deceased)
+18:56:04.273 [AI Patrol 00086] Despawning 0 Rify_Tier1 (Raiders) bots (spawn position <13538.357422, 33.745651, 11690.970703>, 2/2 deceased)
+18:56:51.585 [AI Patrol 00083] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11977.243164, 140.000000, 12511.895508>
+18:56:51.601 [AI Patrol 00083] Global patrol count: 1
+18:56:53.835 [AI Patrol 00080] Spawning 1 Krasnostav_Trader (Guards) bots at <11946.312500, 140.000000, 12546.916016>
+18:56:53.859 [AI Patrol 00080] Global patrol count: 2
+18:56:54.125 [AI Patrol 00084] Spawning 1 Krasnostav_Trader (InvincibleObservers) bots at <11866.564453, 140.134796, 12436.607422>
+18:56:54.164 [AI Patrol 00084] Global patrol count: 3
+18:56:55.585 [AI Patrol 00081] Spawning 2 Krasnostav_Trader (InvincibleObservers) bots at <11822.002930, 140.778503, 12416.341797>
+18:56:55.609 [AI Patrol 00081] Global patrol count: 4
+18:57:32.867 [Safezone] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w= pos=<11805.6, 145.35, 12307>) entered the safezone
+18:57:32.867 [Safezone] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk= pos=<11805.9, 145.37, 12307.7>) entered the safezone
+18:57:32.890 [Safezone] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11806.9, 145.32, 12307.8>) entered the safezone
+18:57:55.039 [VehicleLeave] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.7, 139.97, 12469.9>)
+18:57:55.429 [VehicleLeave] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.7, 139.97, 12469.9>)
+18:57:55.554 [VehicleLeave] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) left vehicle Land Rover Defender (id=AC7C9A856A4545179A5C839B8E64D01F pos=<11874.7, 139.97, 12469.9>)
+18:58:28.890 [Party] Player "Tonby" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) left the party "Spartan Dark" (id=0 ownerUID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= ownerName=Tonby)
+18:58:28.890 [Expansion Quests] Deleted quest with ID=6201 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+18:58:28.890 [Expansion Quests] Deleted quest with ID=6301 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+18:58:48.859 [Market] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) has sold expansion_dt11 x1 (ad600be0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 2150.
+18:59:14.148 [Market] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) has bought mag_cz527_5rnd x1 (c29bc320, ammo_762x39 x5) from the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 1535.
+18:59:14.828 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has sold expansion_vityazsn x1 (1ac79e90, AK_RailHndgrd<230d46f0>, AKS74U_Bttstck<230d8c50>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 6983.
+18:59:15.148 [Market] Player "Quvio" (id=z63osPRVUnS8pzWmaenLtvu6c2gVxwL4gvA4elWPF5w=) has bought mag_p1_8rnd x1 (c29bceb0, ammo_9x19 x8) from the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 306.
+18:59:25.484 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has sold makarovij70 x1 (ad606750) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 650.
+18:59:26.796 [Market] Player "acey" (id=zc8VdK3LmE4uE8VdKbx2bOGlKghmh6pN2ye-63D6kCk=) has sold cleaver x1 (76dd97c0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 50.

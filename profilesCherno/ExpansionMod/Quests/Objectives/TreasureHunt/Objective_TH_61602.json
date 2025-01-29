@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": 28,
+    "ID":1602,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Найдите информацию о контрабандисте",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            224,
+			150.164978,
+			3202.796387
+
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 30.0,
+    "Loot": [
+        {
+            "Name": "ExpansionQuestItemPaper",
+            "Chance": 1,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

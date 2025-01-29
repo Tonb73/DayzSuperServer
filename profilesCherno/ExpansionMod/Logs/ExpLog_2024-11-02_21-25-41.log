@@ -1,0 +1,262 @@
+21:28:28.968 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11845.493164, 140.605072, 12462.638672>) Entered the safezone
+21:28:28.968 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=6901 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61601 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61902 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=6501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61001 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=6201 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61901 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=9 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61701 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=6101 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61401 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=6202 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61801 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Check quest initialization for quest with ID=61501 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.046 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6701 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=62001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=402 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61501 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=202 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=203 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61902 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61401 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6601 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61301 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61801 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61001 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=6901 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.054 [Expansion Quests] Quest with ID=61201 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.062 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.062 [Expansion Quests] Sending player quest data for 17 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+21:28:29.070 [AI Object Patrol 00036] Spawning 2 Ordinary_Raiders (Raiders) bots at <10994.785156, 226.474854, 12432.166016>
+21:28:29.078 [AI Object Patrol 00036] Global patrol count: 1
+21:28:29.078 [AI Object Patrol 00038] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <11082.296875, 226.494507, 12479.628906>
+21:28:29.101 [AI Object Patrol 00038] Global patrol count: 2
+21:28:29.101 [AI Patrol 00085] Spawning 1 Ordinary_Scavengers_Tier_1(Krasnostav) (Raiders) bots at <11189.170898, 202.813522, 12423.742188>
+21:28:29.125 [AI Patrol 00085] Global patrol count: 3
+21:32:13.664 [MissionAirdrop] An airdrop is heading towards "Novy Sobor" (pos=<7436.000000, 0.000000, 7720.000000> type=Random_Novy Sobor) with a ExpansionAirdropContainer_Basebuilding
+21:34:14.500 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold flashlight x1 (d869f8d0) at the trader "Components (Kaito [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+21:35:43.078 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+21:35:43.078 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+21:35:43.078 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=603
+21:35:43.078 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+21:35:43.085 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6501
+21:35:43.085 [Expansion Quests] Created new quest instance with instance key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= for quest with ID=6501
+21:37:41.031 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11873.850586, 139.968567, 12475.943359>) as driver
+21:37:43.320 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11873.850586, 139.968552, 12475.943359>)
+21:38:32.632 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11803.886719, 146.632462, 12267.218750>) Entered the safezone
+21:38:45.796 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11786.084961, 148.087479, 12215.437500>) Left the safezone
+21:39:13.195 [Killfeed] AI Boris (Ordinary_Raiders) был убит AI Eva (PoliceStationScavs_Tier_1) с CR-75 из 2 м расстояние.
+21:39:27.835 [Killfeed] AI Quinn (Ordinary_Raiders) был убит AI Eva (PoliceStationScavs_Tier_1) с CR-75 из 15 м расстояние.
+21:39:28.968 [AI Object Patrol 00036] Ordinary_Raiders (Raiders) bots were wiped out (spawn position <10994.785156, 226.474854, 12432.166016>, 2/2 deceased)
+21:39:28.968 [AI Object Patrol 00036] Global patrol count: 2
+21:40:43.437 [AI Object Patrol 00044] Spawning 3 Mercenaries bots at <13604.740234, 2.859830, 11153.720703>
+21:40:43.476 [AI Object Patrol 00044] Global patrol count: 3
+21:40:48.140 [AI Object Patrol 00046] Spawning 3 Mercenaries bots at <13719.630859, 13.757948, 11283.615234>
+21:40:48.156 [AI Object Patrol 00046] Global patrol count: 4
+21:41:20.578 [AI Object Patrol 00045] Spawning 3 Mercenaries bots at <13881.316406, -1.299560, 11135.982422>
+21:41:20.617 [AI Object Patrol 00045] Global patrol count: 5
+21:42:05.398 [AI Object Patrol 00031] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <12940.958984, 6.042962, 10170.845703>
+21:42:05.429 [AI Object Patrol 00031] Global patrol count: 6
+21:42:12.234 [AI Object Patrol 00030] Spawning 2 Road_Raiders (Raiders) bots at <12975.357422, 6.000000, 10097.583984>
+21:42:12.257 [AI Object Patrol 00030] Global patrol count: 7
+21:42:21.234 [AI Patrol 00079] Spawning 3 Ordinary_Scavengers_Tier_1(Berezhino) (Raiders) bots at <12981.156250, 5.900873, 9994.490234>
+21:42:21.265 [AI Patrol 00079] Global patrol count: 8
+21:42:21.906 [AI Object Patrol 00108] Spawning 2 FireStationScavs_Tier1 (Raiders) bots at <12809.198242, 6.014659, 9995.065430>
+21:42:21.929 [AI Object Patrol 00108] Global patrol count: 9
+21:42:54.500 [AI Patrol 00078] Spawning 3 Ordinary_Scavengers_Tier_1(Berezhino) (Raiders) bots at <12259.190430, 12.758660, 9812.213867>
+21:42:54.531 [AI Patrol 00078] Global patrol count: 10
+21:43:00.671 [Killfeed] AI Eva (PoliceStationScavs_Tier_1) умер от потери крови.
+21:43:03.031 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.091797, 39.515545, 10646.065430>)
+21:43:06.476 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.091797, 39.515541, 10646.065430>)
+21:43:32.671 [Killfeed] AI Keiko (Road_Raiders) был убит AI Elias (PoliceStationScavs_Tier_1) с БК-43 из 2 м расстояние.
+21:44:24.109 [AI Patrol 00085] Despawning 1 Ordinary_Scavengers_Tier_1(Krasnostav) (Raiders) bots (spawn position <11189.170898, 202.813522, 12423.742188>, 0/1 deceased)
+21:44:24.109 [AI Patrol 00085] Global patrol count: 9
+21:45:08.984 [Killfeed] AI Francis (Ordinary_Scavengers_Tier_1(Berezhino)) был убит Da da Ya с СК 59/66 из 27 м расстояние.
+21:45:14.445 [Killfeed] AI Judy (Road_Raiders) был убит Da da Ya с СК 59/66 из 70 м расстояние.
+21:45:14.890 [AI Object Patrol 00030] Road_Raiders (Raiders) bots were wiped out (spawn position <12975.357422, 6.000000, 10097.583984>, 2/2 deceased)
+21:45:14.898 [AI Object Patrol 00030] Global patrol count: 8
+21:45:37.125 [Killfeed] AI Elias (PoliceStationScavs_Tier_1) был убит Da da Ya с СК 59/66 из 40 м расстояние.
+21:45:39.460 [Killfeed] AI Linda (FireStationScavs_Tier1) умер от потери крови.
+21:46:52.296 [Killfeed] AI Irena (PoliceStationScavs_Tier_1) был убит Da da Ya с СК 59/66 из 36 м расстояние.
+21:46:54.484 [AI Object Patrol 00031] PoliceStationScavs_Tier_1 (Raiders) bots were wiped out (spawn position <12940.958984, 6.042962, 10170.845703>, 2/2 deceased)
+21:46:54.484 [AI Object Patrol 00031] Global patrol count: 7
+21:48:04.867 [Killfeed] AI Judy (Ordinary_Scavengers_Tier_1(Berezhino)) умер от потери крови.
+21:48:06.007 [Killfeed] Da da Ya был убит AI Manua (Ordinary_Scavengers_Tier_1(Berezhino)) с Blaze из 13 м расстояние.
+21:48:28.609 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <13207.200195, 2.300000, 10193.700195>
+21:49:59.265 [AI Object Patrol 00038] Despawning 1 PoliceStationScavs_Tier_1 (Raiders) bots (spawn position <11082.296875, 226.494507, 12479.628906>, 1/2 deceased)
+21:49:59.265 [AI Object Patrol 00038] Global patrol count: 6
+21:52:39.289 [AI Object Patrol 00045] Despawning 3 Mercenaries bots (spawn position <13881.316406, -1.299560, 11135.982422>, 0/3 deceased)
+21:52:39.289 [AI Object Patrol 00045] Global patrol count: 5
+21:52:49.570 [AI Object Patrol 00046] Despawning 3 Mercenaries bots (spawn position <13719.630859, 13.757948, 11283.615234>, 0/3 deceased)
+21:52:49.570 [AI Object Patrol 00046] Global patrol count: 4
+21:54:47.234 [Killfeed] AI Manua (Ordinary_Scavengers_Tier_1(Berezhino)) был убит Da da Ya с Mlock-91 из 9 м расстояние.
+21:54:48.890 [AI Patrol 00079] Ordinary_Scavengers_Tier_1(Berezhino) (Raiders) bots were wiped out (spawn position <12981.156250, 5.900873, 9994.490234>, 3/3 deceased)
+21:54:48.890 [AI Patrol 00079] Global patrol count: 3
+21:58:49.273 [AI Object Patrol 00044] Despawning 3 Mercenaries bots (spawn position <13604.740234, 2.859830, 11153.720703>, 0/3 deceased)
+21:58:49.273 [AI Object Patrol 00044] Global patrol count: 2
+22:01:36.328 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12972.757813, 5.987853, 10216.166016>) as driver
+22:01:38.335 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12972.757813, 5.987850, 10216.166016>)
+22:05:37.421 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+22:05:37.421 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+22:05:37.421 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=603
+22:05:37.421 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+22:05:37.429 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6501
+22:05:41.648 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+22:05:41.648 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+22:05:41.648 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=603
+22:05:41.648 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+22:05:41.648 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6501
+22:05:47.906 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+22:05:47.906 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+22:05:47.906 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=603
+22:05:47.906 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+22:05:47.914 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6501
+22:06:05.937 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=601
+22:06:05.937 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=602
+22:06:05.937 [Expansion Quests] Added new objective data for type=TREASUREHUNT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=603
+22:06:05.937 [Expansion Quests] Added new objective data for type=COLLECT | Key=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | ID=701
+22:06:05.945 [Expansion Quests] Updated and saved persistent player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= | Quest ID=6501
+22:11:55.507 [ExplosionDamageSystem] About to explode M67Grenade_Ammo from M67Grenade<d10b20b0> at <12933.5, 6.04, 10175.8> EXPLOSION range 20 dropoff 5
+22:11:55.531 [Killfeed] AI Linda (FireStationScavs_Tier1) умер от взрыва Оск. граната 6-M7.
+22:14:11.812 [SpawnSelection] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) spawned at <13052.900391, 6.100000, 9894.700195>
+22:15:50.773 [Killfeed] AI Lewis (FireStationScavs_Tier1) был убит Da da Ya при помощи.
+22:15:51.437 [AI Object Patrol 00108] FireStationScavs_Tier1 (Raiders) bots were wiped out (spawn position <12809.198242, 6.014659, 9995.065430>, 2/2 deceased)
+22:15:51.437 [AI Object Patrol 00108] Global patrol count: 1
+22:19:34.609 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12972.757813, 5.987851, 10216.166016>) as driver
+22:19:39.398 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12972.757813, 5.987831, 10216.166016>)
+22:19:50.890 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12972.757813, 5.987831, 10216.166016>) as driver
+22:19:53.242 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12972.757813, 5.987821, 10216.166016>)
+22:21:00.359 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12738.971680, 39.541927, 10646.527344>)
+22:21:03.453 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12738.971680, 39.541950, 10646.527344>)
+22:25:23.562 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.092773, 39.515549, 10646.065430>) as driver
+22:25:25.875 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.091797, 39.515541, 10646.065430>)
+22:26:10.476 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.432617, 39.477592, 10650.244141>)
+22:26:13.406 [VehicleAttachments] Player Da da Ya (uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) detached Канистра (type=CanisterGasoline) from vehicle Land Rover Defender(id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.432617, 39.477596, 10650.244141>)
+22:27:14.304 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.432617, 39.477592, 10650.244141>) as driver
+22:27:17.000 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<12745.432617, 39.477600, 10650.244141>)
+22:30:40.515 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11798.381836, 146.072723, 12213.093750>)
+22:31:04.953 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11798.381836, 146.072723, 12213.093750>) as driver
+22:31:07.007 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11798.381836, 146.072723, 12213.093750>)
+22:31:19.390 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11798.900391, 145.985153, 12287.400391>) Entered the safezone
+22:31:46.492 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11874.094727, 139.968567, 12476.332031>)
+22:31:49.398 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Land Rover Defender (id=33D4A615384673352830A4AA07E0C3F3 pos=<11874.094727, 139.968552, 12476.332031>)
+22:34:27.171 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold b95 x1 (2ad1cbd0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 1275.
+22:34:28.320 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold b95 x1 (2ad3a210) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 1275.
+22:34:31.359 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold derringer_grey x1 (2ad3f070) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 37.
+22:34:32.398 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold makarovij70 x1 (e23dbe30, Mag_IJ70_8Rnd<e589e1b0>, ammo_380 x3) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 100.
+22:35:30.664 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold acogoptic x1 (2c3b98d0) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 168.
+22:35:39.414 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold rope x1 (2aca5530) at the trader "BuildingSupplies (Linda [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 3.
+22:35:41.312 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold barbedwire x1 (2aca8f00) at the trader "BuildingSupplies (Linda [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 337.
+22:35:42.148 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold metalwire x1 (e5896e10) at the trader "BuildingSupplies (Linda [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 11.
+22:35:44.062 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold pliers x1 (2aca77e0) at the trader "BuildingSupplies (Linda [#STR_EXPANSION_MARKET_TRADER_BUILDING_SUPPLIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 3.
+22:35:56.859 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold mag_expansion_g36_30rnd x1 (e589bf00, ammo_556x45 x17) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 204.
+22:35:57.351 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold mag_expansion_g36_30rnd x1 (e5aae320, ammo_556x45 x8) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 148.
+22:35:57.687 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold mag_expansion_g36_30rnd x1 (e5aaeeb0, ammo_556x45 x6) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 146.
+22:37:09.359 [AI Patrol 00078] Despawning 3 Ordinary_Scavengers_Tier_1(Berezhino) (Raiders) bots (spawn position <12259.190430, 12.758660, 9812.213867>, 0/3 deceased)
+22:37:09.359 [AI Patrol 00078] Global patrol count: 0
+22:38:23.078 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (2c66fb20) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+22:38:23.226 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (2c674c10) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 4.
+22:38:23.390 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (c08fdb40) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 4.
+22:38:23.578 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (c0920640) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+22:38:23.710 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (c08f95e0) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 3.
+22:38:23.867 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (2c674080) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+22:38:24.007 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (c090ce10) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+22:38:24.164 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold chickenbreastmeat x1 (c091e390) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+22:38:34.875 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold crowbar x1 (e58928b0) at the trader "Components (Kaito [#STR_EXPANSION_MARKET_TRADER_COMPONENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 0.
+22:39:13.093 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold sheepsteakmeat x1 (e588d7c0) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 4.
+22:39:13.234 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold sheepsteakmeat x1 (e588fa70) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 4.
+22:39:13.382 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold sheepsteakmeat x1 (e5893fd0) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 4.
+22:39:13.554 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold sheepsteakmeat x1 (e5893440) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 3.
+22:39:13.695 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold sheepsteakmeat x1 (e5887b40) at the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 5.
+22:45:34.640 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold mag_glock_15rnd x1 (e5aacc00) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 22.
+22:45:34.796 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold mag_glock_15rnd x1 (e5ab3fa0, ammo_9x19 x2) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 24.
+22:45:35.140 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold mag_glock_15rnd x1 (e5aad790) at the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 30.
+22:47:31.593 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold expansion_dt11 x1 (e23d7ce0) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 600.
+22:48:08.734 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold militaryboots_redpunk x1 (fd145700) at the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 56.
+22:48:11.359 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ttskoboots x1 (c58d2bf0) from the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 100.
+22:48:23.468 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold ttskoboots x1 (c58d2bf0) at the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 75.
+22:48:38.320 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought militaryboots_redpunk x1 (be1d4630) from the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 100.
+22:49:06.273 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought m65jacket_khaki x1 (c44aec00) from the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 130.
+22:50:01.773 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought usmcpants_woodland x1 (cab17f00) from the trader "Clothing (Cyril [#STR_EXPANSION_MARKET_TRADER_CLOTHING])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 70.
+22:51:37.906 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought tortillabag x1 (c3b6fc10) from the trader "Clothing_Accessories (Guo [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 180.
+22:52:12.875 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought militarybelt x1 (c3b7fa70, NylonKnifeSheath<c3b83fd0>, PlateCarrierHolster_Camo<c3b890c0>) from the trader "Clothing_Accessories (Guo [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 210.
+22:53:43.437 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought canteen x1 (2c3b5070) from the trader "Consumables (Linda [#STR_EXPANSION_MARKET_TRADER_CONSUMABLES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 18.
+22:55:04.820 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought platecarriervest_camo x1 (bde17fb0, PlateCarrierPouches<bde15170>, PlateCarrierHolster<bde18b40>) from the trader "Clothing_Accessories (Guo [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 435.
+22:56:11.859 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mich2001helmet x1 (c7ca5fa0) from the trader "Clothing_Accessories (Guo [#STR_EXPANSION_MARKET_TRADER_CLOTHING_ACCESSORIES])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 150.
+22:58:14.414 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought colt1911 x1 (bbd23e90, TLRLight<35bfc6e0>, PistolSuppressor<35bf98a0>, Mag_1911_7Rnd<35bf2500>, ammo_45acp x7) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 529.
+22:58:28.593 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mag_1911_7rnd x1 (cfb49960, ammo_45acp x7) from the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 54.
+22:58:29.210 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mag_1911_7rnd x1 (cfb43150, ammo_45acp x7) from the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 54.
+22:58:50.171 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox_45acp_25rnd x1 (262b8070) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 40.
+22:58:51.976 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox_45acp_25rnd x1 (262be880) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 40.
+22:59:09.890 [MissionAirdrop] An airdrop is heading towards "Sosnovka" (pos=<2700.000000, 0.000000, 6193.000000> type=Random_Sosnovka) with a ExpansionAirdropContainer
+23:00:43.890 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has sold aks74u x1 (e23d1460, Mag_AK74_30Rnd<e5886fb0>, ammo_545x39 x4, AKS74U_Bttstck<e588cc30>) at the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) and got 995.
+23:02:07.921 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought expansion_mp5 x1 (c4240f80, AD_RMR_LM<c9326a50>, Battery9V<c6322470>, ItemBase<c6320d50>, PistolSuppressor<c6317700>, Mag_MP5_30Rnd<c631df10>, ammo_9x19 x30) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 2235.
+23:02:33.054 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mag_mp5_30rnd x1 (cf766980, ammo_9x19 x30) from the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 260.
+23:02:34.070 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought mag_mp5_30rnd x1 (cf762420, ammo_9x19 x30) from the trader "Attachments (Francis [#STR_EXPANSION_MARKET_TRADER_ATTACHMENTS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 260.
+23:03:14.664 [Market] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=) has bought ammobox_762x39_20rnd x1 (d6c19df0) from the trader "Weapons (Denis [#STR_EXPANSION_MARKET_TRADER_WEAPONS])" in market zone "Krasnostav Trading Zone" (pos=<11924.700195, 140.699997, 12527.000000>) for a price of 32.
+23:08:31.890 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11705.167969, 145.530319, 12430.368164>) Left the safezone
+23:18:37.851 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12738.971680, 39.541950, 10646.527344>) as driver
+23:18:40.585 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12738.971680, 39.541954, 10646.527344>)
+23:21:04.445 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12633.871094, 70.913673, 11746.293945>)
+23:21:25.375 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12633.894531, 70.907295, 11746.288086>) as driver
+23:21:28.054 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12633.894531, 70.906998, 11746.290039>)
+23:21:46.640 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12639.115234, 70.841522, 11742.256836>)
+23:22:21.039 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12639.114258, 70.842018, 11742.253906>) as driver
+23:22:24.601 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12639.114258, 70.842041, 11742.252930>)
+23:22:27.500 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] started vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<12639.114258, 70.842010, 11742.252930>)
+23:24:11.867 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<11798.869141, 145.668503, 12290.230469>) Entered the safezone
+23:24:28.460 [VehicleEngine] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] stopped vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<11847.141602, 140.012650, 12432.321289>)
+23:24:32.296 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<11847.141602, 140.012619, 12432.321289>)
+23:24:35.992 [VehicleEnter] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] entered vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<11847.141602, 140.012604, 12432.321289>) as driver
+23:24:40.226 [VehicleLeave] Player Da da Ya [uid=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=] left vehicle Olga 24 (id=F7A2C0585B4E11153C6B29BB08876D6C pos=<11847.141602, 140.012604, 12432.321289>)
+23:25:13.523 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+23:25:13.523 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.
+23:25:13.523 [Expansion Quests] Deleted quest with ID=6501 is a of player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=.

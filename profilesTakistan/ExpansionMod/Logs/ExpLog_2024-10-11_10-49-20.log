@@ -1,0 +1,82 @@
+10:50:41.941 [Expansion Quests] Initialize quest system on the connected client with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Loaded existing player quest data for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=102 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=20 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=101 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=22 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=23 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.988 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Check quest initialization for quest with ID=28 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Check quest initialization for quest with ID=31 | State=NONE | Player UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=101 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.992 [Expansion Quests] Quest with ID=102 is not a a valid achievement or auto start quest. Skip quest for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.996 [Expansion Quests] Sending 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= quest configs to client for player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:41.996 [Expansion Quests] Sending player quest data for 11 quests to player with UID=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
+10:50:42.000 [AI Object Patrol 00004] Spawning 2 PoliceStationScavs_Tier_1 (Raiders) bots at <6633.093262, 13.969685, 2586.646240>
+10:50:42.019 [AI Object Patrol 00004] Global patrol count: 1
+10:50:42.019 [AI Object Patrol 00047] Spawning 2 FireStationScavs_Tier1 (Raiders) bots at <6262.113281, 8.619924, 2721.123047>
+10:50:42.035 [AI Object Patrol 00047] Global patrol count: 2
+10:50:42.035 [AI Object Patrol 00048] Spawning 2 Ordinary_Civilian (Civilian) bots at <6515.262207, 6.533941, 2307.472656>
+10:50:42.042 [AI Object Patrol 00048] Global patrol count: 3
+10:50:42.042 [AI Patrol 00057] Spawning 1 Ordinary_Scavengers_Tier_1(Cherno_Med) (Raiders) bots at <6496.076172, 9.331479, 2680.779785>
+10:50:42.062 [AI Patrol 00057] Global patrol count: 4
+10:50:42.062 [AI Patrol 00059] Spawning 1 Ordinary_Scavengers_Tier_1(Cherno_Exit) (Raiders) bots at <6596.374512, 14.272636, 2987.282227>
+10:50:42.117 [AI Patrol 00059] Global patrol count: 5
+10:50:42.117 [AI Patrol 00058] Spawning 2 Ordinary_Scavengers_Tier_2(Hotel_Cherno) (Raiders) bots at <6613.582031, 6.323599, 2303.269775>
+10:50:42.152 [AI Patrol 00058] Global patrol count: 6
+10:50:56.355 [AI Patrol 00054] Spawning 1 Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots at <5491.826172, 60.982056, 2552.621582>
+10:50:56.402 [AI Patrol 00054] Global patrol count: 7
+10:51:00.593 [AI Patrol 00056] Spawning 1 Ordinary_Scavengers_Tier_1(Cherno_Oil) (Raiders) bots at <5864.943848, 9.019775, 2196.706543>
+10:51:00.632 [AI Patrol 00056] Global patrol count: 8
+10:51:07.886 [AI Patrol 00055] Spawning 1 Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots at <5904.816895, 70.440765, 2642.429443>
+10:51:07.921 [AI Patrol 00055] Global patrol count: 9
+10:51:16.917 [Killfeed] AI Eva (Ordinary_Scavengers_Tier_1(Cherno_Exit)) был убит Da da Ya с КАС-74У из 4 м расстояние.
+10:51:21.203 [AI Patrol 00059] Ordinary_Scavengers_Tier_1(Cherno_Exit) (Raiders) bots were wiped out (spawn position <6596.374512, 14.272636, 2987.282227>, 1/1 deceased)
+10:51:21.203 [AI Patrol 00059] Global patrol count: 8
+10:51:59.453 [Killfeed] AI Niki (Ordinary_Civilian) был убит AI Gabi (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) с ИЖ-70 из 14 м расстояние.
+10:52:08.421 [Killfeed] AI Irena (Ordinary_Civilian) был убит AI Naomi (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) при помощи.
+10:52:12.687 [AI Object Patrol 00048] Ordinary_Civilian (Civilian) bots were wiped out (spawn position <6515.262207, 6.533941, 2307.472656>, 2/2 deceased)
+10:52:12.687 [AI Object Patrol 00048] Global patrol count: 7
+10:53:00.414 [Killfeed] AI Linda (Ordinary_Scavengers_Tier_1(Vysotovo)) был убит AI Kaito (Ordinary_Scavengers_Tier_1(Vysotovo)) с CR-550 Savanna из 15 м расстояние.
+10:53:01.281 [AI Patrol 00054] Ordinary_Scavengers_Tier_1(Vysotovo) (Raiders) bots were wiped out (spawn position <5491.826172, 60.982056, 2552.621582>, 1/1 deceased)
+10:53:01.281 [AI Patrol 00054] Global patrol count: 6
+10:53:10.699 [Killfeed] AI Naomi (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит AI Lewis (Ordinary_Scavengers_Tier_1(Cherno_Med)) с P1 из 2 м расстояние.
+10:53:24.621 [Killfeed] AI Lewis (Ordinary_Scavengers_Tier_1(Cherno_Med)) был убит AI Gabi (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) при помощи.
+10:53:26.023 [AI Patrol 00057] Ordinary_Scavengers_Tier_1(Cherno_Med) (Raiders) bots were wiped out (spawn position <6496.076172, 9.331479, 2680.779785>, 1/1 deceased)
+10:53:26.023 [AI Patrol 00057] Global patrol count: 5
+10:53:35.296 [Killfeed] AI Quinn (Ordinary_Scavengers_Tier_1(Cherno_Oil)) был убит AI Kaito (Ordinary_Scavengers_Tier_1(Vysotovo)) при помощи.
+10:53:36.515 [AI Patrol 00056] Ordinary_Scavengers_Tier_1(Cherno_Oil) (Raiders) bots were wiped out (spawn position <5864.943848, 9.019775, 2196.706543>, 1/1 deceased)
+10:53:36.515 [AI Patrol 00056] Global patrol count: 4
+10:53:39.144 [Killfeed] AI Gabi (Ordinary_Scavengers_Tier_2(Hotel_Cherno)) был убит AI Rolf (PoliceStationScavs_Tier_1) с Sporter 22 из 13 м расстояние.
+10:53:41.597 [AI Patrol 00058] Ordinary_Scavengers_Tier_2(Hotel_Cherno) (Raiders) bots were wiped out (spawn position <6613.582031, 6.323599, 2303.269775>, 2/2 deceased)
+10:53:41.597 [AI Patrol 00058] Global patrol count: 3
+10:53:53.410 [Killfeed] AI Judy (FireStationScavs_Tier1) был убит AI Rolf (PoliceStationScavs_Tier_1) с Sporter 22 из 2 м расстояние.
