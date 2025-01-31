@@ -3319,93 +3319,7 @@
         <category name="weapons"/>
         <usage name="Military"/>
     </type>
-	<type name="ExpansionDeltapointOptic">
-        <nominal>10</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>7</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="ExpansionEXPS3HoloOptic">
-        <nominal>10</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>7</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="ExpansionHAMROptic">
-        <nominal>10</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>7</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="Expansion_PMII25Optic">
-        <nominal>10</nominal>
-        <lifetime>10800</lifetime>
-        <restock>1800</restock>
-        <min>7</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-		<value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
-	<type name="ExpansionReflexMRSOptic">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-    </type>
 	<!-- MISC ATTACHEMENTS -->
-    <type name="Expansion_M1A_RailAtt">
-        <nominal>7</nominal>
-        <lifetime>10800</lifetime>
-        <restock>800</restock>
-        <min>4</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="Military"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-    </type>
 	<type name="Expansion_ANPEQ15_Red">
         <nominal>15</nominal>
         <lifetime>7200</lifetime>
@@ -3471,10 +3385,10 @@
     </type>
 	<!-- LAUNCHERS -->
 	<type name="ExpansionRPG7">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3485,10 +3399,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="ExpansionLAW">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3584,10 +3498,10 @@
     </type>
 	<!-- SUBMACHINE GUNS -->
 	<type name="Expansion_G36">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
-        <min>7</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3598,10 +3512,10 @@
         <value name="Tier3"/>
     </type>
 	<type name="Expansion_MPX">
-        <nominal>20</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
-        <min>15</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3656,10 +3570,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="Expansion_MP7">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
-        <min>10</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3714,10 +3628,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Expansion_M1A">
-        <nominal>9</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>3600</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3867,10 +3781,10 @@
         <value name="Tier2"/>
     </type>
 	<type name="ExpansionAmmoRPG">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>10800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3881,10 +3795,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="ExpansionAmmoLAW">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>10800</lifetime>
         <restock>10800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>

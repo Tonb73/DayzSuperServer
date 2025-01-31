@@ -58,7 +58,7 @@ profilesTakistan/*
 !/profilesTakistan/Users
 !/profilesTakistan/WebApiLog
 
-
+*log*
 !/mpmissions
 mpmissions/*
 !/mpmissions/ExpansionDNM.TakistanPlus

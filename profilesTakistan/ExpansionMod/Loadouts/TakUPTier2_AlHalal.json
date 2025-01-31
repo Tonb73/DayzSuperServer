@@ -655,148 +655,11 @@
 				
             ]
         },
-		{
-            "SlotName": "Armband",
-            "Items": [
-               
-				{
-                    "ClassName": "Armband_NSahrani",
-                    "Include": "",
-                    "Chance": 1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [
-                       
-                    ],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-		{
-            "SlotName": "Vest",
-            "Items": [                
-				{
-                    "ClassName": "PlateCarrierVest",
-                    "Include": "",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "UKAssVest_Olive",
-                    "Include": "",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
-		{
-		    "SlotName": "Mask",
-            "Items": [
-               {
-                    "ClassName": "BalaclavaMask_Black",
-                    "Include": "",
-                    "Chance": 0.4,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				{
-                    "ClassName": "Balaclava3Holes_White",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				{
-                    "ClassName": "Balaclava3Holes_Black",
-                    "Include": "",
-                    "Chance": 0.1,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
-        },
+		
 		{
             "SlotName": "Headgear",
             "Items": [
-						{
+			{
                     "ClassName": "Shemag_White",
                     "Include": "",
                     "Chance": 1.0,
@@ -1038,7 +901,34 @@
                 }
             ]
         },
-		
+		{
+            "SlotName": "Armband",
+            "Items": [
+               
+				{
+                    "ClassName": "Armband_NSahrani",
+                    "Include": "",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+                       
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
         {
             "SlotName": "Gloves",
             "Items": [
@@ -2147,206 +2037,7 @@
 		],
     "ConstructionPartsBuilt": [],
     "Sets": [
-						{
-            "ClassName": "WEAPON",
-            "Include": "",
-            "Chance": 1.0,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "TF_PKM",
-                            "Include": "",
-                            "Chance": 0.5,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "TF_Mag_PKM_100Rnd",
-                                            "Include": "",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_PKM_WoodBttstck",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-										
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "TF_Mag_PKM_100Rnd",
-                    "Include": "",
-                    "Chance": 0.4,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-		{
-            "ClassName": "WEAPON",
-            "Include": "",
-            "Chance": 0.5,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "SVD",
-                            "Include": "",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "Mag_SVD_10Rnd",
-                                            "Include": "",
-                                            "Chance": 1,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "PSO1Optic",
-                                            "Include": "",
-                                            "Chance": 0.5,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [{
-                                                    "SlotName": "",
-                                                    "Items": [
-                                                        {
-                                                            "ClassName": "Battery9V",
-                                                            "Include": "",
-                                                            "Chance": 1.0,
-                                                            "Quantity": {
-                                                                "Min": 0.0,
-                                                                "Max": 0.0
-                                                            },
-                                                            "Health": [],
-                                                            "InventoryAttachments": [],
-                                                            "InventoryCargo": [],
-                                                            "ConstructionPartsBuilt": [],
-                                                            "Sets": []
-                                                        }
-                                                    ]
-                                                }],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-										
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "Mag_SVD_10Rnd",
-                    "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-				 {
-                    "ClassName": "Mag_SVD_10Rnd",
-                    "Include": "",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
+		
 		{
             "ClassName": "WEAPON",
             "Include": "",
@@ -2363,7 +2054,7 @@
                         {
                             "ClassName": "Mosin9130",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
                                 "Max": 0.0
@@ -2397,7 +2088,7 @@
             "Sets": []
         },
 		
-        {
+                {
             "ClassName": "WEAPON",
             "Include": "",
             "Chance": 1.0,
@@ -2411,7 +2102,7 @@
                     "SlotName": "Shoulder",
                     "Items": [
                         {
-                            "ClassName": "AKS74U",
+                            "ClassName": "TF_AKS74U",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -2424,7 +2115,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "Mag_AK74_30Rnd",
+                                            "ClassName": "TF_Mag_AK74_Bakelit30Rnd",
                                             "Include": "",
                                             "Chance": 1.0,
                                             "Quantity": {
@@ -2438,6 +2129,20 @@
                                             "Sets": []
                                         },
                                         {
+                                            "ClassName": "TF_AKS74U_WoodHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
                                             "ClassName": "AKS74U_Bttstck",
                                             "Include": "",
                                             "Chance": 0.5,
@@ -2463,7 +2168,119 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "Mag_AK74_30Rnd",
+                    "ClassName": "TF_Mag_AK74_Bakelit30Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+		
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "TF_VPO136",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "TF_Mag_AKM_30Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
+                                            "ClassName": "AK_WoodHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
+                                            "ClassName": "AK_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
+                                            "ClassName": "AK_FoldingBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "TF_Mag_AKM_10Rnd",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {
@@ -2477,7 +2294,356 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "Mag_AK74_30Rnd",
+                    "ClassName": "TF_Mag_AKM_30Rnd",
+                    "Include": "",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+		{
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "TF_VPO136",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "TF_Mag_AKM_30Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
+                                            "ClassName": "AK_WoodHndgrd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
+                                            "ClassName": "AK_WoodBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        },
+										{
+                                            "ClassName": "AK_FoldingBttstck",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "TF_Mag_AKM_10Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "TF_Mag_AKM_30Rnd",
+                    "Include": "",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "Mp133Shotgun",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Ammo_12gaSlug",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_12gaPellets",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_12gaSlug",
+                    "Include": "",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Ammo_12gaPellets",
+                    "Include": "",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+		{
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "SKS",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Ammo_762x39",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+                
+            ],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
+        },
+        {
+            "ClassName": "WEAPON",
+            "Include": "",
+            "Chance": 1.0,
+            "Quantity": {
+                "Min": 0.0,
+                "Max": 0.0
+            },
+            "Health": [],
+            "InventoryAttachments": [
+                {
+                    "SlotName": "Shoulder",
+                    "Items": [
+                        {
+                            "ClassName": "CZ61",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [
+                                {
+                                    "SlotName": "",
+                                    "Items": [
+                                        {
+                                            "ClassName": "Mag_CZ61_20Rnd",
+                                            "Include": "",
+                                            "Chance": 1.0,
+                                            "Quantity": {
+                                                "Min": 0.0,
+                                                "Max": 0.0
+                                            },
+                                            "Health": [],
+                                            "InventoryAttachments": [],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        }
+                    ]
+                }
+            ],
+            "InventoryCargo": [
+                {
+                    "ClassName": "Mag_CZ61_20Rnd",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+                {
+                    "ClassName": "Mag_CZ61_20Rnd",
                     "Include": "",
                     "Chance": 0.15000000596046449,
                     "Quantity": {
@@ -2493,161 +2659,8 @@
             ],
             "ConstructionPartsBuilt": [],
             "Sets": []
-        }, 
-		{
-            "ClassName": "WEAPON",
-            "Include": "",
-            "Chance": 1.0,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "TF_AKM",
-                            "Include": "",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "TF_Mag_AKM_30Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_Mag_AKM_Steel40Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_Mag_AKM_Bakelit40Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_WoodHndgrd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_WoodBttstck",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_FoldingBttstck",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "TF_Mag_AKM_30Rnd",
-                    "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TF_Mag_AKM_30Rnd",
-                    "Include": "",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
         },
-		{
+        {
             "ClassName": "WEAPON",
             "Include": "",
             "Chance": 1.0,
@@ -2658,10 +2671,10 @@
             "Health": [],
             "InventoryAttachments": [
                 {
-                    "SlotName": "Shoulder",
+                    "SlotName": "Hands",
                     "Items": [
                         {
-                            "ClassName": "TF_AKM",
+                            "ClassName": "MakarovIJ70",
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
@@ -2674,77 +2687,7 @@
                                     "SlotName": "",
                                     "Items": [
                                         {
-                                            "ClassName": "TF_Mag_AKM_30Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_Mag_AKM_Steel40Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_Mag_AKM_Bakelit40Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_WoodHndgrd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_WoodBttstck",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_FoldingBttstck",
+                                            "ClassName": "Mag_IJ70_8Rnd",
                                             "Include": "",
                                             "Chance": 1.0,
                                             "Quantity": {
@@ -2769,7 +2712,7 @@
             ],
             "InventoryCargo": [
                 {
-                    "ClassName": "TF_Mag_AKM_30Rnd",
+                    "ClassName": "Mag_IJ70_8Rnd",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {
@@ -2783,162 +2726,9 @@
                     "Sets": []
                 },
                 {
-                    "ClassName": "TF_Mag_AKM_30Rnd",
+                    "ClassName": "Mag_IJ70_8Rnd",
                     "Include": "",
-                    "Chance": 0.5,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ],
-            "ConstructionPartsBuilt": [],
-            "Sets": []
-        },
-		{
-            "ClassName": "WEAPON",
-            "Include": "",
-            "Chance": 1.0,
-            "Quantity": {
-                "Min": 0.0,
-                "Max": 0.0
-            },
-            "Health": [],
-            "InventoryAttachments": [
-                {
-                    "SlotName": "Shoulder",
-                    "Items": [
-                        {
-                            "ClassName": "TF_AKM",
-                            "Include": "",
-                            "Chance": 1.0,
-                            "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
-                            },
-                            "Health": [],
-                            "InventoryAttachments": [
-                                {
-                                    "SlotName": "",
-                                    "Items": [
-                                        {
-                                            "ClassName": "TF_Mag_AKM_30Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_Mag_AKM_Steel40Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "TF_Mag_AKM_Bakelit40Rnd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_WoodHndgrd",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_WoodBttstck",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        },
-										{
-                                            "ClassName": "AK_FoldingBttstck",
-                                            "Include": "",
-                                            "Chance": 1.0,
-                                            "Quantity": {
-                                                "Min": 0.0,
-                                                "Max": 0.0
-                                            },
-                                            "Health": [],
-                                            "InventoryAttachments": [],
-                                            "InventoryCargo": [],
-                                            "ConstructionPartsBuilt": [],
-                                            "Sets": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "InventoryCargo": [],
-                            "ConstructionPartsBuilt": [],
-                            "Sets": []
-                        }
-                    ]
-                }
-            ],
-            "InventoryCargo": [
-                {
-                    "ClassName": "TF_Mag_AKM_30Rnd",
-                    "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "TF_Mag_AKM_30Rnd",
-                    "Include": "",
-                    "Chance": 0.5,
+                    "Chance": 0.15000000596046449,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0

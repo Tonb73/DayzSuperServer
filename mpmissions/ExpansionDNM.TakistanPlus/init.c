@@ -52,7 +52,7 @@ class CustomMission: MissionServer
 		}
 	}
 
-	/*override void OnInit()
+	override void OnInit()
 	{
 		super.OnInit();
 
@@ -64,7 +64,7 @@ class CustomMission: MissionServer
 			// registering events and their probability
 			m_EventManager.RegisterEvent( Sandstorm, 1.0 );
 		}
-	}*/
+	}
 
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{
