@@ -1007,6 +1007,9 @@
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
+    <input name="UAToggleHeadlightHighBeam">
+        <btn name="kL" />
+    </input>
     <input name="UADayzDogWhistle">
         <btn name="kAdd" />
     </input>
