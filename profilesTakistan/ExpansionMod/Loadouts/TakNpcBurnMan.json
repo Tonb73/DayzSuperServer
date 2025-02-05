@@ -1,0 +1,250 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "Shirt_WhiteCheck",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+		{
+            "SlotName": "Vest",
+            "Items": [                
+				{
+                    "ClassName": "PlateCarrierVest_Black",
+                    "Include": "",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+		{
+            "SlotName": "Armband",
+            "Items": [
+               
+				{
+                    "ClassName": "Armband_Bear",
+                    "Include": "",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [
+                       
+                    ],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+		{
+		    "SlotName": "Mask",
+            "Items": [
+               {
+                    "ClassName": "FaceCover_Improvised",
+                    "Include": "",
+                    "Chance": 1,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "Jeans_Blue",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+			
+			    {
+                    "ClassName": "HikingBootsLow_Blue",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },	
+		{
+            "SlotName": "Back",
+            "Items": [
+				{
+                    "ClassName": "ImprovisedBag",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+				
+            ]
+        },	
+		{
+            "SlotName": "Headgear",
+            "Items": [
+                {
+                    "ClassName": "HeadCover_Improvised",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": [
+                {
+                    "ClassName": "HandsCover_Improvised",
+                    "Include": "",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Melee",
+            "Items": [
+            ]
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}

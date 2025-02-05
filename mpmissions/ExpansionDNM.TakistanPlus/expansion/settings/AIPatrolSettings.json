@@ -352,12 +352,12 @@
     ],
     "Patrols": [
 		{
-            "Name": "Tier3_AlHalal",
+            "Name": "Tier4_AlHalal",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "Loadout": "TakUPTier_3_AlHalal",
+            "Loadout": "TakUPTier4_AlHalal",
             "Units": [
 				"eAI_SurvivorM_Elias",
 				"eAI_SurvivorF_Francis",
@@ -369,7 +369,7 @@
 				"eAI_SurvivorM_Quinn",
 				"eAI_SurvivorM_Elias"
 			],
-            "NumberOfAI": 3,
+            "NumberOfAI": 5,
             "Behaviour": "ALTERNATE",
             "LootingBehaviour": "",
             "Speed": "WALK",
@@ -403,12 +403,12 @@
             ]
         },
 		{
-            "Name": "Tier2_AlHalal",
+            "Name": "Tier4_AlHalal",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
             "FormationLooseness": 0.0,
-            "Loadout": "TakUPTier_2_AlHalal",
+            "Loadout": "TakUPTier4_AlHalal",
             "Units": [
 				"eAI_SurvivorM_Elias",
 				"eAI_SurvivorF_Francis",
@@ -435,7 +435,7 @@
             "DamageMultiplier": -1.0,
             "DamageReceivedMultiplier": -1.0,
             "CanBeTriggeredByAI": 0,
-            "MinDistRadius": -1.0,
+            "MinDistRadius": 1.0,
             "MaxDistRadius": -1.0,
             "DespawnRadius": -1.0,
             "MinSpreadRadius": 1.0,

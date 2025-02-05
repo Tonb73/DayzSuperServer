@@ -1,0 +1,157 @@
+{
+    "ClassName": "",
+    "Include": "",
+    "Chance": 1.0,
+    "Quantity": {
+        "Min": 0.0,
+        "Max": 0.0
+    },
+    "Health": [],
+    "InventoryAttachments": [
+        {
+            "SlotName": "Body",
+            "Items": [
+                {
+                    "ClassName": "RidersJacket_Black",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+		{
+            "SlotName": "Vest",
+            "Items": []
+        },
+		{
+            "SlotName": "Eyewear",
+            "Items": [
+               {
+                    "ClassName": "AviatorGlasses",
+                    "Include": "",
+                    "Chance": 0.3,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+		{
+		    "SlotName": "Mask",
+            "Items": []
+        },
+        {
+            "SlotName": "Legs",
+            "Items": [
+                {
+                    "ClassName": "Jeans_Grey",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },
+        {
+            "SlotName": "Feet",
+            "Items": [
+			
+			    {
+                    "ClassName": "MilitaryBoots_Redpunk",
+                    "Include": "",
+                    "Chance": 1.0,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+            ]
+        },	
+		{
+            "SlotName": "Back",
+            "Items": []
+        },	
+		{
+            "SlotName": "Headgear",
+            "Items": [
+				{
+                    "ClassName": "MVS_Turban_3",
+                    "Include": "",
+                    "Chance": 0.5,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                }
+			]
+        },
+        {
+            "SlotName": "Gloves",
+            "Items": []
+        }
+    ],
+    "InventoryCargo": [],
+    "ConstructionPartsBuilt": [],
+    "Sets": []
+}

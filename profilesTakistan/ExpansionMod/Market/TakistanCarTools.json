@@ -1,0 +1,123 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TOOLS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "epoxyputty",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 15,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tirerepairkit",
+            "MaxPriceThreshold": 640,
+            "MinPriceThreshold": 640,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "wrench",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "lugwrench",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+
+        {
+            "ClassName": "blowtorch",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "smallgascanister"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionpropanetorch",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rag_car_jack",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rag_farmjack",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "rag_oil_dipstick",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "EngineOil",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1007,6 +1007,15 @@
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
+    <input name="UAZenMusic">
+        <btn name="kK" />
+    </input>
+    <input name="UAZenMusicUp">
+        <btn name="kAdd" />
+    </input>
+    <input name="UAZenMusicDn">
+        <btn name="kSubstract" />
+    </input>
     <input name="UAToggleHeadlightHighBeam">
         <btn name="kL" />
     </input>
