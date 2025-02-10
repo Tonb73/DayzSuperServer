@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
-
+	<event name="StaticAlHalalCamp">
+		<pos x="1416.601807" z="11730.160645" a="0" group="AlHalalCamp_Nur" /> 
+	</event>
+	
 	<!--  HMMMWV Vehicles  -->
 	<event name="VehicleHmmwv_M1035">
 		<pos x="4014.601807" z="6904.160645" a="328.673553" /> 
@@ -143,11 +146,11 @@
 		<pos x="5900.37" y="315.217" z="1479.83" a="168.025"/>
 	</event>
 	<!--  EXPANSION HELICOPTERS  -->
-	<event name="VehicleMH6Helicopter">
+	<event name="VehicleMH6">
 		<pos x="6053.95" y="83.5234" z="11544" a="-0.589897"/>
 		<pos x="8148.98" y="296.591" z="1987.09" a="-0.371686"/>
 	</event>
-	<event name="VehicleMerlinHelicopter">
+	<event name="VehicleUH60M">
 		<pos x="5663.86" y="87.733" z="11213.7" a="-6.63527"/>
 	</event>
 	<event name="VehicleUh1hHelicopter">

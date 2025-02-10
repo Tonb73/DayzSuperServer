@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+	<!--Tech's Hilux START -->
+    <event name="VehicleHilux_Spawn">
+        <nominal>8</nominal>
+        <min>7</min>
+        <max>13</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Techs_Hilux_Black" />
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Techs_Hilux_Silver" />
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Techs_Hilux_OD" />
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Techs_Hilux_Faded" />
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Techs_Hilux_DFlek" />
+        </children>
+    </event>
+	<!-- Lifted Hiluxs -->
+    <event name="VehicleHilux_Spawn_Lifted">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Black" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Blue " />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Red" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Silver" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Yellow" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_OD" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Pink" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Purple" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_TTSKO" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Faded" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_DFlek" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_OCP" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Geo" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_RU" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Tiger" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Moss" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Gold" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Pizza" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Emergency" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Fractal" />
+        </children>
+    </event>
+	<!-- Flatbed Hiluxs -->
+    <event name="VehicleHilux_Spawn_Flatbed">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Black" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Blue " />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Red" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Silver" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Yellow" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_OD" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Pink" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Purple" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_TTSKO" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Faded" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_DFlek" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_OCP" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Geo" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_RU" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Tiger" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Moss" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Gold" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Pizza" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Emergency" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Flatbed_Fractal" />
+        </children>
+    </event>
+	<!-- Truggy Hiluxs -->
+    <event name="VehicleHilux_Spawn_Truggy">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>1000</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Black" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Blue " />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Red" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Silver" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Yellow" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_OD" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Pink" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Purple" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_TTSKO" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Faded" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_DFlek" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_OCP" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Geo" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_RU" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Tiger" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Moss" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Gold" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Pizza" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Emergency" />
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Techs_GG_Hilux_Truggy_Fractal" />
+        </children>
+    </event>
+		<!--Tech's Hilux END -->
+</events>

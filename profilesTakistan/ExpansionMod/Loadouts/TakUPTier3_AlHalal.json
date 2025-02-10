@@ -752,9 +752,29 @@
                     "Sets": []
                 },
 				{
+                    "ClassName": "Bandana_BlackPattern",
+                    "Include": "",
+                    "Chance": 0.4,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+				{
                     "ClassName": "Balaclava3Holes_White",
                     "Include": "",
-                    "Chance": 0.1,
+                    "Chance": 0.4,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -774,7 +794,7 @@
 				{
                     "ClassName": "Balaclava3Holes_Black",
                     "Include": "",
-                    "Chance": 0.1,
+                    "Chance": 0.4,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -837,7 +857,7 @@
                     "Sets": []
             },
 			{
-                    "ClassName": "ChDKZ",
+                    "ClassName": "MilitaryBeret_ChDKZ",
                     "Include": "",
                     "Chance": 1.0,
                     "Quantity": {
@@ -1103,134 +1123,9 @@
                     "Sets": []
                 }
             ]
-        },
-        {
-            "SlotName": "Melee",
-            "Items": [
-                {
-                    "ClassName": "BaseballBat",
-                    "Include": "",
-                    "Chance": 0.35000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Shovel",
-                    "Include": "",
-                    "Chance": 0.35000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "PipeWrench",
-                    "Include": "",
-                    "Chance": 0.35000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Pipe",
-                    "Include": "",
-                    "Chance": 0.35000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Pickaxe",
-                    "Include": "",
-                    "Chance": 0.35000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                },
-                {
-                    "ClassName": "Crowbar",
-                    "Include": "",
-                    "Chance": 0.30000000149011612,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
         }
     ],
-    "InventoryCargo": [
+      "InventoryCargo": [
 	{
 						"ClassName": "DuctTape",
 						"Include": "",
@@ -1288,163 +1183,9 @@
 							"Sets": []
 						},
 						{
-						"ClassName": "Cleaver",
-						"Include": "",
-						"Chance": 0.10000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
 						"ClassName": "Hatchet",
 						"Include": "",
 						"Chance": 0.105000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-					{
-						"ClassName": "AmmoBox_556x45_20Rnd",
-						"Include": "",
-						"Chance": 0.005000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_308Win_20Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_762x54_20Rnd",
-						"Include": "",
-						"Chance": 0.005000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_357_20Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_45ACP_25Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_9x19_25Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_380_35Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_12gaSlug_10Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_545x39_20Rnd",
-						"Include": "",
-						"Chance": 0.005000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "AmmoBox_9x39_20Rnd",
-						"Include": "",
-						"Chance": 0.05000000596046449,
 						"Quantity": {
 						"Min": 0.0,
 						"Max": 0.0
@@ -1525,24 +1266,10 @@
 							"ConstructionPartsBuilt": [],
 							"Sets": []
 						},
-					{
+						{
 						"ClassName": "NailBox",
 						"Include": "",
 						"Chance": 0.25000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "SparkPlug",
-						"Include": "",
-						"Chance": 0.15000000596046449,
 						"Quantity": {
 						"Min": 0.0,
 						"Max": 0.0
@@ -1721,63 +1448,8 @@
 							"ConstructionPartsBuilt": [],
 							"Sets": []
 						},
+						
 						{
-						"ClassName": "PSO1Optic",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "ACOGOptic",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "RelexOptic",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
-						"ClassName": "BUISOptic",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-					{
 						"ClassName": "AK_Bayonet",
 						"Include": "",
 						"Chance": 0.05000000596046449,
@@ -1822,7 +1494,7 @@
 						{
 						"ClassName": "ChernarusMap",
 						"Include": "",
-						"Chance": 0.25000000596046449,
+						"Chance": 0.35000000596046449,
 						"Quantity": {
 						"Min": 0.0,
 						"Max": 0.0
@@ -2157,20 +1829,6 @@
                             "Sets": []
                         },
 						{
-						"ClassName": "DeadRooster",
-						"Include": "",
-						"Chance": 0.05000000596046449,
-						"Quantity": {
-						"Min": 0.0,
-						"Max": 0.0
-						},
-							"Health": [],
-							"InventoryAttachments": [],
-							"InventoryCargo": [],
-							"ConstructionPartsBuilt": [],
-							"Sets": []
-						},
-						{
                             "ClassName": "SodaCan_Kvass",
                             "Include": "",
                             "Chance": 0.1000000149011612,
@@ -2274,7 +1932,7 @@
 		{
             "ClassName": "WEAPON",
             "Include": "",
-            "Chance": 0.5,
+            "Chance": 1.0,
             "Quantity": {
                 "Min": 0.0,
                 "Max": 0.0

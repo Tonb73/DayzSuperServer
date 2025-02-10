@@ -14,7 +14,7 @@
 		<attachments chance="0.30">
 			<item name="Mag_MP5_30Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.15" />
 			<item name="M68Optic" chance="0.15" />
@@ -30,7 +30,7 @@
 		</attachments>
 	</type>
 	<type name="UMP45">
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
 		</attachments>
 		<!-- Mag_UMP_25Rnd -->
@@ -56,7 +56,7 @@
 		<attachments chance="1.00">
 			<item name="Fal_OeBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="M4_T3NRDSOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.15" />
 			<item name="M68Optic" chance="0.15" />
@@ -1439,58 +1439,6 @@
 			<item name="Expansion_Mh6_Door_2_2_Wasp" chance="0.30" />
 		</attachments>
 	</type>
-	<type name="ExpansionMh6_Wave">
-		<attachments chance="1.00">
-			<item name="ExpansionHelicopterBattery" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionIgniterPlug" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionHydraulicHoses" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="Expansion_Mh6_Door_1_1_Wave" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Expansion_Mh6_Door_1_2_Wave" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Expansion_Mh6_Door_2_1_Wave" chance="0.30" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Expansion_Mh6_Door_2_2_Wave" chance="0.30" />
-		</attachments>
-	</type>
-	<type name="ExpansionMerlin">
-		<attachments chance="1.00">
-			<item name="ExpansionHelicopterBattery" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionIgniterPlug" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionHydraulicHoses" chance="0.60" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionMerlinFrontWheel" chance="0.30" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionMerlinFrontWheel" chance="0.30" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionMerlinBackWheel" chance="0.30" />
-        </attachments>
-		<attachments chance="1.00">
-			<item name="ExpansionMerlinBackWheel" chance="0.30" />
-        </attachments>
-	</type>
 	<type name="ExpansionUh1h">
 		<attachments chance="1.00">
 			<item name="ExpansionHelicopterBattery" chance="0.60" />
@@ -2687,7 +2635,7 @@
 	</type>
 	<!-- WEAPONS -->
 	<type name="ExpansionHAMROptic">
-		<attachments chance="0.30">
+		<attachments chance="0.0">
 			<item name="ExpansionDeltapointOptic" chance="1.00" />
 		</attachments>
 	</type>
@@ -2750,7 +2698,7 @@
 			<item name="Mag_Expansion_G36_30Rnd" chance="0.90" />
 			<item name="Mag_STANAG_30Rnd" chance="0.10" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="M68Optic" chance="0.20" />
 			<item name="ExpansionReflexMRSOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
@@ -2774,7 +2722,7 @@
 			<item name="Mag_CMAG_30Rnd" chance="0.15" />
 			<item name="Mag_CMAG_40Rnd" chance="0.10" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="M68Optic" chance="0.20" />
 			<item name="ExpansionReflexMRSOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
@@ -2794,7 +2742,7 @@
 			<item name="Mag_Expansion_M1A_20Rnd" chance="0.35" />
 			<item name="Mag_Expansion_M1A_10Rnd" chance="0.65" />
 		</attachments>
-		<attachments chance="0.15">
+		<attachments chance="0.0">
 			<item name="M68Optic" chance="0.15" />
 			<item name="ExpansionReflexMRSOptic" chance="0.15" />
 			<item name="ACOGOptic" chance="0.10" />
@@ -2823,7 +2771,7 @@
 	</type>
 	<type name="Expansion_BenelliM4">
 		<attachments chance="0.20">
-			<item name="M68Optic" chance="0.20" />
+			<item name="M68Optic" chance="0.0" />
 			<item name="ExpansionReflexMRSOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
 			<item name="M4_T3NRDSOptic" chance="0.10" />
@@ -2854,7 +2802,7 @@
 		<attachments chance="0.30">
 			<item name="Mag_Expansion_MP7_40Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="M68Optic" chance="0.20" />
 			<item name="ExpansionReflexMRSOptic" chance="0.20" />
 			<item name="ACOGOptic" chance="0.10" />
@@ -2895,7 +2843,7 @@
 		<attachments chance="0.30">
 			<item name="Mag_Expansion_AWM_5Rnd" chance="1.00" />
 		</attachments>
-		<attachments chance="0.20">
+		<attachments chance="0.0">
 			<item name="Expansion_PMII25Optic" chance="0.50" />
 			<item name="ExpansionHAMROptic" chance="0.10" />
 			<item name="ExpansionReflexMRSOptic" chance="0.05" />

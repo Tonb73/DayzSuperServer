@@ -1,9 +1,0 @@
-12:13:14.328 [VehicleDeleted] OffroadHatchback (id=10D103AC56411FC9ABFF5191498B1B37 pos=<3768.695313, 402.374695, 6011.143555>)
-12:16:00.820 [Safezone] Player "Da da Ya" (id=1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI= pos=<3700.365723, 402.012482, 5984.651855>) Entered the safezone
-12:16:00.859 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-12:16:00.859 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-12:16:00.859 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-12:16:00.863 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-12:16:00.867 [AI Patrol] Spawning 1 West bots at <4617.872070, 340.157562, 5598.208496>
-12:16:00.890 [AI Patrol] Spawning 1 West bots at <4060.568848, 336.820160, 5556.956543>
-12:18:21.210 [MissionAirdrop] An airdrop is heading towards "Elektrozavodsk" (pos=<9371.000000, 0.000000, 2229.000000> type=Random_Elektrozavodsk) with a ExpansionAirdropContainer

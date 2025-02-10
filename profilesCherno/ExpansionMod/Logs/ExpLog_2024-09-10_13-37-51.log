@@ -1,9 +1,0 @@
-13:40:47.636 [Expansion Quests] - InitQuestSystemClient - Loaded existing player quest data for player with UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-13:40:47.636 [Expansion Quests] - Create new quest instance for quest: 8 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-13:40:47.640 [Expansion Quests] - Create new quest instance for quest: 9 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-13:40:47.640 [Expansion Quests] - Create new quest instance for quest: 11 - Player UID: 1OEPy6aKlMe0cmo8LieQDvVcsiu6iWAr2PUZdSF5eMI=
-13:41:42.734 [AI Object Patrol] Spawning 1 West bots at <4744.733887, 339.000000, 10321.904297>
-13:41:54.628 [AI Patrol] Spawning 3 Raiders bots at <4531.023438, 339.017273, 10704.210938>
-13:43:59.718 [Killfeed] AI Guo (Запад) был убит AI Niki (Рейдеры) с КАС-74У из 4 м расстояние.
-13:44:01.332 [AI Object Patrol] West bots were wiped out (spawn position <4744.733887, 339.000000, 10321.904297>, 1/1 deceased)
-13:44:51.460 [MissionAirdrop] An airdrop is heading towards "Novy Sobor" (pos=<7436.000000, 0.000000, 7720.000000> type=Random_Novy Sobor) with a ExpansionAirdropContainer_Medical

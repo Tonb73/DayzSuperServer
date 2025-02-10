@@ -752,6 +752,26 @@
                     "Sets": []
                 },
 				{
+                    "ClassName": "Bandana_BlackPattern",
+                    "Include": "",
+                    "Chance": 0.4,
+                    "Quantity": {
+                        "Min": 0.0,
+                        "Max": 0.0
+                    },
+                    "Health": [
+                        {
+                            "Min": 0.699999988079071,
+                            "Max": 1.0,
+                            "Zone": ""
+                        }
+                    ],
+                    "InventoryAttachments": [],
+                    "InventoryCargo": [],
+                    "ConstructionPartsBuilt": [],
+                    "Sets": []
+                },
+				{
                     "ClassName": "Balaclava3Holes_White",
                     "Include": "",
                     "Chance": 0.1,

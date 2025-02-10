@@ -7,9 +7,24 @@
 	</ce>
 	
 	<ce folder="newContent_ce">
-		<file name="newContent_types.xml" type="types" />
-		<file name="newContent_spawnabletypes.xml" type="spawnabletypes" />
-		<file name="newContent_events.xml" type="events" />
+		<file name="AdvancedOptics_types.xml" type="types" />
+		<file name="DayzNewAnimals_types.xml" type="types" />
+		<file name="ext_types.xml" type="types" />
+		<file name="Hilux_types.xml" type="types" />
+		<file name="HMMWV_types.xml" type="types" />
+		<file name="RagImmersiveVehicle_types.xml" type="types" />
+		<file name="TF_Weapons_types.xml" type="types" />
+		<file name="ZenCassette_types.xml" type="types" />
+		
+		<file name="DayzNewAnimals_events.xml" type="events" />
+		<file name="ext_events.xml" type="events" />
+		<file name="Hilux_events.xml" type="events" />
+		<file name="HMMWV_events.xml" type="events" />
+		
+		<file name="ext_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="HMMWV_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="TF_Weapons_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 
 	<classes>
