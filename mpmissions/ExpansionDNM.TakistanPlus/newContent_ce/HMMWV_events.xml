@@ -15,7 +15,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="3" min="2" type="Hmmwv_M1035"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Hmmwv_M1035"/>
         </children>
     </event>
 	<event name="VehicleHmmwv_M1151">
@@ -32,7 +32,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="3" min="2" type="Hmmwv_M1151_M2_GPK"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Hmmwv_M1151_M2_GPK"/>
         </children>
     </event>
 	<!--HMMMWV END-->

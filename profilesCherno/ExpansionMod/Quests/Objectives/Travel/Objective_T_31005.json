@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1005,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите и спасите выжившего",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                   9155,
+                    265,
+                    11027
+    ],
+    "MaxDistance": 3,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 22,
+    "ID": 6201,
+    "Type": 1,
+    "Title": "Напарник[Часть 1]",
+    "Descriptions": [
+	"Слушай, я знаю, одному тут тяжко. Ты всегда можешь попросить о помощи! За небольшую плату, кончено же.. Короче, ты платишь мне, я плачу другому челу и вот, у тебя есть напарник! Интересно?",
+	"Так, я его вызвал, он будет тебя ждать в соседней комнате. Берегите друг друга!",
+	"Хорошо, он уже ждет"
+
+    ],
+    "ObjectiveText": "Отдайте Артему деньги",
+    "FollowUpQuest": 6202,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        6
+    ],
+    "QuestTurnInIDs": [
+        
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":601 ,
+            "ObjectiveType":4
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

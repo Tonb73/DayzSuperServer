@@ -1745,6 +1745,20 @@
                             "Sets": []
                         },
 						{
+                            "ClassName": "ExpansionGoldNugget",
+                            "Include": "",
+                            "Chance": 0.01,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+						{
                             "ClassName": "SodaCan_Kvass",
                             "Include": "",
                             "Chance": 0.1000000149011612,

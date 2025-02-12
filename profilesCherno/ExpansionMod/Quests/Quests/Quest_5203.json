@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5203,
+    "Type": 1,
+    "Title": "Охота за головами: Желтый Король [Часть 3]",
+    "Descriptions": [
+        "Хорошие новости. Наш план сработал идеально. Его видели возле мастерской. Мои люди выследили его до старой промзоны. Там у него лагерь. Найди его и принеси мне голову ублюдка.",
+		"Советую приготовиться к серъезному сопротивлению. Удачи",
+		"Ха-ха. Чудно, просто чудесно! Вот это я понимаю хорошая работа! А шлем я на стену повешу! Вот твоя плата, ты заслужил."
+
+    ],
+    "ObjectiveText": "Найдите и убейте Желтого Короля",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q5203",
+    "QuestItems": [],
+    "Rewards": [
+		 {
+            "ClassName": "ExpansionBanknoteHryvnia",
+            "Amount": 24000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        5
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":1203,
+            "ObjectiveType":3 
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1501,
+            "ObjectiveType":6 
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1102,
+            "ObjectiveType":4 
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [5201,5202],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

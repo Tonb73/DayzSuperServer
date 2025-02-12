@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 602,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь в больницу",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                    13385,
+                    6,
+                    6322
+    ],
+    "MaxDistance": 5,
+    "MarkerName": "больницу",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 301,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в Дубровку",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    10012,
+					152,
+					10349
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Дубровка",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

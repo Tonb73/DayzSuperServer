@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 501,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь в Бережки, в лагерь бандитов",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                    15132,
+                    9,
+                    13830
+    ],
+    "MaxDistance": 200,
+    "MarkerName": "Бережки",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

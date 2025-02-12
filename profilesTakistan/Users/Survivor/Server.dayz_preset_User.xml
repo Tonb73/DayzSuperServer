@@ -900,6 +900,9 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
+    <input name="UAOfferRequestItem">
+        <btn name="kO" />
+    </input>
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
@@ -1001,30 +1004,23 @@
             <btn name="kN" />
         </btn>
     </input>
-    <input name="PvZmoD_CZ_RefreshJsonVariables">
-        <btn name="kNumpad4" />
-    </input>
-    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
-        <btn name="kSpace" />
-    </input>
-    <input name="UAToggleAPSI">
-        <btn name="kL">
-            <event name="hold" />
-        </btn>
-    </input>
-    <input name="UAToggleLEHSVisor">
-        <btn name="kK" />
-    </input>
-    <input name="UAToggleLEHSPressure">
-        <btn name="kK">
-            <event name="hold" />
-        </btn>
-    </input>
     <input name="UAToggleBipod">
         <btn name="kT" />
     </input>
     <input name="UAToggleMagni">
         <btn name="kI" />
+    </input>
+    <input name="UAZenMusic">
+        <btn name="kK" />
+    </input>
+    <input name="UAZenMusicUp">
+        <btn name="kAdd" />
+    </input>
+    <input name="UAZenMusicDn">
+        <btn name="kSubstract" />
+    </input>
+    <input name="UAToggleHeadlightHighBeam">
+        <btn name="kL" />
     </input>
     <input name="UADayzDogWhistle">
         <btn name="kAdd" />
@@ -1228,6 +1224,12 @@
     </input>
     <input name="UAExpansionCarRefill">
         <btn name="kR" />
+    </input>
+    <input name="UAToggleLandingGear">
+        <btn name="kG" />
+    </input>
+    <input name="UAToggleAUXlight">
+        <btn name="kO" />
     </input>
     <input name="UADayzHorseSpeedUp">
         <btn name="mWheelUp" />

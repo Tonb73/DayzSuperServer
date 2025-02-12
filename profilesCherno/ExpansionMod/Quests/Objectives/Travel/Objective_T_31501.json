@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1501,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь на Радио вышку",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+            11123,
+            306,
+            4091
+    ],
+    "MaxDistance": 25,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

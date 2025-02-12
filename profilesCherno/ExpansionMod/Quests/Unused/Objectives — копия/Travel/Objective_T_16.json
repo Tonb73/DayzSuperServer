@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Go to the Broadcast Room",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8072.110107421875,
+        459.7070007324219,
+        9313.08984375
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "BroadCast Room",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

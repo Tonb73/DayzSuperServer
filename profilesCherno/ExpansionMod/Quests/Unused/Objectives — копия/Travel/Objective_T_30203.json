@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 203,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь к высотке в Новодмитровске",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    11583,
+					57,
+					14713
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "Высотка",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

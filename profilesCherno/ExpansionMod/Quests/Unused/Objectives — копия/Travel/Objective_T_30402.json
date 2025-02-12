@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 402,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в Гномов замок",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    7411,
+					405,
+					9103
+    ],
+    "MaxDistance": 150.0,
+    "MarkerName": "Гомов Замок",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
