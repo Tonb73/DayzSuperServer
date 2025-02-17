@@ -31,11 +31,11 @@ void main()
 	*/
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
-    if ( ( month > 9 ) || ( month <= 6 ) )
+    if ( 1 == 1)
     {
-    	year = 2011;
-        month = 7;
-        day = 1;
+    	year = 2021;
+        month = 2;
+        day = 2;
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}

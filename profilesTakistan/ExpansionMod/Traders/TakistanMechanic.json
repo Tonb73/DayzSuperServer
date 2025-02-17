@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_MECHANIC",
+    "DisplayName": "Механик",
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
@@ -13,7 +13,8 @@
     "DisplayCurrencyName": "",
     "Categories": [
 		"TakistanCarAttachment",
-		"TakistanCarTools"
+		"TakistanCarTools",
+		"Spraycans"
     ],
     "Items": {}
 }

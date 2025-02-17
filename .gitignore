@@ -59,9 +59,4 @@ profilesTakistan/*
 !/profilesTakistan/WebApiLog
 
 *log*
-!/mpmissions
-mpmissions/*
-!/mpmissions/ExpansionDNM.TakistanPlus
-*/mpmissions/ExpansionDNM.TakistanPlus/storage_1
-!/mpmissions/ExpansionDNM.chernarusplus
-*/mpmissions/ExpansionDNM.chernarusplus/storage_1
+**/storage_1/

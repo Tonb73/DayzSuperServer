@@ -2,14 +2,14 @@
 <events>
 
 	<event name="StaticAlHalalCamp">
-        <nominal>3</nominal>
-        <min>1</min>
-        <max>1</max>
+        <nominal>6</nominal>
+        <min>4</min>
+        <max>8</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
+        <distanceradius>100</distanceradius>
+        <cleanupradius>40</cleanupradius>
         <secondary></secondary>
         <flags deletable="1" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
@@ -492,7 +492,7 @@
         <active>1</active>
         <active>0</active>
         <children>
-            <child lootmax="3" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
+            <child lootmax="3" lootmin="0" max="0" min="50" type="ZmbM_NBC_Yellow"/>
         </children>
     </event>
     <event name="InfectedPolice">
@@ -1074,8 +1074,8 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan"/>
-            <child lootmax="0" lootmin="0" max="0" min="0" type="CivilianSedan_Black"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="CivilianSedan"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="CivilianSedan_Black"/>
             <child lootmax="0" lootmin="0" max="0" min="0" type="CivilianSedan_Wine"/>
         </children>
     </event>
@@ -1093,9 +1093,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
+            <child lootmax="0" lootmin="0" max="4" min="3" type="Hatchback_02"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="Hatchback_02_Black"/>
+            <child lootmax="0" lootmin="0" max="4" min="3" type="Hatchback_02_Blue"/>
         </children>
     </event>
     <event name="VehicleOffroad02">
@@ -1129,9 +1129,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="OffroadHatchback"/>
+            <child lootmax="0" lootmin="0" max="4" min="3" type="OffroadHatchback_Blue"/>
+            <child lootmax="0" lootmin="0" max="4" min="2" type="OffroadHatchback_White"/>
         </children>
     </event>
     <event name="VehicleSedan02">
@@ -1148,9 +1148,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
+            <child lootmax="0" lootmin="0" max="4" min="3" type="Sedan_02"/>
+            <child lootmax="0" lootmin="0" max="5" min="2" type="Sedan_02_Grey"/>
+            <child lootmax="0" lootmin="0" max="4" min="3" type="Sedan_02_Red"/>
         </children>
     </event>
     <event name="VehicleTruck01">

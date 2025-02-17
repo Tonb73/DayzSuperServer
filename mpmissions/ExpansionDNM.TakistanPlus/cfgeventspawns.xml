@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <eventposdef>
 	<event name="StaticAlHalalCamp">
-		<pos x="1416.601807" z="11730.160645" a="0" group="AlHalalCamp_Nur" /> 
+		<pos x="11916" z="11264" a="0" group="AlHalalCamp" /> <!--  Karachinar  -->
+		<pos x="11258" z="10743" a="0" group="AlHalalCamp" /> <!--  AI Babair  -->
+		<pos x="9399" z="10847" a="0" group="AlHalalCamp" /> <!--  Zavarak  -->
+		<pos x="7861" z="11118" a="0" group="AlHalalCamp" /> <!--  Rasman  -->
+		<pos x="4530" z="11148" a="0" group="AlHalalCamp" /> <!--  Al Falqas  -->
+		<pos x="1873" z="11419" a="0" group="AlHalalCamp" /> <!--  Nur  -->
+		<pos x="3065" z="9667" a="0" group="AlHalalCamp" /> <!--  Nagara  -->
+		<pos x="1783" z="8269" a="0" group="AlHalalCamp" /> <!--  El Thoubaroh  -->
+		<pos x="4364" z="8702" a="0" group="AlHalalCamp" /> <!--  Dhimrah  -->
+		<pos x="6532" z="9218" a="0" group="AlHalalCamp" /> <!--  Al Bahludiyah  -->
+		<pos x="11075" z="9319" a="0" group="AlHalalCamp" /> <!--  Laschkar  -->
+		<pos x="9058" z="8872" a="0" group="AlHalalCamp" /> <!--  Hachaman  -->
+		<pos x="11659" z="7800" a="0" group="AlHalalCamp" /> <!--  Hammaqiyah  -->
+		<pos x="9836" z="6304" a="0" group="AlHalalCamp" /> <!--  Garmarud  -->
+		<pos x="8401" z="7185" a="0" group="AlHalalCamp" /> <!--  Imarat  -->
+		<pos x="6072" z="9100" a="0" group="AlHalalCamp" /> <!--  Bastam  -->
+		<pos x="5469" z="8185" a="0" group="AlHalalCamp" /> <!--  Falar  -->
+		<pos x="7341" z="5961" a="0" group="AlHalalCamp" /> <!--  Darma  -->
+		<pos x="5700" z="5388" a="0" group="AlHalalCamp" /> <!--  Anar  -->
+		<pos x="4742" z="5324" a="0" group="AlHalalCamp" /> <!--  Dodr  -->
+		<pos x="3438" z="4364" a="0" group="AlHalalCamp" /> <!--  Sakhee  -->
+		<pos x="1425" z="5906" a="0" group="AlHalalCamp" /> <!--  Al Hamiqqah  -->
+		<pos x="2048" z="3636" a="0" group="AlHalalCamp" /> <!--  Al Falludiyah  -->
+		<pos x="5203" z="3339" a="0" group="AlHalalCamp" /> <!--  Kakaru -->
+		<pos x="6289" z="4798" a="0" group="AlHalalCamp" /> <!--  Al Nadaya -->
+		<pos x="9686" z="4566" a="0" group="AlHalalCamp" /> <!--  Zarandaj -->
+		<pos x="8138" z="2478" a="0" group="AlHalalCamp" /> <!--  LoyManara -->
+		<pos x="5661" z="1944" a="0" group="AlHalalCamp" /> <!--  Sultansafee -->
+		<pos x="2953" z="1163" a="0" group="AlHalalCamp" /> <!--  ChakChak -->
+		<pos x="11420" z="2306" a="0" group="AlHalalCamp" /> <!--  AzZablah -->
 	</event>
 	<!--  LadaPickup Vehicles  -->
 	<event name="VehicleNehr_PickupLada">

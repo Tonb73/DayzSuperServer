@@ -23,12 +23,12 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "LoyManara", 
+        { 	"AreaName": "LoyManara Military", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 8487, 0, 2445 ],
-				"Radius": 100,
+				"Pos": [ 8232, 0, 2126 ],
+				"Radius": 150,
 				"PosHeight": 26,
 				"NegHeight": 10,
 				"InnerRingCount": 1,
@@ -46,12 +46,12 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "Adinaqla", 
+        { 	"AreaName": "LoyManara Military2", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 7396, 0, 1700 ],
-				"Radius": 100,
+				"Pos": [ 8360, 0, 1884 ],
+				"Radius": 120,
 				"PosHeight": 22,
 				"NegHeight": 2,
 				"InnerRingCount": 1,
@@ -69,14 +69,14 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "Farakkah", 
+		{ 	"AreaName": "Rasman", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 8730, 0, 5123 ],
-				"Radius": 150,
-				"PosHeight": 25,
-				"NegHeight": 20,
+				"Pos": [ 6342, 0, 11306 ],
+				"Radius": 75,
+				"PosHeight": 11,
+				"NegHeight": 10,
 				"InnerRingCount": 2,
 				"InnerPartDist": 50,
 				"OuterRingToggle": 1, 
@@ -92,12 +92,58 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "Mahawit", 
+        { 	"AreaName": "Rasman Air Base 1", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 5680, 0, 9910 ],
-				"Radius": 120,
+				"Pos": [ 5694, 0, 11180 ],
+				"Radius": 140,
+				"PosHeight": 11,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Rasman Air Base 2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 6023, 0, 11480 ],
+				"Radius": 140,
+				"PosHeight": 11,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+				}
+			},
+			{ 	"AreaName": "Grasmar Military", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 10415, 0, 6411 ],
+				"Radius": 100,
 				"PosHeight": 11,
 				"NegHeight": 10,
 				"InnerRingCount": 2,

@@ -6,7 +6,7 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
-	{
+		{
             "ClassName": "TF_SAW_RIS_Grip_FDE",
             "MaxPriceThreshold": 6200,
             "MinPriceThreshold": 6200,

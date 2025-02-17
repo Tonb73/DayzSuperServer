@@ -70,16 +70,16 @@
 	</type>
 	<type name="Hatchback_02_BlackRust">
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -117,16 +117,16 @@
 	</type>
 	<type name="Hatchback_02_BlueRust">
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -164,16 +164,16 @@
 	</type>
 	<type name="Hatchback_02_RedRust">
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -211,16 +211,16 @@
 	</type>
 	<type name="Hatchback_02_BanditKitty">
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.20" />
+			<item name="Hatchback_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -258,19 +258,19 @@
 	</type>
 	<type name="OffroadHatchback_WhiteRust">
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -302,19 +302,19 @@
 	</type>
 	<type name="OffroadHatchback_Green">
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -346,19 +346,19 @@
 	</type>
 	<type name="OffroadHatchback_GreenRust">
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.20" />
+			<item name="HatchbackWheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -390,16 +390,16 @@
 	</type>
 	<type name="Sedan_02_GreyRust">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.25" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -437,16 +437,16 @@
 	</type>
 	<type name="Sedan_02_RedRust">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -484,16 +484,16 @@
 	</type>
 	<type name="Sedan_02_Yellow">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -531,16 +531,16 @@
 	</type>
 	<type name="Sedan_02_YellowRust">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -578,16 +578,16 @@
 	</type>
 	<type name="Sedan_02_YellowBright">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -625,16 +625,16 @@
 	</type>
 	<type name="Sedan_02_Blue">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -672,16 +672,16 @@
 	</type>
 	<type name="Sedan_02_BlueRust">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.20" />
+			<item name="Sedan_02_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -1051,13 +1051,13 @@
 	<!-- HELICOPTERS -->
 	<type name="ExpansionMh6">
 		<attachments chance="1.00">
-			<item name="ExpansionHelicopterBattery" chance="0.60" />
+			<item name="ExpansionHelicopterBattery" chance="0.10" />
         </attachments>
 		<attachments chance="1.00">
-			<item name="ExpansionIgniterPlug" chance="0.60" />
+			<item name="ExpansionIgniterPlug" chance="0.10" />
         </attachments>
 		<attachments chance="1.00">
-			<item name="ExpansionHydraulicHoses" chance="0.60" />
+			<item name="ExpansionHydraulicHoses" chance="0.10" />
         </attachments>
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="0.60" />
@@ -2262,19 +2262,19 @@
 	</type>
 	<type name="Expansion_Landrover">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -2312,19 +2312,19 @@
 	</type>
 	<type name="Expansion_Landrover_Yellow">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -2362,19 +2362,19 @@
 	</type>
 	<type name="Expansion_Landrover_Blue">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -2412,19 +2412,19 @@
 	</type>
 	<type name="Expansion_Landrover_Orange">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -2462,19 +2462,19 @@
 	</type>
 	<type name="Expansion_Landrover_Red">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -2512,19 +2512,19 @@
 	</type>
 	<type name="Expansion_Landrover_Grey">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
@@ -2562,19 +2562,19 @@
 	</type>
 	<type name="Expansion_Landrover_Green">
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Expansion_Landrover_Wheel" chance="0.20" />
+			<item name="Expansion_Landrover_Wheel" chance="0.250" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.10" />
