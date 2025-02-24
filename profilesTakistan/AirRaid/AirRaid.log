@@ -6385,3 +6385,176 @@
 19.02.2025 23:45:06 [AirRaid] member angle 1.62348
 19.02.2025 23:45:06 [AirRaid] Started siren at coords <11199.000000, 312.000000, 9083.000000>
 19.02.2025 23:45:57 [AirRaid] Stopped siren at coords <11199.000000, 312.000000, 9083.000000>
+22.02.2025 16:50:26 [AirRaid] 'AirRaid.json' found, loading existing config
+22.02.2025 16:50:26 [AirRaid] Air Raid started!
+22.02.2025 16:50:26 [AirRaid] World name TakistanPlus
+22.02.2025 16:50:26 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+22.02.2025 16:50:26 [AirRaid] World size overriden by json config to 12800 meters
+22.02.2025 16:55:03 [AirRaid] 'AirRaid.json' found, loading existing config
+22.02.2025 16:55:03 [AirRaid] Air Raid started!
+22.02.2025 16:55:03 [AirRaid] World name TakistanPlus
+22.02.2025 16:55:03 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+22.02.2025 16:55:03 [AirRaid] World size overriden by json config to 12800 meters
+22.02.2025 17:00:07 [AirRaid] 'AirRaid.json' found, loading existing config
+22.02.2025 17:00:07 [AirRaid] Air Raid started!
+22.02.2025 17:00:07 [AirRaid] World name TakistanPlus
+22.02.2025 17:00:07 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+22.02.2025 17:00:07 [AirRaid] World size overriden by json config to 12800 meters
+22.02.2025 17:11:21 [AirRaid] Bomber plane spawn <12800.000000, 1000.000000, 5287.661133>
+22.02.2025 17:11:21 [AirRaid] random Bombing target LoyManara AirBase 3 <8350.000000, 0.000000, 1875.000000>
+22.02.2025 17:11:21 [AirRaid] bomber angle -2.48737
+22.02.2025 17:11:21 [AirRaid] member angle -2.48737
+22.02.2025 17:11:21 [AirRaid] member angle -2.48737
+22.02.2025 17:11:21 [AirRaid] Started siren at coords <8123.899902, 310.000000, 1989.099976>
+22.02.2025 17:11:55 [AirRaid] Stopped siren at coords <8123.899902, 310.000000, 1989.099976>
+22.02.2025 17:21:22 [AirRaid] Bomber plane spawn <3392.291016, 1000.000000, 12800.000000>
+22.02.2025 17:21:22 [AirRaid] random Bombing target Al Falludiyah <1390.000000, 0.000000, 3541.000000>
+22.02.2025 17:21:22 [AirRaid] bomber angle -1.78377
+22.02.2025 17:21:22 [AirRaid] member angle -1.78377
+22.02.2025 17:21:22 [AirRaid] member angle -1.78377
+22.02.2025 17:21:22 [AirRaid] Started siren at coords <1390.000000, 235.000000, 3541.000000>
+22.02.2025 17:22:14 [AirRaid] Stopped siren at coords <1390.000000, 235.000000, 3541.000000>
+22.02.2025 17:31:21 [AirRaid] Bomber plane spawn <0.000000, 1000.000000, 5590.014160>
+22.02.2025 17:31:21 [AirRaid] random Bombing target Gospandi <3915.000000, 0.000000, 9337.000000>
+22.02.2025 17:31:21 [AirRaid] bomber angle 0.763473
+22.02.2025 17:31:21 [AirRaid] member angle 0.763473
+22.02.2025 17:31:21 [AirRaid] member angle 0.763473
+22.02.2025 17:31:21 [AirRaid] Started siren at coords <3915.000000, 147.000000, 9337.000000>
+22.02.2025 17:31:43 [AirRaid] Mi-6 spawn <12800.000000, 550.000000, 11605.041992>
+22.02.2025 17:31:43 [AirRaid] random mi-6 target Al-Falqas Fields <3752.000000, 0.000000, 11040.000000>
+22.02.2025 17:31:43 [AirRaid] Mi-24 spawn <2241.083984, 550.000000, 0.000000>
+22.02.2025 17:31:43 [AirRaid] random mi-24 target Qaikkah <10210.000000, 0.000000, 2372.000000>
+22.02.2025 17:31:43 [AirRaid] Mig-21 spawn <8429.944336, 550.000000, 12800.000000>
+22.02.2025 17:31:43 [AirRaid] random mig-21 target Rasman Airbase 1 <5640.000000, 0.000000, 11148.000000>
+22.02.2025 17:32:03 [AirRaid] Stopped siren at coords <3915.000000, 147.000000, 9337.000000>
+22.02.2025 17:32:22 [AirRaid] Mig-21 is out of map, going to despawn
+22.02.2025 17:34:05 [AirRaid] Mi-24 is out of map, going to despawn
+22.02.2025 17:35:17 [AirRaid] Mi-6 is out of map, going to despawn
+22.02.2025 17:41:21 [AirRaid] Bomber plane spawn <9682.327148, 1000.000000, 12800.000000>
+22.02.2025 17:41:21 [AirRaid] random Bombing target Rasman Airbase 2 <5873.000000, 0.000000, 11269.000000>
+22.02.2025 17:41:21 [AirRaid] bomber angle -2.75944
+22.02.2025 17:41:21 [AirRaid] member angle -2.75944
+22.02.2025 17:41:21 [AirRaid] member angle -2.75944
+22.02.2025 17:41:21 [AirRaid] Started siren at coords <5640.000000, 90.000000, 11148.000000>
+22.02.2025 17:42:02 [AirRaid] Stopped siren at coords <5640.000000, 90.000000, 11148.000000>
+22.02.2025 17:51:20 [AirRaid] Bomber plane spawn <8545.573242, 1000.000000, 0.000000>
+22.02.2025 17:51:20 [AirRaid] random Bombing target Rasman Airbase 3 <6050.000000, 0.000000, 11452.000000>
+22.02.2025 17:51:20 [AirRaid] bomber angle 1.78536
+22.02.2025 17:51:20 [AirRaid] member angle 1.78536
+22.02.2025 17:51:20 [AirRaid] member angle 1.78536
+22.02.2025 17:51:20 [AirRaid] Started siren at coords <5640.000000, 90.000000, 11148.000000>
+22.02.2025 17:52:12 [AirRaid] Stopped siren at coords <5640.000000, 90.000000, 11148.000000>
+22.02.2025 18:01:19 [AirRaid] Bomber plane spawn <2515.701660, 1000.000000, 0.000000>
+22.02.2025 18:01:19 [AirRaid] random Bombing target Laschar_Radarbase <11261.000000, 0.000000, 9117.000000>
+22.02.2025 18:01:19 [AirRaid] bomber angle 0.806204
+22.02.2025 18:01:19 [AirRaid] member angle 0.806204
+22.02.2025 18:01:19 [AirRaid] member angle 0.806204
+22.02.2025 18:01:19 [AirRaid] Started siren at coords <11199.000000, 312.000000, 9083.000000>
+22.02.2025 18:02:09 [AirRaid] Mi-6 spawn <7898.288086, 550.000000, 12800.000000>
+22.02.2025 18:02:09 [AirRaid] random mi-6 target LoyManara AirBase 3 <8350.000000, 0.000000, 1875.000000>
+22.02.2025 18:02:09 [AirRaid] Mi-24 spawn <12800.000000, 550.000000, 4548.185547>
+22.02.2025 18:02:09 [AirRaid] random mi-24 target Nagara <3143.000000, 0.000000, 9916.000000>
+22.02.2025 18:02:09 [AirRaid] Mig-21 spawn <280.086670, 550.000000, 0.000000>
+22.02.2025 18:02:09 [AirRaid] random mig-21 target Nur <1782.000000, 0.000000, 11950.000000>
+22.02.2025 18:02:19 [AirRaid] Stopped siren at coords <11199.000000, 312.000000, 9083.000000>
+22.02.2025 18:03:00 [AirRaid] Mig-21 is out of map, going to despawn
+22.02.2025 18:05:17 [AirRaid] Mi-24 is out of map, going to despawn
+22.02.2025 18:05:42 [AirRaid] Mi-6 is out of map, going to despawn
+22.02.2025 18:50:50 [AirRaid] 'AirRaid.json' found, loading existing config
+22.02.2025 18:50:50 [AirRaid] Air Raid started!
+22.02.2025 18:50:50 [AirRaid] World name TakistanPlus
+22.02.2025 18:50:50 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+22.02.2025 18:50:50 [AirRaid] World size overriden by json config to 12800 meters
+22.02.2025 18:56:34 [AirRaid] 'AirRaid.json' found, loading existing config
+22.02.2025 18:56:34 [AirRaid] Air Raid started!
+22.02.2025 18:56:34 [AirRaid] World name TakistanPlus
+22.02.2025 18:56:34 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+22.02.2025 18:56:34 [AirRaid] World size overriden by json config to 12800 meters
+22.02.2025 19:01:19 [AirRaid] 'AirRaid.json' found, loading existing config
+22.02.2025 19:01:19 [AirRaid] Air Raid started!
+22.02.2025 19:01:19 [AirRaid] World name TakistanPlus
+22.02.2025 19:01:19 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+22.02.2025 19:01:19 [AirRaid] World size overriden by json config to 12800 meters
+22.02.2025 19:12:38 [AirRaid] Bomber plane spawn <12800.000000, 1000.000000, 3902.853516>
+22.02.2025 19:12:38 [AirRaid] random Bombing target Nagara <3047.000000, 0.000000, 9896.000000>
+22.02.2025 19:12:38 [AirRaid] bomber angle 2.59058
+22.02.2025 19:12:38 [AirRaid] member angle 2.59058
+22.02.2025 19:12:38 [AirRaid] member angle 2.59058
+22.02.2025 19:12:38 [AirRaid] Started siren at coords <3145.000000, 80.000000, 9920.000000>
+22.02.2025 19:13:38 [AirRaid] Stopped siren at coords <3145.000000, 80.000000, 9920.000000>
+22.02.2025 19:22:38 [AirRaid] Bomber plane spawn <9406.537109, 1000.000000, 0.000000>
+22.02.2025 19:22:38 [AirRaid] random Bombing target Hachaman <9180.000000, 0.000000, 9685.000000>
+22.02.2025 19:22:38 [AirRaid] bomber angle 1.59418
+22.02.2025 19:22:38 [AirRaid] member angle 1.59418
+22.02.2025 19:22:38 [AirRaid] member angle 1.59418
+22.02.2025 19:22:38 [AirRaid] Started siren at coords <9132.000000, 203.000000, 9571.000000>
+22.02.2025 19:23:29 [AirRaid] Stopped siren at coords <9132.000000, 203.000000, 9571.000000>
+22.02.2025 19:32:37 [AirRaid] Bomber plane spawn <6846.302734, 1000.000000, 0.000000>
+22.02.2025 19:32:37 [AirRaid] random Bombing target Garmsar <10820.000000, 0.000000, 6365.000000>
+22.02.2025 19:32:37 [AirRaid] bomber angle 1.0127
+22.02.2025 19:32:37 [AirRaid] member angle 1.0127
+22.02.2025 19:32:37 [AirRaid] member angle 1.0127
+22.02.2025 19:32:37 [AirRaid] Started siren at coords <10820.000000, 303.000000, 6365.000000>
+22.02.2025 19:32:59 [AirRaid] Mi-6 spawn <11619.104492, 550.000000, 0.000000>
+22.02.2025 19:32:59 [AirRaid] random mi-6 target Hachaman <9180.000000, 0.000000, 9685.000000>
+22.02.2025 19:32:59 [AirRaid] Mi-24 spawn <0.000000, 550.000000, 9559.276367>
+22.02.2025 19:32:59 [AirRaid] random mi-24 target LoyManara AirBase 1 <8240.624023, 0.000000, 2140.153320>
+22.02.2025 19:32:59 [AirRaid] Mig-21 spawn <0.000000, 550.000000, 7142.014648>
+22.02.2025 19:32:59 [AirRaid] random mig-21 target Garmsar <10820.000000, 0.000000, 6365.000000>
+22.02.2025 19:33:22 [AirRaid] Stopped siren at coords <10820.000000, 303.000000, 6365.000000>
+22.02.2025 19:33:50 [AirRaid] Mig-21 is out of map, going to despawn
+22.02.2025 19:36:02 [AirRaid] Mi-24 is out of map, going to despawn
+22.02.2025 19:36:39 [AirRaid] Mi-6 is out of map, going to despawn
+22.02.2025 19:42:36 [AirRaid] Bomber plane spawn <6161.906738, 1000.000000, 0.000000>
+22.02.2025 19:42:36 [AirRaid] random Bombing target Hachaman <9180.000000, 0.000000, 9685.000000>
+22.02.2025 19:42:36 [AirRaid] bomber angle 1.26871
+22.02.2025 19:42:36 [AirRaid] member angle 1.26871
+22.02.2025 19:42:36 [AirRaid] member angle 1.26871
+22.02.2025 19:42:36 [AirRaid] Started siren at coords <9132.000000, 203.000000, 9571.000000>
+22.02.2025 19:43:30 [AirRaid] Stopped siren at coords <9132.000000, 203.000000, 9571.000000>
+22.02.2025 19:52:36 [AirRaid] Bomber plane spawn <12800.000000, 1000.000000, 2304.367188>
+22.02.2025 19:52:36 [AirRaid] random Bombing target Rasman Airbase 3 <6050.000000, 0.000000, 11452.000000>
+22.02.2025 19:52:36 [AirRaid] bomber angle 2.20651
+22.02.2025 19:52:36 [AirRaid] member angle 2.20651
+22.02.2025 19:52:36 [AirRaid] member angle 2.20651
+22.02.2025 19:52:36 [AirRaid] Started siren at coords <5640.000000, 90.000000, 11148.000000>
+22.02.2025 19:53:28 [AirRaid] Stopped siren at coords <5640.000000, 90.000000, 11148.000000>
+24.02.2025 13:12:43 [AirRaid] 'AirRaid.json' found, loading existing config
+24.02.2025 13:12:43 [AirRaid] Air Raid started!
+24.02.2025 13:12:43 [AirRaid] World name TakistanPlus
+24.02.2025 13:12:43 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+24.02.2025 13:12:43 [AirRaid] World size overriden by json config to 12800 meters
+24.02.2025 13:24:02 [AirRaid] Bomber plane spawn <11430.426758, 1000.000000, 12800.000000>
+24.02.2025 13:24:02 [AirRaid] random Bombing target LoyManara <8447.000000, 0.000000, 2466.000000>
+24.02.2025 13:24:02 [AirRaid] bomber angle -1.85185
+24.02.2025 13:24:02 [AirRaid] member angle -1.85185
+24.02.2025 13:24:02 [AirRaid] member angle -1.85185
+24.02.2025 13:24:02 [AirRaid] Started siren at coords <8534.000000, 322.000000, 2392.000000>
+24.02.2025 13:24:55 [AirRaid] Stopped siren at coords <8534.000000, 322.000000, 2392.000000>
+24.02.2025 13:27:26 [AirRaid] 'AirRaid.json' found, loading existing config
+24.02.2025 13:27:26 [AirRaid] Air Raid started!
+24.02.2025 13:27:26 [AirRaid] World name TakistanPlus
+24.02.2025 13:27:26 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+24.02.2025 13:27:26 [AirRaid] World size overriden by json config to 12800 meters
+24.02.2025 13:30:54 [AirRaid] 'AirRaid.json' found, loading existing config
+24.02.2025 13:30:54 [AirRaid] Air Raid started!
+24.02.2025 13:30:54 [AirRaid] World name TakistanPlus
+24.02.2025 13:30:54 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+24.02.2025 13:30:54 [AirRaid] World size overriden by json config to 12800 meters
+24.02.2025 13:35:47 [AirRaid] 'AirRaid.json' found, loading existing config
+24.02.2025 13:35:47 [AirRaid] Air Raid started!
+24.02.2025 13:35:47 [AirRaid] World name TakistanPlus
+24.02.2025 13:35:47 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+24.02.2025 13:35:47 [AirRaid] World size overriden by json config to 12800 meters
+24.02.2025 13:52:21 [AirRaid] 'AirRaid.json' found, loading existing config
+24.02.2025 13:52:21 [AirRaid] Air Raid started!
+24.02.2025 13:52:21 [AirRaid] World name TakistanPlus
+24.02.2025 13:52:21 [AirRaid] World size 12800 meters, you can override in json config if automatic mapsize detection failed
+24.02.2025 13:52:21 [AirRaid] World size overriden by json config to 12800 meters
+24.02.2025 14:03:37 [AirRaid] Bomber plane spawn <4191.924805, 1000.000000, 12800.000000>
+24.02.2025 14:03:37 [AirRaid] random Bombing target Jaglangir <4855.000000, 0.000000, 10550.000000>
+24.02.2025 14:03:37 [AirRaid] bomber angle -1.28421
+24.02.2025 14:03:37 [AirRaid] member angle -1.28421
+24.02.2025 14:03:37 [AirRaid] member angle -1.28421
+24.02.2025 14:03:37 [AirRaid] Started siren at coords <4855.000000, 120.000000, 10550.000000>
+24.02.2025 14:04:18 [AirRaid] Stopped siren at coords <4855.000000, 120.000000, 10550.000000>

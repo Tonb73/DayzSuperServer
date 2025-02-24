@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4070202,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Захватите склад Аль-Халяль",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6315,
+        325,
+        5020
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Склад Аль-Халяль",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

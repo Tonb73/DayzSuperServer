@@ -937,6 +937,7 @@
     <input name="UAObjectModuleSpawnInfected" />
     <input name="UAObjectModuleSpawnAnimal" />
     <input name="UAObjectModuleSpawnWolf" />
+    <input name="UAPlayerModuleFreezePlayer" />
     <input name="UAPlayerModuleHeal" />
     <input name="UAPlayerModuleGodMode">
         <btn name="kU" />

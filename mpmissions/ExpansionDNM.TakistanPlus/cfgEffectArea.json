@@ -73,7 +73,7 @@
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
-				"Pos": [ 6342, 0, 11306 ],
+				"Pos": [ 6212, 0, 11220 ],
 				"Radius": 75,
 				"PosHeight": 11,
 				"NegHeight": 10,

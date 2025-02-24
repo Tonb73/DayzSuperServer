@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4070101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Захватите аванпост Аль-Халяль",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8252,
+        178,
+        7780
+    ],
+    "MaxDistance": 40.0,
+    "MarkerName": "Аванпост Аль-Халяль",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

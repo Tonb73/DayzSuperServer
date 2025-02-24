@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40703,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Сопроводите выжившего в лагерь",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4607,
+        6,
+        12316
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Спасите Выжившего",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "TakUPTier3",
+    "NPCClassName": "",
+    "NPCName": "Выживший повстанец"
+}

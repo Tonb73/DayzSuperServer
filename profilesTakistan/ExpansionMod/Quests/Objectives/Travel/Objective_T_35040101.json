@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5040101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в старый дом Аль-Башира",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9878,
+        129,
+        11559
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Дом Аль-Башира",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

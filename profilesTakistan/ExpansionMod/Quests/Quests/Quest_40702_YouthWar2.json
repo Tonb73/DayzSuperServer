@@ -1,0 +1,73 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40702,
+    "Type": 1,
+    "Title": "Молодежное движение Часть 2",
+    "Descriptions": [
+		"Амир просит отправится в свой лагерь и взять там солдат, чтоыб захватить склад, чтобы снабдить атаку на Аль-Халяль",
+		"Говорит, что нужно захватить склад, чтобы забрать оружие",
+		""
+    ],
+    "ObjectiveText": "Найдите и захватите склад Аль-Халяль",
+    "FollowUpQuest": 40703,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40702",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 230,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":4070201,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4070202,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4070201,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
