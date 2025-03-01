@@ -934,6 +934,7 @@
     <input name="UAObjectModuleSpawnInfected" />
     <input name="UAObjectModuleSpawnAnimal" />
     <input name="UAObjectModuleSpawnWolf" />
+    <input name="UAPlayerModuleFreezePlayer" />
     <input name="UAPlayerModuleHeal" />
     <input name="UAPlayerModuleGodMode">
         <btn name="kU" />
@@ -1000,12 +1001,6 @@
         <btn name="kRMenu">
             <btn name="kN" />
         </btn>
-    </input>
-    <input name="PvZmoD_CZ_RefreshJsonVariables">
-        <btn name="kNumpad4" />
-    </input>
-    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_CZ">
-        <btn name="kSpace" />
     </input>
     <input name="UAToggleAPSI">
         <btn name="kL">

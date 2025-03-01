@@ -24,28 +24,6 @@
                 "bandana_greenpattern",
                 "bandana_camopattern"
             ]
-        },
-        {
-            "ClassName": "bandana_greenpattern",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 8,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "bandana_camopattern",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 10,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         }
     ]
 }

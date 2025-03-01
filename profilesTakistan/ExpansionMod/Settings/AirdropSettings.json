@@ -13,7 +13,6 @@
     "InfectedSpawnInterval":0,
     "ItemCount": 0,
     "Containers": [
-	Хоба, поломал, надеюсь только АирДропы
         {
             "Container": "ExpansionAirdropContainer",
             "FallSpeed": 4.5,

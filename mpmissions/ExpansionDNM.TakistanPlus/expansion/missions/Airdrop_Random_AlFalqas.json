@@ -13,8 +13,8 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 4317.27001953125,
-        "z": 11061.7587890625,
+        "x": 4061.732421875,
+        "z": 10886.8876953125,
         "Name": "Al Falqas",
         "Radius": 100.0
     },

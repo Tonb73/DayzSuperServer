@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3020102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Зачистите лагерь Аль-Халяль",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        970,
+        236,
+        3195
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь Аль-Халяль",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

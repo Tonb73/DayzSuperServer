@@ -38,7 +38,7 @@
 		{
 			"ClassName": "TF_MAPBag_Khaki",
             "MaxPriceThreshold": 1300,
-            "MinPriceThreshold": 2300,
+            "MinPriceThreshold": 1250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

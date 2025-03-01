@@ -119,7 +119,7 @@ class Expansion_Vehicles_GoToVehicle_OpenVehicleDoor_Transition_0: eAITransition
 		Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_OpenVehicleDoor_State_0"));
 	}
 	override int Guard() {
-		if (vector.Distance(unit.GetPosition(), src.position) > 0.5) return FAIL;
+		if (vector.DistanceSq(unit.GetPosition(), src.position) > 1.0) return FAIL;
 		if (!src.transport.IsAreaAtDoorFree(src.seat)) return FAIL;
 		CarScript cs;
 		if (src.transport.CrewMember(src.seat) || (Class.CastTo(cs, src.transport) && cs.Expansion_IsSeatReservedByOther(src.seat, unit))) return FAIL;
@@ -140,7 +140,7 @@ class Expansion_Vehicles_GoToVehicle_GoToVehicle_Transition_0: eAITransition {
 		Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_GoToVehicle_State_0"));
 	}
 	override int Guard() {
-		if (vector.Distance(unit.GetPosition(), src.position) < 0.5) return FAIL;
+		if (vector.DistanceSq(unit.GetPosition(), src.position) < 1.0) return FAIL;
 		if (unit.GetThreatToSelf() >= 0.4) return FAIL;
 		return SUCCESS;
 	}
@@ -159,7 +159,7 @@ class Expansion_Vehicles_OpenVehicleDoor_GetInVehicle_Transition_0: eAITransitio
 		Class.CastTo(dst, _fsm.GetState("Expansion_Vehicles_GetInVehicle_State_0"));
 	}
 	override int Guard() {
-		if (vector.Distance(unit.GetPosition(), src.position) > 0.5) return FAIL;
+		if (vector.DistanceSq(unit.GetPosition(), src.position) > 1.0) return FAIL;
 		if (unit.IsInTransport()) return FAIL;
 		if (!src.transport.CrewCanGetThrough(src.seat) || !src.transport.IsAreaAtDoorFree(src.seat)) return FAIL;
 		CarScript cs;
@@ -726,6 +726,7 @@ class Expansion_Fighting__Evade_Transition_0: eAITransition {
 		if (fromTargetDot < 0.97) return FAIL;  //! Ignore if target player isn't aiming at us
 		if (Math.RandomInt(0, 5) > 0) return FAIL;  //! 1 in 5 chance to evade
 		if (unit.eAI_IsDangerousAltitude()) return FAIL;  //! Don't evade if high above ground
+		if (unit.m_eAI_IsOnLadder) return FAIL;
 		fsm.LastEvadeTime = missionTime;
 		return SUCCESS;
 	}
