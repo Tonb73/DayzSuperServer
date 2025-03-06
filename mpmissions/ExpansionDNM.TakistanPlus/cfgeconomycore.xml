@@ -17,20 +17,21 @@
 		<file name="ZenCassette_types.xml" type="types" />
 		<file name="LadaPickup_types.xml" type="types" />
 		<file name="InediaPain_types.xml" type="types" />
-		<!--<file name="Kamaz_types.xml" type="types" />-->
+		<file name="Kamaz_types.xml" type="types" />
 		
 		<file name="DayzNewAnimals_events.xml" type="events" />
 		<file name="ext_events.xml" type="events" />
 		<file name="Hilux_events.xml" type="events" />
 		<file name="HMMWV_events.xml" type="events" />
 		<file name="LadaPickup_events.xml" type="events" />
-		<!--<file name="Kamaz_events.xml" type="types" />-->
+		<file name="Kamaz_events.xml" type="events" />
 		
 		<file name="ext_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="HMMWV_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="TF_Weapons_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="LadaPickup_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Kamaz_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
 
 	<classes>
