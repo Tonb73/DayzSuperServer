@@ -1,0 +1,52 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10601,
+    "Type": 1,
+    "Title": "Гонка 'Доброе утро, Такистан'",
+    "Descriptions": [
+        "Ты думаешь ты крут? Подумай еще раз! Моя ставка теперь 00 бачей. Но теперь все гораздо серъезнее! Маршрут от Адинаглы до Гайкаха. Предупреждаю, дорого извилиста и сложная!",
+        "Вся трасса - череда склонов и крутых поворотов. Мало того, я расставил там свои 'преграды'. Шутки кончились, своетую брать машину побыстрее! Именно по такому маршруту в 11 году сюда высадились морпехи США.",
+        "Можешь начинать, когда будешь готов. Как только ты пересешь черту - начнется таймер!"
+    ],
+    "ObjectiveText": "Отправлйтесь к старту гонки",
+    "FollowUpQuest": 10602,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q10601",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1060101,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

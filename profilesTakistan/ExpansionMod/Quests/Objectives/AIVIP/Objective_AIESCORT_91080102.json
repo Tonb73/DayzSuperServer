@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1080102,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Сопроводите Аркейда до второй точки исследования",
+    "TimeLimit": 560,
+    "Active": 1,
+    "Position": [
+        4667,
+        111,
+        10227
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Точка исследования",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "TakQuest_Arkeid",
+    "NPCClassName": "ExpansionNPCDenis",
+    "NPCName": "Аркейд Геннон"
+}

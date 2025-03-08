@@ -1,0 +1,177 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Хим. защита",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+	{
+            "ClassName": "GasMask_Filter",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "gasmask",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+			"ClassName": "TF_PMK4GasMask",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 3200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"TF_PMK4GasMask_OD"
+            ]
+        },
+        {
+            "ClassName": "gp5gasmask",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "airbornemask",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+			"ClassName": "nbcjacketyellow",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcjacketGray",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcPantsyellow",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcPantsGray",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcGlovesyellow",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcGlovesGray",
+			"MaxPriceThreshold": 15000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbchoodgray",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbchoodyellow",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcBootsgray",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "nbcBootsyellow",
+			"MaxPriceThreshold": 4000,
+			"MinPriceThreshold": 4000,
+			"SellPricePercent": -1.0,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+    ]
+}

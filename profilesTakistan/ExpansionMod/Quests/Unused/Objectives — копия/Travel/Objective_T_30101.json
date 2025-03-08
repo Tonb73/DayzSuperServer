@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь на плотину Тишина",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1244,
+        150.7070007324219,
+        6292
+    ],
+    "MaxDistance": 200.0,
+    "MarkerName": "Плотина Тишина",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

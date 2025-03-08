@@ -1,0 +1,302 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Военные детали для автомобиля",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "offroad_02_hood",
+            "MaxPriceThreshold": 2600,
+            "MinPriceThreshold": 2600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "offroad_02_trunk",
+            "MaxPriceThreshold": 2760,
+            "MinPriceThreshold": 2760,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "offroad_02_door_1_1",
+            "MaxPriceThreshold": 2900,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "offroad_02_door_1_2",
+            "MaxPriceThreshold": 2900,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "offroad_02_door_2_1",
+            "MaxPriceThreshold": 2900,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "offroad_02_door_2_2",
+            "MaxPriceThreshold": 2900,
+            "MinPriceThreshold": 2900,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "offroad_02_wheel",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionvodnikdoordriver",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionvodnikdoorcodriver",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionvodnikwheel",
+            "MaxPriceThreshold": 5200,
+            "MinPriceThreshold": 5200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansioncarkey",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionkeychain_red",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "expansionkeychain_white",
+                "expansionkeychain_black",
+                "expansionkeychain_blue",
+                "expansionkeychain_green",
+                "expansionkeychain_grey",
+                "expansionkeychain_orange",
+                "expansionkeychain_pink",
+                "expansionkeychain_purple",
+                "expansionkeychain_yellow"
+            ]
+        },
+        {
+            "ClassName": "Hmmwv_M1035_doors_cargo1",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1035_doors_cargo1_Green",
+				"Hmmwv_M1035_doors_cargo1_Gray",
+				"Hmmwv_M1035_doors_cargo1_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1035_doors_cargo2",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1035_doors_cargo2_Green",
+				"Hmmwv_M1035_doors_cargo2_Gray",
+				"Hmmwv_M1035_doors_cargo2_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1035_doors_Driver",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1035_doors_Driver_Green",
+				"Hmmwv_M1035_doors_Driver_Gray",
+				"Hmmwv_M1035_doors_Driver_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1035_doors_coDriver",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1035_doors_coDriver_Green",
+				"Hmmwv_M1035_doors_coDriver_Gray",
+				"Hmmwv_M1035_doors_coDriver_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1151_doors_cargo1",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1151_doors_cargo1_Green",
+				"Hmmwv_M1151_doors_cargo1_Gray",
+				"Hmmwv_M1151_doors_cargo1_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1151_doors_cargo2",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1151_doors_cargo2_Green",
+				"Hmmwv_M1151_doors_cargo2_Gray",
+				"Hmmwv_M1151_doors_cargo2_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1151_doors_Driver",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1151_doors_Driver_Green",
+				"Hmmwv_M1151_doors_Driver_Gray",
+				"Hmmwv_M1151_doors_Driver_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1151_doors_coDriver",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1151_doors_coDriver_Green",
+				"Hmmwv_M1151_doors_coDriver_Gray",
+				"Hmmwv_M1151_doors_coDriver_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1035_doors_hood",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1035_doors_hood_Green",
+				"Hmmwv_M1035_doors_hood_Gray",
+				"Hmmwv_M1035_doors_hood_Black"
+			]
+        },
+        {
+            "ClassName": "Hmmwv_M1151_doors_trunk",
+            "MaxPriceThreshold": 2800,
+            "MinPriceThreshold": 2800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Hmmwv_M1151_doors_trunk_Green",
+				"Hmmwv_M1151_doors_trunk_Gray",
+				"Hmmwv_M1151_doors_trunk_Black"
+			]
+        }
+    ]
+}

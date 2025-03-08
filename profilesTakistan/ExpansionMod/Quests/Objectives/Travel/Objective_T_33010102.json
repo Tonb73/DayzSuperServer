@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3010102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в точку высадки у Феруз Аббада",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4995,
+        150,
+        6033
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Точка высадки",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Торговец военной одеждой",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"Armbands",
+		"Belts",
+		"MilitBackpacks",
+		"MilitBody",
+		"MilitBoots",
+		"MilitEyewear",
+		"MilitGloves",
+		"MilitHats",
+		"MilitMasks",
+		"MilitPants",
+		"Holsters",
+		"MilitVests",
+		"TakistanNBC",
+		"MilitaryGhillies"
+		
+    ],
+    "Items": { }
+}

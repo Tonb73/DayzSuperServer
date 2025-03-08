@@ -1,0 +1,79 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40401,
+    "Type": 1,
+    "Title": "Старый друг",
+    "Descriptions": [
+		"",
+		"",
+		""
+    ],
+    "ObjectiveText": "Найдите и спасите артема",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40401",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 230,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":4040101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4040102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4040103,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":40401,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,471 @@
+{
+    "ConfigVersion": 28,
+    "ID": 203,
+    "ObjectiveType": 8,
+    "ObjectiveText": "Зачистить площадь от бойцов Вэста",
+    "TimeLimit": -1,
+    "Active": 1,
+    "InfectedDeletionRadius": 500.0,
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "AllowedWeapons": [],
+    "AllowedDamageZones": [],
+    "AISpawns": [
+		{
+            "Name": "Боец ЧВК Вэст",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier_4_PMC_N",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300.0,
+            "AccuracyMin": 0.50000000298023225,
+            "AccuracyMax": 0.799999988079071,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.699999988079071,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 1.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                 [
+                    11553,
+					57,
+					14727
+                ],
+				[
+                    11600,
+					57,
+					14666
+                ],
+				[
+                    11618,
+					58,
+					14651
+                ],
+				[
+                    11636,
+					57,
+					14666
+                ],
+				[
+                    11621,
+					57,
+					14689
+                ],
+				[
+                    11587,
+					57,
+					14736
+                ],
+				[
+                    11584,
+					57,
+					14711
+                ],
+				[
+                    11602,
+					57,
+					14686
+                ]
+            ]
+        },
+		{
+            "Name": "Боец ЧВК Вэст",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier_4_PMC_N",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300.0,
+            "AccuracyMin": 0.50000000298023225,
+            "AccuracyMax": 0.799999988079071,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.699999988079071,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 1.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                 [
+                    11553,
+					57,
+					14727
+                ],
+				[
+                    11600,
+					57,
+					14666
+                ],
+				[
+                    11618,
+					58,
+					14651
+                ],
+				[
+                    11636,
+					57,
+					14666
+                ],
+				[
+                    11621,
+					57,
+					14689
+                ],
+				[
+                    11587,
+					57,
+					14736
+                ],
+				[
+                    11584,
+					57,
+					14711
+                ],
+				[
+                    11602,
+					57,
+					14686
+                ]
+            ]
+        },
+		{
+            "Name": "Боец ЧВК Вэст",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier_4_PMC_N",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300.0,
+            "AccuracyMin": 0.50000000298023225,
+            "AccuracyMax": 0.799999988079071,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.699999988079071,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 1.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                 [
+                    11553,
+					57,
+					14727
+                ],
+				[
+                    11600,
+					57,
+					14666
+                ],
+				[
+                    11618,
+					58,
+					14651
+                ],
+				[
+                    11636,
+					57,
+					14666
+                ],
+				[
+                    11621,
+					57,
+					14689
+                ],
+				[
+                    11587,
+					57,
+					14736
+                ],
+				[
+                    11584,
+					57,
+					14711
+                ],
+				[
+                    11602,
+					57,
+					14686
+                ]
+            ]
+        },
+		{
+            "Name": "Боец ЧВК Вэст",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier_4_PMC_N",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300.0,
+            "AccuracyMin": 0.50000000298023225,
+            "AccuracyMax": 0.799999988079071,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.699999988079071,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 1.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                 [
+                    11553,
+					57,
+					14727
+                ],
+				[
+                    11600,
+					57,
+					14666
+                ],
+				[
+                    11618,
+					58,
+					14651
+                ],
+				[
+                    11636,
+					57,
+					14666
+                ],
+				[
+                    11621,
+					57,
+					14689
+                ],
+				[
+                    11587,
+					57,
+					14736
+                ],
+				[
+                    11584,
+					57,
+					14711
+                ],
+				[
+                    11602,
+					57,
+					14686
+                ]
+            ]
+        },{
+            "Name": "Боец ЧВК Вэст",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier_4_PMC_N",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300.0,
+            "AccuracyMin": 0.50000000298023225,
+            "AccuracyMax": 0.799999988079071,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.699999988079071,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 1.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                 [
+                    11553,
+					57,
+					14727
+                ],
+				[
+                    11600,
+					57,
+					14666
+                ],
+				[
+                    11618,
+					58,
+					14651
+                ],
+				[
+                    11636,
+					57,
+					14666
+                ],
+				[
+                    11621,
+					57,
+					14689
+                ],
+				[
+                    11587,
+					57,
+					14736
+                ],
+				[
+                    11584,
+					57,
+					14711
+                ],
+				[
+                    11602,
+					57,
+					14686
+                ]
+            ]
+        },
+		{
+            "Name": "Боец ЧВК Вэст",
+            "Persist": 0,
+            "Faction": "Mercenaries",
+            "Formation": "RANDOM",
+            "FormationLooseness": 0.0,
+            "Loadout": "Tier_4_PMC_N",
+            "Units": [],
+            "NumberOfAI": 1,
+            "Behaviour": "LOOP",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 300.0,
+            "AccuracyMin": 0.50000000298023225,
+            "AccuracyMax": 0.799999988079071,
+            "ThreatDistanceLimit": 400.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": 0.5,
+            "DamageReceivedMultiplier": 0.699999988079071,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": 1.0,
+            "MaxDistRadius": 300.0,
+            "DespawnRadius": 500.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 0.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": 1.0,
+            "RespawnTime": 1.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                 [
+                    11553,
+					57,
+					14727
+                ],
+				[
+                    11600,
+					57,
+					14666
+                ],
+				[
+                    11618,
+					58,
+					14651
+                ],
+				[
+                    11636,
+					57,
+					14666
+                ],
+				[
+                    11621,
+					57,
+					14689
+                ],
+				[
+                    11587,
+					57,
+					14736
+                ],
+				[
+                    11584,
+					57,
+					14711
+                ],
+				[
+                    11602,
+					57,
+					14686
+                ]
+            ]
+        }
+		
+    ]
+}

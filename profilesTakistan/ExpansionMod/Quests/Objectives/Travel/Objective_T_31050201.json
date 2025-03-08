@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1050201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь к старту гонки, после этого гонка сразу начнется",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10076,
+        125,
+        11381
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Старт гонки",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

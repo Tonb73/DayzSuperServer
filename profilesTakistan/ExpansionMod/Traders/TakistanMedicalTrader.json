@@ -1,0 +1,19 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Медик",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Medic Box",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"Medicine",
+		"MedicineInedia"
+    ],
+    "Items": {}
+}

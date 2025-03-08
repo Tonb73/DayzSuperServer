@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1040106,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Пройдите полосу припятсвий 2",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4641,
+        321,
+        671
+    ],
+    "MaxDistance": 3.0,
+    "MarkerName": "Чекпоинт 1",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,70 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Обувь",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "combatboots_beige",
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 16000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "combatboots_black",
+                "combatboots_brown",
+                "combatboots_green",
+                "combatboots_grey"
+            ]
+        },
+        {
+            "ClassName": "jungleboots_beige",
+            "MaxPriceThreshold": 1170,
+            "MinPriceThreshold": 1170,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "jungleboots_black",
+                "jungleboots_brown",
+                "jungleboots_green",
+                "jungleboots_olive"
+            ]
+        },
+        
+        {
+            "ClassName": "ttskoboots",
+            "MaxPriceThreshold": 4800,
+            "MinPriceThreshold": 4800,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "militaryboots_redpunk",
+            "MaxPriceThreshold": 7000,
+            "MinPriceThreshold": 7000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "militaryboots_bluerock",
+                "militaryboots_beige",
+                "militaryboots_black",
+                "militaryboots_brown"
+            ]
+        }
+    ]
+}

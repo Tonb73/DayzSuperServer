@@ -1,0 +1,67 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10801,
+    "Type": 1,
+    "Title": "Приключение Аркейда",
+    "Descriptions": [
+        "Меня зовут Аркейд. Я исследователь из Аризоны. Ищу сопровождающего.",
+        "Я прибыл из Аризоны, чтобы провести полевые исследования в зоне отчуждения. Необходимо сопроводить меня до нескольких точке, я сделюа пару замеров и поможешь мне вернуться обратно в лагерь. Плачу по завершению миссии.",
+        "Выполнил поручение этого белобрысого ученого? Я конечно натурал, но он ничего такой... Ах да, вот твоя награда!"
+    ],
+    "ObjectiveText": "Сопроводите Аркейда.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q10801",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1080101,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1080102,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1080103,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1080104,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}
