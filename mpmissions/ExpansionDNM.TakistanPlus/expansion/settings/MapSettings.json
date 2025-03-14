@@ -15,13 +15,13 @@
     "NeedMapItemForKeyBinding": 1,
     "EnableServerMarkers": 1,
     "ShowNameOnServerMarkers": 1,
-    "ShowDistanceOnServerMarkers": 1,
+    "ShowDistanceOnServerMarkers": 0,
     "ServerMarkers": [
         {
             "m_UID": "ServerMarker_Trader_Marastar_Oasis",
             "m_Visibility": 6,
             "m_Is3D": 1,
-            "m_Text": "Traders - Marastar Oasis",
+            "m_Text": "Лагерь выживших",
             "m_IconName": "Trader",
             "m_Color": -13710223,
             "m_Position": [

@@ -1,0 +1,26 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "Weight": 1.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_Nagara",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 2609.0341796875,
+        "z": 10170.697265625,
+        "Name": "Nagara",
+        "Radius": 100.0
+    },
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1,
+    "AirdropPlaneClassName": "",
+    "Loot": []
+}

@@ -1,6 +1,5 @@
 # Ignore everything
 /*
-!MusicMod2
 
 # ./profilesCherno/*
 # ./profilesTakistan/*
@@ -17,6 +16,10 @@
 !startTakistanPlus.bat
 
 !/keys
+!/mpmissions
+mpmissions/*
+!mpmissions/ExpansionDNM.chernarusplus
+!mpmissions/ExpansionDNM.TakistanPlus
 
 !/profilesCherno
 profilesCherno/*
