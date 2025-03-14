@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1070102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Подберите пассажира",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1486,
+        242,
+        5799
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Пассажир",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

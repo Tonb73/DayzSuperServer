@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4040102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Следуйте по следам Артема",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6445,
+        110,
+        8942
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь Артема",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

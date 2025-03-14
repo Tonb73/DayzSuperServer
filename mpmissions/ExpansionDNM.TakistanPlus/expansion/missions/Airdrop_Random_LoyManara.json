@@ -1,5 +1,5 @@
 {
-    "m_Version": 1,
+    "m_Version": 2,
     "Enabled": 1,
     "Weight": 1.0,
     "MissionMaxTime": 1200,
@@ -13,13 +13,14 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 8436.0244140625,
-        "z": 2554.219970703125,
+        "x": 8522.0498046875,
+        "z": 1973.4466552734376,
         "Name": "LoyManara",
         "Radius": 100.0
     },
     "Infected": [],
     "ItemCount": -1,
     "InfectedCount": -1,
+    "AirdropPlaneClassName": "",
     "Loot": []
 }

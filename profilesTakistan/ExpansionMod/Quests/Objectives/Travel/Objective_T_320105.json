@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20105,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Передайте записку от Бенни Погорельцу.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4605,
+        7,
+        12336
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Погорелец",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

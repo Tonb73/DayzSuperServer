@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101001,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите автомобиль Хассана",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4701,
+        135,
+        9476
+    ],
+    "MaxDistance": 15.0,
+    "MarkerName": "Лагерь Аль-Халяль",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

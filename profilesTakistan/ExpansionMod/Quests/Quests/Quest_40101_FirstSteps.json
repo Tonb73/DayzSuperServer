@@ -1,0 +1,84 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40101,
+    "Type": 1,
+    "Title": "Первые шаги",
+   "Descriptions": [
+"О, новенький, привет! Меня зовут Амир, я здесь что-то вроде заместителя старосты, а по совместительству — его сын. Полагаю, старик направил тебя ко мне? Что ж, он, конечно, ворчун, но не без оснований. Мы тут не особо жалуем чужаков — своих проблем хватает. Но если ты докажешь, что можешь быть полезен, думаю, тебе найдется место среди нас.",
+"Мне нужна помощь в одном деле, и раз уж ты новенький, поручу эту задачу тебе. Тебе нужно разведать старый заброшенный аул — Джанлангир. Он находится недалеко от Расмана и Марастара. Постарайся найти там что-нибудь полезное: медикаменты, еду, инструменты, навигационные приборы. Как только найдешь — сразу приноси мне. И постарайся не погибнуть на своей первой вылазке. В Такистане есть одна вещь, которая не меняется годами — Аль-Халяль. Эти боевики даже эпидемию пережили, и теперь рыщут повсюду в поисках припасов, устраивают засады. Будь осторожен, дружище.",
+"Отличная работа, дружище! Эти припасы нам очень помогут. А это — твоя награда: золотой осколок. Они тут ценятся на вес золота, так что не теряй. Ты, наверное, уже заметил, что торговцы не спешат с тобой общаться. Что ж, чтобы заслужить их уважение, принеси этот осколок моему отцу. Он замолвит за тебя словечко. Кстати, осколки можно обменять на доллары по выгодному курсу. Обменник находится рядом с доской объявлений, вон там."
+],
+    "ObjectiveText": "Найдите и принесите припасы",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 40101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 4010101,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 4010102,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 4010103,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 40101,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [10101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

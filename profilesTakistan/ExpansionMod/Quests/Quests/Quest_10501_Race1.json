@@ -1,0 +1,52 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10501,
+    "Type": 1,
+    "Title": "Гонка по Лашкарскому тракту",
+    "Descriptions": [
+"Ставлю 500 баксов, что ты не сможешь побить мой рекорд! Если ты уверен в своих навыках вождения, то у меня для тебя есть вызов. Готов доказать, что ты лучший?",
+"Существует знаменитая трасса — Лашкарский тракт. Еще до эпидемии это был популярный маршрут контрабандистов, а сейчас это все еще важная часть такистанской жизни. Я, Ринат Гослингович, готов поставить 500 баксов, что тебе не удастся сместить мой личный рекорд! Только смотри, не разбей машину, ахаха. Трасса опасная, но это и делает ее идеальной для настоящих гонщиков. Ты готов?",
+"Можешь начинать, когда будешь готов. Как только ты пересечешь черту — начнется таймер! Удачи, и помни: скорость — это хорошо, но контроль — это всё. Покажи, на что ты способен!"
+],
+    "ObjectiveText": "Отправлйтесь к старту гонки",
+    "FollowUpQuest": 10502,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q10501",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1050101,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [10401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4040101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь на радио вышку",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6452,
+        341,
+        8121
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Радио вышка",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

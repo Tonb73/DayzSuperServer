@@ -1,0 +1,77 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10801,
+    "Type": 1,
+    "Title": "Приключение Аркейда",
+    "Descriptions": [
+"Меня зовут Аркейд. Я исследователь из Невады. Ищу сопровождающего для опасной вылазки.",
+"Я прибыл из Невады, чтобы провести полевые исследования в зоне отчуждения. Мне нужно сопроводить меня до нескольких точек, где я сделаю замеры, а затем помочь вернуться обратно в лагерь. Плачу по завершению миссии. Будь готов к опасностям — зона не прощает ошибок.",
+"Выполнил поручение этого белобрысого учёного? Я, конечно, натурал, но он ничего такой... Ах да, вот твоя награда!"
+],
+    "ObjectiveText": "Сопроводите Аркейда.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q10801",
+    "QuestItems": [],
+    "Rewards": [
+	{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 550,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1080101,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1080102,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1080103,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1080104,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [50401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

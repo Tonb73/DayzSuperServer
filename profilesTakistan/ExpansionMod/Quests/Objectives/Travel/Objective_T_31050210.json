@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1050210,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь к финишу",
+    "TimeLimit": 45,
+    "Active": 1,
+    "Position": [
+        11126,
+        344,
+        7626
+    ],
+    "MaxDistance": 25.0,
+    "MarkerName": "Финиш",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

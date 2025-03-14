@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1020101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отыщите старый дом",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9313,
+        360,
+        1761
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Старый дом",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,26 @@
+{
+    "m_Version": 2,
+    "Enabled": 1,
+    "Weight": 1.0,
+    "MissionMaxTime": 1200,
+    "MissionName": "Random_AlHamiqqah",
+    "Difficulty": 0,
+    "Objective": 0,
+    "Reward": "",
+    "ShowNotification": 1,
+    "Height": 450.0,
+    "Speed": 25.0,
+    "Container": "Random",
+    "FallSpeed": 4.5,
+    "DropLocation": {
+        "x": 1212.635498046875,
+        "z": 5839.83837890625,
+        "Name": "Al Hamiqqah",
+        "Radius": 100.0
+    },
+    "Infected": [],
+    "ItemCount": -1,
+    "InfectedCount": -1,
+    "AirdropPlaneClassName": "",
+    "Loot": []
+}

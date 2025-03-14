@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 30201,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Доставьте заоложника в лагерь браво",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        836,
+        550,
+        10473
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Спасите Выжившего",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "TakUPTier2_AlHalal",
+    "NPCClassName": "",
+    "NPCName": "Заложник"
+}

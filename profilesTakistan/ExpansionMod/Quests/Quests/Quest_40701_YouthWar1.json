@@ -1,0 +1,83 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40701,
+    "Type": 1,
+    "Title": "Молодежное движение Часть 1",
+   "Descriptions": [
+"Слушай, дружище, я больше не могу стоять в стороне. Аль-Халяль — это язва, которая разъедает Такистан. По наводке одного дельца из ООН, я собираю ударную группу, чтобы нанести удар по их лагерю. Это наш шанс сделать шаг к светлому будущему. Но для начала нам нужно разузнать, где они прячутся. Ты готов помочь?",
+"Для начала нам нужно найти координаты их базы. У меня есть информация о тайнике Аль-Халяль, где могут быть подсказки. Тебе нужно отправиться туда, разузнать всё, что можно, и вернуться с координатами. Я тем временем займусь снаряжением для нашей группы. Будь осторожен — они не оставят свой тайник без охраны.",
+"Отлично, дружище, ты справился. С этими координатами у нас есть шанс нанести удар. Я свяжусь с тобой позже, когда всё будет готово. Пока что отдохни — впереди нас ждет нелегкая работа. Но это наш шанс изменить всё. Спасибо, что ты с нами."
+],
+    "ObjectiveText": "Найдите лагерь Аль-Халяль",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40701",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 630,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":4070101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4070101,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":40701,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40601],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

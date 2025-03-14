@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<eventgroupdef>    
+<eventgroupdef>
+	<group name="AlHalalCamp">
+		<child type="bldr_prop_Fireplace_NoStones" deloot="0" lootmax="3" lootmin="2" x="0" z="0" a="197.756"/>
+		<child type="bldr_prop_BookDesertGold" deloot="0" lootmax="3" lootmin="2" x="0" z="0"  a="197.756"/>
+		<child type="bldr_prop_MediumTent" deloot="0" lootmax="3" lootmin="2" x = "1.12" z="5.86" a="185"/>
+		<child type="bldr_prop_MediumTent" deloot="0" lootmax="3" lootmin="2" x="-1.83" z="-4.87" a="0"/>
+		<child type="StaticObj_Misc_Chair_Camp1" deloot="0" lootmax="3" lootmin="2" x="2.12" z="1.40" a="-190"/>
+		<child type="StaticObj_Misc_Chair_Camp1" deloot="0" lootmax="3" lootmin="2" x="-1.58" z="-1.39" a="180"/>
+		
+	</group>
+	
     <!-- Convoy -->
     <!--<pos x="203376.159668" z="10127.701172" a="0" y="243.399445" group="Abandoned_Nagara"/> -->
     <group name="Abandoned_Nagara">

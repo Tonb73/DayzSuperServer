@@ -1,0 +1,21 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Механик",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 101001,
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"CivilCarAttachment",
+		"CarAttachment",
+		"TakistanCarTools",
+		"Spraycans"
+    ],
+    "Items": {}
+}

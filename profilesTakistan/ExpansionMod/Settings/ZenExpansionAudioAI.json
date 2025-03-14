@@ -1,11 +1,20 @@
 {
     "CONFIG_VERSION": "1",
-    "DebugOn": 0,
+    "DebugOn": 1,
     "GenericAudioTypes": [
         "ExpansionP2PTrader",
         "ExpansionTrader"
     ],
     "GenericThreatTypes": [
-		"TestSound"
+	"Tier2_AlHalal_Hajiz",
+		"eAI_SurvivorM_Elias",
+				"eAI_SurvivorF_Francis",
+				"eAI_SurvivorM_Hassan",
+				"eAI_SurvivorM_Indar",
+				"eAI_SurvivorF_Jose",
+				"eAI_SurvivorM_Lewis",
+				"eAI_SurvivorM_Manua",
+				"eAI_SurvivorM_Quinn",
+				"eAI_SurvivorM_Elias"
     ]
 }

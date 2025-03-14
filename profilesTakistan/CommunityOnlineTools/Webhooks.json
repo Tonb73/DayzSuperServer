@@ -6,6 +6,14 @@
             "Address": "",
             "Types": [
                 {
+                    "Name": "ExpansionCOTTerritoriesModule",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "ExpansionCOTGroupModule",
+                    "Enabled": 0
+                },
+                {
                     "Name": "COTModule",
                     "Enabled": 0
                 },
@@ -150,19 +158,23 @@
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMVehicleSpawnerModule",
+                    "Name": "JMLoadoutModule",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMItemSetSpawnerModule",
+                    "Name": "JMLoadoutModuleCreate",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMItemSetSpawnerModuleVector",
+                    "Name": "JMLoadoutModuleDelete",
                     "Enabled": 0
                 },
                 {
-                    "Name": "JMItemSetSpawnerModulePlayer",
+                    "Name": "JMLoadoutModuleBackup",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "JMLoadoutModuleSpawn",
                     "Enabled": 0
                 },
                 {
@@ -198,11 +210,27 @@
                     "Enabled": 0
                 },
                 {
+                    "Name": "PlayerDeathNoPos",
+                    "Enabled": 0
+                },
+                {
                     "Name": "PlayerDamage",
                     "Enabled": 0
                 },
                 {
                     "Name": "AdminActive",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "TerritoryDeployed",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "ItemDeployed",
+                    "Enabled": 0
+                },
+                {
+                    "Name": "PlayerCount",
                     "Enabled": 0
                 }
             ]

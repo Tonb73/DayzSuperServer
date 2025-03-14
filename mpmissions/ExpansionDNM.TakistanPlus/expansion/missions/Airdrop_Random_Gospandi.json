@@ -1,5 +1,5 @@
 {
-    "m_Version": 1,
+    "m_Version": 2,
     "Enabled": 1,
     "Weight": 1.0,
     "MissionMaxTime": 1200,
@@ -13,13 +13,14 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 4135.7880859375,
-        "z": 9271.548828125,
+        "x": 3555.90576171875,
+        "z": 9104.521484375,
         "Name": "Gospandi",
         "Radius": 100.0
     },
     "Infected": [],
     "ItemCount": -1,
     "InfectedCount": -1,
+    "AirdropPlaneClassName": "",
     "Loot": []
 }

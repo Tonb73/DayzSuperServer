@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1070102,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Доставьте пассажир до точки",
+    "TimeLimit": 560,
+    "Active": 1,
+    "Position": [
+        6589,
+        371,
+        4549
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Точка сброса пассажира",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "TakUPTier3",
+    "NPCClassName": "",
+    "NPCName": "Пассажир"
+}

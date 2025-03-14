@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10301,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь на старый полигон",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8616,
+        454,
+        1019
+    ],
+    "MaxDistance": 40.0,
+    "MarkerName": "Старый полигон",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

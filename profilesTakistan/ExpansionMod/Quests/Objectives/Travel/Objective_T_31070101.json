@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1070101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в депо Таджика",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1404,
+        218,
+        3484
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Депо такси",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

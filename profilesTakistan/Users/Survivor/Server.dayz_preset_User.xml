@@ -900,6 +900,9 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
+    <input name="UAOfferRequestItem">
+        <btn name="kO" />
+    </input>
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
     </input>
@@ -934,6 +937,7 @@
     <input name="UAObjectModuleSpawnInfected" />
     <input name="UAObjectModuleSpawnAnimal" />
     <input name="UAObjectModuleSpawnWolf" />
+    <input name="UAPlayerModuleFreezePlayer" />
     <input name="UAPlayerModuleHeal" />
     <input name="UAPlayerModuleGodMode">
         <btn name="kU" />
@@ -1007,20 +1011,17 @@
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
-    <input name="UADayzDogWhistle">
+    <input name="UAZenMusic">
+        <btn name="kK" />
+    </input>
+    <input name="UAZenMusicUp">
         <btn name="kAdd" />
     </input>
-    <input name="UADayzDogFollow">
-        <btn name="kDivide" />
-    </input>
-    <input name="UADayzDogPatrol">
-        <btn name="kMultiply" />
-    </input>
-    <input name="UADayzDogStayHere">
+    <input name="UAZenMusicDn">
         <btn name="kSubstract" />
     </input>
-    <input name="UADayzDogEmoteToggle">
-        <btn name="kNumpad9" />
+    <input name="UAToggleHeadlightHighBeam">
+        <btn name="kL" />
     </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
@@ -1210,11 +1211,11 @@
     <input name="UAExpansionCarRefill">
         <btn name="kR" />
     </input>
-    <input name="UADayzHorseSpeedUp">
-        <btn name="mWheelUp" />
+    <input name="UAToggleLandingGear">
+        <btn name="kG" />
     </input>
-    <input name="UADayzHorseSpeedDown">
-        <btn name="mWheelDown" />
+    <input name="UAToggleAUXlight">
+        <btn name="kO" />
     </input>
     <input name="eAICommandMenu">
         <btn name="kT" />

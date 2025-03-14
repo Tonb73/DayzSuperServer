@@ -1,0 +1,54 @@
+{
+    "ConfigVersion": 6,
+    "ID": 17,
+    "ClassName": "ExpansionQuestNPCAIIndar",
+    "Position": [
+                    4630,
+                    4.8,
+                    12322
+                ],
+    "Orientation": [
+        282.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Выживший",
+    "DefaultNPCText": "",
+    "Waypoints": [
+				[
+                    4580,
+                    5.6,
+                    12282
+                ],
+				[
+                    4595,
+                    4.6,
+                    12315
+                ],
+				[
+                    4614,
+                    5.6,
+                    12306
+                ],
+				[
+                    4630,
+                    4.8,
+                    12322
+                ],
+				[
+                    4623,
+                    3.8,
+                    12339
+                ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "TakUPTier3",
+    "NPCInteractionEmoteID": 0,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleGuards",
+    "NPCType": 2,
+    "Active": 1
+}

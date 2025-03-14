@@ -1,0 +1,25 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Торговец разным",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 50301,
+    "TraderIcon": "Hammer",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"MiscLights",
+		"MiscNavigation",
+		"MiscSupplies",
+		"MiscTents",
+		"MiscTools",
+		"MiscKits",
+		"MiscContainers",
+		"MiscBattery"
+    ],
+    "Items": {}
+}

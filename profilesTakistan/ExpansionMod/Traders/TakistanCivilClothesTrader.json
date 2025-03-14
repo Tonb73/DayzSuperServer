@@ -1,0 +1,29 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Торговец гражданской одеждой",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 50201,
+    "TraderIcon": "Backpack",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"Armbands",
+		"Belts",
+		"CivilBackpacks",
+		"CivilBandana",
+		"CivilBody",
+		"CivilBoots",
+		"CivilEyewear",
+		"CivilGloves",
+		"CivilHats",
+		"CivilMasks",
+		"CivilPants",
+		"CivilVests"
+    ],
+    "Items": {}
+}

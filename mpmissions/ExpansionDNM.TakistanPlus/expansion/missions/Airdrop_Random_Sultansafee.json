@@ -1,5 +1,5 @@
 {
-    "m_Version": 1,
+    "m_Version": 2,
     "Enabled": 1,
     "Weight": 1.0,
     "MissionMaxTime": 1200,
@@ -13,13 +13,14 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 6349.4912109375,
-        "z": 2251.72265625,
+        "x": 6856.0068359375,
+        "z": 1855.219970703125,
         "Name": "Sultansafee",
         "Radius": 100.0
     },
     "Infected": [],
     "ItemCount": -1,
     "InfectedCount": -1,
+    "AirdropPlaneClassName": "",
     "Loot": []
 }

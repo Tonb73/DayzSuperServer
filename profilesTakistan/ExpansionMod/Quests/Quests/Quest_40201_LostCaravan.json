@@ -1,0 +1,79 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40201,
+    "Type": 1,
+    "Title": "Потерянный караван",
+   "Descriptions": [
+"Слушай, у нас серьезная проблема. Одна из наших торговых линий оборвалась — бандиты захватили дорогу, и теперь караваны не могут добраться до лагеря. Без припасов мы долго не продержимся. Мне нужно, чтобы ты отправился в последнюю точку, где видели караван. Разберись с этими ублюдками и найди подсказки, которые помогут нам понять, кто они и где их база. Если справишься, я тебя щедро отблагодарю — можешь не сомневаться!",
+"Итак, на очередной караван напали совсем недавно, недалеко от аула Нур. Постарайся найти следы нападавших и вычислить, где они устроили свою базу. Их там будет немало, так что не лезь напролом — действуй с умом. Удачи, дружище. Возвращайся целым!",
+"Охренеть! Ты хочешь сказать, что в одиночку разобрался с целым лагерем бандитов? Черт, я бы не советовал кому-то переходить тебе дорогу... Молодец! Теперь можешь выбрать награду: либо деньги, либо золотой осколок. Решай, что тебе больше по душе."
+],
+    "ObjectiveText": "Найдите пропавший караван",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40201",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":402010101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 40201,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 402010102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 402010103,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

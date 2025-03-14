@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20103,
+    "Type": 1,
+    "Title": "Охота за головами 'Мистер Беннис' [Часть 3]",
+    "Descriptions": [
+"У Бенниса появились друзья. Они-то его и выдали. Он собирается покинуть Такистан, и в этом ему поможет его новоиспечённая банда — 'Председатели'. Тебе нужно найти их и узнать, когда и где Бенни собирается покинуть Такистан.",
+"Я бы никогда не подумал, Бог свидетель, что пиджак из Невады сможет найти себе место под солнцем в этой пустыне. Не только уцелеть, но и создать настоящую банду сообщников. Их небольшая группа находится недалеко от Султансафе. Найди их и выведай информацию о Беннисе. Нам нужно успеть перехватить его до того, как он покинет Такистан. 10 тысяч долларов, и это за мёртвого, помнишь?",
+"На карте указаны координаты, куда прибудет вертолёт. Вы слышите шаги из соседней комнаты..."
+],
+    "ObjectiveText": "Найдите лагерь 'Председателей' и Бенни",
+    "FollowUpQuest": 20104,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q20103",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2010301,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20103,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20102],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

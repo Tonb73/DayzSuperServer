@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20001,
+    "Type": 1,
+    "Title": "Забытый солдат",
+   "Descriptions": [
+"Здравствуй, мы, кажется, уже знакомы. Ты помог мне найти мою гитару. У меня есть для тебя личная просьба. Помоги мне найти одного старого друга.",
+"Мой старый сослуживец, с которым мы служили вместе, помогали защищать Расман от боевиков и эпидемии. Когда началась эвакуация войск, весь город накрыла авиация. Мы, конечно, не были в курсе начавшейся эвакуации. Он поехал в сторону Фалара, чтобы забрать семью, но мы не смогли его дождаться, нам с отрядом пришлось отходить. Я слышал истории, что недалеко от Фалара живет один русский со своей семьей. У них небольшая ферма. Возможно, он все еще жив. Если это так, то прошу тебя, передай ему, что я его все еще жду и, по возможности, отвези сюда.",
+"Да, это его любимые сигареты, он всегда пыхтел как паровоз. Значит, это все-таки был он... Аль-Халяль добрались до него и после апокалипсиса. Мы не можем позволять Богу делать всю работу за нас. Я хотел завязать, но, видимо, не получится... Знаешь, я тут выдавал заказы на убийства всяких ублюдков. И, к сожалению, я снова открыт для предложений. Если у тебя будет минутка, заходи за охотой за головами. Да и просто так тоже заходи."
+],
+    "ObjectiveText": "",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q20001",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 450,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2000101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 2000102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20001,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20001,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [101101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

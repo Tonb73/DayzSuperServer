@@ -1,0 +1,101 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10701,
+    "Type": 1,
+    "Title": "Бородатое Такси",
+    "Descriptions": [
+        "Вай брат, нужна помощь брат, помоги брат, как брат брату. Вай, я не мочь, надо возить. Бизнес страдать. Я делиться.",
+        "Брат, я таджик. Приехать заработать. У меня бизнес, брат. Такси вожу, боевое. Много денег, я с тобой делится, если ты мне помочь. Я не мочь, нога стреляй. Ай ай ай, больно. Я не мочь водить волга. Ты починить волга и возить клиент. Клиент разный человек, ой разный, но платить много. Я с тобой делится!",
+        "Никогда бы не подумал, что кто-то возьмется за это объявление. Я даже прочитать не смог про что оно. На, вот твоя награда. Черт, это что, зуб?!"
+    ],
+    "ObjectiveText": "Помогите Таджику развести пассажиров.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q10701",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 650,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1070101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1070102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1070101,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1070103,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1070102,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1070104,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 1070103,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

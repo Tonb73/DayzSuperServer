@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4070201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в лагерь повстанцев",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6896,
+        286,
+        6491
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Аванпост Повстанцев",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -117,6 +117,26 @@
             "ClassName": "Boat_01_Camo",
 			"CanPlayerAttach": 1,
             "LockComplexity": 2.5
+        },
+		{
+            "ClassName": "Techs_Hilux_silver",
+			"CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+		{
+            "ClassName": "Techs_Hilux",
+			"CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+		{
+            "ClassName": "Hmmwv_M1035",
+			"CanPlayerAttach": 1,
+            "LockComplexity": 1.0
+        },
+		{
+            "ClassName": "Hmmwv_M1151_M2_GPK",
+			"CanPlayerAttach": 1,
+            "LockComplexity": 1.0
         }
     ]
 }

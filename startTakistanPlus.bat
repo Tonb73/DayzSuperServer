@@ -16,11 +16,11 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-mod=@TakistanPlus;@CF;@Community-Online-Tools;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Survivor Animations;@Takistan_world_ambient;@Takistan Clothing;@DayZ-Dog;@DayZ Horse;@Tactical Flava;@AirRaid" -profiles=profiles -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-mod=@TakistanPlus;@CF;@Community-Online-Tools;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Takistan_world_ambient;@Takistan Clothing;@Tactical Flava;@AirRaid;@GoreZ;@HMMWV;@Advanced Weapon Scopes;@Doc's Car Fixes;@Nehr_Pickup_Lada;@InediaPain;@Give&Take;@DayzReloadedServerPack;@RaG_Immersive_Vehicles" -profiles=profiles -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F
 ::Time in seconds to wait before..
-timeout 10
+timeout 0
 ::Go back to the top and repeat the whole cycle again
 goto start

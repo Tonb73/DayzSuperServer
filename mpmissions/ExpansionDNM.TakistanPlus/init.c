@@ -31,11 +31,11 @@ void main()
 	*/
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
-    if ( ( month > 9 ) || ( month <= 6 ) )
+    if ( 1 == 1)
     {
-    	year = 2011;
-        month = 7;
-        day = 1;
+    	year = 2021;
+        month = 2;
+        day = 2;
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
@@ -52,7 +52,7 @@ class CustomMission: MissionServer
 		}
 	}
 
-	/*override void OnInit()
+	override void OnInit()
 	{
 		super.OnInit();
 
@@ -64,7 +64,7 @@ class CustomMission: MissionServer
 			// registering events and their probability
 			m_EventManager.RegisterEvent( Sandstorm, 1.0 );
 		}
-	}*/
+	}
 
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{

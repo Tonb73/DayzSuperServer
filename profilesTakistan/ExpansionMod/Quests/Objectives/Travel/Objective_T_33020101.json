@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3020101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь к точке встрече",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1157,
+        224,
+        3293
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Точка встречи",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

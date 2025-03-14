@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="EXT_MH6">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.60" />
+        </attachments>
+	</type>
+	<type name="EXT_MH6_Green">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.60" />
+        </attachments>
+	</type>
+	<type name="EXT_MH6_Digital">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.60" />
+        </attachments>
+	</type>
+	<type name="EXT_UH60M">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_1_1" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_1_2" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_2_1" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_2_2" chance="0.50" />
+        </attachments>
+	</type>
+	<type name="EXT_UH60M_MEV">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_1_1_MEV" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_1_2_MEV" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_2_1_MEV" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_UH60M_Door_2_2_MEV" chance="0.50" />
+        </attachments>
+	</type>
+	<!-- Добавить верные класснеймы-->
+	<type name="EXT_Uh1h_Takistan">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Uh1hDoor_1_1_Takistan" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Uh1hDoor_1_2_Takistan" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Uh1hDoor_2_1" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Uh1hDoor_2_2" chance="0.50" />
+        </attachments>
+	</type>
+	<type name="EXT_Mi8_Takistan">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8Door_Takistan" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8FrontWheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8FrontWheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8BackWheel" chance="1.00" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8BackWheel" chance="1.00" />
+        </attachments>
+	</type>
+	<type name="EXT_Mi8_UnitedNations">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8Door_UnitedNations" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8FrontWheel" chance="1.0" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8FrontWheel" chance="1.0" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8BackWheel" chance="1.0" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8BackWheel" chance="1.0" />
+        </attachments>
+	</type>
+	<type name="EXT_Mi8">
+		<attachments chance="1.00">
+			<item name="ExpansionHelicopterBattery" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionIgniterPlug" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="ExpansionHydraulicHoses" chance="0.01" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8Door" chance="0.50" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8FrontWheel" chance="1.0" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8FrontWheel" chance="1.0" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8BackWheel" chance="1.0" />
+        </attachments>
+		<attachments chance="1.00">
+			<item name="EXT_Mi8BackWheel" chance="1.0" />
+        </attachments>
+	</type>
+</spawnabletypes>

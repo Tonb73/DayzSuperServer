@@ -1,0 +1,20 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Продавец еды",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 50101,
+    "TraderIcon": "Can Of Beans Big",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"Drinks",
+		"Food",
+		"Cook"
+    ],
+    "Items": {}
+}

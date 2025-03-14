@@ -1,0 +1,69 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40601,
+    "Type": 1,
+    "Title": "Пропавшая надежда",
+   "Descriptions": [
+"Слушай, дружище, у меня к тебе дело. Не так давно пропал патруль ООН, и это плохие новости для всех нас. Мы с ООН держимся вместе, и если их люди начинают исчезать на нашей территории, это может обернуться большими проблемами. Патруль последний раз видели недалеко от старой дороги на Расман. Мне нужно, чтобы ты отправился туда и попытался найти хоть какие-то следы. Будь осторожен — в тех краях орудуют бандиты, и кто знает, что там произошло.",
+"Это важно, понимаешь? Если ООН решит, что мы не можем обеспечить безопасность их людей, они свернут свою помощь. А без их поддержки нам будет крайне тяжело. Этот патруль — не просто солдаты, это символ нашего сотрудничества. Мы должны найти их, живыми или мертвыми, и выяснить, что случилось. Ты — наш лучший шанс.",
+"Уничтожен, сожжен до тла... И нет сомнений, что это дело рук Аль-Халяль. Слушай, дружище, пока что молчи об этом. Не нужно нагнетать обстановку между ООН и Аль-Халяль в лагере. Я сам подумаю, как лучше сообщить об этом Сержанту Дорнану. Спасибо за помощь, ты сделал всё, что мог. Держись, и если что-то еще узнаешь — сразу ко мне."
+],
+    "ObjectiveText": "Найдите пропавший конвой",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40601",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 350,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":4060101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":40601,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [50401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

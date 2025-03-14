@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10801,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Помогите Аркейду добраться до лагеря",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4603,
+        6,
+        12312
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

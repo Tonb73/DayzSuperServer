@@ -1,11 +1,11 @@
 {
-    "m_Version": 11,
+    "m_Version": 12,
     "AccuracyMin": 0.75,
-    "AccuracyMax": 0.90,
+    "AccuracyMax": 0.8999999761581421,
     "ThreatDistanceLimit": 1000.0,
     "NoiseInvestigationDistanceLimit": 500.0,
-    "DamageMultiplier": 1.0,
-    "DamageReceivedMultiplier": 0.8,
+    "DamageMultiplier": 0.8999999761581421,
+    "DamageReceivedMultiplier": 0.800000011920929,
     "Admins": [
         "76561199072190350"
     ],
@@ -17,9 +17,9 @@
     "CanRecruitFriendly": 1,
     "CanRecruitGuards": 0,
     "PreventClimb": [],
-    "ExcludedRoamingLocations": [],
-    "ExcludedRoamingBuildings": [],
-    "PlayerFactions": ["West"],
+    "PlayerFactions": [
+        "West"
+    ],
     "LogAIHitBy": 1,
     "LogAIKilled": 1
 }

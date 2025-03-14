@@ -58,7 +58,7 @@
             ],
             "Bots_Count_Minimum": 5,
             "Bots_Count_Maximum": 8,
-            "Bots_Expansion_Loadout": "UPTier_3",
+            "Bots_Expansion_Loadout": "",
             "Bots_Loadout_ID": 1,
             "Bots_Range": 800,
             "Bots_Accuracy": 0.5,
@@ -69,7 +69,7 @@
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 1,
-            "Allow_Helicopter_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
             "Static_Objects": []
         },
         {
@@ -92,7 +92,7 @@
             "Is_NBC_Mission": 0,
             "Allow_Crate_Reward": 1,
             "Allow_Vehicle_Reward": 0,
-            "Allow_Helicopter_Reward": 0,
+            "Allow_Helicopter_Reward": 1,
             "Static_Objects": [
                 {
                     "ClassName": "StaticObj_Wreck_Mi8_Crashed",

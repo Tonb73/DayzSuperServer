@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20102,
+    "Type": 1,
+    "Title": "Охота за головами 'Мистер Беннис' [Часть 2]",
+    "Descriptions": [
+"Только обратившись к Богу, нам удаётся увидеть мир вокруг себя. В этот раз, пришлось обратиться к работорговцам. Я нашёл лагерь, в котором держат Бенни. Отправляйся туда и достань мне его. В этот раз он не должен сбежать.",
+"Топсовичу посчастливилось угодить в лапы работорговцев. В Такистане такое не приветствуется, но, тем не менее, в семье не без урода. Они обычно захватывают женщин и продают в рабство на восток, но тут, видимо, сделали исключение. Я отыскал лагерь, в котором держат Бенни. Поезжай туда и достань мне этого сукина сына.",
+"То есть в лагере начался бунт рабов, а в это время, при помощи этой самой отмычки, Бенни сбежал? Боже, дай мне сил. Он не сможет прожить в Такистане один. В определённый момент он нарвётся на кого-то. Не думаю, что люди в костюме тут частое явление. А до тех пор мы будем ждать. Будем надеяться, что имя Бенни всплывёт где-то очень скоро."
+],
+    "ObjectiveText": "Вызволите мистера бенниса из лагеря бандитов и приведите его.",
+    "FollowUpQuest": 20103,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q20102",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 850,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2010201,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 2010202,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20102,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20102,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

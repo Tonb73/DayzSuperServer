@@ -1,0 +1,64 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40702,
+    "Type": 1,
+    "Title": "Молодежное движение Часть 2",
+   "Descriptions": [
+"Слушай, дружище, дело движется. Теперь нам нужно снабдить нашу ударную группу оружием и припасами. Отправляйся в мой старый лагерь — там остались верные ребята, которые готовы присоединиться к нам. Возьми их с собой и захвати склад, который находится неподалеку. Там должно быть всё, что нам нужно для атаки на Аль-Халяль. Без этого склада мы не сможем двинуться дальше.",
+"Этот склад — ключ к нашей операции. Там хранится оружие и боеприпасы, которые нам жизненно необходимы. Захвати его любой ценой, но постарайся не поднимать лишнего шума. Если Аль-Халяль узнают о наших планах, всё пойдет наперекосяк. Действуй быстро и решительно. Мы не можем позволить себе промедление.",
+"Вы тянитесь к свертку в котором написаны какие-то планы. На карте отмечено место, где стоит группа Амира."
+],
+    "ObjectiveText": "Найдите и захватите склад Аль-Халяль",
+    "FollowUpQuest": 40703,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40702",
+    "QuestItems": [],
+    "Rewards": [
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":4070201,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4070202,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4070201,
+            "ObjectiveType": 6
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40701],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

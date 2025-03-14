@@ -1,5 +1,5 @@
 {
-    "m_Version": 1,
+    "m_Version": 2,
     "Enabled": 1,
     "Weight": 1.0,
     "MissionMaxTime": 1200,
@@ -13,13 +13,14 @@
     "Container": "Random",
     "FallSpeed": 4.5,
     "DropLocation": {
-        "x": 6118.98876953125,
-        "z": 10387.359375,
+        "x": 5524.2744140625,
+        "z": 9835.6396484375,
         "Name": "Mahahwit",
         "Radius": 100.0
     },
     "Infected": [],
     "ItemCount": -1,
     "InfectedCount": -1,
+    "AirdropPlaneClassName": "",
     "Loot": []
 }

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1060203,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь к чекпоинту",
+    "TimeLimit": 45,
+    "Active": 1,
+    "Position": [
+        7758,
+        351,
+        3017
+    ],
+    "MaxDistance": 25.0,
+    "MarkerName": "Чекпоинт",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

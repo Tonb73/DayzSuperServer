@@ -1,7 +1,6 @@
 # Ignore everything
 /*
 
-
 # ./profilesCherno/*
 # ./profilesTakistan/*
 
@@ -17,6 +16,10 @@
 !startTakistanPlus.bat
 
 !/keys
+!/mpmissions
+mpmissions/*
+!mpmissions/ExpansionDNM.chernarusplus
+!mpmissions/ExpansionDNM.TakistanPlus
 
 !/profilesCherno
 profilesCherno/*
@@ -58,8 +61,5 @@ profilesTakistan/*
 !/profilesTakistan/Users
 !/profilesTakistan/WebApiLog
 
-
-!/mpmissions
-mpmissions/*
-!/mpmissions/ExpansionDNM.TakistanPlus
-!/mpmissions/ExpansionDNM.chernarusplus
+*log*
+**/storage_1/

@@ -1,0 +1,88 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40501,
+    "Type": 1,
+    "Title": "Токсик",
+   "Descriptions": [
+"Слушай, дружище, у меня для тебя задание, которое познакомит тебя с одной из самых опасных вещей в Такистане — токсичными зонами. В старом городе, который разбомбили еще в начале эпидемии, есть заброшенный полицейский участок. Там остались капсулы с POX, и они нам нужны. Но туда не просто так не зайдешь — зона заражена. Для начала тебе нужно раздобыть снаряжение химзащиты. Без него ты там долго не протянешь. Как только подготовишься, отправляйся туда и найди эти капсулы.",
+"Рамсар — это ад на земле, но ты справишься. Полицейский участок находится в самом центре зараженной зоны. Будь осторожен — там полно химикатов, и без защиты ты долго не продержишься. Найди капсулы с POX и как можно быстрее возвращайся с ними обратно. Не задерживайся там дольше, чем нужно, и следи за уровнем заражения. Удачи, дружище, и не подведи меня.",
+"Отлично, я передам эти образцы сержанту. Ты, кстати, тоже можешь приносить ему сосуды с POX. Он очень щедро за них платит. Просто кидай сосуды в обменник, а я их потом передам. Деньги сразу. И да, помойся лучше сразу, а то мало ли..."
+],
+    "ObjectiveText": "Отправляйтесь и исследуйте зараженную зону",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q40501",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 650,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+		{
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+		4
+	],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID":4050101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4050101,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":4050102,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":40501,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

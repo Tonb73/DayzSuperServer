@@ -2,9 +2,9 @@
 <events>
     <!-- Vanilla Tweaks -->
     <event name="VehicleHatchback02">
-        <nominal>10</nominal>
-        <min>7</min>
-        <max>13</max>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -19,9 +19,9 @@
         </children>
     </event>
     <event name="VehicleTruck01">
-        <nominal>8</nominal>
-        <min>5</min>
-        <max>11</max>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -45,9 +45,9 @@
     <!-- Expansion content -->
     <!-- CARS -->
 	<event name="VehicleUAZ">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <min>1</min>
-        <max>7</max>
+        <max>3</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -73,9 +73,9 @@
         </children>
     </event>
 	<event name="VehicleVodnik">
-        <nominal>1</nominal>
-        <min>1</min>
-        <max>2</max>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -104,14 +104,14 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionBus"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionBus_Weeb"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="ExpansionBus_Weeb"/>
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionBus_Red"/>
         </children>
     </event>
     <event name="VehicleTractor">
-        <nominal>4</nominal>
-        <min>1</min>
-        <max>5</max>
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -127,83 +127,27 @@
             <child lootmax="0" lootmin="0" max="5" min="1" type="ExpansionTractor_Green"/>
         </children>
     </event>
-    <event name="VehicleLandRover">
-        <nominal>4</nominal>
-        <min>1</min>
+	<event name="VehicleLandRover">
+        <nominal>3</nominal>
+        <min>2</min>
         <max>5</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
-        <saferadius>500</saferadius>
+        <saferadius>1000</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover"/>
+			<child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover"/>
 			<child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Yellow"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Red"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Green"/>
 			<child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Orange"/>
-            <child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Blue"/>
+			<child lootmax="0" lootmin="0" max="5" min="1" type="Expansion_Landrover_Orange"/>
         </children>
     </event>
 	<!-- HELICOPTERS -->
-	<event name="VehicleMH6Helicopter">
-        <nominal>2</nominal>
-        <min>1</min>
-        <max>3</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Blueline"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Digital"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Elliptical"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Furious"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_GrayWatcher"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Jeans"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Resistance"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Shadow"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Sheriff"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Speedy"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Sunset"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Vrana"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Wasp"/>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="ExpansionMh6_Wave"/>
-        </children>
-    </event>
-	<event name="VehicleMerlinHelicopter">
-        <nominal>1</nominal>
-        <min>0</min>
-        <max>1</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin_Dahoman"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin_Ion"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin_President"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin_Vrana"/>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="ExpansionMerlin_Wave"/>
-        </children>
-    </event>
 	<event name="VehicleUh1hHelicopter">
         <nominal>2</nominal>
         <min>1</min>
@@ -220,14 +164,15 @@
         <children>
             <child lootmax="0" lootmin="0" max="3" min="1" type="ExpansionUh1h"/>
             <child lootmax="0" lootmin="0" max="3" min="1" type="ExpansionUh1h_Medical"/>
-            <child lootmax="0" lootmin="0" max="3" min="1" type="ExpansionUh1h_Uber"/>
-            <child lootmax="0" lootmin="0" max="3" min="1" type="ExpansionUh1h_Resistance"/>
+			<child lootmax="0" lootmin="0" max="3" min="1" type="EXT_Uh1h_Takistan"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="ExpansionUh1h_Uber"/>
+            <child lootmax="0" lootmin="0" max="0" min="0" type="ExpansionUh1h_Resistance"/>
         </children>
     </event>
     <event name="VehicleGyroHelicopter">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <min>0</min>
-        <max>1</max>
+        <max>0</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>

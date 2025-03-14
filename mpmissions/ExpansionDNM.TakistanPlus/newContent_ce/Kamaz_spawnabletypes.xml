@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="Kamaz_Military">
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_Driver_Military" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_coDriver_Military" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_trunk_Military" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="Kamaz_Tent_Military">
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_Driver_Military" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_coDriver_Military" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_trunk_Military" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="Kamaz_Civilian">
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.10" />
+		</attachments>
+		<attachments>
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_Driver_Civilian" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_coDriver_Civilian" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_trunk_Civilian" chance="0.30" />
+		</attachments>
+	</type>
+	<type name="Kamaz_Tent_Civilian">
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_Driver_Civilian" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_coDriver_Civilian" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Kamaz_doors_trunk_Civilian" chance="0.30" />
+		</attachments>
+	</type>
+	
+</types>
