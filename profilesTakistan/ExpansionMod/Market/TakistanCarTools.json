@@ -6,10 +6,21 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
+	{
+            "ClassName": "jerrycan",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "epoxyputty",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 15,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +30,8 @@
         },
         {
             "ClassName": "tirerepairkit",
-            "MaxPriceThreshold": 640,
-            "MinPriceThreshold": 640,
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 190,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +41,8 @@
         },
         {
             "ClassName": "wrench",
-            "MaxPriceThreshold": 160,
-            "MinPriceThreshold": 160,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +52,8 @@
         },
         {
             "ClassName": "lugwrench",
-            "MaxPriceThreshold": 180,
-            "MinPriceThreshold": 180,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -53,21 +64,19 @@
 
         {
             "ClassName": "blowtorch",
-            "MaxPriceThreshold": 1500,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "smallgascanister"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "expansionpropanetorch",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -77,8 +86,8 @@
         },
         {
             "ClassName": "rag_car_jack",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 1000,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -88,8 +97,8 @@
         },
         {
             "ClassName": "rag_farmjack",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 190,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -99,8 +108,8 @@
         },
         {
             "ClassName": "rag_oil_dipstick",
-            "MaxPriceThreshold": 300,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 5,
+            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -110,8 +119,8 @@
         },
         {
             "ClassName": "EngineOil",
-            "MaxPriceThreshold": 700,
-            "MinPriceThreshold": 700,
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
 		{
             "ClassName": "usmcjacket_desert",
-            "MaxPriceThreshold": 1780,
-            "MinPriceThreshold": 1780,
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,21 +19,10 @@
                 "usmcjacket_woodland"
             ]
         },
-        {
-            "ClassName": "usmcjacket_woodland",
-            "MaxPriceThreshold": 1780,
-            "MinPriceThreshold": 1780,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
 		{
 			"ClassName": "TF_6sh122Jacket_Spring",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 600,
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 170,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -48,8 +37,8 @@
         },
 		{
 			"ClassName": "TF_G3CombatShirt_RG",
-            "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 170,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +63,8 @@
         },
 		{
             "ClassName": "m65jacket_black",
-            "MaxPriceThreshold": 1260,
-            "MinPriceThreshold": 1260,
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,8 +78,8 @@
         },
         {
             "ClassName": "tacticalshirt_grey",
-            "MaxPriceThreshold": 2100,
-            "MinPriceThreshold": 2100,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -107,8 +96,8 @@
         },
 		{
             "ClassName": "gorkaejacket_summer",
-            "MaxPriceThreshold": 480,
-            "MinPriceThreshold": 480,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

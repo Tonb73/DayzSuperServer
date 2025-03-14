@@ -9,7 +9,7 @@
         {
             "ClassName": "reflexvest",
             "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "policevest",
-            "MaxPriceThreshold": 1070,
-            "MinPriceThreshold": 1070,
+            "MaxPriceThreshold": 210,
+            "MinPriceThreshold": 210,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "pressvest_blue",
-            "MaxPriceThreshold": 1180,
-            "MinPriceThreshold": 1180,
+            "MaxPriceThreshold": 210,
+            "MinPriceThreshold": 210,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -43,8 +43,8 @@
         },
         {
             "ClassName": "huntingvest",
-            "MaxPriceThreshold": 3500,
-            "MinPriceThreshold": 3500,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

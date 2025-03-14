@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2010202,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите камеру, где держат Бенни",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9575,
+        386,
+        5565
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Камера, где держат бенни",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

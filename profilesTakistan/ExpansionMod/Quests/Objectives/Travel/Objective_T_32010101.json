@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2010101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите место крушения вертолета Бенниса.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4298,
+        406,
+        5039
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Место крушения вертолета Бенни",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

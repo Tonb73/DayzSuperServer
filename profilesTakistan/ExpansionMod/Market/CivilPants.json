@@ -9,7 +9,7 @@
         {
             "ClassName": "medicalscrubspants_blue",
             "MaxPriceThreshold": 20,
-            "MinPriceThreshold": 10,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,7 +23,7 @@
         {
             "ClassName": "tracksuitpants_black",
             "MaxPriceThreshold": 30,
-            "MinPriceThreshold": 15,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -38,7 +38,7 @@
         },
         {
             "ClassName": "breeches_pink",
-            "MaxPriceThreshold": 40,
+            "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -60,7 +60,7 @@
 
         {
             "ClassName": "slackspants_beige",
-            "MaxPriceThreshold": 40,
+            "MaxPriceThreshold": 20,
             "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -80,8 +80,8 @@
 
         {
             "ClassName": "canvaspantsmidi_blue",
-            "MaxPriceThreshold": 48,
-            "MinPriceThreshold": 24,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -97,8 +97,8 @@
 
         {
             "ClassName": "canvaspants_blue",
-            "MaxPriceThreshold": 52,
-            "MinPriceThreshold": 26,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -114,8 +114,8 @@
 
         {
             "ClassName": "jumpsuitpants_blue",
-            "MaxPriceThreshold": 56,
-            "MinPriceThreshold": 28,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -129,8 +129,8 @@
         },
         {
             "ClassName": "policepants",
-            "MaxPriceThreshold": 56,
-            "MinPriceThreshold": 28,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -140,8 +140,8 @@
         },
         {
             "ClassName": "paramedicpants_blue",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -155,7 +155,7 @@
         {
             "ClassName": "firefighterspants_beige",
             "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -168,7 +168,7 @@
         {
             "ClassName": "cargopants_beige",
             "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -183,8 +183,8 @@
         },
         {
             "ClassName": "shortjeans_blue",
-            "MaxPriceThreshold": 76,
-            "MinPriceThreshold": 38,
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -201,8 +201,8 @@
 
         {
             "ClassName": "jeans_blue",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 20,
+            "MinPriceThreshold": 20,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -218,8 +218,8 @@
         },
         {
             "ClassName": "hunterpants_winter",
-            "MaxPriceThreshold": 1180,
-            "MinPriceThreshold": 1180,
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -234,8 +234,8 @@
         },
         {
             "ClassName": "dzn_sumrak_pants_coldw",
-            "MaxPriceThreshold": 1180,
-            "MinPriceThreshold": 1180,
+            "MaxPriceThreshold": 65,
+            "MinPriceThreshold": 65,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -260,8 +260,8 @@
         },
         {
             "ClassName": "minidress_pink",
-            "MaxPriceThreshold": 70,
-            "MinPriceThreshold": 35,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -279,8 +279,8 @@
         },
         {
             "ClassName": "nursedress_blue",
-            "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

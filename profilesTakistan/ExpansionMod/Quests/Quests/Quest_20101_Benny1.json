@@ -1,0 +1,75 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20101,
+    "Type": 1,
+    "Title": "Охота за головами 'Мистер Беннис' [Часть 1]",
+    "Descriptions": [
+"Необходимо найти предпринимателя из Вегаса — Бенниса Топсовича. Он не отличается честностью, и некоторым людям это не нравится. По случайности, подстроенной заказчиком, Беннис прилетает в Такистан, и он точно не сядет мягко... Ты должен найти Бенниса и привести его ко мне.",
+"Тебе нужно полное досье? Беннис Топсович. Владелец казино на Стрипе в Вегасе. Это в Неваде, США. Он, как и многие другие, ищет тут выгоды, но предпочитает для этого использовать чужие руки и при этом не платить. Заказчик оказался одним из тех, кого Беннис кинул, и он решил вернуть должок. Вертолет Бенниса собьют, и твоя задача — принести либо его тело ко мне, либо его самого. За тело дам 10.000, а за живого — в 5 раз больше. Заказчик не поскупился. Буду ждать новостей.",
+"Бенни успел нарваться на каких-то рейдеров, это плохие новости. Если они его забрали, мы не можем точно знать, куда его могли увести. Хорошо, я наведу справки и сообщу, как только узнаю больше."
+],
+    "ObjectiveText": "Найдите мистера Бенниса и приведите его.",
+    "FollowUpQuest": 20102,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q20101",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 750,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 2010101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 2010102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20101,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20101,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20001,10301],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

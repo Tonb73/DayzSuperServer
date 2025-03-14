@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "Инструменты",
+    "DisplayName": "Инструменты для готовки",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "pot",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "fryingpan",
-            "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

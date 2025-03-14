@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20104,
+    "Type": 1,
+    "Title": "Охота за головами 'Мистер Беннис' [Часть 4]",
+    "Descriptions": [
+        "Какого черта? Эй эй эй, придержи коней, а? Давай без лишних движений. Слушай, тебе нужны причины не убивать меня? У меня есть одна, но очень веская! Этот урод пообещал за меня награду, наверняка большую? 10 тысяч?! У меня чек в ресторане больше набирается. Давай вот как сделаем, ты поможешь мне, а я помогу тебе, что скажешь? Ну давай же, я тебя озолочу, крошка. Из-за твоих выходок, я опаздываю на вертолет, помоги мне добраться до туда вовремя, а вот это передай своему нанимателю. [Бенни сует вам в руку сверток] Он точно сможет тебя наградить за такое!",
+        "",
+        "Спасибо тебе, друг! Удачи с твоим делом. Заглядывай ко мне в казино Топс! Всех благ, еще увидимся детка! Лови, это для тебя!"
+    ],
+    "ObjectiveText": "Помогите мистеру Беннису добраться до вертолета",
+    "FollowUpQuest": 20105,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q20103",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionGoldNugget",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20104,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20104,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20103],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

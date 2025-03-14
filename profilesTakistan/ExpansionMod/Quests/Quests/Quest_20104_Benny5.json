@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20105,
+    "Type": 1,
+    "Title": "Охота за головами 'Мистер Беннис' [Часть 5]",
+    "Descriptions": [
+        "Нужно отнести записку, которую передал Бенни.",
+        "Записка запечатана, так что текст не получится увидеть без открытия конверта",
+        "Наконец-то ты вернулся. Где Беннис? Что за записка? [Читает вслух] 'Ринг-А-Динг-Динг, прости детка, не смог удержаться. Передаю вам всем пламенный привет из вегаса! Буду ждать вас в казино Топс,Бульвар Лас Вегас 355,штат Невада. Заходите! Целую и прощайюсь, ваш Беннис Топсович.' Какого черта там произошло?! Как ты мог его упустить? Неужели все, что ты нашел - эта чертова записка? Бог с ним. Этот заказ, я, понятное дело, тебе не закрываю. Деньги, что я тебе уже отдал, можешь оставить себе. Иди с богом..."
+    ],
+    "ObjectiveText": "Отнесите записку Погорельцу",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20105,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20104],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

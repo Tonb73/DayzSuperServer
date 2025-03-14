@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3030101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь на вышку",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4021,
+        634,
+        6928
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Вышка",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "combatboots_beige",
-            "MaxPriceThreshold": 16000,
-            "MinPriceThreshold": 16000,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -24,8 +24,8 @@
         },
         {
             "ClassName": "jungleboots_beige",
-            "MaxPriceThreshold": 1170,
-            "MinPriceThreshold": 1170,
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +41,8 @@
         
         {
             "ClassName": "ttskoboots",
-            "MaxPriceThreshold": 4800,
-            "MinPriceThreshold": 4800,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "militaryboots_redpunk",
-            "MaxPriceThreshold": 7000,
-            "MinPriceThreshold": 7000,
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

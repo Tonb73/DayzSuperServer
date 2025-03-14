@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3030102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Заберите груз для сержанта Дорнана",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4021,
+        634,
+        6928
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Сброшенный груз",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

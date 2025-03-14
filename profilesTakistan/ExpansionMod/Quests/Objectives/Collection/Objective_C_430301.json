@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 30301,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Найдите и принесите посылку для сержанта Дорнана",
+    "TimeLimit": 480,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "SodaCan_Cola",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

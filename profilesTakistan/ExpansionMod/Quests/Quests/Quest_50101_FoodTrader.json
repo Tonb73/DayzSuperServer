@@ -1,16 +1,16 @@
 {
     "ConfigVersion": 22,
-    "ID": 0,
+    "ID": 50101,
     "Type": 1,
-    "Title": "Name",
+    "Title": "Доступ к торговцу едой.",
     "Descriptions": [
-        "PLACEHOLDER",
-        "PLACEHOLDER",
-        "PLACEHOLDER"
+        "Я вижу ты сдружился с Амиром. Пускай, это ничего не меняет, ты все еще здесь чужак. А, я вижу Амир рассказал тебе про осколки. Если ты хочешь - можешь пожертовать мне осколок и я скажу конюху, чтобы продавал тебе товары.",
+        "Все просто, ты мне золото, я тебе репутацию. За 3 осколка я дам тебе возможность торговать с продавцом еды.",
+        "Ты сможешь найти торговца на рынке."
     ],
-    "ObjectiveText": "О",
+    "ObjectiveText": "Принесите золотые осколки",
     "FollowUpQuest": -1,
-    "Repeatable": 0,
+    "Repeatable": 1,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
@@ -25,23 +25,23 @@
     "RewardsForGroupOwnerOnly": 1,
     "RewardBehavior": 0,
     "QuestGiverIDs": [
-		0
+		5
 	],
     "QuestTurnInIDs": [
-        0
+        5
     ],
     "IsAchievement": 0,
     "Objectives": [
         {
             "ConfigVersion": 28,
-            "ID": 0,
-            "ObjectiveType": 0
+            "ID": 50101,
+            "ObjectiveType": 4
         }
     ],
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [40101],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,

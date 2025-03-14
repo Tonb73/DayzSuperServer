@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "battery9V",
-            "MaxPriceThreshold": 450,
-            "MinPriceThreshold": 450,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

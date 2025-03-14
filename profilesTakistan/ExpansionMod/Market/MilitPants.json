@@ -8,8 +8,8 @@
     "Items": [
 		{
 			"ClassName": "TF_6sh122Pants_Spring",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 170,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -37,8 +37,8 @@
         },
 		{
 			"ClassName": "TF_G3CombatPants_RG",
-            "MaxPriceThreshold": 560,
-            "MinPriceThreshold": 560,
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 170,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -51,8 +51,8 @@
         },
         {
             "ClassName": "ttskopants",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 1200,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -62,8 +62,8 @@
         },
         {
             "ClassName": "bdupants",
-            "MaxPriceThreshold": 3130,
-            "MinPriceThreshold": 3130,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -73,8 +73,8 @@
         },
         {
             "ClassName": "usmcpants_desert",
-            "MaxPriceThreshold": 3130,
-            "MinPriceThreshold": 3130,
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 140,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -86,8 +86,8 @@
         },
         {
             "ClassName": "policepantsorel",
-            "MaxPriceThreshold": 140,
-            "MinPriceThreshold": 70,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -97,8 +97,8 @@
         },
         {
             "ClassName": "gorkapants_summer",
-            "MaxPriceThreshold": 1260,
-            "MinPriceThreshold": 1260,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "blouse_blue",
-            "MaxPriceThreshold": 14,
-            "MinPriceThreshold": 14,
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

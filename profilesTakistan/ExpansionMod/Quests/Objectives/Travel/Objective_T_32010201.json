@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 2010201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите лагерь, где держат Бенни",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9595,
+        386,
+        5566
+    ],
+    "MaxDistance": 15.0,
+    "MarkerName": "Лагерь, где держат бенни",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

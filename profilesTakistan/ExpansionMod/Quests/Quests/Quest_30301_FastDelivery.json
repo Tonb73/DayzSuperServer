@@ -1,0 +1,56 @@
+{
+    "ConfigVersion": 22,
+    "ID": 30301,
+    "Type": 1,
+    "Title": "Экспресс посылка [Часть 1]",
+    "Descriptions": [
+"Так, солдат, у меня для тебя важное задание! Тебе необходимо будет отправиться на радиовышку и с неё подать сигнал нашему вертолёту поддержки. Он должен сбросить особый груз! Твоя задача — этот груз забрать и принести мне как можно быстрее! Это ясно? А теперь вперёд!",
+"Ну что ещё?! Тебе нужно отправиться на радиовышку, зажечь флаер, дождаться сброса припасов и принести мне эту чёртову посылку. И советую взять колёса побыстрее — посылку нужно доставить срочно!",
+""
+],
+    "ObjectiveText": "Заберите важную посылку для Сержанта Дорнана",
+    "FollowUpQuest": 30302,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [3],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 3030101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 30202,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [30202],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

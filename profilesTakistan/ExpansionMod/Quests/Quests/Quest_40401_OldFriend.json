@@ -3,14 +3,14 @@
     "ID": 40401,
     "Type": 1,
     "Title": "Старый друг",
-    "Descriptions": [
-		"",
-		"",
-		""
-    ],
+   "Descriptions": [
+"Слушай, дружище, тут дело серьезное. Мой старый знакомый, Артем, пропал. Он отправился на разведку в район старых радиовышек и не вернулся. Я не могу просто сидеть сложа руки — нужно найти его, пока не стало слишком поздно. Ты должен отправиться туда, где его последний раз видели, и попытаться выяснить, что случилось.",
+"Чего ты ждешь? Отправляйся скорее! Я пометил последнее место откуда он выходил на связь.",
+"Спасибо, дружище, без тебя я бы не справился. Ты настоящий герой, и я не забуду, что ты сделал для нас сегодня."
+],
     "ObjectiveText": "Найдите и спасите артема",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
+    "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,
@@ -21,7 +21,7 @@
     "Rewards": [
 		{
             "ClassName": "ExpansionBanknoteUSD",
-            "Amount": 230,
+            "Amount": 450,
             "Attachments": [],
             "DamagePercent": 0,
             "HealthPercent": 0,
@@ -66,7 +66,7 @@
     "QuestColor": 0,
     "ReputationReward": 0,
     "ReputationRequirement": -1,
-    "PreQuestIDs": [],
+    "PreQuestIDs": [40301],
     "RequiredFaction": "",
     "FactionReward": "",
     "PlayerNeedQuestItems": 1,

@@ -8,7 +8,7 @@
     "Items": [
         {
             "ClassName": "smallprotectorcase",
-            "MaxPriceThreshold": 140,
+            "MaxPriceThreshold": 70,
             "MinPriceThreshold": 70,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -19,7 +19,7 @@
         },
         {
             "ClassName": "ammobox",
-            "MaxPriceThreshold": 160,
+            "MaxPriceThreshold": 80,
             "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -30,8 +30,8 @@
         },
         {
             "ClassName": "barrel_blue",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 1500,
+            "MaxPriceThreshold": 230,
+            "MinPriceThreshold": 230,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -45,8 +45,8 @@
         },
         {
             "ClassName": "seachest",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -56,8 +56,8 @@
         },
         {
             "ClassName": "woodencrate",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -67,8 +67,8 @@
         },
         {
             "ClassName": "expansiontoolbox",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -78,8 +78,8 @@
         },
         {
             "ClassName": "expansionsafemini",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 4000,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -89,8 +89,8 @@
         },
         {
             "ClassName": "expansionsafemedium",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 6000,
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -100,8 +100,8 @@
         },
         {
             "ClassName": "expansionsafelarge",
-            "MaxPriceThreshold": 16000,
-            "MinPriceThreshold": 8000,
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -111,8 +111,8 @@
         },
 		{
             "ClassName": "expansiongunrack",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -122,8 +122,8 @@
         },
         {
             "ClassName": "expansionstove",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 190,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

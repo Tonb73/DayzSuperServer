@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1020102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отыщите убежище рейдеров",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11700,
+        226,
+        9201
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Убежище рейдеров",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

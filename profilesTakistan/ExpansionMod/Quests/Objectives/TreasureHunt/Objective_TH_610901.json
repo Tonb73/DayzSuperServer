@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10901,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Найдите подарок от Бенниса",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            6575,
+            307,
+            1564
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 25.0,
+    "Loot": [
+        {
+            "Name": "ExpansionGoldBar",
+            "Chance": 1,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

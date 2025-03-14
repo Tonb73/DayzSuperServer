@@ -1,0 +1,77 @@
+{
+    "ConfigVersion": 22,
+    "ID": 101201,
+    "Type": 1,
+    "Title": "Охота за хитами прошлого",
+   "Descriptions": [
+"Йоу, йоу, йоу, чуваки! Плачу гору баксов тому, кто принесет мне самые топовые кассеты за всю историю Такистана! У меня тут коллекция, которая должна пополниться редкими экземплярами. Если у тебя есть что-то крутое, или ты знаешь, где это найти, — давай сюда! Деньги не проблема, главное — кассеты!",
+"Я разыскиваю особые кассеты, подписанные их исполнителями. Это настоящие раритеты, понимаешь? У меня есть список из трех кассет, которые я бы очень хотел заполучить в свою коллекцию. Если поможешь мне их найти, я тебя озолочу! Дерзай, дружище!",
+"Принес кассеты этому придурку? Эй, говорящий бумбокс, тут твои дурацкие кассеты принесли! Держи, вот твоя оплата. Уверен, пришлось долго за ними колесить..."
+],
+    "ObjectiveText": "Найдите особые кассеты",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q101201",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 450,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 10120101,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 10120102,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 10120103,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 101201,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

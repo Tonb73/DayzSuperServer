@@ -8,8 +8,8 @@
     "Items": [
          {
             "ClassName": "mag_ij70_8rnd",
-            "MaxPriceThreshold": 240,
-            "MinPriceThreshold": 240,
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -19,8 +19,8 @@
         },
         {
             "ClassName": "mag_cz75_15rnd",
-            "MaxPriceThreshold": 750,
-            "MinPriceThreshold": 750,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -28,10 +28,22 @@
             "SpawnAttachments": [],
             "Variants": []
         },
+		{
+			"ClassName": "TF_Mag_MP443_18Rnd",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
         {
             "ClassName": "mag_glock_15rnd",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 800,
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -41,8 +53,8 @@
         },
         {
             "ClassName": "mag_mkii_10rnd",
-            "MaxPriceThreshold": 230,
-            "MinPriceThreshold": 230,
+            "MaxPriceThreshold": 45,
+            "MinPriceThreshold": 45,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -52,8 +64,8 @@
          },
 		 {
             "ClassName": "mag_deagle_9rnd",
-            "MaxPriceThreshold": 1050,
-            "MinPriceThreshold": 1050,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +75,8 @@
         },
         {
             "ClassName": "mag_cz527_5rnd",
-            "MaxPriceThreshold": 1450,
-            "MinPriceThreshold": 1450,
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -74,8 +86,8 @@
         },
         {
             "ClassName": "mag_cz61_20rnd",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 1200,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -85,8 +97,8 @@
         },
 		{
 			"ClassName": "TF_Mag_M14_20Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 210,
+            "MinPriceThreshold": 210,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -97,8 +109,8 @@
         },
 		{
 			"ClassName": "TF_Mag_M14_10Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -109,8 +121,8 @@
         },
 		{
 			"ClassName": "TF_Mag_AKM_Plastic30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -121,8 +133,8 @@
         },
 		{
 			"ClassName": "TF_Mag_AKM_30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -133,20 +145,8 @@
         },
 		{
 			"ClassName": "TF_Mag_AKM_10Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            ]
-        },
-		{
-			"ClassName": "TF_Mag_M4_STANAG_30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 55,
+            "MinPriceThreshold": 55,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -157,8 +157,8 @@
         },
 		{
 			"ClassName": "TF_Mag_M4_PMAG10Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -169,8 +169,8 @@
         },
 		{
 			"ClassName": "TF_Mag_M4_PMAG20Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -181,8 +181,8 @@
         },
 		{
 			"ClassName": "TF_Mag_VPO190_4Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 35,
+            "MinPriceThreshold": 35,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -193,8 +193,8 @@
         },
 		{
 			"ClassName": "TF_Mag_AK74_Bakelit30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -205,56 +205,8 @@
         },
 		{
 			"ClassName": "TF_Mag_AK74_Plum30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            ]
-        },
-		{
-			"ClassName": "TF_Mag_AK74_Plastic30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            ]
-        },
-		{
-			"ClassName": "TF_Mag_M14_20Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            ]
-        },
-		{
-			"ClassName": "TF_Mag_M14_10Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            ]
-        },
-		{
-			"ClassName": "TF_Mag_M4_STANAG_30Rnd",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -265,8 +217,8 @@
         },
 		{
             "ClassName": "mag_ruger1022_15rnd",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 30,
+            "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -276,8 +228,8 @@
         },
         {
             "ClassName": "mag_ruger1022_30rnd",
-            "MaxPriceThreshold": 1200,
-            "MinPriceThreshold": 1200,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -287,8 +239,8 @@
         },
 		{
             "ClassName": "mag_expansion_kedr_20rnd",
-            "MaxPriceThreshold": 1400,
-            "MinPriceThreshold": 1400,
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

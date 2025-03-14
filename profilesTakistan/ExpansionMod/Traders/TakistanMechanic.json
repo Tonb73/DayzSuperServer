@@ -4,7 +4,7 @@
     "MinRequiredReputation": 0,
     "MaxRequiredReputation": 2147483647,
     "RequiredFaction": "",
-    "RequiredCompletedQuestID": -1,
+    "RequiredCompletedQuestID": 101001,
     "TraderIcon": "Gas",
     "Currencies": [
         "expansionbanknoteUSD"
@@ -12,7 +12,8 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-		"TakistanCarAttachment",
+		"CivilCarAttachment",
+		"CarAttachment",
 		"TakistanCarTools",
 		"Spraycans"
     ],

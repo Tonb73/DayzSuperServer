@@ -1,0 +1,31 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101201,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Найдите и принесите особые кассеты",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Zen_Cassette_Arab5",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+		{
+            "Amount": 1,
+            "ClassName": "Zen_Cassette_Rus5",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+		{
+            "Amount": 1,
+            "ClassName": "Zen_Cassette_Us5",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

@@ -1,0 +1,50 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10901,
+    "Type": 1,
+    "Title": "Ринг-А-Динг-Динг",
+   "Descriptions": [
+"Эта записка специально для одного человека, он точно знает, что она для него. Просьба остальных не срывать.",
+"Детка, я уже дома, попиваю дорогой виски и покуриваю сигару на балконе казино. И ты представляешь, вспомнил, что забыл свой чемодан в вашей богом забытой дыре. Я закопал его недалеко от той дыры, где мы с тобой встретились. Его содержимое можешь оставить себе. Твой Беннис.",
+"В сундуке лежала записка: 'Самому глупому дураку во всей пустыне'."
+],
+    "ObjectiveText": "Найдите подарок Бенни",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q20105",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 1080101,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20105,50401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

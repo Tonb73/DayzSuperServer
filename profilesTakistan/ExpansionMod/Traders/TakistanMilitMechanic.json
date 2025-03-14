@@ -1,0 +1,22 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Военный Механик",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": 30302,
+    "TraderIcon": "Gas",
+    "Currencies": [
+        "expansionbanknoteUSD"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+		"MilitCarAttachment",
+		"HeliAttachment",
+		"CarAttachment",
+		"TakistanCarTools",
+		"Spraycans"
+    ],
+    "Items": {}
+}

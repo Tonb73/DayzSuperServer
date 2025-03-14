@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "partytent",
-            "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 5200,
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 320,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -23,8 +23,8 @@
         },
         {
             "ClassName": "mediumtent",
-            "MaxPriceThreshold": 6000,
-            "MinPriceThreshold": 6000,
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -37,8 +37,8 @@
         },
         {
             "ClassName": "largetent",
-            "MaxPriceThreshold": 12000,
-            "MinPriceThreshold": 12000,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -48,8 +48,8 @@
         },
         {
             "ClassName": "cartent",
-            "MaxPriceThreshold": 14000,
-            "MinPriceThreshold": 14000,
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -59,8 +59,8 @@
         },
         {
             "ClassName": "expansioncamotentkit",
-            "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 5200,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -70,8 +70,8 @@
         },
         {
             "ClassName": "expansioncamoboxkit",
-            "MaxPriceThreshold": 5200,
-            "MinPriceThreshold": 5200,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

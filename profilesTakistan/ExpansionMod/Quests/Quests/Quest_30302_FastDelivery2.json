@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 30302,
+    "Type": 1,
+    "Title": "Экспресс посылка [Часть 2]",
+    "Descriptions": [
+        "Вижу вас, груз для сержанта сбросили. [На заднем фоне]'ООН правда выделили на это деньги?' Отбой, забирайте посылку и скорее везите ее домой!",
+        "",
+        "О, да, детка! Холодненькая! А то у нас только теплая, столетняя кола, на, угощайся! В Госпанди были цветочки, вот где твое настоящее боевое крещение. Теперь любой, кто носет нашу повязку, будет рад тебе в лагере! Вольно!"
+    ],
+    "ObjectiveText": "Доставьте Дорнану важную посылку",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "30302",
+    "QuestItems": [],
+    "Rewards": [
+	{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 750,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [3],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 3030102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 30301,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [30301],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

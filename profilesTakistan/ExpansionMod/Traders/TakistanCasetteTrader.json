@@ -12,11 +12,7 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-		"CivilWeaponAttachments",
-		"CivilOptics",
-		"CivilWeapons",
-		"CivilMags",
-		"Explosives"
+		"Music"
     ],
     "Items": {}
 }

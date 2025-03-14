@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5050101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отыщите выжившего повстанца",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1302,
+        259,
+        11173
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь повстанца",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

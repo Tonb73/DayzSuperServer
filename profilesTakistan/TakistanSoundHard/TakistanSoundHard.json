@@ -1,9 +1,9 @@
 {
     "backgroundMusicAll": [
         {
-            "timerAmbience": 15.0,
-            "offsetMinAmbience": 0.0,
-            "offsetMaxAmbience": 0.0,
+            "timerAmbience": 30.0,
+            "offsetMinAmbience": 10.0,
+            "offsetMaxAmbience": 35.0,
             "timerOneShot": 240.0,
             "offsetMinOneShot": 30.0,
             "offsetMaxOneShot": 60.0,

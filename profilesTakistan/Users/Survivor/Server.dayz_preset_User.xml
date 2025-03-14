@@ -1023,21 +1023,6 @@
     <input name="UAToggleHeadlightHighBeam">
         <btn name="kL" />
     </input>
-    <input name="UADayzDogWhistle">
-        <btn name="kAdd" />
-    </input>
-    <input name="UADayzDogFollow">
-        <btn name="kDivide" />
-    </input>
-    <input name="UADayzDogPatrol">
-        <btn name="kMultiply" />
-    </input>
-    <input name="UADayzDogStayHere">
-        <btn name="kSubstract" />
-    </input>
-    <input name="UADayzDogEmoteToggle">
-        <btn name="kNumpad9" />
-    </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
     </input>
@@ -1231,12 +1216,6 @@
     </input>
     <input name="UAToggleAUXlight">
         <btn name="kO" />
-    </input>
-    <input name="UADayzHorseSpeedUp">
-        <btn name="mWheelUp" />
-    </input>
-    <input name="UADayzHorseSpeedDown">
-        <btn name="mWheelDown" />
     </input>
     <input name="eAICommandMenu">
         <btn name="kT" />

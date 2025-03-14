@@ -8,8 +8,8 @@
     "Items": [
         {
             "ClassName": "sportglasses_orange",
-            "MaxPriceThreshold": 74,
-            "MinPriceThreshold": 74,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -24,8 +24,8 @@
        
         {
             "ClassName": "thinframesglasses",
-            "MaxPriceThreshold": 40,
-            "MinPriceThreshold": 20,
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -35,8 +35,8 @@
         },
         {
             "ClassName": "thickframesglasses",
-            "MaxPriceThreshold": 46,
-            "MinPriceThreshold": 23,
+            "MaxPriceThreshold": 15,
+            "MinPriceThreshold": 15,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -47,7 +47,7 @@
         {
             "ClassName": "designerglasses",
             "MaxPriceThreshold": 60,
-            "MinPriceThreshold": 30,
+            "MinPriceThreshold": 60,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -58,7 +58,7 @@
         {
             "ClassName": "aviatorglasses",
             "MaxPriceThreshold": 80,
-            "MinPriceThreshold": 40,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -68,7 +68,7 @@
         },
         {
             "ClassName": "eyepatch_improvised",
-            "MaxPriceThreshold": 20,
+            "MaxPriceThreshold": 10,
             "MinPriceThreshold": 10,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
@@ -79,7 +79,7 @@
         },
         {
             "ClassName": "eyemask_black",
-            "MaxPriceThreshold": 100,
+            "MaxPriceThreshold": 30,
             "MinPriceThreshold": 30,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,

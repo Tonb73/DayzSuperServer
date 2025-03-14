@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20104,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Помогите Бенни успеть на вертолет",
+    "TimeLimit": 640,
+    "Active": 1,
+    "Position": [
+        2715,
+        373,
+        924
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Точка эвакуации",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "TakUpTier_2_Rich",
+    "NPCClassName": "ExpansionNPCNiki",
+    "NPCName": "Бенни"
+}

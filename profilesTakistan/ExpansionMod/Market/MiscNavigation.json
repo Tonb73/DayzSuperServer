@@ -7,27 +7,14 @@
     "InitStockPercent": 75.0,
     "Items": [
 		{
-            "ClassName": "battery9v",
-            "MaxPriceThreshold": 125,
-            "MinPriceThreshold": 125,
+            "ClassName": "personalradio",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
-        },
-		{
-            "ClassName": "personalradio",
-            "MaxPriceThreshold": 1120,
-            "MinPriceThreshold": 20000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
             "Variants": []
         },
         {
@@ -45,8 +32,8 @@
         },
 		{
             "ClassName": "baseradio",
-            "MaxPriceThreshold": 3500,
-            "MinPriceThreshold": 3500,
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -58,8 +45,8 @@
         },
         {
             "ClassName": "compass",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 25,
+            "MinPriceThreshold": 25,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -69,8 +56,8 @@
         },
         {
             "ClassName": "orienteeringcompass",
-            "MaxPriceThreshold": 250,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -91,8 +78,8 @@
         },
         {
             "ClassName": "binoculars",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 80,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -102,28 +89,24 @@
         },
         {
             "ClassName": "gpsreceiver",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
             "ClassName": "expansiongps",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 160,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]

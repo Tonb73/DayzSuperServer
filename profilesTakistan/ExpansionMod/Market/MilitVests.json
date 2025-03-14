@@ -8,8 +8,8 @@
     "Items": [
 		{
 			"ClassName": "TF_PlateCarrierVest_EMR",
-            "MaxPriceThreshold": 3500,
-            "MinPriceThreshold": 3500,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -21,8 +21,8 @@
         },
 		{
 			"ClassName": "TF_6sh112_EMR",
-            "MaxPriceThreshold": 2670,
-            "MinPriceThreshold": 2670,
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -34,8 +34,8 @@
         },
 		{
 			"ClassName": "TF_6B23_112Vest_GFlora_Syrian",
-            "MaxPriceThreshold": 2500,
-            "MinPriceThreshold": 2500,
+            "MaxPriceThreshold": 570,
+            "MinPriceThreshold": 570,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -49,8 +49,8 @@
         },
 		{
 			"ClassName": "TF_6B23Vest_GFlora",
-            "MaxPriceThreshold": 2700,
-            "MinPriceThreshold": 2700,
+            "MaxPriceThreshold": 270,
+            "MinPriceThreshold": 270,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -63,8 +63,8 @@
         },
 		{
 			"ClassName": "TF_6B43Vest_6sh112_EMR",
-            "MaxPriceThreshold": 2800,
-            "MinPriceThreshold": 2700,
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -78,8 +78,8 @@
         },
 		{
 			"ClassName": "TF_IMTVVest",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 3200,
+            "MaxPriceThreshold": 320,
+            "MinPriceThreshold": 320,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -91,8 +91,8 @@
         },
 		{
 			"ClassName": "TF_AVSVest_Coyote",
-            "MaxPriceThreshold": 3600,
-            "MinPriceThreshold": 3600,
+            "MaxPriceThreshold": 270,
+            "MinPriceThreshold": 270,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -104,8 +104,8 @@
         },
 		{
 			"ClassName": "TF_JPCVest_MC",
-            "MaxPriceThreshold": 3400,
-            "MinPriceThreshold": 3400,
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -117,8 +117,8 @@
         },
 		{
 			"ClassName": "TF_LVMBAVVest_KH",
-            "MaxPriceThreshold": 3100,
-            "MinPriceThreshold": 3100,
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -130,54 +130,21 @@
         },
 		{
 			"ClassName": "TF_6B43PelvisArmor",
-            "MaxPriceThreshold": 2600,
-            "MinPriceThreshold": 2600,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
+			"TF_6B43PelvisArmor_Syrian"
             ]
-        },
-		{
-			"ClassName": "TF_6B43PelvisArmor_Syrian",
-            "MaxPriceThreshold": 2600,
-            "MinPriceThreshold": 2600,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-            ]
-        },
-        {
-            "ClassName": "dzn_ukassvest_white",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "dzn_smershvest_white",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
         },
         {
             "ClassName": "ukassvest_black",
-            "MaxPriceThreshold": 2200,
-            "MinPriceThreshold": 2200,
+            "MaxPriceThreshold": 190,
+            "MinPriceThreshold": 190,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -186,24 +153,27 @@
             "Variants": [
                 "ukassvest_khaki",
                 "ukassvest_olive",
-                "ukassvest_camo"
+                "ukassvest_camo",
+				"dzn_ukassvest_white"
             ]
         },
         {
             "ClassName": "smershvest",
-            "MaxPriceThreshold": 2300,
-            "MinPriceThreshold": 2300,
+            "MaxPriceThreshold": 230,
+            "MinPriceThreshold": 230,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": []
+            "Variants": [
+				"dzn_smershvest_white"
+			]
         },
         {
             "ClassName": "highcapacityvest_black",
-            "MaxPriceThreshold": 3460,
-            "MinPriceThreshold": 3460,
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 180,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
@@ -215,8 +185,8 @@
         },
         {
             "ClassName": "platecarriervest",
-            "MaxPriceThreshold": 5500,
-            "MinPriceThreshold": 5500,
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
