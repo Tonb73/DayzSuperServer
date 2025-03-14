@@ -18,6 +18,7 @@
 !/keys
 !/mpmissions
 mpmissions/*
+!mpmissions/ExpansionDNM.enoch
 !mpmissions/ExpansionDNM.chernarusplus
 !mpmissions/ExpansionDNM.TakistanPlus
 
@@ -60,6 +61,26 @@ profilesTakistan/*
 !/profilesTakistan/TakistanSoundHard
 !/profilesTakistan/Users
 !/profilesTakistan/WebApiLog
+
+!/profilesEnoch
+profilesEnoch/*
+!/profilesEnoch/AIMissions
+!/profilesEnoch/AirRaid
+!/profilesEnoch/BattlEye
+!/profilesEnoch/BuildingFortifications
+!/profilesEnoch/CommunityOnlineTools
+!/profilesEnoch/DataCache
+!/profilesEnoch/Dayz-Dog
+!/profilesEnoch/Dayz-Horse
+!/profilesEnoch/EarlyWinterChernarus
+!/profilesEnoch/EventManagerLog
+!/profilesEnoch/ExpansionMod
+!/profilesEnoch/PermissionsFramework
+!/profilesEnoch/PvZmoD_CustomisableZombies_Profile
+!/profilesEnoch/PvZmoD_Information_Panel
+!/profilesEnoch/TakistanSoundHard
+!/profilesEnoch/Users
+!/profilesEnoch/WebApiLog
 
 *log*
 **/storage_1/
