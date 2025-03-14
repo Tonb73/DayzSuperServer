@@ -38,6 +38,6 @@
     "NeedGPSItemForHUDCompass": 1,
     "CompassColor": -1,
     "CreateDeathMarker": 1,
-    "PlayerLocationNotifier": 1,
+    "PlayerLocationNotifier": 0,
     "CompassBadgesColor": -1946157056
 }
