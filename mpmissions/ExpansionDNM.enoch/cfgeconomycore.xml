@@ -8,6 +8,10 @@
 		<file name="expansion_events.xml" type="events" />
 	</ce>
 	
+	<ce folder="newContent_ce">
+		<file name="RandomFuelStations_types.xml" type="types" />
+	</ce>
+	
 <!--
 These are rootclasses to be used by economy.
 Do not forget to add attribute act="character", if root class represents character (player, infected, animal)

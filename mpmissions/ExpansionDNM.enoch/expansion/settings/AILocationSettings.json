@@ -619,15 +619,6 @@
         }
     ],
     "ExcludedRoamingBuildings": [
-        "Land_CementWorks_Hall2_Grey",
-        "Land_Factory_Small",
-        "Land_House_1W09",
-        "Land_House_2W03",
-        "Land_HouseBlock_1F4",
-        "Land_Boathouse",
-        "Land_Mine_Building",
-        "Land_Shed_W2",
-        "Land_Tenement_Big"
     ],
     "NoGoAreas": []
 }

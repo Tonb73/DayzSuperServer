@@ -1002,40 +1002,6 @@
             <btn name="kN" />
         </btn>
     </input>
-    <input name="UAToggleAPSI">
-        <btn name="kL">
-            <event name="hold" />
-        </btn>
-    </input>
-    <input name="UAToggleLEHSVisor">
-        <btn name="kK" />
-    </input>
-    <input name="UAToggleLEHSPressure">
-        <btn name="kK">
-            <event name="hold" />
-        </btn>
-    </input>
-    <input name="UAToggleBipod">
-        <btn name="kT" />
-    </input>
-    <input name="UAToggleMagni">
-        <btn name="kI" />
-    </input>
-    <input name="UADayzDogWhistle">
-        <btn name="kAdd" />
-    </input>
-    <input name="UADayzDogFollow">
-        <btn name="kDivide" />
-    </input>
-    <input name="UADayzDogPatrol">
-        <btn name="kMultiply" />
-    </input>
-    <input name="UADayzDogStayHere">
-        <btn name="kSubstract" />
-    </input>
-    <input name="UADayzDogEmoteToggle">
-        <btn name="kNumpad9" />
-    </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
     </input>
@@ -1223,12 +1189,6 @@
     </input>
     <input name="UAExpansionCarRefill">
         <btn name="kR" />
-    </input>
-    <input name="UADayzHorseSpeedUp">
-        <btn name="mWheelUp" />
-    </input>
-    <input name="UADayzHorseSpeedDown">
-        <btn name="mWheelDown" />
     </input>
     <input name="eAICommandMenu">
         <btn name="kT" />

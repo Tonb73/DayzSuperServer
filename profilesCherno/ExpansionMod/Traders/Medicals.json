@@ -12,7 +12,8 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Medical"
+        "Medical",
+		"MedicineInedia"
     ],
     "Items": {}
 }
