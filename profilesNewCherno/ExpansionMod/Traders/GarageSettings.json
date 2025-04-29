@@ -1,0 +1,14 @@
+{
+    "m_Version": 12,
+    "DisplayName": "",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 0,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "",
+    "Currencies": [],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [],
+    "Items": {}
+}

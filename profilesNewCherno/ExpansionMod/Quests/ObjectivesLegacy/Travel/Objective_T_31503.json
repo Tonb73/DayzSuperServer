@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1503,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите упавший вертолет",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+            224,
+            151,
+            3203
+    ],
+    "MaxDistance": 30,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1506,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите лагерь контрабандиста",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+            454,
+            81,
+            4183
+    ],
+    "MaxDistance": 25,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

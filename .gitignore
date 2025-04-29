@@ -2,6 +2,7 @@
 /*
 
 # ./profilesCherno/*
+# ./profilesNewCherno/*
 # ./profilesTakistan/*
 
 # But not these files...
@@ -11,7 +12,9 @@
 # etc...
 
 !serverDZCherno.cfg
+!serverDZNewCherno.cfg
 !serverDZTakistan.cfg
+!startNewChernarus.bat
 !startEarlyWinterChernarus.bat
 !startTakistanPlus.bat
 !startEnoch.bat
@@ -21,7 +24,20 @@
 mpmissions/*
 !mpmissions/ExpansionDNM.enoch
 !mpmissions/ExpansionDNM.chernarusplus
+!mpmissions/ExpansionReloaded.chernarusplus
 !mpmissions/ExpansionDNM.TakistanPlus
+
+!/profilesNewCherno
+profilesNewCherno/*
+!/profilesNewCherno/AIMissions
+!/profilesNewCherno/AirRaid
+!/profilesNewCherno/BattlEye
+!/profilesNewCherno/BuildingFortifications
+!/profilesNewCherno/CommunityOnlineTools
+!/profilesNewCherno/EarlyWinterChernarus
+!/profilesNewCherno/EventManagerLog
+!/profilesNewCherno/ExpansionMod
+!/profilesNewCherno/PermissionsFramework
 
 !/profilesCherno
 profilesCherno/*

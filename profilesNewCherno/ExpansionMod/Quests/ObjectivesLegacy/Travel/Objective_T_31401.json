@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1401,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь на поиски цели",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+            6553,
+            414,
+            5600
+    ],
+    "MaxDistance": 25,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

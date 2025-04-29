@@ -1193,9 +1193,6 @@
     <input name="UAExpansionBikeTurbo">
         <btn name="kLShift" />
     </input>
-    <input name="UAExpansionCarHorn">
-        <btn name="kH" />
-    </input>
     <input name="UAExpansionCarRefill">
         <btn name="kR" />
     </input>

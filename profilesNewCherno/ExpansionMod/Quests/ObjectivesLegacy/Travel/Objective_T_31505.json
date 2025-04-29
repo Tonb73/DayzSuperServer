@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1505,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Идите по следам контрабандиста",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+            252,
+            65,
+            3774
+    ],
+    "MaxDistance": 25,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}
