@@ -2,7 +2,7 @@
 <types>
 <!-- Advanced Weapon Scopes Mod Start -->
     <type name="AD_B13Mount">
-        <nominal>5</nominal>
+        <nominal>7</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -30,10 +30,10 @@
         <value name="Tier3"/>			
     </type>	
     <type name="AD_ACOG">
-        <nominal>5</nominal>
+        <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -69,10 +69,10 @@
         <value name="Tier3"/>				
     </type>		
     <type name="AD_SpecterDR">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -108,10 +108,10 @@
         <value name="Tier3"/>				
     </type>		
     <type name="AD_ACOG_RMR">
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -147,7 +147,7 @@
         <value name="Tier4"/>			
     </type>		
     <type name="AD_DHF5">
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>2</min>
@@ -432,7 +432,7 @@
         <value name="Tier4"/>			
     </type>			
     <type name="AD_RMR">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>7</min>
@@ -448,7 +448,7 @@
         <value name="Tier3"/>			
     </type>			
     <type name="AD_RMR_LM">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>5</min>
@@ -490,7 +490,7 @@
         <value name="Tier3"/>			
     </type>			
     <type name="AD_RMR_TM">
-        <nominal>10</nominal>
+        <nominal>7</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>5</min>
@@ -546,10 +546,10 @@
         <value name="Tier3"/>			
     </type>	
     <type name="AD_XPS34">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -588,10 +588,10 @@
         <value name="Tier4"/>				
     </type>		
     <type name="AD_XPS34_HHS">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -630,10 +630,10 @@
         <value name="Tier4"/>				
     </type>	
     <type name="AD_G33">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

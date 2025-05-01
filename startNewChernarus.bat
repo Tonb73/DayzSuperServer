@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-mod=@CF;@Community-Online-Tools;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@sFramework;@sGunplay;@Advanced Weapon Scopes;@sGunplay_AWS;@Tactical Flava;@sGunplay_FLAVA;@GoreZ;@Doc's Car Fixes;@InediaPain;@RaG_Immersive_Vehicles" -profiles=profilesNewCherno -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-mod=@CF;@Community-Online-Tools;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@sFramework;@sVisual;@sGunplay;@Advanced Weapon Scopes;@sGunplay_AWS;@Tactical Flava;@TF-TrueNames;@TF-UAZ3151;@sGunplay_FLAVA;@GoreZ;@Doc's Car Fixes;@InediaPain;@RaG_Immersive_Vehicles;@VAZ-2126;@Arma 2 Helicopters Remastered;@KAMAZ;@Techs 4x4 Hilux;@Building Fortifications" -profiles=profilesNewCherno -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F
