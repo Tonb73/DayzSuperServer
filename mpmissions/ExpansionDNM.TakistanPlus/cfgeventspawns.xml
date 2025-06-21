@@ -32,6 +32,12 @@
 		<pos x="2953" z="1163" a="0" group="AlHalalCamp" /> <!--  ChakChak -->
 		<pos x="11420" z="2306" a="0" group="AlHalalCamp" /> <!--  AzZablah -->
 	</event>
+	
+	<event name="ConwoyFight">
+		<pos x="11916" z="11264" a="0" group="AlHalalCamp" /> <!--  Rasman  -->	
+	</event>
+	
+	
 	<!--  LadaPickup Vehicles  -->
 	<event name="VehicleNehr_PickupLada">
 		<pos x="9791.880416" z="11456.559607 " a="0.000000" />  

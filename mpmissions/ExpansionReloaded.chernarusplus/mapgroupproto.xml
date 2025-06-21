@@ -15,6 +15,40 @@
 				<default name="clusterMatrix" de="TrajectoryStumps" width="12" height="12"/>
 -->
 		</defaults>
+		
+		<group name="Land_Underground_Storage_POX" lootmax="10">
+			
+				<usage name="Military" />
+			
+				<container name="lootFloor" lootmax="10">
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<category name="explosives" />
+						<point pos="-2.667725 0.745178 0.938353" range="0.340625" height="0.851563" flags="16" />
+						<point pos="-1.363281 1.730652 0.113769" range="0.203125" height="0.507813" />
+						<point pos="-1.726439 1.730652 3.882813" range="0.237500" height="0.593750" />
+						<point pos="-1.590088 1.730652 -1.161133" range="0.271875" height="0.679688" />
+						<point pos="5.422607 1.501953 -2.364990" range="0.306250" height="0.765625" />
+						<point pos="-7.669434 0.958984 -3.243410" range="0.650000" height="1.625000" />
+						<point pos="7.447265 1.130554 -2.233886" range="0.375000" height="0.937500" />
+						<point pos="-3.325440 1.730652 2.102783" range="0.375000" height="0.937500" />
+						<point pos="-5.305054 2.138062 1.946287" range="0.375000" height="0.937500" />
+						<point pos="2.062988 1.151733 0.381348" range="0.409375" height="1.023438" />
+						<point pos="-3.639160 0.745178 0.901490" range="0.409375" height="1.023438" flags="16" />
+						<point pos="-6.067993 1.115967 -2.867005" range="0.271875" height="0.679688" flags="16" />
+						<point pos="4.395263 1.109497 -2.981445" range="0.203125" height="0.507813" flags="16" />
+				</container>
+				<dispatch dechance="1.000000">
+						<proxy type="Grenade_ChemGas" pos="-3.30603 0.26218 -1.340943" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="Grenade_ChemGas" pos="-3.25939 0.26218 -1.119508" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="Grenade_ChemGas" pos="4.810425 2.198035 0.923217" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+						<proxy type="Grenade_ChemGas" pos="4.863892 2.198035 1.143250" rpy="0.000000 0.000000 0.000000" dechance="0.25" />
+				</dispatch>
+		</group>
+
+		
+		
 		<group name="Land_Shed_M1" lootmax="2">
 				<usage name="Industrial" />
 				<usage name="Farm" />

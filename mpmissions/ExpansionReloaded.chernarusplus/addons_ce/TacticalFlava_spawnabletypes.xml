@@ -56,7 +56,7 @@
 	<type name="TF_M14_EBR">
 		<attachments chance="0.20">
 			<item name="M4_T3NRDSOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.15" />
+			<item name="ACOGOptic" chance="0.0" />
 			<item name="ACOGOptic_6x" chance="0.05" />
 			<item name="M68Optic" chance="0.20" />
 			<item name="TF_EOTechXPSOpticUp_Black" chance="0.10" />
@@ -116,10 +116,10 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="TF_SCAR_Mk20Bttstck_FDE" chance="0.20" />
-			<item name="TF_SCAR_StndBttstck_FDE" chance="0.80" />
+			<item name="TF_SCAR_StndBttstck_FDE" chance="0.90" />
 		</attachments>
 		<attachments chance="0.40">
-			<item name="TF_Mag_SCAR_H_20Rnd_FDE" chance="0.70" />
+			<item name="TF_Mag_SCAR_H_20Rnd_FDE" chance="0.30" />
 			<item name="TF_Mag_SCAR_H_25Rnd_FDE" chance="0.30" />
 		</attachments>
 		<attachments chance="0.10">
@@ -128,7 +128,7 @@
 			<item name="TF_AFG_RIS_Grip_FDE" chance="0.3" />
 		</attachments>
 		<attachments chance="0.10">
-			<item name="TF_SCAR_Suppressor_Black" chance="1.00" />
+			<item name="TF_SCAR_Suppressor_Black" chance="0.00" />
 		</attachments>
 	</type>
 	<type name="TF_SCAR_20_Black">
@@ -203,10 +203,10 @@
 			<item name="TF_HAMROptic_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.5">
 			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.30">
 			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
 			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
 			<item name="TF_SCAR_MREXHndgrd_FDE" chance="0.05" />
@@ -240,7 +240,7 @@
 			<item name="TF_HAMROptic_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.5">
 			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -274,10 +274,10 @@
 			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.50">
 			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.5">
 			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
@@ -304,10 +304,10 @@
 			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.5">
 			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.5">
 			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
@@ -338,10 +338,10 @@
 			<item name="TF_HAMROptic_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.5">
 			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
 			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
 			<item name="TF_SCAR_MREXHndgrd_FDE" chance="0.05" />
@@ -371,10 +371,10 @@
 			<item name="TF_HAMROptic_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.10" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_ADDHndgrd" chance="0.05" />
 			<item name="TF_SCAR_StndHndgrd" chance="0.90" />
 			<item name="TF_SCAR_MREXHndgrd_Black" chance="0.05" />
@@ -402,10 +402,10 @@
 			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_StndBttstck_FDE" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
@@ -428,10 +428,10 @@
 			<item name="TF_EOTechXPSOpticDown_Black" chance="0.10" />
 			<item name="TF_DeltaPointOptic_Black" chance="0.20" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_StndBttstck_Black" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_SCAR_StndHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
@@ -453,10 +453,10 @@
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
@@ -468,10 +468,10 @@
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.30">
@@ -483,10 +483,10 @@
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
@@ -501,10 +501,10 @@
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
@@ -519,10 +519,10 @@
 			<item name="KashtanOptic" chance="0.50" />
 			<item name="PSO11Optic" chance="0.30" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="AK_PlasticHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
@@ -713,10 +713,10 @@
 	<!-- AR-10 -->
 
 	<type name="TF_MK47_CQBR">
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_M4_CMMG_RIPBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_AR10_CMMG9Hndgrd_MLOCK" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -735,10 +735,10 @@
 		</attachments>
 	</type>
 	<type name="TF_MK47">
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_M4_CMMG_RIPBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_AR10_CMMG15Hndgrd_MLOCK" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
@@ -759,14 +759,14 @@
 		</attachments>
 	</type>
 	<type name="TF_SR25">
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_M4CraneBttstck" chance="1.00" />
 		</attachments>
-		<attachments chance="1.00">
+		<attachments chance="0.7">
 			<item name="TF_AR10_KACHndgrd_RIS" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ACOGOptic" chance="0.80" />
+			<item name="ACOGOptic" chance="0.0" />
 			<item name="TF_HAMROptic_Black" chance="0.20" />
 		</attachments>
 		<attachments chance="0.10">

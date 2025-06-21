@@ -1070,8 +1070,8 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="ExpansionGyrocopterWreck">
-        <lifetime>1200</lifetime>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <lifetime>120000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="10" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<!-- BOATS -->
 	<type name="ExpansionUtilityBoat">
@@ -1999,7 +1999,7 @@
 	<!-- EXPANSION ITEM TYPES -->
 	<!-- VEHICLE PARTS -->
 	<type name="ExpansionHelicopterBattery">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2025,7 +2025,7 @@
 		<usage name="Military"/>
     </type>
 	<type name="ExpansionIgniterPlug">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2038,7 +2038,7 @@
 		<usage name="Military"/>
     </type>
 	<type name="ExpansionHydraulicHoses">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>43200</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2077,10 +2077,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZWheel">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2177,10 +2177,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="ExpansionUAZDoorHood">
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2189,10 +2189,10 @@
         <usage name="Industrial" />
     </type>
 	<type name="ExpansionUAZDoorDriver">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2201,10 +2201,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCoDriver">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2213,10 +2213,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo1">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2225,10 +2225,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo2">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2237,10 +2237,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="ExpansionUAZDoorHood_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2249,10 +2249,10 @@
         <usage name="Industrial" />
     </type>
 	<type name="ExpansionUAZDoorDriver_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2261,10 +2261,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCoDriver_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2273,10 +2273,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo1_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2285,10 +2285,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo2_Black">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2297,10 +2297,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="ExpansionUAZDoorHood_LightGreen">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2309,10 +2309,10 @@
         <usage name="Industrial" />
     </type>
 	<type name="ExpansionUAZDoorDriver_LightGreen">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2321,10 +2321,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCoDriver_LightGreen">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2333,10 +2333,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo1_LightGreen">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2345,10 +2345,10 @@
         <usage name="Industrial"/>
     </type>
 	<type name="ExpansionUAZDoorCargo2_LightGreen">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

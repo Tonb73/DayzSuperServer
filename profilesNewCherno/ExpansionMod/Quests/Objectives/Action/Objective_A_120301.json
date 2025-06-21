@@ -1,0 +1,14 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20301,
+    "ObjectiveType": 10,
+    "ObjectiveText": "Постройте укрытие",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ActionNames": [
+        "ActionBuildShelter"
+    ],
+    "AllowedClassNames": [],
+    "ExcludedClassNames": [],
+    "ExecutionAmount": 1
+}

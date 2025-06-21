@@ -2,7 +2,7 @@
 <types>
 <!-- Advanced Weapon Scopes Mod Start -->
     <type name="AD_B13Mount">
-        <nominal>7</nominal>
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -30,10 +30,10 @@
         <value name="Tier3"/>			
     </type>	
     <type name="AD_ACOG">
-        <nominal>10</nominal>
+        <nominal>6</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -69,10 +69,10 @@
         <value name="Tier3"/>				
     </type>		
     <type name="AD_SpecterDR">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

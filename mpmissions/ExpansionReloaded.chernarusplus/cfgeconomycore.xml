@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
-
-
-	<ce folder="addons_ce">
+<ce folder="addons_ce">
 		<!--EXPANSION-->
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 		<!--EXPANSION-->
 		
+		<!--MusicMod-->
+		<file name="ZenCassette_types.xml" type="types" />
+		<!--MusicMod-->
+		
 		<!--HILUX-->
 		<file name="Hilux_types.xml" type="types" />
 		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="Hilux_events.xml" type="events" />
 		<!--HILUX-->
+		
+		<!--UAZHLEB-->
+		<file name="uazhleb_types.xml" type="types" />
+		<file name="uazhleb_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="uazhleb_events.xml" type="events" />
+		<!--UAZHLEB-->
+		
+		<!--IMPALA-->
+		<file name="impalaSex_types.xml" type="types" />
+		<file name="impalaSex_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="impalaSex_events.xml" type="events" />
+		<!--IMPALA-->
 		
 		<!--EXT-->
 		<file name="ext_types.xml" type="types" />
@@ -27,16 +41,22 @@
 		<file name="Kamaz_events.xml" type="events" />
 		<!--KAMAZ-->
 		
+		<!--HMMWV-->
+		<file name="HMMWV_types.xml" type="types" />
+		<file name="HMMWV_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="HMMWV_events.xml" type="events" />
+		<!--HMMWV-->
+		
+		<!--LAMV-->
+		<file name="lamv_types.xml" type="types" />
+		<file name="lamv_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="lamv_events.xml" type="events" />
+		<!--LAMV-->
+		
 		<!--TF-->
 		<file name="TacticalFlava_types.xml" type="types" />
 		<file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
 		<!--TF-->
-		
-		<!--UAZ-->
-		<file name="uaz3151_types.xml" type="types" />
-		<file name="uaz3151_spawnabletypes.xml" type="spawnabletypes" />
-		<file name="uaz3151_events.xml" type="events" />
-		<!--UAZ-->
 		
 		<!--VAZ-->
 		<file name="vaz2126_types.xml" type="types" />
@@ -52,6 +72,10 @@
 		<file name="InediaPain_types.xml" type="types" />
 		<!--INEDIAPAIN-->
 		
+		<!--TakistanClothes---->
+		<file name="takistanClothing_types.xml" type="types" />
+		<!--TakistanClothes-->
+		
 		<!--AWD-->
 		<file name="AdvancedOptics_types.xml" type="types" />
 		<!--AWD-->
@@ -63,7 +87,6 @@
 		
 		
 	</ce>
-
 
 	<classes>
 <!--

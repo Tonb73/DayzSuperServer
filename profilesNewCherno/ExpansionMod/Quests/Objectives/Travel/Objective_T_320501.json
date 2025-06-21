@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20501,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Проберитесь в больницу",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10277,
+        24,
+        2302
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Больница",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

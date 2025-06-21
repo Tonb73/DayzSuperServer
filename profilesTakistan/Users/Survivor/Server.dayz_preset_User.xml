@@ -1005,26 +1005,28 @@
             <btn name="kN" />
         </btn>
     </input>
+    <input name="SUA_ADSWeaponInspect" />
     <input name="UAToggleBipod">
         <btn name="kT" />
     </input>
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
-    <input name="UAZenMusic">
-        <btn name="kK" />
+    <input name="UAToggleSleeves">
+        <btn name="kO" />
     </input>
-    <input name="UAZenMusicUp">
-        <btn name="kAdd" />
-    </input>
-    <input name="UAZenMusicDn">
-        <btn name="kSubstract" />
+    <input name="UAToggleNVGPosition">
+        <btn name="kSemicolon" />
     </input>
     <input name="UAToggleHeadlightHighBeam">
         <btn name="kL" />
     </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />
+    </input>
+    <input name="UAExpansionConfirm">
+        <btn name="kReturn" />
+        <btn name="kNumpadEnter" />
     </input>
     <input name="UAExpansionMapDeleteMarker">
         <btn name="kDelete" />
@@ -1213,6 +1215,15 @@
     </input>
     <input name="UAToggleAUXlight">
         <btn name="kO" />
+    </input>
+    <input name="UAZenMusic">
+        <btn name="kK" />
+    </input>
+    <input name="UAZenMusicUp">
+        <btn name="kAdd" />
+    </input>
+    <input name="UAZenMusicDn">
+        <btn name="kSubstract" />
     </input>
     <input name="eAICommandMenu">
         <btn name="kT" />

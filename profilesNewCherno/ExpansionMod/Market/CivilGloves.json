@@ -1,0 +1,71 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Перчатки",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "surgicalgloves_blue",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 10,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "surgicalgloves_lightblue",
+                "surgicalgloves_green",
+                "surgicalgloves_white"
+            ]
+        },
+        {
+            "ClassName": "workinggloves_yellow",
+            "MaxPriceThreshold": 50,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "workinggloves_black",
+                "workinggloves_beige",
+                "workinggloves_brown"
+            ]
+        },
+
+        {
+            "ClassName": "woolgloves_green",
+            "MaxPriceThreshold": 170,
+            "MinPriceThreshold": 170,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "woolgloves_black",
+                "woolgloves_tan",
+                "woolgloves_white"
+            ]
+        },
+        {
+            "ClassName": "woolglovesfingerless_green",
+            "MaxPriceThreshold": 70,
+            "MinPriceThreshold": 70,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "woolglovesfingerless_black",
+                "woolglovesfingerless_tan",
+                "woolglovesfingerless_white"
+            ]
+        }
+    ]
+}

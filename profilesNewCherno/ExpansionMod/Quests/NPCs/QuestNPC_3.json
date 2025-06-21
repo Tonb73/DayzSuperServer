@@ -1,28 +1,34 @@
 {
     "ConfigVersion": 6,
     "ID": 3,
-    "ClassName": "ExpansionQuestBoardLarge",
+    "ClassName": "ExpansionQuestNPCAIRolf",
     "Position": [
-        3706.610107421875,
-        403.25,
-        5983.39990234375
+        10161,
+        3.504364,
+        1658.915527
     ],
     "Orientation": [
-        170.99000549316407,
+        0,
         0.0,
         0.0
     ],
-    "NPCName": "Quest Board",
-    "DefaultNPCText": "There is nothing to do here for you...",
-    "Waypoints": [],
+    "NPCName": "Олег - Титаник",
+    "DefaultNPCText": "Что надо?",
+    "Waypoints": [
+        [
+         10161,
+        3.504364,
+        1658.915527
+        ]
+    ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "",
+    "NPCLoadoutFile": "QuestNpc_3_OlegTitanic",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,
     "NPCQuestCompleteEmoteID": 39,
     "NPCFaction": "InvincibleObservers",
-    "NPCType": 1,
+    "NPCType": 2,
     "Active": 1
 }

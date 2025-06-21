@@ -4,10 +4,10 @@
     <!-- OPTICS -->
 
     <type name="TF_ElcanSpecterDROptic_FDE"> 
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -18,10 +18,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_ElcanSpecterDROptic_Black"> 
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -32,7 +32,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_ElcanSpecterDR_6xOptic_FDE"> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -46,7 +46,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_ElcanSpecterDR_6xOptic_Black"> 
-        <nominal>2</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -60,10 +60,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_EOTechXPSOpticDown_Black">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -85,10 +85,10 @@
         <category name="weapons"/>
     </type>
     <type name="TF_DeltaPointOptic_Black">
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -100,10 +100,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_HAMROptic_Black">
-        <nominal>15</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -126,10 +126,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_PK122_ValdayOptic">
-        <nominal>10</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -141,10 +141,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_OKP7Optic">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -156,10 +156,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_M4_ColtA2Optic">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -174,7 +174,7 @@
     <!-- BUTTSTOCKS -->
     
     <type name="TF_SCAR_Mk20Bttstck_FDE">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -186,7 +186,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_Mk20Bttstck_Black">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -210,10 +210,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_StndBttstck_FDE"><!-- 100% chance of spawning in spawnabletypes.xml -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -222,10 +222,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_StndBttstck_Black"><!-- 100% chance of spawning in spawnabletypes.xml -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -234,10 +234,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_VadapterBttstck">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -246,10 +246,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_AdapterBttstck"><!-- Does not work with vanilla AK--> 
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -258,10 +258,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AN94_AdapterBttstck">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -270,7 +270,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_MVRIBttstck"> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -282,7 +282,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_Zenit_PT1Bttstck"> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -294,7 +294,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_MagpulZhukovBttstck"> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -306,7 +306,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AN94_PlasticBttstck">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -318,10 +318,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_ADARBttstck"><!-- Does not work with vanilla M4--><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -330,7 +330,7 @@
         <usage name="Military"/>
     </type>
      <type name="TF_M4_CMMG_RIPBttstck">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -342,10 +342,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4CraneBttstck">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -354,7 +354,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_B5PrecisionBttstck">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -366,7 +366,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_FABDGLCoreBttstck">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -378,7 +378,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_MagpulPRSGen3Bttstck_Black">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -390,7 +390,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_MagpulPRSGen3Bttstck_Grey">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -402,10 +402,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M16_Bttstck"><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -414,7 +414,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_CNCC39Bttstck">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -426,7 +426,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_ZenitPT2Bttstck">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -438,10 +438,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_WoodBttstck"><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -450,10 +450,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKP_PlasticBttstck"><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -600,10 +600,10 @@
     <!-- GRIPS -->
 
     <type name="TF_SAW_RIS_Grip_FDE"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -612,10 +612,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SAW_RIS_Grip_Black"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -684,10 +684,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_BCM_MLOCK_Grip_Black"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -696,10 +696,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_RVG_RIS_Grip_FDE"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -708,10 +708,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_RVG_RIS_Grip_Black"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -720,10 +720,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_ZenitRK1B25U_RIS_Grip"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -735,7 +735,7 @@
     <!-- HANDGUARDS --> 
 
     <type name="TF_SCAR_ADDHndgrd">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -747,7 +747,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_MREXHndgrd_FDE">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -759,7 +759,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_MREXHndgrd_Black">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -771,10 +771,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_StndHndgrd"><!-- 100% chance of spawning in spawnabletypes.xml -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -783,10 +783,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AKS74U_WoodHndgrd"><!-- Does not work with vanilla AKS74U--><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -795,7 +795,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AKS74U_CAAHndgrd_RIS"><!-- Does not work with vanilla AKS74U--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -807,7 +807,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AKS74U_ZenitB11PlasticHndgrd_RIS"><!-- Does not work with vanilla AKS74U--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -819,7 +819,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AKS74U_ZenitB11WoodHndgrd_RIS"><!-- Does not work with vanilla AKS74U--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -831,7 +831,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_ZenitB30B31Hndgrd_RIS">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -843,7 +843,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_MagpulMOEHndgrd_MLOCK">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -855,7 +855,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_MagpulZhukovHndgrdU_MLOCK">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -867,7 +867,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_ZenitB10MB19Hndgrd_RIS">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -879,10 +879,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_CMMG15Hndgrd_MLOCK"><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -891,10 +891,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_CMMG9Hndgrd_MLOCK"><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -903,10 +903,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_KACHndgrd_RIS"><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -915,7 +915,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_LancerHndgrd_MLOCK">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -927,7 +927,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_NoveskeHndgrd_Short_RIS">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -939,7 +939,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_NoveskeHndgrd_Long_RIS">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -951,7 +951,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AR10_URXHndgrd_MLOCK">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -963,10 +963,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_ADARWoodHndgrd"><!-- Does not work with vanilla M4--><!-- 100% chance of spawning in spawnabletypes.xml --> 
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -975,7 +975,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_DD12Hndgrd_RIS_FDE"><!-- Does not work with vanilla M4--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -987,7 +987,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_DD9Hndgrd_RIS_FDE"><!-- Does not work with vanilla M4--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -999,7 +999,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_DDFSPHndgrd_RIS_FDE"><!-- Does not work with vanilla M4--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1011,7 +1011,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_SMR13Hndgrd_MLOCK_FDE"><!-- Does not work with vanilla M4--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1023,7 +1023,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_SMR9Hndgrd_MLOCK_FDE"><!-- Does not work with vanilla M4--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1035,7 +1035,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4_KACHndgrd_RIS"><!-- Does not work with vanilla M4--> 
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1059,7 +1059,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_ZenitB50Hndgrd_RIS">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1071,7 +1071,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKP_CNCC46Hndgrd_RIS">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1086,7 +1086,7 @@
     <!-- MUZZLES -->   
 
     <type name="TF_SCAR_Suppressor_Black">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1099,10 +1099,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_MakarovPB_Suppressor"><!-- 100% chance of spawning in spawnabletypes.xml -->
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1141,7 +1141,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_MAR10_Suppressor">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1154,7 +1154,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_M4_SOCOMSuppressor">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1167,7 +1167,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_AK_PBS1Suppressor">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1180,10 +1180,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_AEK999_Suppressor"><!-- 100% chance of spawning in spawnabletypes.xml -->
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1193,7 +1193,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_6ch43Compensator">
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1206,7 +1206,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_6ch63Compensator">
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1219,7 +1219,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_6ch76Compensator">
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1232,10 +1232,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_6p20Compensator">
-        <nominal>7</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>4</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1245,7 +1245,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK_ZenitDTK1Compensator">
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1258,7 +1258,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PKM_SAICompensator">
-        <nominal>1</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -1288,10 +1288,10 @@
     <!-- GRENADES -->    
 
     <type name="TF_EMPGrenade">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1326,10 +1326,10 @@
         <usage name="Police"/>
     </type>
     <type name="TF_ChemicalGrenade">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1343,10 +1343,10 @@
     <!-- HELMETS AND COVERS -->    
 
     <type name="TF_6B47Helmet">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1358,10 +1358,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_6B47HelmetCover_EMR">
-        <nominal>15</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1373,10 +1373,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_6B47HelmetCover_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1388,10 +1388,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_LSHZHelmet_OD">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1448,10 +1448,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_MICH2000HelmetCover_Woodland">
-        <nominal>15</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>10</min>
+        <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1477,10 +1477,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_WeldingMask">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1492,10 +1492,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Maska1Helmet">
-        <nominal>8</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1508,10 +1508,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Maska1Visor">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1524,10 +1524,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Maska1SchVisor">
-        <nominal>4</nominal>
+        <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1543,10 +1543,10 @@
     <!-- VESTS -->    
 
     <type name="TF_PlateCarrierVest_EMR"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1555,10 +1555,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_PlateCarrierVest_Coyote"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1567,10 +1567,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh112_EMR">
-        <nominal>20</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>10</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1579,10 +1579,10 @@
         <usage name="Military"/>
     </type>
      <type name="TF_6sh112_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1591,10 +1591,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23_112Vest_GFlora"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1603,10 +1603,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23_112Vest_EMR"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1615,10 +1615,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23_112Vest_GFlora_Syrian"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1627,10 +1627,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23_112Vest_EMR_Syrian"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1639,10 +1639,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B23Vest_GFlora">
-        <nominal>7</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1653,10 +1653,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_6B23Vest_EMR">
-        <nominal>7</nominal>
+        <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1679,10 +1679,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43Vest_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1691,10 +1691,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43Vest_6sh112_EMR"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1703,10 +1703,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43Vest_6sh112_Syrian"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1715,10 +1715,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43Vest_6sh112_EMR_Syrian"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1727,10 +1727,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43Vest_6sh112_Syrian_EMR"><!-- Craftable version -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1739,10 +1739,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_IMTVVest"><!-- In cfgrandompresets.xml  -->
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1910,10 +1910,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43MagPouch_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1923,10 +1923,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6B43GrenPouch_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2342,10 +2342,10 @@
     <!-- BAGS -->    
 
     <type name="TF_CamelBakBag_Black">
-        <nominal>15</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2355,10 +2355,10 @@
         <usage name="Village"/>
     </type>
     <type name="TF_CamelBakBag_Brown">
-        <nominal>15</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2367,7 +2367,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="TF_CamelBakBag_EMR">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2379,7 +2379,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_CamelBakBag_OD">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2391,7 +2391,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_CamelBakBag_Tan">
-        <nominal>5</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -2403,10 +2403,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AVSBag_Coyote">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2415,10 +2415,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AVSBag_Khaki">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2427,10 +2427,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_MAPBag_Khaki">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2439,10 +2439,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_MAPBag_Coyote">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2454,10 +2454,10 @@
     <!-- WEAR--> 
 
     <type name="TF_PMK4GasMask">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2468,10 +2468,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_PMK4GasMask_OD">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2482,7 +2482,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_6sh122Pants_Spring"> 
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2494,10 +2494,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Pants_Autumn">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2506,10 +2506,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Pants_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2518,10 +2518,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Pants_Syrian_EMR"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2530,10 +2530,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Pants_Winter"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2542,10 +2542,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_CargoPantsShort_Black">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2554,10 +2554,10 @@
         <usage name="Town"/>
     </type>
     <type name="TF_CargoPantsShort_MARPAT">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2566,7 +2566,7 @@
         <usage name="Town"/>
     </type>
     <type name="TF_G3CombatPants_RG">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2578,7 +2578,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatPants_MC">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2590,7 +2590,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatPants_WD">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2602,7 +2602,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Spring">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2614,10 +2614,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Autumn">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2626,10 +2626,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2638,10 +2638,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Syrian_EMR"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2650,10 +2650,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_6sh122Jacket_Winter"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2662,7 +2662,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatShirt_RG">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2674,7 +2674,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatShirt_MC">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2686,7 +2686,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_G3CombatShirt_WD">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2698,7 +2698,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_FannyPack_Coyote">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>600</restock>
         <min>2</min>
@@ -2765,10 +2765,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_SWORD_Mk18_Mjolnir">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2777,10 +2777,10 @@
         <usage name="Military"/>
     </type>	
     <type name="TF_FiveSeven">
-        <nominal>10</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2833,10 +2833,10 @@
         <value name="Tier4"/>
     </type> 
     <type name="TF_M1A_Black">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2848,10 +2848,10 @@
         <value name="Tier4"/>
     </type>  
     <type name="TF_M1A_OD">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2863,10 +2863,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_M1A_Tan">
-        <nominal>10</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>5</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2890,10 +2890,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_20_FDE"> <!-- БОЛЬШОЙ СКАР -->  
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2902,10 +2902,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_20_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2914,10 +2914,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_20_Shd">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2926,7 +2926,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_L_FDE"> <!-- СКАР ПОМЕНЬБШЕ -->
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -2938,7 +2938,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_SCAR_L_Black">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
         <min>1</min>
@@ -2950,7 +2950,7 @@
         <usage name="ContaminatedArea"/>
     </type>  
     <type name="TF_SCAR_L_CQC_FDE"> <!-- ваще маленький скар жесть... -->
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -2962,7 +2962,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_SCAR_L_CQC_Black">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -2974,10 +2974,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_SCAR_H_FDE">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2986,10 +2986,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SCAR_H_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2998,10 +2998,10 @@
         <usage name="Military"/>
     </type> 
     <type name="TF_SCAR_H_CQC_FDE">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3010,10 +3010,10 @@
         <usage name="Military"/>
     </type>  
     <type name="TF_SCAR_H_CQC_Black">
-        <nominal>5</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3022,10 +3022,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_OTs_12_Tiss">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>10800</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3051,10 +3051,10 @@
         <value name="Tier4"/>
     </type>  
     <type name="TF_MakarovPB">
-        <nominal>30</nominal>
+        <nominal>53</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>40</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3068,10 +3068,10 @@
         <value name="Tier2"/>
     </type> 
     <type name="TF_M79">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3080,10 +3080,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M79_AOR1">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3092,10 +3092,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK101"><!-- Recommended to remove vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3105,10 +3105,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_AK102"><!-- Recommended to remove vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3118,10 +3118,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_AK103"><!-- Recommended to remove vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3130,10 +3130,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_AK104"><!-- Recommended to remove vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3142,10 +3142,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_AK105"><!-- Recommended to remove vanilla AK--> 
-        <nominal>3</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3156,10 +3156,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_AK105_Bullpup">
-        <nominal>3</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3170,10 +3170,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_AK74M"><!-- Recommended to remove vanilla AK--> 
-        <nominal>3</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3184,10 +3184,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_AKM"><!-- Recommended to remove vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3196,10 +3196,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_AKMN">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3208,10 +3208,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_VPO136"><!-- Recommended to remove vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -3222,10 +3222,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_AKS74U"><!-- Recommended to remove vanilla AKS74U--> 
-        <nominal>20</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3234,7 +3234,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M4A1"><!-- Recommended to remove vanilla M4--> 
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -3246,10 +3246,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_ADAR2_15"><!-- Recommended to remove vanilla M4--> 
-        <nominal>1</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>4</min>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -3272,10 +3272,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_MK47_CQBR">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3284,10 +3284,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_MK47">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3296,10 +3296,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_MP443">
-        <nominal>20</nominal>
+        <nominal>23</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3310,10 +3310,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_VPO190">
-        <nominal>50</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3337,10 +3337,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_M16A4">
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3350,10 +3350,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_M240">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>7200</restock>
-        <min>1</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3398,10 +3398,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SVCh308">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3410,10 +3410,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SVCh">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3422,10 +3422,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_SR25"> 
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3434,10 +3434,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_AK74M">
-        <nominal>3</nominal>
+        <nominal>13</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3462,10 +3462,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_SWORD_Mk18_Mjolnir">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3579,10 +3579,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_SCAR_H_20Rnd_Shd">
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -3624,7 +3624,7 @@
         <value name="Tier4"/>
     </type>
      <type name="TF_Mag_SCAR_H_30Rnd_Black">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -3638,7 +3638,7 @@
         <value name="Tier4"/>
     </type>  
     <type name="TF_Mag_SCAR_H_30Rnd_FDE">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -3652,7 +3652,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_SCAR_H_PMAG25Rnd_Black">
-        <nominal>2</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>1</min>
@@ -3666,10 +3666,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_SCAR_H_Drum50Rnd">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>5</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -3678,7 +3678,7 @@
         <usage name="Military"/>
     </type>
     <type name="TF_Mag_FAL_Drum50Rnd_Black">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>2</min>
@@ -3690,10 +3690,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_Mag_MAR10_10Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>1000</cost>
@@ -3745,10 +3745,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_FiveSeven_20Rnd">
-        <nominal>15</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3759,10 +3759,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_Mag_AK74_60Rnd">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>5</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -3771,7 +3771,7 @@
         <usage name="Military"/>
     </type>  
     <type name="TF_Mag_AK74_45Rnd">
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -3783,7 +3783,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_Mag_AKM_Plastic30Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -3797,7 +3797,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_AKM_30Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>3</nominal>
+        <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -3811,10 +3811,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_AKM_10Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>5</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>7</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -3825,10 +3825,10 @@
         <value name="Tier4"/>
     </type>
 	 <type name="TF_Mag_SWORD_Mk18_10Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>1000</cost>
@@ -3839,7 +3839,7 @@
         <value name="Tier4"/>
     </type> 
     <type name="TF_Mag_AKM_PMAG30Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -3865,10 +3865,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_Mag_M4_STANAG_30Rnd"><!-- Does not work with vanilla M4--> 
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -3973,10 +3973,10 @@
         <value name="Tier3"/>
     </type>
     <type name="TF_Mag_VPO190_4Rnd">
-        <nominal>30</nominal>
+        <nominal>23</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>16</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -3990,10 +3990,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_AK101_Plastic30Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>15</nominal>
+        <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>9</min>
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -4049,7 +4049,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_AKM_Bakelit40Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -4061,7 +4061,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_Mag_AKM_Steel40Rnd"><!-- Does not work with vanilla AK--> 
-        <nominal>1</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -4073,7 +4073,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="TF_Mag_M240_50Rnd">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>1</min>
@@ -4109,10 +4109,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_Mag_SVCh308_10Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>1000</cost>
@@ -4152,10 +4152,10 @@
     <!-- OTHER--> 
 
     <type name="TF_Atlas_Bipod">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4167,10 +4167,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Harris_Bipod">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4182,10 +4182,10 @@
         <value name="Tier4"/>
     </type> 
     <type name="TF_M14_Adapter">
-        <nominal>10</nominal>
+        <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4241,10 +4241,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="TF_NVGoggles_AVS9">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4253,10 +4253,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_NVGoggles_PVS14">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4265,10 +4265,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_NVGoggles_PVS15">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4277,10 +4277,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_NVGoggles_PNV10T">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4303,10 +4303,10 @@
         <usage name="Village"/>
     </type>
     <type name="TF_6B43PelvisArmor">
-        <nominal>5</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4317,10 +4317,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_6B43PelvisArmor_Syrian"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

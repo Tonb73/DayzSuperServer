@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+	<group name="Land_Underground_Storage_POX" pos="14398.425781 193.504623 3254.571045" rpy="0.000000 0.000000 -158.115448" a="-111.885"/>
+
+
     <group name="Land_Misc_FeedShack" pos="80.262581 113.793480 4422.178223" rpy="-0.000000 0.000000 -70.013718" a="160.013718" />
     <group name="Land_Misc_FeedShack" pos="80.261421 411.262756 10449.132813" rpy="-0.000000 0.000000 -58.923214" a="148.923203" />
     <group name="Land_Shed_W2" pos="174.522446 103.526039 2380.768066" rpy="-0.000000 0.000000 160.642838" a="-70.642845" />

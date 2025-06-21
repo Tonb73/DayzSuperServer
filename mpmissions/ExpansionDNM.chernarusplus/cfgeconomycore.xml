@@ -1,17 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
-	<ce folder="expansion_ce">
+
+
+	<ce folder="addons_ce">
+		<!--EXPANSION-->
 		<file name="expansion_types.xml" type="types" />
-		<file name="InediaPain_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
-	</ce>
-	
-	<ce folder="newContent_ce">
+		<!--EXPANSION-->
+		
+		<!--HILUX-->
+		<file name="Hilux_types.xml" type="types" />
+		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Hilux_events.xml" type="events" />
+		<!--HILUX-->
+		
+		<!--UAZHLEB-->
+		<file name="uazhleb_types.xml" type="types" />
+		<file name="uazhleb_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="uazhleb_events.xml" type="events" />
+		<!--UAZHLEB-->
+		
+		<!--IMPALA-->
+		<file name="impalaSex_types.xml" type="types" />
+		<file name="impalaSex_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="impalaSex_events.xml" type="events" />
+		<!--IMPALA-->
+		
+		<!--EXT-->
+		<file name="ext_types.xml" type="types" />
+		<file name="ext_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="ext_events.xml" type="events" />
+		<!--EXT-->
+		
+		<!--KAMAZ-->
+		<file name="Kamaz_types.xml" type="types" />
+		<file name="Kamaz_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Kamaz_events.xml" type="events" />
+		<!--KAMAZ-->
+		
+		<!--TF-->
+		<file name="TacticalFlava_types.xml" type="types" />
+		<file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
+		<!--TF-->
+		
+		<!--UAZ-->
+		<file name="uaz3151_types.xml" type="types" />
+		<file name="uaz3151_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="uaz3151_events.xml" type="events" />
+		<!--UAZ-->
+		
+		<!--VAZ-->
+		<file name="vaz2126_types.xml" type="types" />
+		<file name="vaz2126_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="vaz2126_events.xml" type="events" />
+		<!--VAZ-->
+		
+		<!--RAGVEHICLE---->
+		<file name="RagImmersiveVehicle_types.xml" type="types" />
+		<!--RAGVEHICLE-->
+		
+		<!--INEDIAPAIN---->
+		<file name="InediaPain_types.xml" type="types" />
+		<!--INEDIAPAIN-->
+		
+		<!--AWD-->
 		<file name="AdvancedOptics_types.xml" type="types" />
-		<!--<file name="DayzNewAnimals_types.xml" type="types" />-->
-		<file name="ZenCassette_types.xml" type="types" />
+		<!--AWD-->
+		
+		<!--BF-->
+		<file name="buildingfortifications_types.xml" type="types" />
+		<!--BF-->
+		
+		
+		
 	</ce>
+
+
 	<classes>
 <!--
 These are rootclasses to be used by economy.

@@ -2,9 +2,27 @@
 <events>
 
 	<event name="StaticAlHalalCamp">
-        <nominal>6</nominal>
-        <min>4</min>
-        <max>8</max>
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>6</max>
+        <lifetime>2100</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>100</distanceradius>
+        <cleanupradius>40</cleanupradius>
+        <secondary></secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+        </children>
+    </event>
+	
+	<event name="ConwoyFight">
+        <nominal>3</nominal>
+        <min>1</min>
+        <max>4</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>

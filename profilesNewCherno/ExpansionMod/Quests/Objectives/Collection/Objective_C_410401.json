@@ -1,0 +1,37 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10401,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Найдите медикоменты для лагеря. Медикоменты чаще всего можно встретить в сельских и городских больницах.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "PurificationTablets",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+		{
+            "Amount": 1,
+            "ClassName": "BandageDressing",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+		{
+            "Amount": 1,
+            "ClassName": "PainkillerTablets",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+		{
+            "Amount": 1,
+            "ClassName": "CharcoalTablets",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 1
+}

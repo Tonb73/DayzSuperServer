@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20402,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отыщите следы пропавшей группы",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10263,
+        13,
+        2184
+    ],
+    "MaxDistance": 2.0,
+    "MarkerName": "Пропавшая группа",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,29 +1,29 @@
 {
     "ConfigVersion": 6,
     "ID": 2,
-    "ClassName": "ExpansionQuestNPCAIElias",
+    "ClassName": "ExpansionQuestNPCAIMirek",
     "Position": [
-        3192.199951171875,
-        296.7070007324219,
-        6093.31005859375
+        8982,
+        331.504364,
+        6038.915527
     ],
     "Orientation": [
-        145.0,
+        0,
         0.0,
         0.0
     ],
-    "NPCName": "Steve",
-    "DefaultNPCText": "What do you want? I am busy...",
+    "NPCName": "Дмитрий - Охотник",
+    "DefaultNPCText": "Чего тебе?",
     "Waypoints": [
         [
-            3192.199951171875,
-            296.7070007324219,
-            6093.31005859375
+        8982,
+        331.504364,
+        6038.915527
         ]
     ],
-    "NPCEmoteID": 14,
-    "NPCEmoteIsStatic": 1,
-    "NPCLoadoutFile": "NBCLoadout",
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "QuestNpc_2_WeaponSmith",
     "NPCInteractionEmoteID": 1,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

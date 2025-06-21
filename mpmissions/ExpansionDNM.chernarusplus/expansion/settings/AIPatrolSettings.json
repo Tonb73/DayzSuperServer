@@ -1,8 +1,9 @@
 {
-    "m_Version": 22,
+    "m_Version": 24,
     "Enabled": 1,
+    "FormationScale": -1.0,
     "DespawnTime": 60.0,
-    "RespawnTime": 600,
+    "RespawnTime": 600.0,
     "MinDistRadius": 400.0,
     "MaxDistRadius": 500.0,
     "DespawnRadius": 600.0,
@@ -12,12 +13,89 @@
     "NoiseInvestigationDistanceLimit": -1.0,
     "DamageMultiplier": -1.0,
     "DamageReceivedMultiplier": -1.0,
+    "LoadBalancingCategories": {
+        "Global": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 10,
+                "MaxPatrols": 10
+            },
+            {
+                "MinPlayers": 11,
+                "MaxPlayers": 20,
+                "MaxPatrols": 8
+            },
+            {
+                "MinPlayers": 21,
+                "MaxPlayers": 30,
+                "MaxPatrols": 6
+            },
+            {
+                "MinPlayers": 31,
+                "MaxPlayers": 40,
+                "MaxPatrols": 4
+            },
+            {
+                "MinPlayers": 41,
+                "MaxPlayers": 50,
+                "MaxPatrols": 2
+            },
+            {
+                "MinPlayers": 51,
+                "MaxPlayers": 255,
+                "MaxPatrols": 0
+            }
+        ],
+        "Example": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": -1
+            }
+        ],
+        "Quest": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": -1
+            }
+        ],
+        "ObjectPatrol": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 5
+            }
+        ],
+        "HelicopterWreck": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 3
+            }
+        ],
+        "ContaminatedArea": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 2
+            }
+        ],
+        "Patrol": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 5
+            }
+        ]
+    },
     "ObjectPatrols": [
-		{
+        {
             "Name": "BH_Knight",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_KN",
             "Units": [],
@@ -29,12 +107,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.68,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.6800000071525574,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
-            "DamageReceivedMultiplier": 0.4,
+            "DamageReceivedMultiplier": 0.4000000059604645,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": 50.0,
             "MaxDistRadius": 650.0,
@@ -45,13 +123,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookKingLear"
         },
-		{
+        {
             "Name": "BH_John",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_BH_John",
             "Units": [],
@@ -63,12 +143,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.68,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.6800000071525574,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
-            "DamageReceivedMultiplier": 0.4,
+            "DamageReceivedMultiplier": 0.4000000059604645,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": 50.0,
             "MaxDistRadius": 650.0,
@@ -79,13 +159,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookBilaNemoc"
         },
-		{
+        {
             "Name": "CampHouse_Tier2CB",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_CB",
             "Units": [],
@@ -97,30 +179,31 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 4,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": -1,
-            "AccuracyMax": -1,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
             "DamageReceivedMultiplier": -1.0,
             "CanBeTriggeredByAI": 0,
-            "MinDistRadius": -1,
-            "MaxDistRadius": -1,
-            "DespawnRadius": -1,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 2.0,
-            "Chance": 0.4,
+            "Chance": 0.4000000059604645,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_camp_house_brown"
         },
-			
-		{
+        {
             "Name": "BH_Cowboy",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_CB",
             "Units": [],
@@ -132,8 +215,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.48,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.47999998927116396,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -148,13 +231,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookTheDeserOfWheat"
         },
-		{
+        {
             "Name": "BH_Tolik",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_BH_Tolik",
             "Units": [],
@@ -166,8 +251,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.48,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.47999998927116396,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -182,13 +267,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookThePitAndThePendulum"
         },
-		{
+        {
             "Name": "BH_RoadRaiders",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -200,8 +287,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.48,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.47999998927116396,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -216,13 +303,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookYouth"
         },
-		{
+        {
             "Name": "BH_RoadRaiders_King",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR_King",
             "Units": [],
@@ -234,8 +323,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.48,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.47999998927116396,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -250,13 +339,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookThePitAndThePendulum"
         },
-		{
+        {
             "Name": "QuestEnemyTier1",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -268,8 +359,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.48,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.47999998927116396,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -284,13 +375,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookTheRaven"
         },
-		{
+        {
             "Name": "QuestEnemyTier2",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_Bandit",
             "Units": [],
@@ -302,8 +395,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.48,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.47999998927116396,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -318,13 +411,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookBlackJack"
         },
-		{
+        {
             "Name": "QuestEnemyTier3",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3_Bandit",
             "Units": [],
@@ -336,8 +431,8 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.45,
-            "AccuracyMax": 0.8,
+            "AccuracyMin": 0.44999998807907107,
+            "AccuracyMax": 0.800000011920929,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -352,13 +447,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookTheArtOfWar"
         },
-		{
+        {
             "Name": "QuestEnemyTier4Pendos",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N",
             "Units": [],
@@ -370,8 +467,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -386,13 +483,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookHeartOfDarkness"
         },
-		{
+        {
             "Name": "QuestEnemyTier4Rus",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R",
             "Units": [],
@@ -404,8 +503,8 @@
             "CanBeLooted": 0,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
             "DamageMultiplier": -1.0,
@@ -420,13 +519,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "bldr_prop_BookCrimeAndPunishment"
         },
-		{
+        {
             "Name": "WaterPump_Tier0",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_0",
             "Units": [],
@@ -454,13 +555,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_misc_well_pump_blue"
         },
-		{
+        {
             "Name": "CastleRuin_Tier2KN",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_KN",
             "Units": [],
@@ -488,13 +591,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_castle_bergfrit2"
         },
-		{
+        {
             "Name": "CastleRuin_Tier2KN",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_KN",
             "Units": [],
@@ -522,13 +627,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": " land_castle_stairs_nolc"
         },
-		{
+        {
             "Name": "OilStation_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -556,13 +663,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_fuelstation_build"
         },
-		{
+        {
             "Name": "PoliceStation_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -590,13 +699,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_village_policestation"
         },
-		{
+        {
             "Name": "PoliceStation_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -624,13 +735,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_city_policestation"
         },
-		{
+        {
             "Name": "HospitalStation_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -658,13 +771,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_city_hospital"
         },
-		{
+        {
             "Name": "FirelStation_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -692,6 +807,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "ClassName": "land_city_firestation"
         },
         {
@@ -699,6 +815,7 @@
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N",
             "Units": [],
@@ -710,12 +827,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -726,6 +843,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "HelicopterWreck",
             "ClassName": "Wreck_UH1Y"
         },
         {
@@ -733,6 +851,7 @@
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R",
             "Units": [],
@@ -742,14 +861,14 @@
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
-			"UnlimitedReload": 1,
+            "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -760,13 +879,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "HelicopterWreck",
             "ClassName": "Wreck_Mi8_Crashed"
         },
-		{
+        {
             "Name": "ContaminatedArea_Tier4",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R_NBC",
             "Units": [],
@@ -776,31 +897,33 @@
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
-			"UnlimitedReload": 1,
+            "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
             "DespawnRadius": -1.0,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
-            "Chance": 1,
+            "Chance": 1.0,
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "ContaminatedArea",
             "ClassName": "ContaminatedArea_Static"
         },
-		{
+        {
             "Name": "ContaminatedArea_Tier4",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N_NBC",
             "Units": [],
@@ -810,14 +933,14 @@
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
-			"UnlimitedReload": 1,
+            "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -828,13 +951,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "ContaminatedArea",
             "ClassName": "ContaminatedArea_Static"
         },
-		{
+        {
             "Name": "ContaminatedArea_Tier4",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R_NBC",
             "Units": [],
@@ -844,14 +969,14 @@
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
-			"UnlimitedReload": 1,
+            "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -862,6 +987,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "ContaminatedArea",
             "ClassName": "ContaminatedArea_Dynamic"
         },
         {
@@ -869,6 +995,7 @@
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N_NBC",
             "Units": [],
@@ -878,14 +1005,14 @@
             "Speed": "WALK",
             "UnderThreatSpeed": "SPRINT",
             "CanBeLooted": 1,
-			"UnlimitedReload": 1,
+            "UnlimitedReload": 1,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -896,15 +1023,17 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "ContaminatedArea",
             "ClassName": "ContaminatedArea_Dynamic"
         }
     ],
     "Patrols": [
-		{
+        {
             "Name": "Krasnostav_Trader",
             "Persist": 0,
             "Faction": "Guards",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -932,30 +1061,32 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11864.3,
-                    140.303,
-                    12454.9
+                    11864.2998046875,
+                    140.30299377441407,
+                    12454.900390625
                 ],
-				[
-                    11903.3,
-                    140.303,
-                    12515.9
+                [
+                    11903.2998046875,
+                    140.30299377441407,
+                    12515.900390625
                 ],
-				[
-                    11828.3,
-                    140.303,
-                    12553.9
+                [
+                    11828.2998046875,
+                    140.30299377441407,
+                    12553.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Krasnostav_Trader",
             "Persist": 0,
             "Faction": "InvincibleObservers",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -983,40 +1114,42 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11875.3,
-                    140.303,
+                    11875.2998046875,
+                    140.30299377441407,
                     12434.5
                 ],
-				[
-                    11860.3,
-                    140.603,
+                [
+                    11860.2998046875,
+                    140.60299682617188,
                     12449.5
                 ],
-				[
-                    11853.3,
-                    140.603,
+                [
+                    11853.2998046875,
+                    140.60299682617188,
                     12459.5
                 ],
-				[
-                    11841.3,
-                    140.603,
+                [
+                    11841.2998046875,
+                    140.60299682617188,
                     12459.5
                 ],
-				[
-                    11839.3,
-                    140.603,
+                [
+                    11839.2998046875,
+                    140.60299682617188,
                     12466.5
                 ]
             ]
         },
-		{
+        {
             "Name": "GM_Trader",
             "Persist": 0,
             "Faction": "InvincibleObservers",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -1044,35 +1177,37 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3700.3,
-                    402.303,
+                    3700.300048828125,
+                    402.3030090332031,
                     5959.5
                 ],
-				[
-                    3702.3,
-                    402.603,
+                [
+                    3702.300048828125,
+                    402.6029968261719,
                     5987.5
                 ],
-				[
-                    3714.3,
-                    402.603,
+                [
+                    3714.300048828125,
+                    402.6029968261719,
                     6003.5
                 ],
-				[
-                    3730.3,
-                    401.603,
+                [
+                    3730.300048828125,
+                    401.6029968261719,
                     6013.5
                 ]
             ]
         },
-		{
+        {
             "Name": "Krasnostav_Trader",
             "Persist": 0,
             "Faction": "InvincibleObservers",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -1100,20 +1235,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11904.3,
-                    140.303,
+                    11904.2998046875,
+                    140.30299377441407,
                     12460.5
                 ]
             ]
         },
-		{
+        {
             "Name": "Krasnostav_Trader",
             "Persist": 0,
             "Faction": "InvincibleObservers",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R",
             "Units": [],
@@ -1141,41 +1278,42 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11875.3,
-                    140.303,
+                    11875.2998046875,
+                    140.30299377441407,
                     12434.5
                 ],
-				[
-                    11860.3,
-                    140.603,
+                [
+                    11860.2998046875,
+                    140.60299682617188,
                     12449.5
                 ],
-				[
-                    11853.3,
-                    140.603,
+                [
+                    11853.2998046875,
+                    140.60299682617188,
                     12459.5
                 ],
-				[
-                    11841.3,
-                    140.603,
+                [
+                    11841.2998046875,
+                    140.60299682617188,
                     12459.5
                 ],
-				[
-                    11839.3,
-                    140.603,
+                [
+                    11839.2998046875,
+                    140.60299682617188,
                     12466.5
                 ]
             ]
         },
-		
-		{
+        {
             "Name": "Svetloyarsk_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1203,20 +1341,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13973.3,
-                    3.303,
-                    13507.9
+                    13973.2998046875,
+                    3.302999973297119,
+                    13507.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Rify_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1244,20 +1384,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13561.3,
-                    32.303,
-                    11729.9
+                    13561.2998046875,
+                    32.303001403808597,
+                    11729.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "ChernayaPolyana_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1285,20 +1427,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12105.3,
-                    97.303,
-                    13541.9
+                    12105.2998046875,
+                    97.3030014038086,
+                    13541.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Krasnostav_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1326,20 +1470,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11140.3,
-                    199.303,
-                    12272.9
+                    11140.2998046875,
+                    199.30299377441407,
+                    12272.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Berezino_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1367,20 +1513,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13097.3,
-                    6.303,
-                    10367.9
+                    13097.2998046875,
+                    6.302999973297119,
+                    10367.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Berezhino_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1408,6 +1556,7 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -1417,11 +1566,12 @@
                 ]
             ]
         },
-		{
+        {
             "Name": "Berezino_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1449,20 +1599,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12312.3,
-                    13.303,
-                    9555.9
+                    12312.2998046875,
+                    13.303000450134278,
+                    9555.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Berezino_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1490,20 +1642,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12100.3,
-                    11.303,
-                    9725.9
+                    12100.2998046875,
+                    11.303000450134278,
+                    9725.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MysKrutoy_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -1531,25 +1685,27 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    13380.3,
-                    6.503,
-                    4159.9
+                    13380.2998046875,
+                    6.502999782562256,
+                    4159.89990234375
                 ],
-				[
-                    13206.3,
-                    6.503,
-                    3957.9
+                [
+                    13206.2998046875,
+                    6.502999782562256,
+                    3957.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Electro_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -1577,20 +1733,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10510.3,
-                    6.503,
-                    2334.9
+                    10510.2998046875,
+                    6.502999782562256,
+                    2334.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Electro_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1618,20 +1776,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10265.3,
-                    40.503,
-                    2515.9
+                    10265.2998046875,
+                    40.50299835205078,
+                    2515.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Electro_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1659,20 +1819,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10027.3,
-                    14.503,
-                    1813.9
+                    10027.2998046875,
+                    14.503000259399414,
+                    1813.9000244140626
                 ]
             ]
         },
-		{
+        {
             "Name": "Prigorodki_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1700,20 +1862,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7357.3,
-                    16.503,
-                    2824.9
+                    7357.2998046875,
+                    16.503000259399415,
+                    2824.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Chernogorsk_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1741,20 +1905,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7357.3,
-                    16.503,
-                    2824.9
+                    7357.2998046875,
+                    16.503000259399415,
+                    2824.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Novoselki_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1782,20 +1948,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    6187.3,
-                    69.503,
-                    3276.9
+                    6187.2998046875,
+                    69.50299835205078,
+                    3276.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Dubovo_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1823,20 +1991,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    6625.3,
-                    103.503,
-                    3609.9
+                    6625.2998046875,
+                    103.50299835205078,
+                    3609.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Dubovo_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1864,21 +2034,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    6705.3,
-                    100.503,
-                    3561.9
+                    6705.2998046875,
+                    100.50299835205078,
+                    3561.89990234375
                 ]
             ]
         },
-
-		{
+        {
             "Name": "Vysotovo_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1906,20 +2077,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5909.3,
-                    97.503,
-                    2705.9
+                    5909.2998046875,
+                    97.50299835205078,
+                    2705.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Vysotovo_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1947,21 +2120,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5876.3,
-                    121.503,
-                    2744.9
+                    5876.2998046875,
+                    121.50299835205078,
+                    2744.89990234375
                 ]
             ]
         },
-
-		{
+        {
             "Name": "Komarovo_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -1989,20 +2163,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    6499.3,
-                    6.503,
-                    2484.9
+                    6499.2998046875,
+                    6.502999782562256,
+                    2484.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Dobry_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -2030,20 +2206,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10390.3,
-                    49.503,
-                    3493.9
+                    10390.2998046875,
+                    49.50299835205078,
+                    3493.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Nagornoye_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -2071,20 +2249,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9438.3,
-                    248.503,
-                    14731.9
+                    9438.2998046875,
+                    248.5030059814453,
+                    14731.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Novodmitrovsk_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -2112,20 +2292,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12000.3,
-                    28.503,
-                    14396.9
+                    12000.2998046875,
+                    28.503000259399415,
+                    14396.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Novodmitrovsk_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2153,20 +2335,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11638.3,
-                    50.503,
-                    14577.9
+                    11638.2998046875,
+                    50.50299835205078,
+                    14577.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Novodmitrovsk_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2194,20 +2378,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11073.3,
-                    75.503,
-                    14420.9
+                    11073.2998046875,
+                    75.50299835205078,
+                    14420.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Novodmitrovsk_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2235,20 +2421,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10963.3,
-                    67.503,
-                    14355.9
+                    10963.2998046875,
+                    67.50299835205078,
+                    14355.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Novodmitrovsk_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2276,20 +2464,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    11342.3,
-                    100.503,
-                    14603.9
+                    11342.2998046875,
+                    100.50299835205078,
+                    14603.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Svergino_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -2317,20 +2507,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9682.3,
-                    75.503,
-                    13813.9
+                    9682.2998046875,
+                    75.50299835205078,
+                    13813.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Gvozdno_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2358,20 +2550,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9559.3,
-                    242.503,
-                    11802.9
+                    9559.2998046875,
+                    242.5030059814453,
+                    11802.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "StarSobor_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2399,20 +2593,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5975.3,
-                    302.503,
-                    7893.9
+                    5975.2998046875,
+                    302.50299072265627,
+                    7893.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Pavlovo_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2440,20 +2636,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1691.3,
-                    144.503,
-                    3845.9
+                    1691.300048828125,
+                    144.5030059814453,
+                    3845.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Kozlovka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2481,20 +2679,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4412.3,
-                    236.503,
-                    4682.9
+                    4412.2998046875,
+                    236.5030059814453,
+                    4682.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Kozlovka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2522,20 +2722,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4412.3,
-                    236.503,
-                    4682.9
+                    4412.2998046875,
+                    236.5030059814453,
+                    4682.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "VysokiyKamen_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2563,20 +2765,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10224.3,
-                    57.503,
-                    4018.9
+                    10224.2998046875,
+                    57.50299835205078,
+                    4018.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Polyana_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2604,20 +2808,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10658.3,
-                    210.503,
-                    7999.9
+                    10658.2998046875,
+                    210.5030059814453,
+                    7999.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Gorka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2645,21 +2851,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9692.3,
-                    298.503,
-                    8868.9
+                    9692.2998046875,
+                    298.50299072265627,
+                    8868.900390625
                 ]
             ]
         },
-		
-		{
+        {
             "Name": "Dubrovka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2687,20 +2894,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    10292.3,
-                    166.503,
-                    9553.9
+                    10292.2998046875,
+                    166.5030059814453,
+                    9553.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Drozhino_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -2728,20 +2937,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3470.3,
-                    246.503,
-                    4929.9
+                    3470.300048828125,
+                    246.5030059814453,
+                    4929.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Zelenogorsk_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2769,20 +2980,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2282.3,
-                    188.503,
-                    5133.9
+                    2282.300048828125,
+                    188.5030059814453,
+                    5133.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Zelenogorsk_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -2810,20 +3023,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2519.3,
-                    190.503,
-                    5278.9
+                    2519.300048828125,
+                    190.5030059814453,
+                    5278.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Kamensk_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -2851,20 +3066,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7929.3,
-                    340.503,
-                    14663.9
+                    7929.2998046875,
+                    340.50299072265627,
+                    14663.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Kamensk_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -2892,20 +3109,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7719.3,
-                    361.503,
-                    14829.9
+                    7719.2998046875,
+                    361.50299072265627,
+                    14829.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Zelenogorsk_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2933,20 +3152,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2952.3,
-                    212.503,
-                    5243.9
+                    2952.300048828125,
+                    212.5030059814453,
+                    5243.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Svirigino_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -2974,20 +3195,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9236.3,
-                    78.503,
-                    13594.9
+                    9236.2998046875,
+                    78.50299835205078,
+                    13594.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Severograd_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3015,20 +3238,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8167.3,
-                    112.503,
-                    12751.9
+                    8167.2998046875,
+                    112.50299835205078,
+                    12751.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Pustoshka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -3056,20 +3281,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3073.3,
-                    304.503,
-                    7955.9
+                    3073.300048828125,
+                    304.50299072265627,
+                    7955.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Sinystoe_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -3097,20 +3324,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1554.3,
-                    276.503,
-                    11984.9
+                    1554.300048828125,
+                    276.50299072265627,
+                    11984.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "NovayaPetrovka_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3138,20 +3367,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3635.3,
-                    190.503,
-                    13044.9
+                    3635.300048828125,
+                    190.5030059814453,
+                    13044.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vavilovo_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -3179,20 +3410,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2203.3,
-                    265.503,
-                    11052.9
+                    2203.300048828125,
+                    265.50299072265627,
+                    11052.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "GrozovyPereval_Tier4",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N",
             "Units": [],
@@ -3204,12 +3437,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 6,
             "SniperProneDistanceThreshold": 0.0,
-            "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -3220,20 +3453,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3368.3,
-                    330.503,
-                    15215.9
+                    3368.300048828125,
+                    330.50299072265627,
+                    15215.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -3261,20 +3496,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4092.3,
-                    324.503,
-                    8957.9
+                    4092.300048828125,
+                    324.50299072265627,
+                    8957.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "StaryYar_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3302,20 +3539,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4949.3,
-                    474.503,
-                    15078.9
+                    4949.2998046875,
+                    474.50299072265627,
+                    15078.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Krasnoye_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3343,20 +3582,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5812.3,
-                    473.503,
-                    15227.9
+                    5812.2998046875,
+                    473.50299072265627,
+                    15227.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "TriKresta_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3384,20 +3625,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    366.3,
-                    294.503,
-                    9381.9
+                    366.29998779296877,
+                    294.50299072265627,
+                    9381.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Topolniki_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3425,20 +3668,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2850.3,
-                    216.503,
-                    12373.9
+                    2850.300048828125,
+                    216.5030059814453,
+                    12373.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "RadioZenit_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3466,20 +3711,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8080.3,
-                    458.503,
-                    9324.9
+                    8080.2998046875,
+                    458.50299072265627,
+                    9324.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3507,20 +3754,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1482.3,
-                    440.503,
-                    13640.9
+                    1482.300048828125,
+                    440.50299072265627,
+                    13640.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3548,20 +3797,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    586.3,
-                    501.503,
-                    13646.9
+                    586.2999877929688,
+                    501.50299072265627,
+                    13646.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3589,20 +3840,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1416.3,
-                    459.503,
-                    14465.9
+                    1416.300048828125,
+                    459.50299072265627,
+                    14465.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier4N",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N",
             "Units": [],
@@ -3614,12 +3867,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 6,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -3630,20 +3883,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1676.3,
-                    451.503,
-                    14356.9
+                    1676.300048828125,
+                    451.50299072265627,
+                    14356.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier4N",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_N",
             "Units": [],
@@ -3655,12 +3910,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 6,
             "SniperProneDistanceThreshold": 0.0,
-			"AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -3671,20 +3926,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1809.3,
-                    435.503,
-                    13812.9
+                    1809.300048828125,
+                    435.50299072265627,
+                    13812.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier4R",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R",
             "Units": [],
@@ -3696,12 +3953,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 6,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -3712,20 +3969,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1770.3,
-                    451.503,
-                    14162.9
+                    1770.300048828125,
+                    451.50299072265627,
+                    14162.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryTisy_Tier4R",
             "Persist": 0,
             "Faction": "Mercenaries",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_4_PMC_R",
             "Units": [],
@@ -3737,12 +3996,12 @@
             "CanBeLooted": 1,
             "UnlimitedReload": 6,
             "SniperProneDistanceThreshold": 0.0,
-             "AccuracyMin": 0.8,
-            "AccuracyMax": 0.95,
+            "AccuracyMin": 0.800000011920929,
+            "AccuracyMax": 0.949999988079071,
             "ThreatDistanceLimit": -1.0,
             "NoiseInvestigationDistanceLimit": -1.0,
-            "DamageMultiplier": 1.2,
-            "DamageReceivedMultiplier": 0.8,
+            "DamageMultiplier": 1.2000000476837159,
+            "DamageReceivedMultiplier": 0.800000011920929,
             "CanBeTriggeredByAI": 0,
             "MinDistRadius": -1.0,
             "MaxDistRadius": -1.0,
@@ -3753,20 +4012,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    1553.3,
-                    452.503,
-                    14072.9
+                    1553.300048828125,
+                    452.50299072265627,
+                    14072.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "GlubokoeOzero_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3794,20 +4055,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2230.3,
-                    436.503,
-                    15208.9
+                    2230.300048828125,
+                    436.50299072265627,
+                    15208.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Bashnya_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3835,20 +4098,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4000.3,
-                    375.503,
-                    11799.9
+                    4000.300048828125,
+                    375.50299072265627,
+                    11799.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3876,20 +4141,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3867.3,
-                    328.503,
-                    10884.9
+                    3867.300048828125,
+                    328.50299072265627,
+                    10884.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3917,20 +4184,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    3867.3,
-                    328.503,
-                    10884.9
+                    3867.300048828125,
+                    328.50299072265627,
+                    10884.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3958,20 +4227,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4586.3,
-                    339.503,
-                    10708.9
+                    4586.2998046875,
+                    339.50299072265627,
+                    10708.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -3999,20 +4270,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4755.3,
-                    339.503,
-                    10556.9
+                    4755.2998046875,
+                    339.50299072265627,
+                    10556.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -4040,20 +4313,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4221.3,
-                    338.503,
-                    10266.9
+                    4221.2998046875,
+                    338.50299072265627,
+                    10266.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Vybor_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -4081,20 +4356,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4535.3,
-                    339.503,
-                    9676.9
+                    4535.2998046875,
+                    339.50299072265627,
+                    9676.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Nizhneye_Tier1",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_1",
             "Units": [],
@@ -4122,20 +4399,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    12923.3,
-                    21.503,
-                    8050.9
+                    12923.2998046875,
+                    21.503000259399415,
+                    8050.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "PerevalOreshka_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -4163,20 +4442,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    9894.3,
-                    285.503,
-                    6004.9
+                    9894.2998046875,
+                    285.50299072265627,
+                    6004.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "BiathlonArena_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -4204,20 +4485,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    515.3,
-                    421.503,
-                    11083.9
+                    515.2999877929688,
+                    421.50299072265627,
+                    11083.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryBaseVMC_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -4245,20 +4528,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4525.3,
-                    316.503,
-                    8300.9
+                    4525.2998046875,
+                    316.50299072265627,
+                    8300.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Mogilevka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -4286,20 +4571,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7547.3,
-                    213.503,
-                    5139.9
+                    7547.2998046875,
+                    213.5030059814453,
+                    5139.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Rogovo_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -4327,20 +4614,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    4755.3,
-                    269.503,
-                    6767.9
+                    4755.2998046875,
+                    269.50299072265627,
+                    6767.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "Myshkibo_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -4368,20 +4657,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    2047.3,
-                    257.503,
-                    7322.9
+                    2047.300048828125,
+                    257.50299072265627,
+                    7322.89990234375
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryKamensk_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -4409,20 +4700,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8014.3,
-                    339.503,
-                    14635.9
+                    8014.2998046875,
+                    339.50299072265627,
+                    14635.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "MilitaryKamensk_Tier3",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_3",
             "Units": [],
@@ -4450,20 +4743,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7742.3,
-                    360.503,
-                    14838.9
+                    7742.2998046875,
+                    360.50299072265627,
+                    14838.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Kamensk_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -4491,20 +4786,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7040.3,
-                    350.503,
-                    14482.9
+                    7040.2998046875,
+                    350.50299072265627,
+                    14482.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Arsenyevo_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -4532,20 +4829,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    8417.3,
-                    205.503,
-                    13979.9
+                    8417.2998046875,
+                    205.5030059814453,
+                    13979.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Kalinovka_Tier2",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2",
             "Units": [],
@@ -4573,20 +4872,22 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    7465.3,
-                    229.503,
-                    13746.9
+                    7465.2998046875,
+                    229.5030059814453,
+                    13746.900390625
                 ]
             ]
         },
-		{
+        {
             "Name": "Zaprudnoe_Tier2RR",
             "Persist": 0,
             "Faction": "Raiders",
             "Formation": "",
+            "FormationScale": -1.0,
             "FormationLooseness": 0.0,
             "Loadout": "UPTier_2_RR",
             "Units": [],
@@ -4614,16 +4915,15 @@
             "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
+            "LoadBalancingCategory": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
-                    5413.3,
-                    160.503,
-                    12619.9
+                    5413.2998046875,
+                    160.5030059814453,
+                    12619.900390625
                 ]
             ]
         }
-		
-        
     ]
 }

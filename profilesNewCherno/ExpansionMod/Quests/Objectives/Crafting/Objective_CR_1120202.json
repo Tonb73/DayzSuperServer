@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20202,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Чтобы сделать наживку, используйте костяные крючки и накопайте червей при помощи ножа.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "boneHook"
+    ],
+    "ExecutionAmount": 1
+}
