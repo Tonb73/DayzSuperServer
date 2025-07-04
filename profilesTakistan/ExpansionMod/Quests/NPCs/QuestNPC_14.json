@@ -43,7 +43,7 @@
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "TakUPTier3",
+    "NPCLoadoutFile": "TakContractorsLoadout",
     "NPCInteractionEmoteID": 0,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

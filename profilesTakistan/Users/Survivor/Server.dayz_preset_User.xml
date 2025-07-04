@@ -1006,6 +1006,9 @@
         </btn>
     </input>
     <input name="SUA_ADSWeaponInspect" />
+    <input name="UARadioHolder">
+        <btn name="kB" />
+    </input>
     <input name="UAToggleBipod">
         <btn name="kT" />
     </input>

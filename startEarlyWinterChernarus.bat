@@ -16,7 +16,7 @@ title %serverName% batch
 cd "%serverLocation%"
 echo (%time%) %serverName% started.
 ::Launch parameters (edit end: -config=|-port=|-profiles=|-doLogs|-adminLog|-netLog|-freezeCheck|-filePatching|-BEpath=|-cpuCount=)
-start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-mod=@CF;@Community-Online-Tools;@Dabs Framework;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Advanced Weapon Scopes;@Tactical Flava;@TF-TrueNames;@TF-UAZ3151;@GoreZ;@Doc's Car Fixes;@InediaPain;@RaG_Immersive_Vehicles;@VAZ-2126;@Arma 2 Helicopters Remastered;@KAMAZ;@Techs 4x4 Hilux;@Building Fortifications;@AirRaid;@MBM_ChevyImpala1967;@[CnG]UAZ_452;@Early Winter or late Fall in Chernarus;@Namalsk Survival;@SkyZ - Skybox Overhaul;@Snowy Trees for Early Winter Late Fall;@AI Voice Broadcast [ExpansionAI]" -profiles=profilesOldCherno -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
+start "DayZ Server" /min "DayZServer_x64.exe" -config=%serverConfig% -port=%serverPort% "-mod=@Dabs Framework;@CF;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@DayzReloaded_Mods;@DayzReloaded_CarPack;@DayzReloaded_Content;@Early Winter or late Fall in Chernarus;@Namalsk Survival;@Snowy Trees for Early Winter Late Fall;@AI Voice Broadcast [ExpansionAI]" -profiles=profilesOldCherno -cpuCount=%serverCPU% -dologs -adminlog -netlog -freezecheck
 ::Time in seconds before kill server process (14400 = 4 hours)
 timeout 14390
 taskkill /im DayZServer_x64.exe /F
