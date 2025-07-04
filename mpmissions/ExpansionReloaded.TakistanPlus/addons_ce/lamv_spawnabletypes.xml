@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="LAMV">
+		<attachments chance="1.00">
+			<item name="LAMV_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_WheelDouble" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_WheelDouble" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Doors_Driver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Doors_CoDriver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_doors_Trunk" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_doors_Hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="LAMV_Green">
+		<attachments chance="1.00">
+			<item name="LAMV_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_WheelDouble" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_WheelDouble" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Doors_Driver_Green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Doors_CoDriver_Green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_doors_Trunk_Green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_doors_Hood_Green" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="LAMV_Camo">
+		<attachments chance="1.00">
+			<item name="LAMV_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Wheel" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_WheelDouble" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_WheelDouble" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Doors_Driver_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_Doors_CoDriver_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_doors_Trunk_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LAMV_doors_Hood_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.10" />
+		</attachments>
+	</type>
+</spawnabletypes>

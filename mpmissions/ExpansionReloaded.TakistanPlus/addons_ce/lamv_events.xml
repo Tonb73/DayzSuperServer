@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+    <event name="VehicleLAMV">
+        <nominal>2</nominal>
+        <min>3</min>
+        <max>4</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+			<child lootmax="0" lootmin="0" max="4" min="2" type="LAMV"/>
+			<child lootmax="0" lootmin="0" max="4" min="2" type="LAMV_Camo"/>
+			<child lootmax="0" lootmin="0" max="4" min="2" type="LAMV_Green"/>
+        </children>
+    </event>
+</events>

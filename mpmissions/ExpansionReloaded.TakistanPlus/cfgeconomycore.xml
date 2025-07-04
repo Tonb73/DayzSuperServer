@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+<ce folder="addons_ce">
+		<!--EXPANSION-->
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+		<!--EXPANSION-->
+		
+		<!--MusicMod-->
+		<file name="ZenCassette_types.xml" type="types" />
+		<!--MusicMod-->
+		
+		<!--HILUX-->
+		<file name="Hilux_types.xml" type="types" />
+		<file name="Hilux_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Hilux_events.xml" type="events" />
+		<!--HILUX-->
+		
+		<!--UAZHLEB-->
+		<file name="uazhleb_types.xml" type="types" />
+		<file name="uazhleb_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="uazhleb_events.xml" type="events" />
+		<!--UAZHLEB-->
+		
+		<!--IMPALA-->
+		<file name="impalaSex_types.xml" type="types" />
+		<file name="impalaSex_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="impalaSex_events.xml" type="events" />
+		<!--IMPALA-->
+		
+		<!--EXT-->
+		<file name="ext_types.xml" type="types" />
+		<file name="ext_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="ext_events.xml" type="events" />
+		<!--EXT-->
+		
+		<!--KAMAZ-->
+		<file name="Kamaz_types.xml" type="types" />
+		<file name="Kamaz_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="Kamaz_events.xml" type="events" />
+		<!--KAMAZ-->
+		
+		<!--HMMWV-->
+		<file name="HMMWV_types.xml" type="types" />
+		<file name="HMMWV_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="HMMWV_events.xml" type="events" />
+		<!--HMMWV-->
+		
+		<!--LAMV-->
+		<file name="lamv_types.xml" type="types" />
+		<file name="lamv_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="lamv_events.xml" type="events" />
+		<!--LAMV-->
+		
+		<!--TF-->
+		<file name="TacticalFlava_types.xml" type="types" />
+		<file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
+		<!--TF-->
+		
+		<!--VAZ-->
+		<file name="vaz2126_types.xml" type="types" />
+		<file name="vaz2126_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="vaz2126_events.xml" type="events" />
+		<!--VAZ-->
+		
+		<!--RAGVEHICLE---->
+		<file name="RagImmersiveVehicle_types.xml" type="types" />
+		<!--RAGVEHICLE-->
+		
+		<!--INEDIAPAIN---->
+		<file name="InediaPain_types.xml" type="types" />
+		<!--INEDIAPAIN-->
+		
+		<!--TakistanClothes---->
+		<file name="takistanClothing_types.xml" type="types" />
+		<!--TakistanClothes-->
+		
+		<!--AWD-->
+		<file name="AdvancedOptics_types.xml" type="types" />
+		<!--AWD-->
+		
+		<!--BF-->
+		<file name="buildingfortifications_types.xml" type="types" />
+		<!--BF-->
+		
+		
+		
+	</ce>
+
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+</economycore>
