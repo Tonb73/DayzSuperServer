@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101601,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Найдите 3 свечи зажигания для механика",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 3,
+            "ClassName": "SparkPlug",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

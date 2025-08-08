@@ -42,6 +42,62 @@
                 "hippack_medical",
                 "hippack_party"
             ]
+        },
+        {
+            "ClassName": "FOG_BISON_Belt_CB",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_BISON_Belt_RG",
+                "FOG_BISON_Belt_Black",
+                "FOG_BISON_Belt_MC",
+                "FOG_BISON_Belt_MCB"
+            ]
+        },
+        {
+            "ClassName": "FOG_Belt_RTGFB_CB",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Belt_RTGFB_MC",
+                "FOG_Belt_RTGFB_RG",
+                "FOG_Belt_RTGFB_Black",
+                "FOG_Belt_RTGFB_AOR1",
+                "FOG_Belt_RTGFB_AOR2",
+                "FOG_Belt_RTGFB_ALP"
+            ]
+        },
+        {
+            "ClassName": "FOG_MRB_Belt_CB",
+            "MaxPriceThreshold": 75,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_MRB_Belt_MC",
+                "FOG_MRB_Belt_MCB",
+                "FOG_MRB_Belt_RG",
+                "FOG_MRB_Belt_AOR1",
+                "FOG_MRB_Belt_AOR2",
+                "FOG_MRB_Belt_ATACSAU",
+                "FOG_MRB_Belt_Black",
+                "FOG_MRB_Belt_6CD",
+                "FOG_MRB_Belt_MCT"
+            ]
         }
+
     ]
 }

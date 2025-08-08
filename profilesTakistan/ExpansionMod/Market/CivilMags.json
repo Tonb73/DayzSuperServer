@@ -6,6 +6,28 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
+	{
+            "ClassName": "mag_PM73_30rnd",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "mag_PM73_15rnd",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
          {
             "ClassName": "mag_ij70_8rnd",
             "MaxPriceThreshold": 60,

@@ -16,7 +16,7 @@ void main()
 	weather.GetRain().SetLimits( 0.0, 0.0 );
 	weather.GetFog().SetLimits( 0.0, 0.0 );
 	weather.GetOvercast().SetForecastChangeLimits( 0.1, 0.3 );
-	weather.GetOvercast().SetForecastTimeLimits( 1600, 2100 );
+	weather.GetOvercast().SetForecastTimeLimits( 200, 450 );
 	weather.GetOvercast().Set( 0.0, 0, 0 );
 	weather.GetRain().Set( 0, 0, 0 );
 	weather.GetFog().Set( 0, 0, 0 );
@@ -52,7 +52,7 @@ class CustomMission: MissionServer
 		}
 	}
 
-	/*override void OnInit()
+	override void OnInit()
 	{
 		super.OnInit();
 
@@ -60,11 +60,11 @@ class CustomMission: MissionServer
 		if ( m_EventManager )
 		{
 			// min time between events, max time between events, max number of events at the same time
-			m_EventManager.Run( 900, 2700, 1 );
+			m_EventManager.Run( 1600, 2700, 1 );
 			// registering events and their probability
 			m_EventManager.RegisterEvent( Sandstorm, 1.0 );
 		}
-	}*/
+	}
 
 	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
 	{

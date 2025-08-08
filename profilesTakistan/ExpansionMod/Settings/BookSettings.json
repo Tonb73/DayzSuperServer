@@ -1,13 +1,13 @@
 {
     "m_Version": 5,
-    "EnableStatusTab": 1,
+    "EnableStatusTab": 0,
     "EnablePartyTab": 1,
-    "EnableServerInfoTab": 1,
-    "EnableServerRulesTab": 1,
+    "EnableServerInfoTab": 0,
+    "EnableServerRulesTab": 0,
     "EnableTerritoryTab": 1,
     "EnableBookMenu": 1,
     "CreateBookmarks": 0,
-    "ShowHaBStats": 1,
+    "ShowHaBStats": 0,
     "ShowPlayerFaction": 0,
     "RuleCategories": [
         {

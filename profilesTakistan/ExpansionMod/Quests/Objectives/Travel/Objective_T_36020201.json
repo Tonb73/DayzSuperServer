@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6020201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь на базу ООН",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5655,
+        82,
+        8894
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "База ООН",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

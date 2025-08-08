@@ -43,7 +43,7 @@
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "TakContractorsLoadout",
+    "NPCLoadoutFile": "ReloadedContractorsLoadout",
     "NPCInteractionEmoteID": 0,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

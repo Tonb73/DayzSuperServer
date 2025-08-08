@@ -1,0 +1,62 @@
+{
+    "ConfigVersion": 22,
+    "ID": 101601,
+    "Type": 1,
+    "Title": "3 ужасающих свечи",
+   "Descriptions": [
+"Объявляю награду за 3 свечи зажигания! Внимание, внимание! 100 баксов за одну свечу, но тольк, если принесете 3!",
+"Я местный механик, у меня подошел к концу запас деталей, вот я и набираю потихоньку новых. Сейчас мне требуюутся 3 свечки для зажигания, маленьких таких. Они часто встречаются в брошенных машинах, поищи, а я тебе заплачу!",
+"Отлично, ты нашел запчасти! Теперь хоть уехать можно будет за припасами. Вот твоя награда!"
+],
+    "ObjectiveText": "Найдите 3 свечи для механика",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 300,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID": 101601,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

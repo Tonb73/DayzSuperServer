@@ -6,8 +6,8 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
-		{
-			"ClassName": "TF_PlateCarrierVest_EMR",
+        {
+            "ClassName": "TF_PlateCarrierVest_EMR",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
@@ -19,8 +19,8 @@
                 "TF_PlateCarrierVest_Coyote"
             ]
         },
-		{
-			"ClassName": "TF_6sh112_EMR",
+        {
+            "ClassName": "TF_6sh112_EMR",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
             "SellPricePercent": -1.0,
@@ -32,8 +32,8 @@
                 "TF_6sh112_Syrian"
             ]
         },
-		{
-			"ClassName": "TF_6B23_112Vest_GFlora_Syrian",
+        {
+            "ClassName": "TF_6B23_112Vest_GFlora_Syrian",
             "MaxPriceThreshold": 570,
             "MinPriceThreshold": 570,
             "SellPricePercent": -1.0,
@@ -43,12 +43,12 @@
             "SpawnAttachments": [],
             "Variants": [
                 "TF_6B23_112Vest_EMR_Syrian",
-				"TF_6B23_112Vest_GFlora",
-				"TF_6B23_112Vest_EMR"
+                "TF_6B23_112Vest_GFlora",
+                "TF_6B23_112Vest_EMR"
             ]
         },
-		{
-			"ClassName": "TF_6B23Vest_GFlora",
+        {
+            "ClassName": "TF_6B23Vest_GFlora",
             "MaxPriceThreshold": 270,
             "MinPriceThreshold": 270,
             "SellPricePercent": -1.0,
@@ -58,11 +58,11 @@
             "SpawnAttachments": [],
             "Variants": [
                 "TF_6B23Vest_EMR",
-				"TF_6B43Vest_Syrian"
+                "TF_6B43Vest_Syrian"
             ]
         },
-		{
-			"ClassName": "TF_6B43Vest_6sh112_EMR",
+        {
+            "ClassName": "TF_6B43Vest_6sh112_EMR",
             "MaxPriceThreshold": 650,
             "MinPriceThreshold": 650,
             "SellPricePercent": -1.0,
@@ -72,12 +72,12 @@
             "SpawnAttachments": [],
             "Variants": [
                 "TF_6B43Vest_6sh112_Syrian",
-				"TF_6B43Vest_6sh112_EMR_Syrian",
-				"TF_6B43Vest_6sh112_Syrian_EMR"
+                "TF_6B43Vest_6sh112_EMR_Syrian",
+                "TF_6B43Vest_6sh112_Syrian_EMR"
             ]
         },
-		{
-			"ClassName": "TF_IMTVVest",
+        {
+            "ClassName": "TF_IMTVVest",
             "MaxPriceThreshold": 320,
             "MinPriceThreshold": 320,
             "SellPricePercent": -1.0,
@@ -89,21 +89,8 @@
                 "TF_IMTVVest_Khaki"
             ]
         },
-		{
-			"ClassName": "TF_AVSVest_Coyote",
-            "MaxPriceThreshold": 270,
-            "MinPriceThreshold": 270,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": [
-                "TF_AVSVest_Tagilla"
-            ]
-        },
-		{
-			"ClassName": "TF_JPCVest_MC",
+        {
+            "ClassName": "TF_JPCVest_MC",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
             "SellPricePercent": -1.0,
@@ -115,8 +102,8 @@
                 "TF_JPCVest_Coyote"
             ]
         },
-		{
-			"ClassName": "TF_LVMBAVVest_KH",
+        {
+            "ClassName": "TF_LVMBAVVest_KH",
             "MaxPriceThreshold": 200,
             "MinPriceThreshold": 200,
             "SellPricePercent": -1.0,
@@ -128,8 +115,8 @@
                 ""
             ]
         },
-		{
-			"ClassName": "TF_6B43PelvisArmor",
+        {
+            "ClassName": "TF_6B43PelvisArmor",
             "MaxPriceThreshold": 350,
             "MinPriceThreshold": 350,
             "SellPricePercent": -1.0,
@@ -138,7 +125,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-			"TF_6B43PelvisArmor_Syrian"
+                "TF_6B43PelvisArmor_Syrian"
             ]
         },
         {
@@ -154,7 +141,7 @@
                 "ukassvest_khaki",
                 "ukassvest_olive",
                 "ukassvest_camo",
-				"dzn_ukassvest_white"
+                "dzn_ukassvest_white"
             ]
         },
         {
@@ -167,8 +154,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-				"dzn_smershvest_white"
-			]
+                "dzn_smershvest_white"
+            ]
         },
         {
             "ClassName": "highcapacityvest_black",
@@ -196,6 +183,294 @@
                 "platecarriervest_green",
                 "platecarriervest_black",
                 "platecarriervest_camo"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_AVS_MC",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_AVS_CB",
+                "FOG_Vest_AVS_Black",
+                "FOG_Vest_AVS_RG",
+                "FOG_Vest_AVS_AOR1",
+                "FOG_Vest_AVS_AOR2",
+                "FOG_Vest_AVS_ALP"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_JPC_CB",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_JPC_MC",
+                "FOG_Vest_JPC_Black",
+                "FOG_Vest_JPC_RG",
+                "FOG_Vest_JPC_AOR1",
+                "FOG_Vest_JPC_AOR2",
+                "FOG_Vest_JPC_ALP"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_CPC_CB",
+            "MaxPriceThreshold": 270,
+            "MinPriceThreshold": 270,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_CPC_RG",
+                "FOG_Vest_CPC_Black",
+                "FOG_Vest_CPC_MC",
+                "FOG_Vest_CPC_MCB",
+                "FOG_Vest_CPC_MCA",
+                "FOG_Vest_CPC_MCAL",
+                "FOG_Vest_CPC_AOR1",
+                "FOG_Vest_CPC_AOR2",
+                "FOG_Vest_CPC_ATACS"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_LBT6094_CB",
+            "MaxPriceThreshold": 450,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_LBT6094_MC",
+                "FOG_Vest_LBT6094_Black",
+                "FOG_Vest_LBT6094_RG",
+                "FOG_Vest_LBT6094_Blue",
+                "FOG_Vest_LBT6094_AOR1",
+                "FOG_Vest_LBT6094_AOR2"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_TacTec_CB",
+            "MaxPriceThreshold": 230,
+            "MinPriceThreshold": 230,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_TacTec_OD",
+                "FOG_Vest_TacTec_RG",
+                "FOG_Vest_TacTec_Black",
+                "FOG_Vest_TacTec_Grey",
+                "FOG_Vest_TacTec_MC",
+                "FOG_Vest_TacTec_MCB"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_MMAC_MC",
+            "MaxPriceThreshold": 350,
+            "MinPriceThreshold": 350,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_MMAC_CB",
+                "FOG_Vest_MMAC_Black",
+                "FOG_Vest_MMAC_RG",
+                "FOG_Vest_MMAC_AOR2"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_TV110T_Tan",
+            "MaxPriceThreshold": 270,
+            "MinPriceThreshold": 270,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_TV110T_CB",
+                "FOG_Vest_TV110T_Black",
+                "FOG_Vest_TV110T_RG",
+                "FOG_Vest_TV110T_AU",
+                "FOG_Vest_TV110T_FG",
+                "FOG_Vest_TV110T_MC"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_FCPC_RG",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_FCPC_CB",
+                "FOG_Vest_FCPC_Black",
+                "FOG_Vest_FCPC_Grey",
+                "FOG_Vest_FCPC_MC",
+                "FOG_Vest_FCPC_MCB",
+                "FOG_Vest_FCPC_MCAL",
+                "FOG_Vest_FCPC_MCA",
+                "FOG_Vest_FCPC_MCT",
+                "FOG_Vest_FCPC_AOR1",
+                "FOG_Vest_FCPC_AOR2",
+                "FOG_Vest_FCPC_M81"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_LV119_CB",
+            "MaxPriceThreshold": 240,
+            "MinPriceThreshold": 240,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_LV119_RG",
+                "FOG_Vest_LV119_OD",
+                "FOG_Vest_LV119_Black",
+                "FOG_Vest_LV119_MC",
+                "FOG_Vest_LV119_MCB",
+                "FOG_Vest_LV119_M81"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_LVMBAV_CB",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_LVMBAV_RG",
+                "FOG_Vest_LVMBAV_Black",
+                "FOG_Vest_LVMBAV_Tan"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_PACA_Black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_Thor_Tan",
+            "MaxPriceThreshold": 540,
+            "MinPriceThreshold": 540,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_Thor_Black",
+                "FOG_Vest_Thor_Green",
+                "FOG_Vest_Thor_EMR",
+                "FOG_Vest_Thor_MC",
+                "FOG_Vest_Thor_MCB",
+                "FOG_Vest_Thor_M81"
+
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_Osprey_RG",
+            "MaxPriceThreshold": 650,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_Osprey_Grey",
+                "FOG_Vest_Osprey_CB",
+                "FOG_Vest_Osprey_Black",
+                "FOG_Vest_Osprey_MC",
+                "FOG_Vest_Osprey_MC_Black",
+                "FOG_Vest_Osprey_MCT",
+                "FOG_Vest_Osprey_MCB",
+                "FOG_Vest_Osprey_MCAL",
+                "FOG_Vest_Osprey_M81"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_Gen4_Black",
+            "MaxPriceThreshold": 570,
+            "MinPriceThreshold": 570,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_Gen4_Green",
+                "FOG_Vest_Gen4_Tan",
+                "FOG_Vest_Gen4_EMR",
+                "FOG_Vest_Gen4_UCP",
+                "FOG_Vest_Gen4_NWU",
+                "FOG_Vest_Gen4_MARPAT"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_SSMK4_CB",
+            "MaxPriceThreshold": 360,
+            "MinPriceThreshold": 360,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_SSMK4_RG",
+                "FOG_Vest_SSMK4_Black",
+                "FOG_Vest_SSMK4_Grey",
+                "FOG_Vest_SSMK4_MC",
+                "FOG_Vest_SSMK4_MCA",
+                "FOG_Vest_SSMK4_MCT",
+                "FOG_Vest_SSMK4_M81"
+            ]
+        },
+        {
+            "ClassName": "FOG_Vest_D3CRX_CB",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Vest_D3CRX_RG",
+                "FOG_Vest_D3CRX_Black",
+                "FOG_Vest_D3CRX_Grey"
             ]
         }
     ]

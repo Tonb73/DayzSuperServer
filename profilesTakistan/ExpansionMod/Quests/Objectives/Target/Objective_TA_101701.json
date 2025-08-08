@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101701,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Убейте 10 членов Аль-Халяль",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": -1.0,
+    "Amount": 10,
+    "ClassNames": [
+		"eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Quinn"],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 1,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}

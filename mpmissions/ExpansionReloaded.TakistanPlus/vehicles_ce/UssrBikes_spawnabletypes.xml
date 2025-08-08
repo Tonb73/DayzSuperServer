@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="DadyBikeRF">
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+	</type>
+	
+		<type name="DadyBikeRF_black">
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DadyBikeRF_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+	</type>
+	
+	<type name="IZH_Planeta">
+		<attachments chance="1.00">
+			<item name="IZH_Planeta_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="IZH_Planeta_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="IZH_Planeta_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="IZH_Planeta_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+	</type>
+	
+	
+</types>

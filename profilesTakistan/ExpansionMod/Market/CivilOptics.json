@@ -117,6 +117,32 @@
             "Variants": []
         },
 		{
+            "ClassName": "sportingOptic",
+            "MaxPriceThreshold": 230,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+		{
+            "ClassName": "pso6optic",
+            "MaxPriceThreshold": 230,
+            "MinPriceThreshold": 180,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+		{
             "ClassName": "AD_MRS",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,

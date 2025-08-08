@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6010101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в лагерь беженцев",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        3912,
+        59,
+        10265
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь беженцев",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -672,10 +672,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_BCM_MLOCK_Grip_FDE"><!-- You can return this to the spawn -->
-        <nominal>0</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>14400</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1790,10 +1790,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_JPCVest_MC">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1803,10 +1803,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_JPCVest_Coyote">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3284,10 +3284,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_MK47">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3828,7 +3828,7 @@
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>1000</cost>
@@ -4109,10 +4109,10 @@
         <usage name="Military"/>
     </type>
     <type name="TF_Mag_SVCh308_10Rnd">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>1000</cost>
@@ -4135,10 +4135,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TF_Mag_SWORD_Mk18_10Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>1000</cost>

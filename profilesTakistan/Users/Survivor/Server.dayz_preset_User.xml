@@ -1015,6 +1015,39 @@
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
+    <input name="UADroneMoveForward">
+        <btn name="kW" />
+    </input>
+    <input name="UADroneMoveBackward">
+        <btn name="kS" />
+    </input>
+    <input name="UADroneMoveRightward">
+        <btn name="kD" />
+    </input>
+    <input name="UADroneMoveLeftward">
+        <btn name="kA" />
+    </input>
+    <input name="UADroneMoveUp">
+        <btn name="kQ" />
+    </input>
+    <input name="UADroneMoveDown">
+        <btn name="kZ" />
+    </input>
+    <input name="UADroneFastModificator">
+        <btn name="kLShift" />
+    </input>
+    <input name="UADroneSlowModificator">
+        <btn name="kLControl" />
+    </input>
+    <input name="UADronePowerSwitch">
+        <btn name="kE" />
+    </input>
+    <input name="UADroneNightVision">
+        <btn name="kN" />
+    </input>
+    <input name="UADroneSpecialAction">
+        <btn name="kSpace" />
+    </input>
     <input name="UAToggleSleeves">
         <btn name="kO" />
     </input>

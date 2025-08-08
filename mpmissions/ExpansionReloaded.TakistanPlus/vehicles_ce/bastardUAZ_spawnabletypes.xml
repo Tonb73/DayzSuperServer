@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="CrSk_UAZ_469">
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_tent" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_1" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_bagazhnik" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_kapot" chance="0.40" />
+		</attachments>
+	</type>
+	
+		<type name="CrSk_UAZ_469_Sand">
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_tent" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_1_Sand" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_2_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_1_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_2_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_bagazhnik_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_kapot_Sand" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="CrSk_UAZ_469_BlueWhite">
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_tent" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_1_BlueWhite" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_2_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_1_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_2_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_bagazhnik_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_kapot_BlueWhite" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="CrSk_UAZ_469_OpenTop">
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_tent" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_1_OpenTop" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_2_OpenTop" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_1_OpenTop" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_2_OpenTop" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_bagazhnik" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_kapot" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="CrSk_UAZ_469_OpenTop_Sand">
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_tent" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_1_OpenTop_Sand" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_2_OpenTop_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_1_OpenTop_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_2_OpenTop_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_bagazhnik_Sand" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_kapot_Sand" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="CrSk_UAZ_469_OpenTop_BlueWhite">
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ_469_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_tent" chance="0.5" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_1_OpenTop_BlueWhite" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_1_2_OpenTop_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_1_OpenTop_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_dver_2_2_OpenTop_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_bagazhnik_BlueWhite" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="UAZ469_kapot_BlueWhite" chance="0.40" />
+		</attachments>
+	</type>
+</types>

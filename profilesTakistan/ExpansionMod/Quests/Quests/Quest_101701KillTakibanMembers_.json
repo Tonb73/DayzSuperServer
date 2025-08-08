@@ -1,0 +1,62 @@
+{
+    "ConfigVersion": 22,
+    "ID": 101701,
+    "Type": 1,
+    "Title": "Чистка от ублюдков",
+   "Descriptions": [
+"Управление ООН выдает награду за трупы членов Аль-Халяль!",
+"Убивайте членов этой террорестической организации и получайте солидные выплаты!",
+"Много этих ублюдков убил? Ну и отлично. Держжи, твоя расписка."
+],
+    "ObjectiveText": "Убейте 10 членов боевиков",
+    "FollowUpQuest": -1,
+    "Repeatable": 1,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 1000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID": 101701,
+            "ObjectiveType": 2
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40101],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

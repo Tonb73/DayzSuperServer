@@ -1,0 +1,72 @@
+{
+    "ConfigVersion": 22,
+    "ID": 101301,
+    "Type": 1,
+    "Title": "Мастер Дронов",
+   "Descriptions": [
+"Приветсвую, мне нужна помощь с поиском дрона. На дроне находится очень важная информация, которую нужно вернуть. Плачу много и сразу. Дрон приносите бармену.",
+"Друг, нужна помощь с поиском разбившегося разведовательного дрона. Я служу оператором дрона в ООН, в на очередном задание нагрянула буря, к сожалению связь с дроном потерял и он свалился. Скорее всего, он погребен где-то под песком, у меня есть его последний сигнал, может это тебе поможет его найти. На всякий возьми лопату.",
+"О, ты нашел дрона этого вояки, классный малый, мы с ним иногда в карты играем. Вот, тут твоя награда!"
+],
+    "ObjectiveText": "Найдите и принесите сбитый дрон",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q101301",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 600,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [
+        4
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 101301,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 101301,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 101301,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [50401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

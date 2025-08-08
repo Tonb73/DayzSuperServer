@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101501,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в точку, где последний раз видели машину",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9320,
+        163,
+        10049
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Разбитая машина",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

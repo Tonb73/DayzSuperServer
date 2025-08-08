@@ -23,7 +23,7 @@
     ],
     "NPCEmoteID": 46,
     "NPCEmoteIsStatic": 0,
-    "NPCLoadoutFile": "TakNpcSergant",
+    "NPCLoadoutFile": "ReloadedTakNpcSergant",
     "NPCInteractionEmoteID": 0,
     "NPCQuestCancelEmoteID": 60,
     "NPCQuestStartEmoteID": 58,

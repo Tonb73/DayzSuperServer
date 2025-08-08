@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 60101,
+    "Type": 1,
+    "Title": "",
+   "Descriptions": [
+		"Значит ты сподвижник Аль-Башира? Старик силен духом, но не телом. Если ты хочешь быть с Аль-Халяль, ты должен доказать свою верность! Отправляйся по этим координатам и забери гумманитарный груз, он сильно пригодится нашим боевикам.",
+		"ООН регулярно поставляет гумманитарную помощь различным выжившим, организует небольшие раздачи медикоментов и еды местным. Это все, чтобы поулчить поддержку местных. Мы тут самые местные, поэтому забрать груз в нашу пользу будет справделивым.",
+		"Отлично, отлично. Ты хорошо справился, но это была лишь проверка. Приходи, когда понадобится работа."
+		],
+    "ObjectiveText": "Найдите и заберите гумманитарную помощь",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "TakistanObjects_Quest_q60101",
+    "QuestItems": [],
+    "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 860,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [6],
+    "QuestTurnInIDs": [6],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 6010101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 60101,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 60101,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [40601],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

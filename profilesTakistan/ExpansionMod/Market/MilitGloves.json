@@ -33,6 +33,91 @@
             "Variants": [
                 "omnogloves_brown"
             ]
+        },
+        {
+            "ClassName": "FOG_WinterGloves_Tan",
+            "MaxPriceThreshold": 150,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_WinterGloves_White",
+                "FOG_WinterGloves_Black",
+                "FOG_WinterGloves_CB",
+                "FOG_WinterGloves_RG",
+                "FOG_WinterGloves_MC",
+                "FOG_WinterGloves_MCB",
+                "FOG_WinterGloves_MCAL",
+                "FOG_WinterGloves_Red"
+            ]
+        },
+        {
+            "ClassName": "FOG_FerroGloves_Tan",
+            "MaxPriceThreshold": 130,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_FerroGloves_Grey",
+                "FOG_FerroGloves_Red",
+                "FOG_FerroGloves_Blue",
+                "FOG_FerroGloves_White",
+                "FOG_FerroGloves_White_TanTrim",
+                "FOG_FerroGloves_CB",
+                "FOG_FerroGloves_RG",
+                "FOG_FerroGloves_Black",
+                "FOG_FerroGloves_Black_WhiteTrim",
+                "FOG_FerroGloves_Black_BlueTrim",
+                "FOG_FerroGloves_Black_RedTrim",
+                "FOG_FerroGloves_Black_TanTrim",
+                "FOG_FerroGloves_MC",
+                "FOG_FerroGloves_MCB",
+                "FOG_FerroGloves_M81",
+                "FOG_FerroGloves_AJ"
+            ]
+        },
+        {
+            "ClassName": "FOG_Tactical_Fingerless_Gloves_Green",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Tactical_Fingerless_Gloves_Black",
+                "FOG_Tactical_Fingerless_Gloves_Tan",
+                "FOG_Tactical_Fingerless_Gloves_MC",
+                "FOG_Tactical_Fingerless_Gloves_Red"
+
+            ]
+        },
+        {
+            "ClassName": "FOG_GunGloves_Tan",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 110,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_GunGloves_Grey",
+                "FOG_GunGloves_Black",
+                "FOG_GunGloves_CB",
+                "FOG_GunGloves_RG",
+                "FOG_GunGloves_MC",
+                "FOG_GunGloves_MCB",
+                "FOG_GunGloves_M81",
+                "FOG_GunGloves_AOR2"
+            ]
         }
     ]
 }

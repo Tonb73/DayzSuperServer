@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+	<type name="HMG_GlockConversionKit">
+		<nominal>8</nominal>
+		<min>4</min>
+		<lifetime>28800</lifetime>
+        <restock>0</restock>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+        <usage name="Police"/>
+        <usage name="Hunting"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>
+	<type name="Glock19converted">
+		<lifetime>7200</lifetime>
+		<flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="1" deloot="0" />
+	</type>
+</types>

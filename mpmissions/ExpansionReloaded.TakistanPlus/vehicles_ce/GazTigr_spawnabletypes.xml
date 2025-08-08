@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="CrSk_GAZ_Tigr_M">
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_2" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_2" chance="0.40" />
+		</attachments>
+				<attachments chance="1.00">
+			<item name="GAZTigr_kapot" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_hatch" chance="0.40" />
+		</attachments>
+	</type>
+	
+	
+	<type name="CrSk_GAZ_Tigr_M_Camo">
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_1_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_2_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_1_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_2_Camo" chance="0.40" />
+		</attachments>
+				<attachments chance="1.00">
+			<item name="GAZTigr_kapot_Camo" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_hatch_Camo" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="CrSk_GAZ_Tigr_M_Tan">
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_1_Tan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_2_Tan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_1_Tan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_2_Tan" chance="0.40" />
+		</attachments>
+				<attachments chance="1.00">
+			<item name="GAZTigr_kapot_Tan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_hatch_Tan" chance="0.40" />
+		</attachments>
+	</type>
+	
+	
+	<type name="CrSk_GAZ_Tigr_M_MPTan">
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_koleso" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_1_MPTan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_1_2_MPTan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_1_MPTan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_dver_2_2_MPTan" chance="0.40" />
+		</attachments>
+				<attachments chance="1.00">
+			<item name="GAZTigr_kapot_MPTan" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GAZTigr_hatch_MPTan" chance="0.40" />
+		</attachments>
+	</type>
+	
+</types>

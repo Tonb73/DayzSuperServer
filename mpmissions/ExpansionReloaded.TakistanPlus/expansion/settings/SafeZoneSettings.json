@@ -9,14 +9,14 @@
                 4.599999904632568,
                 12321.0
             ],
-            "Radius": 175.0
+            "Radius": 150.0
         }
     ],
     "PolygonZones": [],
     "CylinderZones": [],
     "ActorsPerTick": 5,
     "DisablePlayerCollision": 0,
-    "DisableVehicleDamageInSafeZone": 1,
+    "DisableVehicleDamageInSafeZone": 0,
     "EnableForceSZCleanup": 1,
     "ItemLifetimeInSafeZone": 900.0,
     "EnableForceSZCleanupVehicles": 0,

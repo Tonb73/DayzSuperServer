@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="kamaz_4310RUS">
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_tent" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_driver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_codriver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_trunk" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="kamaz_4310RUS_kung">
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_tent" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_driver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_codriver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_trunk" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="kamaz_4310RUS_orange">
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_tent" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_driver_orange" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_codriver_orange" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_hood_orange" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_trunk_orange" chance="0.40" />
+		</attachments>
+	</type>
+	
+	
+	<type name="kamaz_4310RUS_kung_oon">
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_Wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_tent" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_driver_oon" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_codriver_oon" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_hood_oon" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="kamaz_4310RUS_doors_trunk_oon" chance="0.40" />
+		</attachments>
+	</type>
+</types>

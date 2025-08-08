@@ -6,6 +6,17 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
+	{
+			"ClassName": "PM73Rak",
+            "MaxPriceThreshold": 550,
+            "MinPriceThreshold": 550,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
 			"ClassName": "TF_M1A_OD",
             "MaxPriceThreshold": 550,

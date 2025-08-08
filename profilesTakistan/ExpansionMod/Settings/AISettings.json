@@ -1,10 +1,10 @@
 {
-    "m_Version": 13,
-    "AccuracyMin": 0.75,
-    "AccuracyMax": 0.8999999761581421,
+    "m_Version": 14,
+    "AccuracyMin": 0.6800000071525574,
+    "AccuracyMax": 0.8600000143051148,
     "ThreatDistanceLimit": 1000.0,
     "NoiseInvestigationDistanceLimit": 500.0,
-    "DamageMultiplier": 0.8999999761581421,
+    "DamageMultiplier": 0.800000011920929,
     "DamageReceivedMultiplier": 0.800000011920929,
     "Admins": [
         "76561199072190350"
@@ -21,5 +21,7 @@
         "West"
     ],
     "LogAIHitBy": 1,
-    "LogAIKilled": 1
+    "LogAIKilled": 1,
+    "EnableZombieVehicleAttackHandler": 1,
+    "EnableZombieVehicleAttackPhysics":1
 }

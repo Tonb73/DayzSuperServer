@@ -6,6 +6,17 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
+		{
+            "ClassName": "R12",
+            "MaxPriceThreshold": 580,
+            "MinPriceThreshold": 580,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
        {
             "ClassName": "m79",
             "MaxPriceThreshold": 1250,

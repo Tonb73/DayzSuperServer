@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6020301,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Доложите Аль-Муалиму об успехе",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4598,
+        5,
+        12319
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Аль-Муалим",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

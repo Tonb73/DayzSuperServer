@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="LUAZ_969">
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_tent" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_driver" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_codriver" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_hood" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_trunk" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="LUAZ_969_blue">
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_wheel" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_tent" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_driver_blue" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_codriver_blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_hood_blue" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="LUAZ_969_doors_trunk_blue" chance="0.40" />
+		</attachments>
+	</type>
+	
+</types>

@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101301,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь в Zavarak и найдите упавший Дрон",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9817,
+        117,
+        11450
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Zavarak",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

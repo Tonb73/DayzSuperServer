@@ -20,43 +20,22 @@
     {
       "ClassName": "FNX45",
       "Include": "",
-      "Chance": 1,
+      "Chance": 0.3,
       "Quantity": {"Min": 0.0, "Max": 0.0},
       "Health": [],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "Mag_FNX45_15Rnd",
-      "Include": "",
-      "Chance": 1,
-      "Quantity": {"Min": 0.0, "Max": 0.0},
-      "Health": [],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "Mag_FNX45_15Rnd",
-      "Include": "",
-      "Chance": 0.5,
-      "Quantity": {"Min": 0.0, "Max": 0.0},
-      "Health": [],
-      "InventoryAttachments": [],
-      "InventoryCargo": [],
-      "ConstructionPartsBuilt": [],
-      "Sets": []
-    },
-    {
-      "ClassName": "Mag_FNX45_15Rnd",
-      "Include": "",
-      "Chance": 0.5,
-      "Quantity": {"Min": 0.0, "Max": 0.0},
-      "Health": [],
-      "InventoryAttachments": [],
+      "InventoryAttachments": [
+        {
+          "ClassName": "Mag_FNX45_15Rnd",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
       "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
@@ -184,6 +163,61 @@
     },
     {
       "ClassName": "Binoculars",
+      "Include": "",
+      "Chance": 0.25,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "InediaPain_HemostaticDressing",
+      "Include": "",
+      "Chance": 0.25,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "InediaPain_Sorbifer",
+      "Include": "",
+      "Chance": 0.25,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "InediaPain_Calcium",
+      "Include": "",
+      "Chance": 0.25,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "InediaPain_Vikasol",
+      "Include": "",
+      "Chance": 0.25,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [],
+      "InventoryCargo": [],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
+    {
+      "ClassName": "InediaPain_Tramadol",
       "Include": "",
       "Chance": 0.25,
       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -9192,7 +9226,7 @@
                   "SlotName": "",
                   "Items": [
                     {
-                      "ClassName": "TF_Mag_AK74_Plastic30Rnd",
+                      "ClassName": "TF_Mag_AK105_Plastic30Rnd",
                       "Include": "",
                       "Chance": 1.0,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -9314,7 +9348,7 @@
       ],
       "InventoryCargo": [
         {
-          "ClassName": "TF_Mag_AK74_Plastic30Rnd",
+          "ClassName": "TF_Mag_AK105_Plastic30Rnd",
           "Include": "",
           "Chance": 0.5,
           "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -10190,19 +10224,7 @@
           ]
         }
       ],
-      "InventoryCargo": [
-        {
-          "ClassName": "TF_Mag_M249_200Rnd",
-          "Include": "",
-          "Chance": 0.5,
-          "Quantity": {"Min": 0.0, "Max": 0.0},
-          "Health": [],
-          "InventoryAttachments": [],
-          "InventoryCargo": [],
-          "ConstructionPartsBuilt": [],
-          "Sets": []
-        }
-      ],
+      "InventoryCargo": [],
       "ConstructionPartsBuilt": [],
       "Sets": []
     },

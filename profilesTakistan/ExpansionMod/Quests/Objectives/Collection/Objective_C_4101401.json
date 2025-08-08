@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101401,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Доставьте машину с грузом в лагерь",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "Barrel_Green",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

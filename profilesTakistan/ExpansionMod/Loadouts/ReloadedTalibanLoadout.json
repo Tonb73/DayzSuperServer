@@ -546,9 +546,9 @@
       "Sets": []
     },
     {
-      "ClassName": "SodaCan_Spite",
+      "ClassName": "AYSA_madBomb",
       "Include": "",
-      "Chance": 0.10000000149011612,
+      "Chance": 0.1,
       "Quantity": {"Min": 0.0, "Max": 0.0},
       "Health": [],
       "InventoryAttachments": [],
@@ -581,6 +581,32 @@
   ],
   "ConstructionPartsBuilt": [],
   "Sets": [
+      {
+      "ClassName": "WEAPON",
+      "Include": "",
+      "Chance": 1.0,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Hands",
+          "Items": [
+            {
+              "ClassName": "AYSA_madBomb",
+              "Include": "",
+              "Chance": 1.0,
+              "Quantity": {"Min": 0.0, "Max": 0.0},
+              "Health": [],
+              "InventoryAttachments": [],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": []
+    },
     {
       "ClassName": "CLOTHING",
       "Include": "",

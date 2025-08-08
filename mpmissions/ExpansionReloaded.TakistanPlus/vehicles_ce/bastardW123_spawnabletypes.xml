@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types> 
+	<type name="Bastard_w13_stock">
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_driverdoor_stock" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_codriverdoor_stock" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_cargo1door_stock" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_cargo2door_stock" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_trunkdoor_stock" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_hooddoor_stock" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="Bastard_w13_black">
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_driverdoor_black" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_codriverdoor_black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_cargo1door_black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_cargo2door_black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_trunkdoor_black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_hooddoor_black" chance="0.40" />
+		</attachments>
+	</type>
+	
+	<type name="Bastard_w13_skin1">
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="oldmercedeswheel_5x120" chance="0.3" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.30" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_driverdoor_skin1" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_codriverdoor_skin1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_cargo1door_skin1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_cargo2door_skin1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_trunkdoor_skin1" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bastard_w123_hooddoor_skin1" chance="0.40" />
+		</attachments>
+	</type>
+	
+</types>
