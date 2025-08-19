@@ -19,7 +19,9 @@
 		"MiscTools",
 		"MiscKits",
 		"MiscContainers",
-		"MiscBattery"
+		"MiscBattery",
+		"MiscBuildingKits",
+		"Drones"
     ],
     "Items": {}
 }

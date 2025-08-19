@@ -1,5 +1,6 @@
 	<!-- Add to types.xml -->
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
 <!--Start Update 3/26/2020 Start -->
 	<type name="BF_DoorBarricadeKit">
         <lifetime>7200</lifetime>
@@ -43,7 +44,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
 <!-- End Update 11/17/2024 End -->
-
+</types>
 
 
 	

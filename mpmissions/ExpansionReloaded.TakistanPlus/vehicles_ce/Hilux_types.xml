@@ -182,7 +182,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
 	 <type name="Techs_Hilux_Driver_Door">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -221,7 +221,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Driver_Door_Silver">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -312,7 +312,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Driver_Door_DFlek">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -325,7 +325,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Driver_Door_Faded">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -403,7 +403,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_CoDriver_Door">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -442,7 +442,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_CoDriver_Door_Silver">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -468,7 +468,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_CoDriver_Door_OD">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -546,7 +546,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_CoDriver_Door_DFlek">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -559,7 +559,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_CoDriver_Door_Faded">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -598,7 +598,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_CoDriver_Door_RU">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -637,7 +637,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Trunk">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -676,7 +676,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Trunk_Silver">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -702,7 +702,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Trunk_OD">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -780,7 +780,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Trunk_DFlek">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -793,7 +793,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Trunk_Faded">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -832,7 +832,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Trunk_RU">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -871,7 +871,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Hood">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -910,7 +910,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Hood_Silver">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -936,7 +936,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Hood_OD">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -1014,7 +1014,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Hood_DFlek">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -1027,7 +1027,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Hood_Faded">
-         <nominal>6</nominal>
+         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
         <min>3</min>
@@ -1066,7 +1066,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Techs_Hilux_Hood_RU">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>
         <min>3</min>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 	<type name="UAZ_452_Wheel">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -21,60 +21,60 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_driverdoor">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_codriverdoor">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo1">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo2">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_trunk">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_hood">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -141,60 +141,60 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_driverdoor_ambulance">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_codriverdoor_ambulance">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo1_ambulance">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo2_ambulance">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_trunk_ambulance">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_hood_ambulance">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -261,120 +261,120 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_driverdoor_police">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_codriverdoor_police">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo1_police">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo2_police">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_trunk_police">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_hood_police">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_driverdoor_grey">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_codriverdoor_grey">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo1_grey">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_cargo2_grey">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_trunk_grey">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 	</type>
 	<type name="UAZ_452_doors_hood_grey">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>3888000</lifetime>
 		<restock>0</restock>
-		<min>3</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>

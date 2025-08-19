@@ -15,7 +15,7 @@
     </type>                                   
     	<!--Аттачменты / Attachments  -->
 	<type name="oldmercedeswheel_5x120">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -25,7 +25,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_driverdoor_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -35,7 +35,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_driverdoor_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -45,7 +45,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_driverdoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -55,7 +55,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="Bastard_w123_codriverdoor_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -65,7 +65,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_codriverdoor_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -75,7 +75,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_codriverdoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -85,7 +85,7 @@
         <usage name="Industrial"/>
     </type>
 	   <type name="Bastard_w123_cargo1door_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -95,7 +95,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo1door_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -105,7 +105,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo1door_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -116,7 +116,7 @@
     </type>
 	
 	 <type name="Bastard_w123_cargo2door_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -126,7 +126,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo2door_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -136,7 +136,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo2door_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -147,7 +147,7 @@
     </type>
 	
 	 <type name="Bastard_w123_trunkdoor_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -157,7 +157,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_trunkdoor_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -167,7 +167,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_trunkdoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -178,7 +178,7 @@
     </type>
 	
 	<type name="Bastard_w123_hooddoor_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -188,7 +188,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_hooddoor_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -198,7 +198,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_hooddoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>

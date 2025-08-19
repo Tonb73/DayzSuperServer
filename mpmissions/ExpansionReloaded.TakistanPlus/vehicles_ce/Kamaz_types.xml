@@ -21,7 +21,7 @@
     </type>  	
     	<!--Аттачменты / Attachments  -->
     <type name="kamaz_4310RUS_Wheel">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -31,7 +31,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_tent">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -41,7 +41,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_driver">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -51,7 +51,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_codriver">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -61,7 +61,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_hood">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -71,7 +71,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_trunk">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -83,7 +83,7 @@
     
 	
 	<type name="kamaz_4310RUS_doors_driver_orange">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -93,7 +93,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_codriver_orange">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -103,7 +103,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_hood_orange">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -113,7 +113,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_trunk_orange">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -125,7 +125,7 @@
 	
 	
 	<type name="kamaz_4310RUS_doors_driver_oon">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -135,7 +135,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_codriver_oon">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -145,7 +145,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_hood_oon">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -155,7 +155,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="kamaz_4310RUS_doors_trunk_oon">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>

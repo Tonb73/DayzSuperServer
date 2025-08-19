@@ -28,7 +28,7 @@
     </type>  	
     	<!--Аттачменты / Attachments  -->
 	<type name="UAZ469_tent">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -38,7 +38,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ_469_koleso">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -48,7 +48,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -58,7 +58,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -68,7 +68,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_2">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -78,7 +78,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="UAZ469_dver_2_1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -88,7 +88,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_2_2">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -99,7 +99,7 @@
     </type>
 	
 	<type name="UAZ469_dver_1_1_OpenTop">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -109,7 +109,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_2_OpenTop">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -119,7 +119,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="UAZ469_dver_2_1_OpenTop">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -129,7 +129,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_2_2_OpenTop">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -139,7 +139,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ469_kapot">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -149,7 +149,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ469_bagazhnik">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -160,7 +160,7 @@
     </type>
 	
 		<type name="UAZ469_dver_1_1_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -170,7 +170,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_1_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -180,7 +180,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_2_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -190,7 +190,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="UAZ469_dver_2_1_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -200,7 +200,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_2_2_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -211,7 +211,7 @@
     </type>
 	
 	<type name="UAZ469_dver_1_1_OpenTop_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -221,7 +221,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_2_OpenTop_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -231,7 +231,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="UAZ469_dver_2_1_OpenTop_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -241,7 +241,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_2_2_OpenTop_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -251,7 +251,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ469_kapot_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -261,7 +261,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ469_bagazhnik_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -273,7 +273,7 @@
 	
 	
 	<type name="UAZ469_dver_1_1_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -283,7 +283,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_1_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -293,7 +293,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_2_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -303,7 +303,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="UAZ469_dver_2_1_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -313,7 +313,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_2_2_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -324,7 +324,7 @@
     </type>
 	
 	<type name="UAZ469_dver_1_1_OpenTop_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -334,7 +334,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_1_2_OpenTop_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -344,7 +344,7 @@
         <usage name="Industrial"/>
     </type>
    <type name="UAZ469_dver_2_1_OpenTop_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -354,7 +354,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="UAZ469_dver_2_2_OpenTop_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -364,7 +364,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ469_kapot_Sand">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -374,7 +374,7 @@
         <usage name="Industrial"/>
     </type>
 	<type name="UAZ469_bagazhnik_BlueWhite">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -386,7 +386,7 @@
 	
 	
     <type name="Bastard_w123_codriverdoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -396,7 +396,7 @@
         <usage name="Industrial"/>
     </type>
 	   <type name="Bastard_w123_cargo1door_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -406,7 +406,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo1door_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -416,7 +416,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo1door_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -427,7 +427,7 @@
     </type>
 	
 	 <type name="Bastard_w123_cargo2door_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -437,7 +437,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo2door_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -447,7 +447,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_cargo2door_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -458,7 +458,7 @@
     </type>
 	
 	 <type name="Bastard_w123_trunkdoor_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -468,7 +468,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_trunkdoor_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -478,7 +478,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_trunkdoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -489,7 +489,7 @@
     </type>
 	
 	<type name="Bastard_w123_hooddoor_stock">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -499,7 +499,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_hooddoor_skin1">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -509,7 +509,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Bastard_w123_hooddoor_black">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>

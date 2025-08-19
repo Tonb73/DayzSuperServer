@@ -5,7 +5,35 @@
         <delay>10</delay>
         <repeat>50</repeat>
         <onconnect>1</onconnect>
-        <text>Thanks for Downloading TakistanPlus	</text>
+        <text>Спасибо что играете на Dayz Reloaded! Я вас правда очень люблю!	</text>
+    </message>
+	
+	<message>
+        <delay>120</delay>
+        <repeat>0</repeat>
+        <onconnect>0</onconnect>
+        <text>Сервер будет перезапущен через 1 час!</text>
+    </message>
+	
+	<message>
+        <delay>150</delay>
+        <repeat>0</repeat>
+        <onconnect>0</onconnect>
+        <text>Сервер будет перезапущен через 30 минут!</text>
+    </message>
+	
+	<message>
+        <delay>165</delay>
+        <repeat>0</repeat>
+        <onconnect>0</onconnect>
+        <text>Сервер будет перезапущен через 15 минут!</text>
+    </message>
+	
+		<message>
+        <delay>175</delay>
+        <repeat>0</repeat>
+        <onconnect>0</onconnect>
+        <text>Сервер будет перезапущен через 5 минут!</text>
     </message>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information

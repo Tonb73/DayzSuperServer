@@ -17,7 +17,7 @@
     </type>                                   
     	<!--Аттачменты / Attachments  -->
     <type name="DadyBikeRF_wheel">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>
@@ -28,7 +28,7 @@
     </type>
 	
 	<type name="IZH_Planeta_wheel">
-        <nominal>6</nominal>
+        <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>3</min>

@@ -386,7 +386,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_Wheel_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -441,7 +441,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_driver_Black">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -452,7 +452,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_codriver_Black">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -463,7 +463,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo1_Black">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -474,7 +474,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo2_Black">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -485,7 +485,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_hood_Black">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -496,7 +496,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_trunk_Black">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -507,7 +507,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_trunk_Baby">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -518,7 +518,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_driver_White">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -529,7 +529,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_codriver_White">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -540,7 +540,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo1_White">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -551,7 +551,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo2_White">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -562,7 +562,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_hood_White">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -573,7 +573,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_trunk_White">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1178,7 +1178,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_driver_White_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1189,7 +1189,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_codriver_White_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1200,7 +1200,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo1_White_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1211,7 +1211,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo2_White_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1222,7 +1222,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_hood_White_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1233,7 +1233,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_trunk_White_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1640,7 +1640,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_driver_Plum_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1651,7 +1651,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_codriver_Plum_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1662,7 +1662,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo1_Plum_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1673,7 +1673,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo2_Plum_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1684,7 +1684,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_hood_Plum_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1695,7 +1695,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_trunk_Plum_Rusty">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1772,7 +1772,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_driver_Pipsi_RaceCar">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1783,7 +1783,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_codriver_Pipsi_RaceCar">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1794,7 +1794,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo1_Pipsi_RaceCar">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1805,7 +1805,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_cargo2_Pipsi_RaceCar">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1816,7 +1816,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_hood_Pipsi_RaceCar">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>
@@ -1827,7 +1827,7 @@
 		<category name=""/>
 	</type>
 	<type name="MBM_ChevyImpala_doors_trunk_Pipsi_RaceCar">
-		<nominal>6</nominal>
+		<nominal>3</nominal>
 		<lifetime>14400</lifetime>
 		<restock>1800</restock>
 		<min>3</min>

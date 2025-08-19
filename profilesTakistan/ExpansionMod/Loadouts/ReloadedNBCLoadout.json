@@ -689,63 +689,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ReflexOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ACOGOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -801,7 +745,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -829,7 +773,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1042,7 +986,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1070,35 +1014,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1154,7 +1070,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1334,7 +1278,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1362,35 +1306,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1446,7 +1362,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1659,7 +1575,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1687,35 +1603,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -1771,7 +1659,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2063,7 +1979,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2091,35 +2007,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2175,7 +2063,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2293,7 +2209,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.30000001192092898,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2304,7 +2220,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.15000000596046449,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2478,7 +2394,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.30000001192092898,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2489,7 +2405,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.15000000596046449,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2969,7 +2885,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -2997,35 +2913,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -3081,7 +2969,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -3305,7 +3221,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -3333,35 +3249,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -3417,7 +3305,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -4073,7 +3989,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -4101,35 +4017,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -4185,7 +4073,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -4376,7 +4292,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic",
+                      "ClassName": "AD_ACOG",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -4404,35 +4320,7 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ExpansionEXPS3HoloOptic",
-                      "Include": "",
-                      "Chance": 0.5,
-                      "Quantity": {"Min": 0.0, "Max": 0.0},
-                      "Health": [],
-                      "InventoryAttachments": [
-                        {
-                          "SlotName": "",
-                          "Items": [
-                            {
-                              "ClassName": "Battery9V",
-                              "Include": "",
-                              "Chance": 1.0,
-                              "Quantity": {"Min": 0.0, "Max": 0.0},
-                              "Health": [],
-                              "InventoryAttachments": [],
-                              "InventoryCargo": [],
-                              "ConstructionPartsBuilt": [],
-                              "Sets": []
-                            }
-                          ]
-                        }
-                      ],
-                      "InventoryCargo": [],
-                      "ConstructionPartsBuilt": [],
-                      "Sets": []
-                    },
-                    {
-                      "ClassName": "ExpansionHAMROptic",
+                      "ClassName": "AD_XPS34",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},
@@ -4488,7 +4376,35 @@
                       "Sets": []
                     },
                     {
-                      "ClassName": "ACOGOptic_6x",
+                      "ClassName": "ExpansionHAMROptic",
+                      "Include": "",
+                      "Chance": 0.5,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [
+                        {
+                          "SlotName": "",
+                          "Items": [
+                            {
+                              "ClassName": "Battery9V",
+                              "Include": "",
+                              "Chance": 1.0,
+                              "Quantity": {"Min": 0.0, "Max": 0.0},
+                              "Health": [],
+                              "InventoryAttachments": [],
+                              "InventoryCargo": [],
+                              "ConstructionPartsBuilt": [],
+                              "Sets": []
+                            }
+                          ]
+                        }
+                      ],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    },
+                    {
+                      "ClassName": "AD_ACOG_6x",
                       "Include": "",
                       "Chance": 0.5,
                       "Quantity": {"Min": 0.0, "Max": 0.0},

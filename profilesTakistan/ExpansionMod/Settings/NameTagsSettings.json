@@ -1,7 +1,7 @@
 {
     "m_Version": 4,
     "EnablePlayerTags": 1,
-    "PlayerTagViewRange": 5,
+    "PlayerTagViewRange": 10,
     "PlayerTagsIcon": "Persona",
     "PlayerTagsColor": -1,
     "PlayerNameColor": -1,

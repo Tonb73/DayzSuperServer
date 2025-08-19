@@ -10104,6 +10104,74 @@
       "ConstructionPartsBuilt": [],
       "Sets": []
     },
+	{
+      "ClassName": "WEAPON",
+      "Include": "",
+      "Chance": 1.0,
+      "Quantity": {"Min": 0.0, "Max": 0.0},
+      "Health": [],
+      "InventoryAttachments": [
+        {
+          "SlotName": "Shoulder",
+          "Items": [
+            {
+              "ClassName": "R12",
+              "Include": "",
+              "Chance": 1.0,
+              "Quantity": {"Min": 0.0, "Max": 0.0},
+              "Health": [],
+              "InventoryAttachments": [
+                {
+                  "SlotName": "",
+                  "Items": [
+                    {
+                      "ClassName": "AD_XPS34",
+                      "Include": "",
+                      "Chance": 0.3,
+                      "Quantity": {"Min": 0.0, "Max": 0.0},
+                      "Health": [],
+                      "InventoryAttachments": [],
+                      "InventoryCargo": [],
+                      "ConstructionPartsBuilt": [],
+                      "Sets": []
+                    }
+                  ]
+                }
+              ],
+              "InventoryCargo": [],
+              "ConstructionPartsBuilt": [],
+              "Sets": []
+            }
+          ]
+        }
+      ],
+      "InventoryCargo": [
+        {
+          "ClassName": "Ammo_12gaSlug",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+		{
+          "ClassName": "Ammo_12gaPellets",
+          "Include": "",
+          "Chance": 0.7,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ],
+      "ConstructionPartsBuilt": [],
+      "Sets": []
+    },
     {
       "ClassName": "WEAPON",
       "Include": "",

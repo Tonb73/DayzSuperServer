@@ -1,0 +1,38 @@
+{
+    "ConfigVersion": 28,
+    "ID": 101901,
+    "ObjectiveType": 2,
+    "ObjectiveText": "Убейте 3 человека, с расстояния не менее 435 метров",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": -1.0,
+    "MinDistance": 435,
+    "Amount": 3,
+    "ClassNames": [
+		"eAI_SurvivorM_Oliver",
+        "eAI_SurvivorM_Hassan",
+        "eAI_SurvivorM_Indar",
+        "eAI_SurvivorM_Manua",
+        "eAI_SurvivorM_Quinn",
+		"eAI_SurvivorM_Denis",
+        "eAI_SurvivorF_Elias",
+        "eAI_SurvivorM_Francis",
+        "eAI_SurvivorM_Niki",
+        "eAI_SurvivorM_Boris",
+		"eAI_SurvivorM_Guo",
+        "eAI_SurvivorF_Jose",
+        "eAI_SurvivorM_Seth",
+        "eAI_SurvivorM_Lewis",
+        "eAI_SurvivorM_Kaito"],
+    "CountSelfKill": 0,
+    "AllowedWeapons": [],
+    "ExcludedClassNames": [],
+    "CountAIPlayers": 1,
+    "AllowedTargetFactions": [],
+    "AllowedDamageZones": []
+}
