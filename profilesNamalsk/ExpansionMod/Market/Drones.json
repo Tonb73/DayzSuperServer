@@ -1,0 +1,115 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Дроны",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "DroneTablet",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CargoDrone",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SimpleDrone",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ReconDrone",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ReconDrone_ABU",
+                "ReconDrone_ARCTIC",
+                "ReconDrone_BRITISH",
+                "ReconDrone_DESERT",
+                "ReconDrone_FLECKTARN",
+                "ReconDrone_MULTICAMO",
+                "ReconDrone_MULTICAMODARK",
+                "ReconDrone_SPLINTER",
+                "ReconDrone_TIGERBLUE",
+                "ReconDrone_TIGERJUNGLE",
+                "ReconDrone_UCP",
+                "ReconDrone_UCPSMALL",
+                "ReconDrone_WOODLAND"
+            ]
+        },
+        {
+            "ClassName": "CargoDroneKit",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SimpleDroneKit",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ReconDroneKit",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ReconDroneKit_ABU",
+                "ReconDroneKit_ARCTIC",
+                "ReconDroneKit_BRITISH",
+                "ReconDroneKit_DESERT",
+                "ReconDroneKit_FLECKTARN",
+                "ReconDroneKit_MULTICAMO",
+                "ReconDroneKit_MULTICAMODARK",
+                "ReconDroneKit_SPLINTER",
+                "ReconDroneKit_TIGERBLUE",
+                "ReconDroneKit_TIGERJUNGLE",
+                "ReconDroneKit_UCP",
+                "ReconDroneKit_UCPSMALL",
+                "ReconDroneKit_WOODLAND"
+            ]
+        }
+    ]
+}

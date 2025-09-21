@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в лагерь контрабандистов",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6230,
+        18,
+        11787
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "лагерь контрабандистов",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

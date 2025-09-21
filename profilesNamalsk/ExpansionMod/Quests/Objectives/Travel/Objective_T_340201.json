@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Постройте свой лагерь в радиусе 300-400 метров от  главного лагеря",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+         9550,
+        2,
+        8566
+    ],
+    "MaxDistance": 300.0,
+    "MarkerName": "Лагерь выживших",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 1
+}

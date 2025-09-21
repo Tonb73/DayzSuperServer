@@ -1,0 +1,171 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Аксесуары для глаз",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "TF_NVGoggles_AVS9",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "TF_NVGoggles_PVS14",
+            "MaxPriceThreshold": 2300,
+            "MinPriceThreshold": 2300,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "TF_NVGoggles_PVS15",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "TF_NVGoggles_PNV10T",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+            ]
+        },
+        {
+            "ClassName": "tacticalgoggles",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nvgheadstrap",
+            "MaxPriceThreshold": 210,
+            "MinPriceThreshold": 210,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FOG_Glasses_ESS_Black",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Glasses_ESS_FDE"
+            ]
+        },
+        {
+            "ClassName": "FOG_Glasses_PitViper_SunKist",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Glasses_PitViper_Gold",
+                "FOG_Glasses_PitViper_Murica",
+                "FOG_Glasses_PitViper_Brights",
+                "FOG_Glasses_PitViper_Tropics",
+                "FOG_Glasses_PitViper_Yellow",
+                "FOG_Glasses_PitViper_Red"
+            ]
+        },
+        {
+            "ClassName": "FOG_GPNVG_Tan",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_GPNVG_Black",
+                "FOG_GPNVG_RG",
+                "FOG_GPNVG_Elite"
+
+            ]
+        },
+        {
+            "ClassName": "FOG_PVS31",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_PVS31_Wrapped",
+                "FOG_PVS31_FDE",
+                "FOG_PVS31_FDE_Wrapped"
+
+            ]
+        },
+        {
+            "ClassName": "FOG_PVS31A_Black",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+
+            ]
+        },
+        {
+            "ClassName": "FOG_UAPNVG_Black",
+            "MaxPriceThreshold": 7373,
+            "MinPriceThreshold": 7373,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_UAPNVG_Tan",
+                "FOG_UAPNVG_RG"
+            ]
+        }
+
+    ]
+}

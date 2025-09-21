@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20301,
+    "Type": 1,
+    "Title": "Быстрое реагирование",
+    "Descriptions": [
+        "О, новичок. Отлично, хотя бы ты здесь. У меня к тебе огромная просьба. Один из мобильных центров перестал выходить на связь, судя по последним данным, ученые сообщили, что местные охранники дезертировали, после чего на станцию напали наемники. Мне срочно нужны люди, чтобы отправится на эту станцию и разобраться в чем там дело! Возьмешься? Я уже направил неболшую группу, я передам им, что ты идешь. Встретишься с ними и вперед! ",
+        "Ну что? Что? Я пытаюсь связаться с другими группами. Координаты станции я тебе дал, отправляйся туда быстрее, и не забудь, там вероятно наши солдаты, а это значит, что они крайне опасны!",
+        "Так так так, что тут у нас. Обезьяна не справилась с такой простой задачей, как НЕ СЛОМАТЬ НАУЧНОЕ ОБОРУДОВАНИЕ! Кто бы мог подумать, что же, хотя бы вам хватило ума доставить его сюда. Свободны! Деньги получите у лейтенанта. "
+    ],
+    "ObjectiveText": "Направляйтесь на мобильный исследовательский пункт и разберитесь с ренегатами",
+"FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [1],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20201,
+            "ObjectiveType": 3
+        },
+		 {
+            "ConfigVersion": 28,
+            "ID": 20202,
+            "ObjectiveType": 3
+        },
+		 {
+            "ConfigVersion": 28,
+            "ID": 20203,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20201,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20201,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

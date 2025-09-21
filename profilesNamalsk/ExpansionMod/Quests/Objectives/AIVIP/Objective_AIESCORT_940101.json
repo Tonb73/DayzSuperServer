@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40101,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Приведит выжившего в лагерь",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9550,
+        2,
+        8566
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Приведите выжившего",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "ReloadedCherno_ScavTier1",
+    "NPCClassName": "",
+    "NPCName": "Выживший"
+}

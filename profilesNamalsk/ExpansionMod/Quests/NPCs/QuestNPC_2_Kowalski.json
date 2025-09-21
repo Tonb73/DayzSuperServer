@@ -1,0 +1,35 @@
+{
+    "ConfigVersion": 6,
+    "ID": 2,
+    "ClassName": "ExpansionQuestNPCAIOliver",
+    "Position":
+	[
+         9057.0,
+         9.0,
+         10125.0
+    ],
+    "Orientation": [
+        200.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Lt. Kowalski",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [
+        [
+            9057.0,
+            9.0,
+            10125.0
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "ReloadedNamalskQuest_Kowalski",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

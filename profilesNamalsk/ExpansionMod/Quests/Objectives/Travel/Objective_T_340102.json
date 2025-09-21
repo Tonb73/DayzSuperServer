@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в Лагерь Бандитов и спасите выживших",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4424,
+        8,
+        11286
+    ],
+    "MaxDistance": 5.0,
+    "MarkerName": "Лагерь Бандитов",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

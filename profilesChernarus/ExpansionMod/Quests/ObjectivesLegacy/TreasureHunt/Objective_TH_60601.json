@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID":601,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Найдите радио-оборудование",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            11982,
+            216,
+            14772
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 20.0,
+    "Loot": [
+        {
+            "Name": "BaseRadio",
+            "Chance": 1,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

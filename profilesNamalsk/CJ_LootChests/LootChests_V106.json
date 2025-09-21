@@ -1,0 +1,165 @@
+{
+    "EnableDebug": 0,
+    "DeleteLogs": 1,
+    "MaxSpareMags": 3,
+    "RandomQuantity": 0,
+    "LootChestsLocations": [
+        {
+            "name": "Tisy Headquarter 1st Floor",
+            "number": 1,
+            "pos": [],
+            "keyclass": "CJ_Key1",
+            "openable": 0,
+            "chest": [],
+            "lootrandomize": 0.0,
+            "light": 1,
+            "loot": []
+        },
+        {
+            "name": "Tisy Headquarter 2nd Floor",
+            "number": 1,
+            "pos": [],
+            "keyclass": "CJ_Key2",
+            "openable": 1,
+            "chest": [],
+            "lootrandomize": 0.5,
+            "light": 1,
+            "loot": []
+        },
+        {
+            "name": "Tisy Headquarter Bunker",
+            "number": 1,
+            "pos": [],
+            "keyclass": "CJ_Key3",
+            "openable": 2,
+            "chest": [],
+            "lootrandomize": 0.8999999761581421,
+            "light": 1,
+            "loot": []
+        }
+    ],
+    "LCPredefinedWeapons": [
+        {
+            "defname": "LC_predefined_SVD",
+            "weapon": "SVD",
+            "magazine": "Mag_SVD_10Rnd",
+            "attachments": [],
+            "optic": "PSO11Optic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_VSS",
+            "weapon": "VSS",
+            "magazine": "Mag_VSS_10Rnd",
+            "attachments": [],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_Tundra",
+            "weapon": "Winchester70",
+            "magazine": "",
+            "attachments": [],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_Blaze",
+            "weapon": "B95",
+            "magazine": "",
+            "attachments": [],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_M4",
+            "weapon": "M4A1",
+            "magazine": "Mag_STANAG_30Rnd",
+            "attachments": [],
+            "optic": "ACOGOptic_6x",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_SKS",
+            "weapon": "SKS",
+            "magazine": "",
+            "attachments": [],
+            "optic": "PUScopeOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_CZ527",
+            "weapon": "CZ527",
+            "magazine": "Mag_CZ527_5rnd",
+            "attachments": [],
+            "optic": "HuntingOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_AKM",
+            "weapon": "AKM",
+            "magazine": "Mag_AKM_30Rnd",
+            "attachments": [],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK74",
+            "weapon": "AK74",
+            "magazine": "Mag_AK74_30Rnd",
+            "attachments": [],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_AK101",
+            "weapon": "AK101",
+            "magazine": "Mag_AK101_30Rnd",
+            "attachments": [],
+            "optic": "KobraOptic",
+            "opticbattery": 1
+        },
+        {
+            "defname": "LC_predefined_FAL",
+            "weapon": "FAL",
+            "magazine": "Mag_FAL_20Rnd",
+            "attachments": [],
+            "optic": "ACOGOptic",
+            "opticbattery": 0
+        },
+        {
+            "defname": "LC_predefined_MP5",
+            "weapon": "MP5k",
+            "magazine": "Mag_MP5_30Rnd",
+            "attachments": [],
+            "optic": "ReflexOptic",
+            "opticbattery": 1
+        }
+    ],
+    "LootCategories": [
+        {
+            "name": "LC_Table_Weapons_1",
+            "Loot": []
+        },
+        {
+            "name": "LC_Table_Weapons_2",
+            "Loot": []
+        },
+        {
+            "name": "LC_Table_Magazines_1",
+            "Loot": []
+        },
+        {
+            "name": "LC_Table_Magazines_2",
+            "Loot": []
+        },
+        {
+            "name": "LC_Table_Attachments",
+            "Loot": []
+        },
+        {
+            "name": "LC_Table_Ammo",
+            "Loot": []
+        }
+    ]
+}

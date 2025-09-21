@@ -1,0 +1,24 @@
+{
+    "CONFIG_VERSION": "1",
+    "AllowCarInventory": 1,
+    "StaticBoomboxAutoPlay": 1,
+    "StaticBoomboxSongs": [
+        "Zen_Cassette_Radio1",
+		"Zen_Cassette_Radio2",
+		"Zen_Cassette_Radio3",
+		"Zen_Cassette_Radio4",
+		"Zen_Cassette_Radio5",
+		"Zen_Cassette_Radio6",
+		"Zen_Cassette_Radio7",
+		"Zen_Cassette_Radio8",
+		"Zen_Cassette_Radio9",
+		"Zen_Cassette_Radio10",
+		"Zen_Cassette_Radio11"
+    ],
+    "StaticBoomboxTurnsOffInvisibleRange": 400,
+    "StaticBoomboxTurnsOnInvisibleRange": 100,
+    "StaticInvisibleBoomboxAutoPlay": 1,
+    "StaticInvisibleBoomboxSongs": [
+        "Zen_Cassette_Zen2"
+    ]
+}

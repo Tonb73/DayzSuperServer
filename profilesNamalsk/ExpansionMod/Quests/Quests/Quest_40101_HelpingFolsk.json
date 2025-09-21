@@ -1,0 +1,60 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40101,
+    "Type": 1,
+    "Title": "Помощь ближнему.",
+    "Descriptions": [
+        "Здарова, наемник. Ну как там, разобрались с товими бумажками уже? Как вижу нет, значит тебе нужна работа. Что же, это я могу. У меня тут пара ребят есть, учу я их, как тут выживать, хорошие парни, помогают мне. Да вот беда, бандосы пару из них в заложники взяли, требут выкуп с меня. Ну я им выкуп и готовлю, уже пара наших впряглась, готовим облаву на их лагерь сегодня. Подходи и ты, с оплатой не обижу.",
+        "Что стоишь, дуй давай. Увидешь там пару наших, передай им, чтобы с тобой шли, парней наших забирали!",
+        "Фух, спасибо тебе, что помог им. Даже тут, на этом проклятом острове есть те, кто приехал не грысть друг другу глотки. Старайся пожалуйста смотреть на повязки, мои ребята всегда их одевают, когда выходят в поле. Если узнаю, что ты их валишь на право и налево, тебе тут никто не работу больше не даст. Надеюсь мы друг друга поняли. На вот тебе, за труды, может ты все таки хороший парень. "
+    ],
+    "ObjectiveText": "Спасите выживших из лагеря бандитов, заручившись помощью друзей.",
+"FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [4],
+    "QuestTurnInIDs": [4],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 40101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 40102,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 40101,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

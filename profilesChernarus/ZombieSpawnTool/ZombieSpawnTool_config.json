@@ -1,0 +1,394 @@
+{
+    "ModVersion": "1.2",
+    "ConfigVersion": 3,
+    "ZombieSpawnLocationData": [
+        {
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1235.080078125,
+                397.0119934082031,
+                12430.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1197.080078125,
+                397.0119934082031,
+                12372.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1235.080078125,
+                397.0119934082031,
+                12430.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 2,
+            "MaxSpawnAmount": 4,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1197.080078125,
+                397.0119934082031,
+                12372.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1232.080078125,
+                396.0119934082031,
+                12406.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1228.080078125,
+                397.0119934082031,
+                12423.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1239.080078125,
+                386.0119934082031,
+                12410.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1214.080078125,
+                386.0119934082031,
+                12404.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        },
+		{
+            "Label": "SuntykBunker_1",
+            "MinSpawnAmount": 1,
+            "MaxSpawnAmount": 3,
+            "SpawnMaxRadius": 10.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 1,
+            "FirstSpawnDelaySeconds": 10,
+            "PlayerSafeDistance": 50.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1198.080078125,
+                386.0119934082031,
+                12370.7998046875
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": [
+            ]
+        }
+    ]
+}

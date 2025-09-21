@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 22,
+    "ID": 5303,
+    "Type": 1,
+    "Title": "Охота за головами: Черный черный Джо [Часть 3]",
+    "Descriptions": [
+        "Дамба возле лагеря Металлург. Отправляйся туда и выследи этого ковбоя. Он уже мне надоел.",
+		"Что еще? Какой-то идиот на ломаном русском и в шляпе спросил как пройти на дамбу возле металлурга - делаю вывод, что Джо там. Найди и убей его, черт возьми!",
+		"В записке есть информация, что это лишь аванпост. ПОследнее пристанище Черный Джо нашел в старом лагере Металлург."
+
+    ],
+    "ObjectiveText": "Найдите Черного Джо",
+    "FollowUpQuest": 5304,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q5303",
+    "QuestItems": [],
+    "Rewards": [
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        5
+    ],
+    "QuestTurnInIDs": [
+        
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID":1303,
+            "ObjectiveType":3 
+        },
+		{
+            "ConfigVersion": 28,
+            "ID":1402,
+            "ObjectiveType":6
+        }
+    ],
+    "QuestColor": 101010,
+    "ReputationReward": 100,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [5302],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

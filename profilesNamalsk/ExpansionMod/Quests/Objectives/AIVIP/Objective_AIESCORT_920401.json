@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20401,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Сопроводите доктора Лапенко до исследовательской зоны А",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        6738,
+        35,
+        11197
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "исследовательская зона А",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "ReloadedCherno_ScavTier1",
+    "NPCClassName": "",
+    "NPCName": "Доктор Лапенко"
+}

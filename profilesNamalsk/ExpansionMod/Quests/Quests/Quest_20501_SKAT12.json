@@ -1,0 +1,65 @@
+{
+    "ConfigVersion": 22,
+    "ID": 20401,
+    "Type": 1,
+    "Title": "Научные явления.",
+    "Descriptions": [
+        "Здарова, вояка, как оно на Намальске? Я вижу ты уже освоился, это хорошо. Насчет твоих документов - как мне сказали работы ведется, но вот, что странно. Мы даже не ждали никакого самолета с пополнением, а последний инцидент с пропажей был полгода назад. Не думаю, что ты дрейфовал на льдине полгода, так ведь? Короче, работаем. Может и ты поработаешь? Ну а что, ты себя толковым парнем показал, могу тебе уже важную работу дать. Нужно ученого сопроводить по гравитийным аномалиям, страшные штуки, но безопасные, нужно просто сопроводить ученого по ним, мистера Лапенко. Тогда он сейчас подойдет и выдивгайтесь.",
+        "Что-то не так? Тебе нужно просто сопроводить доктора Лапенко по всем точкам, где были замечены аномалии, сам только туда не суйся, позволь ему сделать все замеры и все.",
+        "М, благодраю, благодарю вас, мистер. Я за эти открытия, ой, да ха эти открытия. Мне, м, наврное, даже премию выдадут, мда. Вот, м, кстати, и вам оплата, еще раз вам спасибо за помощь, досвидания."
+    ],
+    "ObjectiveText": "Сопроводите доктора Лапенко по всем точкам аномалий",
+"FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 20401,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20402,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20403,
+            "ObjectiveType": 9
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 20404,
+            "ObjectiveType": 9
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

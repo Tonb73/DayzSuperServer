@@ -1,0 +1,35 @@
+{
+    "ConfigVersion": 6,
+    "ID": 4,
+    "ClassName": "ExpansionQuestNPCAIMirek",
+    "Position":
+	[
+         8971.0,
+         11.0,
+         10138.0
+    ],
+    "Orientation": [
+        200.0,
+        0.0,
+        0.0
+    ],
+    "NPCName": "Officer Danila",
+    "DefaultNPCText": "Hmm?",
+    "Waypoints": [
+        [
+            8971.0,
+            11.0,
+            10138.0
+        ]
+    ],
+    "NPCEmoteID": 46,
+    "NPCEmoteIsStatic": 0,
+    "NPCLoadoutFile": "ReloadedNamalskQuest_OfficerDanilla",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

@@ -1,0 +1,48 @@
+{
+    "ModVersion": "1.2",
+    "ConfigVersion": 3,
+    "ZombieSpawnLocationData": [
+        {
+            "Label": "",
+            "MinSpawnAmount": 10,
+            "MaxSpawnAmount": 15,
+            "SpawnMaxRadius": 30.0,
+            "SpawnToSurface": 0,
+            "SpawnDelaySeconds": 300,
+            "FirstSpawnDelaySeconds": 300,
+            "PlayerSafeDistance": 500.0,
+            "PlayerTriggerArea": [
+                {
+                    "TriggerLocation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "TriggerRadius": -1.0
+                }
+            ],
+            "SpawnLocation": [
+                1000.0,
+                14.3,
+                4770.0
+            ],
+            "ZombiesToSpawn": [
+                {
+                    "SpawnClassName": "ZmbM_CitizenASkinny_Blue",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                },
+                {
+                    "SpawnClassName": "ZmbM_usSoldier_normal_Woodland",
+                    "SpawnAttachments": [
+                        "PlateCarrierVest",
+                        "Ssh68Helmet"
+                    ]
+                }
+            ],
+            "AnimalsToSpawn": []
+        }
+    ]
+}

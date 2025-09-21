@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Встретьтесь с группой быстрого реагирования",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5608,
+        58,
+        11080
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь союзников",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

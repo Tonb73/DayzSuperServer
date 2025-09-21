@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 22,
+    "ID": 40201,
+    "Type": 1,
+    "Title": "Дом милый дом",
+    "Descriptions": [
+        "Здарово, служивый. Я тут подумал, в прошлый раз я был все таки грубоват к тебе, ты мне помго как никак, поэтому позволь мне отблагодарить тебя, по настоящему! Я помогу тебе построить свой небольшой лагерь. Все просто, тебе понадобятся лишь ветки, пара веревок, листья, ну в общем ты разбрешься. Вот тебе инструкция, отправляйся недалеко от лагеря, и начинай свою стройку! Вернешься, расскажи, может чем смогу подсказать.",
+        "Помни, палки и веревки, там правда ничего трудного. Можешь еще сделать небольшой флагшток, чтоыб все точно знали, что это твой лагерь, он делается также из веревки и коротких палок. И помни - твой лагерь, твоя крепость.",
+        "Ну как, получилось? Я в тебе не сомневался парень. Ты можешь использовать свой лагерь для хранения ресурсов. У нашего продавца всяким, в ангаре, ты сможешь найти различные ящики, палатки, да все на свете. Ладно, у меня если что, есть для тебя еще работенка, так что ты захаживай."
+    ],
+    "ObjectiveText": "Постройте шалаш недалеко от лагеря",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [2],
+    "QuestTurnInIDs": [2],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID": 40201,
+            "ObjectiveType": 3
+        },
+        {
+            "ConfigVersion": 28,
+            "ID": 40201,
+            "ObjectiveType": 10
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

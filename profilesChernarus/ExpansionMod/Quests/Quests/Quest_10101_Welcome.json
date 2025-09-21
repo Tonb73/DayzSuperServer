@@ -1,0 +1,52 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10101,
+    "Type": 1,
+    "Title": "Добро пожаловать",
+    "Descriptions": [
+        "",
+        "Ты только что прибыл в Чернорусскую Закрытую Зону. Прибыл ли ты сюда за славой, богатством или по другим личным причинам - это не имеет значение. Сейчас важно то, что проводник дал тебе информацию о лагере выживших, в который ты и держишь путь.",
+        "Здравствуй выживший. Мое имя Николай, я здесь кто-то вроде старосты. Посмотри тут все, осмотрись и когда будешь готов - подходи, мне может пригодится твоя помощь."
+    ],
+    "ObjectiveText": "Отправляйтесь в лагерь выживших",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 10101,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

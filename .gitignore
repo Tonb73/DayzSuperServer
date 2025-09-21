@@ -2,7 +2,7 @@
 /*
 
 # ./profilesCherno/*
-# ./profilesNewCherno/*
+# ./profilesNamalsk/*
 # ./profilesTakistan/*
 
 # But not these files...
@@ -11,13 +11,13 @@
 !template.latex
 # etc...
 
-!serverDZCherno.cfg
-!serverDZNewCherno.cfg
-!serverDZTakistan.cfg
-!startNewChernarus.bat
-!startEarlyWinterChernarus.bat
-!startTakistanPlus.bat
-!startEnoch.bat
+!serverDZNamalskReloaded.cfg
+!serverDZChernoReloaded.cfg
+!serverDZTakistanReloaded.cfg
+
+!startChernarusPlusReloaded.bat
+!startTakistanPlusReloaded.bat
+!startNamalskReloaded.bat
 
 !/keys
 !/mpmissions
@@ -25,80 +25,69 @@ mpmissions/*
 !mpmissions/ExpansionDNM.enoch
 !mpmissions/ExpansionDNM.chernarusplus
 !mpmissions/ExpansionReloaded.chernarusplus
-!mpmissions/ExpansionDNM.TakistanPlus
+!mpmissions/ExpansionReloaded.namalsk
 !mpmissions/ExpansionReloaded.TakistanPlus
 
-!/profilesNewCherno
-profilesNewCherno/*
-!/profilesNewCherno/AIMissions
-!/profilesNewCherno/AirRaid
-!/profilesNewCherno/BattlEye
-!/profilesNewCherno/BuildingFortifications
-!/profilesNewCherno/CommunityOnlineTools
-!/profilesNewCherno/EarlyWinterChernarus
-!/profilesNewCherno/EventManagerLog
-!/profilesNewCherno/ExpansionMod
-!/profilesNewCherno/PermissionsFramework
+!/profilesNamalsk
+profilesNamalsk/*
+!/profilesNamalsk/ADMPParachute
+!/profilesNamalsk/AIMissions
+!/profilesNamalsk/AirborneAI
+!/profilesNamalsk/AirRaid
+!/profilesNamalsk/BuildingFortifications
+!/profilesNamalsk/CJ_LootChests
+!/profilesNamalsk/Cofeesw
+!/profilesNamalsk/Drones
+!/profilesNamalsk/EarlyWinterChernarus
+!/profilesNamalsk/ExpansionMod
+!/profilesNamalsk/PermissionsFramework
+!/profilesNamalsk/RaG_Immersive_Vehicles
+!/profilesNamalsk/sUDE
+!/profilesNamalsk/Zenarchist
+!/profilesNamalsk/ZombieSpawnTool
+!/profilesNamalsk/NamalskSoundHard
+!/profilesNamalsk/Users
 
-!/profilesCherno
-profilesCherno/*
-!/profilesCherno/AIMissions
-!/profilesCherno/AirRaid
-!/profilesCherno/BattlEye
-!/profilesCherno/BuildingFortifications
-!/profilesCherno/CommunityOnlineTools
-!/profilesCherno/DataCache
-!/profilesCherno/Dayz-Dog
-!/profilesCherno/Dayz-Horse
-!/profilesCherno/EarlyWinterChernarus
-!/profilesCherno/EventManagerLog
-!/profilesCherno/ExpansionMod
-!/profilesCherno/PermissionsFramework
-!/profilesCherno/PvZmoD_CustomisableZombies_Profile
-!/profilesCherno/PvZmoD_Information_Panel
-!/profilesCherno/TakistanSoundHard
-!/profilesCherno/Users
-!/profilesCherno/WebApiLog
+!/profilesChernarus
+profilesChernarus/*
+!/profilesChernarus/ADMPParachute
+!/profilesChernarus/AIMissions
+!/profilesChernarus/AirborneAI
+!/profilesChernarus/AirRaid
+!/profilesChernarus/BuildingFortifications
+!/profilesChernarus/CJ_LootChests
+!/profilesChernarus/Cofeesw
+!/profilesChernarus/Drones
+!/profilesChernarus/EarlyWinterChernarus
+!/profilesChernarus/ExpansionMod
+!/profilesChernarus/PermissionsFramework
+!/profilesChernarus/RaG_Immersive_Vehicles
+!/profilesChernarus/sUDE
+!/profilesChernarus/Zenarchist
+!/profilesChernarus/ZombieSpawnTool
+!/profilesChernarus/ChernarusSoundHard
+!/profilesChernarus/Users
 
 !/profilesTakistan
 profilesTakistan/*
+!/profilesTakistan/ADMPParachute
 !/profilesTakistan/AIMissions
+!/profilesTakistan/AirborneAI
 !/profilesTakistan/AirRaid
-!/profilesTakistan/BattlEye
 !/profilesTakistan/BuildingFortifications
-!/profilesTakistan/CommunityOnlineTools
-!/profilesTakistan/DataCache
-!/profilesTakistan/Dayz-Dog
-!/profilesTakistan/Dayz-Horse
+!/profilesTakistan/CJ_LootChests
+!/profilesTakistan/Cofeesw
+!/profilesTakistan/Drones
 !/profilesTakistan/EarlyWinterChernarus
-!/profilesTakistan/EventManagerLog
 !/profilesTakistan/ExpansionMod
 !/profilesTakistan/PermissionsFramework
-!/profilesTakistan/PvZmoD_CustomisableZombies_Profile
-!/profilesTakistan/PvZmoD_Information_Panel
+!/profilesTakistan/RaG_Immersive_Vehicles
+!/profilesTakistan/sUDE
+!/profilesTakistan/Zenarchist
+!/profilesTakistan/ZombieSpawnTool
 !/profilesTakistan/TakistanSoundHard
 !/profilesTakistan/Users
-!/profilesTakistan/WebApiLog
 
-!/profilesEnoch
-profilesEnoch/*
-!/profilesEnoch/AIMissions
-!/profilesEnoch/AirRaid
-!/profilesEnoch/BattlEye
-!/profilesEnoch/BuildingFortifications
-!/profilesEnoch/CommunityOnlineTools
-!/profilesEnoch/DataCache
-!/profilesEnoch/Dayz-Dog
-!/profilesEnoch/Dayz-Horse
-!/profilesEnoch/EarlyWinterChernarus
-!/profilesEnoch/EventManagerLog
-!/profilesEnoch/ExpansionMod
-!/profilesEnoch/PermissionsFramework
-!/profilesEnoch/PvZmoD_CustomisableZombies_Profile
-!/profilesEnoch/PvZmoD_Information_Panel
-!/profilesEnoch/TakistanSoundHard
-!/profilesEnoch/Users
-!/profilesEnoch/WebApiLog
 
 *log*
 **/storage_1/

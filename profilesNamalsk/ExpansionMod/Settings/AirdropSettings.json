@@ -1,0 +1,2897 @@
+{
+    "m_Version": 8,
+    "ServerMarkerOnDropLocation": 1,
+    "Server3DMarkerOnDropLocation": 0,
+    "ShowAirdropTypeOnMarker": 0,
+    "HideCargoWhileParachuteIsDeployed": 0,
+    "HeightIsRelativeToGroundLevel": 0,
+    "Height": 700.0,
+    "DropZoneHeight": 450.0,
+    "FollowTerrainFraction": 0.5,
+    "Speed": 35.0,
+    "DropZoneSpeed": 35.0,
+    "Radius": 0.0,
+    "InfectedSpawnRadius": 0.0,
+    "InfectedSpawnInterval": 0,
+    "ItemCount": 0,
+    "AirdropPlaneClassName": "",
+    "DropZoneProximityDistance": 1500.0,
+    "ExplodeAirVehiclesOnCollision": 0,
+    "Containers": [
+        {
+            "Container": "ExpansionAirdropContainer_Medical",
+            "FallSpeed": 4.5,
+            "Usage": 0,
+            "Weight": 10.0,
+            "Infected": [
+                "ZmbM_HermitSkinny_Beige",
+                "ZmbM_HermitSkinny_Black",
+                "ZmbM_HermitSkinny_Green",
+                "ZmbM_HermitSkinny_Red",
+                "ZmbM_FarmerFat_Beige",
+                "ZmbM_FarmerFat_Blue",
+                "ZmbM_FarmerFat_Brown",
+                "ZmbM_FarmerFat_Green",
+                "ZmbF_CitizenANormal_Beige",
+                "ZmbF_CitizenANormal_Brown",
+                "ZmbF_CitizenANormal_Blue",
+                "ZmbM_CitizenBFat_Blue",
+                "ZmbM_CitizenBFat_Red",
+                "ZmbM_CitizenBFat_Green",
+                "ZmbF_CitizenBSkinny",
+                "ZmbM_FishermanOld_Blue",
+                "ZmbM_FishermanOld_Green",
+                "ZmbM_FishermanOld_Grey",
+                "ZmbM_FishermanOld_Red",
+                "ZmbM_JournalistSkinny",
+                "ZmbF_JournalistNormal_Blue",
+                "ZmbF_JournalistNormal_Green",
+                "ZmbF_JournalistNormal_Red",
+                "ZmbF_JournalistNormal_White",
+                "ZmbM_HikerSkinny_Blue",
+                "ZmbM_HikerSkinny_Green",
+                "ZmbM_HikerSkinny_Yellow",
+                "ZmbF_HikerSkinny_Blue",
+                "ZmbF_HikerSkinny_Grey",
+                "ZmbF_HikerSkinny_Green",
+                "ZmbF_HikerSkinny_Red",
+                "ZmbF_SurvivorNormal_Blue",
+                "ZmbF_SurvivorNormal_Orange",
+                "ZmbF_SurvivorNormal_Red",
+                "ZmbF_SurvivorNormal_White",
+                "ZmbM_CommercialPilotOld_Blue",
+                "ZmbM_CommercialPilotOld_Olive",
+                "ZmbM_CommercialPilotOld_Brown",
+                "ZmbM_CommercialPilotOld_Grey",
+                "ZmbM_JoggerSkinny_Blue",
+                "ZmbM_JoggerSkinny_Green",
+                "ZmbM_JoggerSkinny_Red",
+                "ZmbF_JoggerSkinny_Blue",
+                "ZmbF_JoggerSkinny_Brown",
+                "ZmbF_JoggerSkinny_Green",
+                "ZmbF_JoggerSkinny_Red",
+                "ZmbM_MotobikerFat_Beige",
+                "ZmbM_MotobikerFat_Black",
+                "ZmbM_MotobikerFat_Blue",
+                "ZmbM_VillagerOld_Blue",
+                "ZmbM_VillagerOld_Green",
+                "ZmbM_VillagerOld_White",
+                "ZmbM_SkaterYoung_Blue",
+                "ZmbM_SkaterYoung_Brown",
+                "ZmbM_SkaterYoung_Green",
+                "ZmbM_SkaterYoung_Grey",
+                "ZmbF_SkaterYoung_Brown",
+                "ZmbF_SkaterYoung_Striped",
+                "ZmbF_SkaterYoung_Violet",
+                "ZmbM_OffshoreWorker_Green",
+                "ZmbM_OffshoreWorker_Orange",
+                "ZmbM_OffshoreWorker_Red",
+                "ZmbM_OffshoreWorker_Yellow",
+                "ZmbM_Jacket_beige",
+                "ZmbM_Jacket_black",
+                "ZmbM_Jacket_blue",
+                "ZmbM_Jacket_bluechecks",
+                "ZmbM_Jacket_brown",
+                "ZmbM_Jacket_greenchecks",
+                "ZmbM_Jacket_grey",
+                "ZmbM_Jacket_khaki",
+                "ZmbM_Jacket_magenta",
+                "ZmbM_Jacket_stripes",
+                "ZmbF_ShortSkirt_beige",
+                "ZmbF_ShortSkirt_black",
+                "ZmbF_ShortSkirt_brown",
+                "ZmbF_ShortSkirt_green",
+                "ZmbF_ShortSkirt_grey",
+                "ZmbF_ShortSkirt_checks",
+                "ZmbF_ShortSkirt_red",
+                "ZmbF_ShortSkirt_stripes",
+                "ZmbF_ShortSkirt_white",
+                "ZmbF_ShortSkirt_yellow",
+                "ZmbF_VillagerOld_Blue",
+                "ZmbF_VillagerOld_Green",
+                "ZmbF_VillagerOld_Red",
+                "ZmbF_VillagerOld_White",
+                "ZmbF_MilkMaidOld_Beige",
+                "ZmbF_MilkMaidOld_Black",
+                "ZmbF_MilkMaidOld_Green",
+                "ZmbF_MilkMaidOld_Grey",
+                "ZmbF_DoctorSkinny",
+                "ZmbF_NurseFat",
+                "ZmbM_DoctorFat",
+                "ZmbF_PatientOld",
+                "ZmbM_PatientSkinny"
+            ],
+            "ItemCount": 15,
+            "InfectedCount": 35,
+            "SpawnInfectedForPlayerCalledDrops": 0,
+            "ExplodeAirVehiclesOnCollision": -1,
+            "Loot": [
+{
+                    "Name": "InediaPain_HemostaticDressing",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+{
+                    "Name": "InediaPain_SplintKit",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "InediaPain_SurgicalKit",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+{
+                    "Name": "InediaPain_Metoclopramide",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+{
+                    "Name": "InediaPain_Sorbifer",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+{
+                    "Name": "InediaPain_Calcium",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+{
+                    "Name": "InediaPain_Vikasol",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+{
+                    "Name": "InediaPain_Tramadol",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },				
+                {
+                    "Name": "AntiChemInjector",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BandageDressing",
+                    "Chance": 0.8,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "BandageDressing",
+                    "Chance": 0.8,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "BandageDressing",
+                    "Chance": 0.8,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Morphine",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "Morphine",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Epinephrine",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PainkillerTablets",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CharcoalTablets",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TetracyclineAntiBiotics",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DisinfectantSpray",
+                    "Chance": 0.5,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "DisinfectantAlcohol",
+                    "Chance": 0.5,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "VitaminBottle",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "StartKitIV",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				 {
+                    "Name": "StartKitIV",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SalineBagIV",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SalineBag",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "SalineBag",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "SalineBag",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BloodBagEmpty",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BloodBagIV",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BloodTestKit",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BloodTestKit",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "IodineTincture",
+                    "Chance": 0.4,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "NioshFaceMask",
+                    "Chance": 0.8,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                }
+            ]
+        },
+        {
+            "Container": "ExpansionAirdropContainer_Military",
+            "FallSpeed": 4.5,
+            "Usage": 0,
+            "Weight": 20.0,
+            "Infected": [
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_SoldierNormal",
+                "ZmbM_usSoldier_normal_Desert",
+                "ZmbM_PatrolNormal_PautRev",
+                "ZmbM_PatrolNormal_Autumn",
+                "ZmbM_PatrolNormal_Flat",
+                "ZmbM_PatrolNormal_Summer"
+            ],
+            "ItemCount": 25,
+            "InfectedCount": 60,
+            "SpawnInfectedForPlayerCalledDrops": 0,
+            "ExplodeAirVehiclesOnCollision": -1,
+            "Loot": [
+                {
+                    "Name": "Binoculars",
+                    "Chance": 0.30000001192092898,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Rangefinder",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Glock19",
+                    "Chance": 0.1,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "WeaponCleaningKit",
+                    "Chance": 0.1,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "ReconDroneKit_MULTICAMO",
+                    "Chance": 0.1,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SVD",
+                    "Chance": 0.2800000011920929,
+                    "Attachments": [
+                        {
+                            "Name": "PSO1Optic",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "SVD",
+                            "Chance": 0.642857015132904,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "SVD",
+                            "Chance": 0.08285699784755707,
+                            "Attachments": [
+                                {
+                                    "Name": "KazuarOptic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "VSS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [
+                        {
+                            "Name": "PSO11Optic",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "VSS",
+                            "Chance": 0.642857015132904,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "VSS",
+                            "Chance": 0.08285699784755707,
+                            "Attachments": [
+                                {
+                                    "Name": "KazuarOptic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "ASVAL",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [
+                        {
+                            "Name": "ACOGOptic_6x",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "ASVAL",
+                            "Chance": 0.642857015132904,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "ASVAL",
+                            "Chance": 0.20000000298023225,
+                            "Attachments": [
+                                {
+                                    "Name": "ReflexOptic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "ASVAL",
+                            "Chance": 0.10000000149011612,
+                            "Attachments": [
+                                {
+                                    "Name": "ACOGOptic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "ASVAL",
+                            "Chance": 0.15000000596046449,
+                            "Attachments": [
+                                {
+                                    "Name": "M68Optic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "ASVAL",
+                            "Chance": 0.10000000149011612,
+                            "Attachments": [
+                                {
+                                    "Name": "M4_T3NRDSOptic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "Saiga",
+                    "Chance": 0.2199999988079071,
+                    "Attachments": [
+                        {
+                            "Name": "Saiga_Bttstck",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "KobraOptic",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "Saiga",
+                            "Chance": 0.5454540252685547,
+                            "Attachments": [
+                                {
+                                    "Name": "Saiga_Bttstck",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "M79",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "FAMAS",
+                    "Chance": 0.550000011920929,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Aug",
+                    "Chance": 0.6000000238418579,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AugShort",
+                    "Chance": 0.44999998807907107,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Scout",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [
+                        {
+                            "Name": "ACOGOptic_6x",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "Scout",
+                            "Chance": 0.642857015132904,
+                            "Attachments": []
+                        },
+                        {
+                            "Name": "Scout",
+                            "Chance": 0.20000000298023225,
+                            "Attachments": [
+                                
+                            ]
+                        },
+                        {
+                            "Name": "Scout",
+                            "Chance": 0.10000000149011612,
+                            "Attachments": [
+                                
+                            ]
+                        },
+                        {
+                            "Name": "Scout",
+                            "Chance": 0.15000000596046449,
+                            "Attachments": [
+                                {
+                                    "Name": "M68Optic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Scout",
+                            "Chance": 0.10000000149011612,
+                            "Attachments": [
+                                {
+                                    "Name": "M4_T3NRDSOptic",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Name": "RGD5Grenade",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M67Grenade",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M18SmokeGrenade_Red",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M18SmokeGrenade_Green",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M18SmokeGrenade_Yellow",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M18SmokeGrenade_Purple",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M18SmokeGrenade_White",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RDG2SmokeGrenade_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "RDG2SmokeGrenade_White",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "LandMineTrap",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Expansion_M9",
+                    "Chance": 0.4000000059604645,
+                    "Attachments": [
+                        {
+                            "Name": "TLRLight",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": [
+                        {
+                            "Name": "FNX45",
+                            "Chance": 0.10000000149011612,
+                            "Attachments": [
+                                {
+                                    "Name": "TLRLight",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                },
+                                {
+                                    "Name": "PistolSuppressor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FNX45",
+                            "Chance": 0.15000000596046449,
+                            "Attachments": [
+                                {
+                                    "Name": "PistolSuppressor",
+                                    "Chance": 1.0,
+                                    "Attachments": []
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "FNX45",
+                            "Chance": 0.5,
+                            "Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "Mag_Expansion_AWM_5Rnd",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Mag_Expansion_M9_15Rnd",
+                    "Chance": 0.25,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Mag_Expansion_Kedr_20Rnd",
+                    "Chance": 0.30000001192092898,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_762x54Tracer_20Rnd",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_762x54_20Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_762x39Tracer_20Rnd",
+                    "Chance": 0.05999999865889549,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_762x39_20Rnd",
+                    "Chance": 0.09000000357627869,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_556x45Tracer_20Rnd",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_556x45_20Rnd",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_545x39Tracer_20Rnd",
+                    "Chance": 0.05999999865889549,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AmmoBox_545x39_20Rnd",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_762x54Tracer",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_762x54",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_762x39Tracer",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_762x39",
+                    "Chance": 0.11999999731779099,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_556x45Tracer",
+                    "Chance": 0.07000000029802323,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_556x45",
+                    "Chance": 0.10999999940395355,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_545x39Tracer",
+                    "Chance": 0.07000000029802323,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_545x39",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Smoke_White",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Smoke_Red",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Smoke_Green",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Smoke_Yellow",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Smoke_Purple",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Smoke_Teargas",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_White",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Red",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "Ammo_Expansion_M203_Sticky_Smoke_Green",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TF_Mag_M4_STANAG_30Rnd",
+                    "Chance": 0.15000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TF_Mag_MP443_18Rnd",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M4_PMAG40Rnd_FDE",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M4_PMAG40Rnd",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M4_PMAG30Rnd_FDE",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M4_PMAG30Rnd",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M4_PMAG20Rnd",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M4_PMAG10Rnd",
+                    "Chance": 0.019999999552965165,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_Mag_AKM_PMAG30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK_Tactica_Tula10000Receiver",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK_B33Receiver",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_M14_Adapter",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Harris_Bipod",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Atlas_Bipod",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SR25_20Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SVCh308_10Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_PKM_100Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M249_200Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M240_50Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AKM_Steel40Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AKM_Bakelit40Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AK74_Plastic30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AK74_Plum30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AK74_Bakelit30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AK101_Plastic30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_Mag_AKM_10Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AKM_30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AKM_Plastic30Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AK74_45Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_AK74_60Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_M14_20Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_MAR10_10Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_FAL_Drum50Rnd_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_Drum50Rnd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_PMAG25Rnd_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_30Rnd_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_30Rnd_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_25Rnd_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_25Rnd_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_20Rnd_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_Mag_SCAR_H_20Rnd_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK74M",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SR25",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SVCh",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SVCh308",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKP",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKM",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M249",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M240",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_M16A4",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AEK999",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_MP443",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_MK47",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_MK47_CQBR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_M4A1_CQBR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_M4A1",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AKS74U",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AKMN",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AKM",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK74M",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK105_Bullpup",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK105",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK104",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK103",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK102",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK101",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_SCAR_H_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_SCAR_L_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_SCAR_20_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_MAR10",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_M14_EBR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_M24",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AN94M",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AN94",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK_Rotor43Suppressor",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_PKM_SAICompensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK_ZenitDTK1Compensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AK_6p20Compensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_PKM_6ch76Compensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_PKM_6ch63Compensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_PKM_6ch43Compensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TF_PKM_6ch43Compensator",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AEK999_Suppressor",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_PBS1Suppressor",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_SOCOMSuppressor",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_MAR10_Suppressor",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_Suppressor_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKP_CNCC46Hndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKM_ZenitB50Hndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_KACHndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_SMR9Hndgrd_MLOCK_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_SMR13Hndgrd_MLOCK_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_DDFSPHndgrd_RIS_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_DD9Hndgrd_RIS_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_DD12Hndgrd_RIS_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AR10_URXHndgrd_MLOCK",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AR10_NoveskeHndgrd_Long_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AR10_NoveskeHndgrd_Short_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AR10_LancerHndgrd_MLOCK",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AR10_KACHndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },{
+                    "Name": "TF_AR10_CMMG9Hndgrd_MLOCK",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AR10_CMMG15Hndgrd_MLOCK",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_ZenitB10MB19Hndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_MagpulZhukovHndgrdU_MLOCK",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_MagpulMOEHndgrd_MLOCK",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_ZenitB30B31Hndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AKS74U_ZenitB11WoodHndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AKS74U_ZenitB11PlasticHndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AKS74U_CAAHndgrd_RIS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AKS74U_WoodHndgrd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_StndHndgrd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_MREXHndgrd_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_ADDHndgrd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_ZenitRK1B25U_RIS_Grip",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_RVG_RIS_Grip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_RVG_RIS_Grip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_BCM_MLOCK_Grip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_BCM_MLOCK_Grip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AFG_MLOCK_Grip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AFG_MLOCK_Grip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AFG_RIS_Grip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AFG_RIS_Grip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SAW_RIS_Grip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SAW_RIS_Grip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_TAPCOPistolGrip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_TAPCOPistolGrip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_MOEPistolGrip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_KGBMG47PistolGrip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_ZenitRK3PistolGrip",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_TDSPistolGrip",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_OMRGPistolGrip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_OMRGPistolGrip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_MOEPistolGrip_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_MOEPistolGrip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_MIADPistolGrip_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKP_PlasticBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKM_ZenitPT2Bttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PKM_CNCC39Bttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_MagpulPRSGen3Bttstck_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_FABDGLCoreBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_B5PrecisionBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4CraneBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_M4_CMMG_RIPBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AN94_PlasticBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_MagpulZhukovBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_Zenit_PT1Bttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_MVRIBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AN94_AdapterBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_AK_AdapterBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_VadapterBttstck",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_StndBttstck_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_SCAR_Mk20Bttstck_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "AK_Bayonet",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "KobraOptic",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "UniversalLight",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "UniversalLight",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M4_RisHndgrd",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M9A1_Bayonet",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PUScopeOptic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_NFATACR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_MRS",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_DHF5",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_ACOG_RMR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_SpecterDR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_ACOG",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_PVS4",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_ElcanSpecterDROptic_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_RMR",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_Pilad",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_OKP7",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "AD_NFATACR_1_8",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_PK122_ValdayOptic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_OKP7Optic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_HAMROptic_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_EOTechXPSOpticDown_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_ElcanSpecterDR_6xOptic_FDE",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+				{
+                    "Name": "TF_ElcanSpecterDROptic_Black",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TLRLight",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TLRLight",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M68Optic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M4_T3NRDSOptic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "FNP45_MRDSOptic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PSO1Optic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PSO11Optic",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M68Optic",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "M4_T3NRDSOptic",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PSO1Optic",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PSO11Optic",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [
+                        {
+                            "Name": "Battery9V",
+                            "Chance": 1.0,
+                            "Attachments": []
+                        }
+                    ],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BallisticHelmet_UN",
+                    "Chance": 0.07999999821186066,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BoxCerealCrunchin",
+                    "Chance": 0.05000000074505806,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "PeachesCan",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "BakedBeansCan",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SpaghettiCan",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "SardinesCan",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TunaCan",
+                    "Chance": 0.10000000149011612,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "WaterBottle",
+                    "Chance": 0.5,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "TacticalBaconCan",
+                    "Chance": 0.02500000037252903,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                },
+                {
+                    "Name": "CanOpener",
+                    "Chance": 0.5,
+                    "Attachments": [],
+                    "QuantityPercent": -1.0,
+                    "Max": -1,
+                    "Min": 0,
+                    "Variants": []
+                }
+            ]
+        }
+    ]
+}

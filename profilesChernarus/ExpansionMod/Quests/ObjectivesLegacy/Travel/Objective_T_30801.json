@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 801,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Отправляйтесь в последнюю известную локацию группы",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                    10556,
+                    118,
+                    7017
+    ],
+    "MaxDistance": 75,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 901,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Найдите лагерь бандитов",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+                    
+                    3356,
+                    187,
+                    3941
+    ],
+    "MaxDistance": 3,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

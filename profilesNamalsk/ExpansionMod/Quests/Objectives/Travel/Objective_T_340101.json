@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 40101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в Лагерь Союзников",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        4502,
+        17,
+        10950
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь Союзников",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

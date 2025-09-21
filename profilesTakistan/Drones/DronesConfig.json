@@ -1,0 +1,17 @@
+{
+    "DronesSettings": [
+        {
+            "configVersion": 1.0,
+            "kitSpawnsController": 1,
+            "maxWorkingDistance": 500,
+            "batteryDischargeCoef": 2.0,
+            "maxZoomLevel": 0.05,
+            "caUseNightVision": 1,
+            "canBeDestroyed": 1,
+            "canUseExplosives": 1,
+            "canCarryCargo": 1,
+            "accessToExactPosition": 1,
+            "accessToRangefinder": 1
+        }
+    ]
+}

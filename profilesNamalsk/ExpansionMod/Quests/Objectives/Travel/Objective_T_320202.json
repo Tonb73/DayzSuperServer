@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20202,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в мобильный исследовательский центр",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5457,
+        53,
+        10924
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "мобильный исследовательский центр",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

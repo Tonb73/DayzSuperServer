@@ -1,0 +1,61 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10701,
+    "Type": 1,
+    "Title": "Плата по счетам Часть 2",
+    "Descriptions": [
+        "Необходимо вернуться в лагерь и сообщить об успехе.",
+        "Описание",
+        "Да, я узнаю это повязку. Это ЧВК BlackBurn. Видимо твои друзья им чем-то насолили. Советую тебе посправивать у местных авторитетов, может чего узнаешь."
+    ],
+    "ObjectiveText": "Вернитесь в лагерь.",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "q10701",
+    "QuestItems": [
+	],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [3],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 10101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 10701,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 10701,
+            "ObjectiveType": 4
+        }		
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [10601],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

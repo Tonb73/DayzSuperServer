@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в исследовательский лагерь ION",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9030,
+        10,
+        10131
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "исследовательский лагерь ION",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,57 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10101,
+    "Type": 1,
+    "Title": "Прибытие.",
+    "Descriptions": [
+        "",
+        "Последнее, что вы помните - красные вспышки, крушение. Все ваши документы сгорели в вертолете, кажется вы прибыли сюда в составет группы новобранцев. Вы точно знаете, что необходимо добраться до исследовательского центра, вы солдат ION и вас должны были доставить туда.",
+        "Отлично, еще один новобранец! Чего тебе, мясо? Мы тут работаем, если ты не заметил! Всеми вопросами по личному составу средив вас, дубоголовых занимается Ковальски, он как обычно ошивается у Ларька, не пропустишь. А теперь сгинь!"
+    ],
+    "ObjectiveText": "Выживете и доберитесь до безопасной зоны",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [],
+    "QuestTurnInIDs": [
+       1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 10101,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 10102,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

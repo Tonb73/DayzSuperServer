@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10101,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в лагерь выживших",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        8996,
+        340,
+        6013
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Лагерь выживших",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

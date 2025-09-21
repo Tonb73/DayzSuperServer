@@ -1,0 +1,55 @@
+{
+    "ConfigVersion": 22,
+    "ID": 10601,
+    "Type": 1,
+    "Title": "Плата по счетам Часть 1",
+    "Descriptions": [
+        "Приветсвие",
+        "Описание   [Сообщите администратору, что необходимо перейти во второй АКТ!]",
+        "Реплика Николая, благодарность"
+    ],
+    "ObjectiveText": "Доберитесь до 'Титаника' и передайте дань",
+    "FollowUpQuest": 10701,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [
+		{
+		"ClassName": "ExpansionQuestItemPackage",
+		"Amount": 1
+		}
+	],
+    "Rewards": [],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [1],
+    "QuestTurnInIDs": [3],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 10601,
+            "ObjectiveType": 5
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [20501],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,33 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1020101,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Найдите инструменты для починки генератора 1",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 0,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            10402,
+            7,
+            2564
+        ]
+    ],
+    "LootItemsAmount": 1,
+    "MaxDistance": 10.0,
+    "Loot": [
+        {
+            "Name": "PipeWrench",
+            "Chance": 1,
+            "Attachments": [],
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ]
+}

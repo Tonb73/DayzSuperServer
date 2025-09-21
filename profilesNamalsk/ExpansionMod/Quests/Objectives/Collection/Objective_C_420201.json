@@ -1,0 +1,19 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20201,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Найденное оборудование нестабильно! НЕМЕДЛЕННО доставьте его доктору!",
+    "TimeLimit": 750,
+    "Active": 1,
+    "Collections": [
+		{
+            "Amount": 1,
+            "ClassName": "dzn_module_ext2",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

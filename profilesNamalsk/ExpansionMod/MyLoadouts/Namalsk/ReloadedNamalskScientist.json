@@ -1,0 +1,229 @@
+{
+  "ClassName": "",
+  "Include": "",
+  "Chance": 1.0,
+  "Quantity": {"Min": 0.0, "Max": 0.0},
+  "Health": [],
+  "InventoryAttachments": [
+    {
+      "SlotName": "Body",
+      "Items": [
+        {
+          "ClassName": "LabCoat",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Armband",
+      "Items": [
+        {
+          "ClassName": "Armband_UEC",
+          "Include": "",
+          "Chance": 1,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Eyewear",
+      "Items": [
+        {
+          "ClassName": "ThinFramesGlasses",
+          "Include": "",
+          "Chance": 0.3,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "ThickFramesGlasses",
+          "Include": "",
+          "Chance": 0.3,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Mask",
+      "Items": [
+        {
+          "ClassName": "NioshFaceMask",
+          "Include": "",
+          "Chance": 0.3,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SurgicalMask",
+          "Include": "",
+          "Chance": 0.3,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "FOG_Mustache_Brown",
+          "Include": "",
+          "Chance": 0.1,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Legs",
+      "Items": [
+        {
+          "ClassName": "SlacksPants_LightGrey",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SlacksPants_White",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "MedicalScrubsPants_White",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Feet",
+      "Items": [
+        {
+          "ClassName": "HikingBootsLow_Blue",
+          "Include": "",
+          "Chance": 1.0,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Headgear",
+      "Items": [
+        {
+          "ClassName": "MedicalScrubsHat_White",
+          "Include": "",
+          "Chance": 0.3,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "SlotName": "Gloves",
+      "Items": [
+        {
+          "ClassName": "SurgicalGloves_Green",
+          "Include": "",
+          "Chance": 0.5,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SurgicalGloves_Blue",
+          "Include": "",
+          "Chance": 0.5,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SurgicalGloves_LightBlue",
+          "Include": "",
+          "Chance": 0.5,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        },
+        {
+          "ClassName": "SurgicalGloves_White",
+          "Include": "",
+          "Chance": 0.5,
+          "Quantity": {"Min": 0.0, "Max": 0.0},
+          "Health": [ {"Min": 0.699999988079071, "Max": 1.0, "Zone": ""} ],
+          "InventoryAttachments": [],
+          "InventoryCargo": [],
+          "ConstructionPartsBuilt": [],
+          "Sets": []
+        }
+      ]
+    },
+    {"SlotName": "Melee", "Items": []}
+  ],
+  "InventoryCargo": [],
+  "ConstructionPartsBuilt": [],
+  "Sets": []
+}

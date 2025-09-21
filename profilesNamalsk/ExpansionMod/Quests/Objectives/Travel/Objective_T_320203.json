@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20203,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь по следам наемников",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        5107,
+        4,
+        11415
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "???",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

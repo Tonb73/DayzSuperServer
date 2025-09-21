@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 20404,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Сопроводите доктора Лапенко обратно на базу",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        9550,
+        2,
+        8566
+    ],
+    "MaxDistance": 40.0,
+    "MarkerName": "Лагерь",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "ReloadedCherno_ScavTier1",
+    "NPCClassName": "",
+    "NPCName": "Доктор Лапенко"
+}
