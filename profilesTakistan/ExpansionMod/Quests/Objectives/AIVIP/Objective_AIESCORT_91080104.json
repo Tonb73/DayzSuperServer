@@ -14,7 +14,7 @@
     "MarkerName": "Лагерь",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "TakQuest_Arkeid",
+    "NPCLoadoutFile": "ReloadedTakQuest_Arkeid",
     "NPCClassName": "ExpansionNPCDenis",
     "NPCName": "Аркейд Геннон"
 }

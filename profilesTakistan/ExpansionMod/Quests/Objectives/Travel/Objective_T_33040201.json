@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3040201,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в лагерь Ренегатов ООН",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        11036,
+        298,
+        6292
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "лагерь ренегатов ООН",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

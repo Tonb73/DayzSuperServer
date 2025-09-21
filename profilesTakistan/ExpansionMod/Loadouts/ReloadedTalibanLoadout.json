@@ -559,7 +559,7 @@
     {
       "ClassName": "ExpansionGoldNugget",
       "Include": "",
-      "Chance": 0.01,
+      "Chance": 0.1,
       "Quantity": {"Min": 0.0, "Max": 0.0},
       "Health": [],
       "InventoryAttachments": [],

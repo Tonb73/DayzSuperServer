@@ -14,7 +14,7 @@
     "MarkerName": "Точка сброса пассажира",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "TakUPTier4_UN",
+    "NPCLoadoutFile": "ReloadedUNDesertLoadout",
     "NPCClassName": "",
     "NPCName": "Пассажир"
 }

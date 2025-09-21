@@ -14,7 +14,7 @@
     "MarkerName": "Спасите Артема",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "TakUPTier3",
+    "NPCLoadoutFile": "ReloadedRaiderLoadout",
     "NPCClassName": "eAI_SurvivorM_Denis",
     "NPCName": "Артем"
 }

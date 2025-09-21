@@ -2,7 +2,7 @@
     "ConfigVersion": 22,
     "ID": 50401,
     "Type": 1,
-    "Title": "Доступ к торговцу едой.",
+    "Title": "Доступ к торговцу едой. НЕ РАБОТАЕТ!",
     "Descriptions": [
         "Получи доступ к торговцу едой за 3 осколка, все как обычно.",
         "",
@@ -10,7 +10,7 @@
     ],
     "ObjectiveText": "Принесите золотые осколки",
     "FollowUpQuest": -1,
-    "Repeatable": 1,
+    "Repeatable": 0,
     "IsDailyQuest": 0,
     "IsWeeklyQuest": 0,
     "CancelQuestOnPlayerDeath": 0,

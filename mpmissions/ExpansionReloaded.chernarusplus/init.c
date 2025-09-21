@@ -1,5 +1,18 @@
+//Spawn helper function
+void SpawnObject( string type, vector position, vector orientation )
+{
+	auto obj = GetGame().CreateObject( type, position );
+	obj.SetPosition( position );
+	obj.SetOrientation( orientation );
+	obj.SetOrientation( obj.GetOrientation() ); //Collision fix
+	obj.Update();
+	obj.SetAffectPathgraph( true, false );
+	if( obj.CanAffectPathgraph() ) GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( GetGame().UpdatePathgraphRegionByObject, 100, false, obj );
+}
+
 void main()
 {
+	GetCEApi().ExportProxyData( "7500 0 7500", 10000 ); //Center of map, radius of how far to go out and find buildings
 	//INIT ECONOMY--------------------------------------
 	Hive ce = CreateHive();
 	if ( ce )

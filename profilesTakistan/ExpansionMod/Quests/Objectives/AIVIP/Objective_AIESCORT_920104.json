@@ -14,7 +14,7 @@
     "MarkerName": "Точка эвакуации",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "TakUpTier_2_Rich",
+    "NPCLoadoutFile": "ReloadedTakQuest_Benny",
     "NPCClassName": "ExpansionNPCNiki",
     "NPCName": "Бенни"
 }

@@ -39,6 +39,17 @@
             "SpawnAttachments": [],
             "Variants": []
         },
+		{
+            "ClassName": "glowplug",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "offroad_02_door_1_2",
             "MaxPriceThreshold": 450,

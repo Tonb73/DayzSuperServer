@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 30404,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в бункер",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        492,
+        355,
+        8525
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "бункер",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

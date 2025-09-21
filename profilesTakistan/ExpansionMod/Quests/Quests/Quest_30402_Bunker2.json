@@ -1,0 +1,70 @@
+{
+    "ConfigVersion": 22,
+    "ID": 30402,
+    "Type": 1,
+    "Title": "Бункер 2",
+    "Descriptions": [
+"Мы узнали, как вскрыть бункер! Но нам требуется помощь, все оказалось сложнее, чем мы думали.",
+"Наемник, ты славно послужил ООН и нашей миссии в Такистане. Так не окажешь ли нам еще одну услугу? Как мне неприятно это признавать, но эти ИДИОТЫ решили сокрыть ифнормацию о том, как открыть чертов бункер и скрыться с ней, мои люди предали меня и сбежали! И вместо того, чтобы заставлять их служить 510 ЛЕТ, ВЕДЬ ИМЕННО СТОЛЬКО ИМ ПОНАДОБИТСЯ СЛУЖИТЬ, ЧТОБЫ ИСКУПИТЬ ГОСИЗМЕНУ! Фух... Короче, найди этих предателей и убей, уверен, ты найдешь информацию,когда найдешь их самих...",
+"Значит вот оно как... Для открытия бункера нам потребуются перфокарты гос образца. Хорошо, я попрошу их изготовить и доставить сюда на самолете, но вот беда. Чтобы их сделать, нужно их сначало найти... Ладно, приходи позже, мне надо подумать! Ах да, твоя оплата на столе, спасибо за службу!"
+],
+    "ObjectiveText": "Найдите группу ренегатов из ООН",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+	"Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 1300,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [3],
+    "QuestTurnInIDs": [3],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 3040201,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 30402,
+            "ObjectiveType": 6
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 30402,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [30401],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

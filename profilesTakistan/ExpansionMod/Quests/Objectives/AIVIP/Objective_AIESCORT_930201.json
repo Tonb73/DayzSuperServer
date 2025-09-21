@@ -14,7 +14,7 @@
     "MarkerName": "Спасите Выжившего",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "TakUPTier2_AlHalal",
+    "NPCLoadoutFile": "ReloadedTalibanLoadout",
     "NPCClassName": "",
     "NPCName": "Заложник"
 }

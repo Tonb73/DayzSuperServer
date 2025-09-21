@@ -1015,6 +1015,15 @@
     <input name="UAToggleMagni">
         <btn name="kI" />
     </input>
+    <input name="UATogglePoliceLights">
+        <btn name="kP" />
+    </input>
+    <input name="UAToggleNeonLights">
+        <btn name="k4" />
+    </input>
+    <input name="UAToggleFogLights">
+        <btn name="k5" />
+    </input>
     <input name="UADroneMoveForward">
         <btn name="kW" />
     </input>
@@ -1056,6 +1065,9 @@
     </input>
     <input name="UAToggleHeadlightHighBeam">
         <btn name="kL" />
+    </input>
+    <input name="UATransportBeep">
+        <btn name="k2" />
     </input>
     <input name="UAExpansionPartyHUDToggle">
         <btn name="kMultiply" />

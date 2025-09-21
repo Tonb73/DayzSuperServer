@@ -1,0 +1,80 @@
+{
+    "ConfigVersion": 22,
+    "ID": 30404,
+    "Type": 1,
+    "Title": "Бункер 4",
+    "Descriptions": [
+"Итак, боец. Для тебя есть последнее задание. Как ты знаешь, мы повлечены в постоянные стычик с душманами и я не могу послать даже отряд в этот бункер. Но могу нанять контрактника. И мне кажется, лучшей кандидатуры чем ты, я найти не смогу.",
+"Необходимо проникнуть в бункер и найти чемоданчик и ключи от него. Ты его не пропустишь, поверь. Судя по данным сканирования, он должен находится где-то в глубинах бункера, а ключ в самом близком к земле помещении. Мы дадим тебе примерные координаты. Возьми с собой костюм хим-защиты. Датчики показывают высокий уровень загрязненности некоторых этажей. Я буду ждать от тебя вестей и рапорта. Удачи, боец!",
+"Отлично! Теперь, когда у нас есть перфокарты, мы можем отпарвится в бункер!"
+],
+    "ObjectiveText": "",
+    "FollowUpQuest": -1,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+        "QuestItems": [
+		{
+		"ClassName": "PunchedCard",
+		"Amount": 1
+		}
+	],
+ "Rewards": [
+		{
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 3000,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+	],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [3],
+    "QuestTurnInIDs": [3],
+    "IsAchievement": 0,
+    "Objectives": [
+		{
+            "ConfigVersion": 28,
+            "ID": 30404,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 3040401,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 3040402,
+            "ObjectiveType": 3
+        },
+		{
+            "ConfigVersion": 28,
+            "ID": 30404,
+            "ObjectiveType": 4
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [30403],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 1,
+    "SequentialObjectives": 1,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

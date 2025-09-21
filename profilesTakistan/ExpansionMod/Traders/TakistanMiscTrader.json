@@ -21,7 +21,8 @@
 		"MiscContainers",
 		"MiscBattery",
 		"MiscBuildingKits",
-		"Drones"
+		"Drones",
+		"Valuables"
     ],
     "Items": {}
 }

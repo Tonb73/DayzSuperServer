@@ -1,0 +1,25 @@
+{
+    "ConfigVersion": 28,
+    "ID": 30404,
+    "ObjectiveType": 4,
+    "ObjectiveText": "Принесите разведданные",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Collections": [
+        {
+            "Amount": 1,
+            "ClassName": "ScientificBriefcase",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        },
+		{
+            "Amount": 1,
+            "ClassName": "ScientificBriefcaseKeys",
+            "QuantityPercent": -1,
+            "MinQuantityPercent": -1
+        }
+    ],
+    "ShowDistance": 1,
+    "AddItemsToNearbyMarketZone": 0,
+    "NeedAnyCollection": 0
+}

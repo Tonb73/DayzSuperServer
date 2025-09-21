@@ -14,7 +14,7 @@
     "MarkerName": "Спасите Выжившего",
     "ShowDistance": 1,
     "CanLootAI": 0,
-    "NPCLoadoutFile": "TakUPTier3",
+    "NPCLoadoutFile": "ReloadedRaiderLoadout",
     "NPCClassName": "",
     "NPCName": "Выживший повстанец"
 }

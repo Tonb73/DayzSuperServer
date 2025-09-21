@@ -6,6 +6,39 @@
     "IsExchange": 0,
     "InitStockPercent": 75.0,
     "Items": [
+		 {
+            "ClassName": "ExpansionHelicopterBattery",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionigniterplug",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionhydraulichoses",
+            "MaxPriceThreshold": 2450,
+            "MinPriceThreshold": 2450,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
         {
             "ClassName": "EXT_UH60M_Door_1_1",
             "MaxPriceThreshold": 450,

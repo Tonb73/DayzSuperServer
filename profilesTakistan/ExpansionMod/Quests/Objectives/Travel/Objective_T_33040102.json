@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3040102,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Направляйтесь в место где может быть бункер",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        1856,
+        333,
+        10635
+    ],
+    "MaxDistance": 10.0,
+    "MarkerName": "Место где может быть бункер",
+    "ShowDistance": 1,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

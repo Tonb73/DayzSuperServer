@@ -7,7 +7,7 @@
     "InitStockPercent": 75.0,
     "Items": [
 	{
-            "ClassName": "MK3Optic_Black",
+            "ClassName": "MK4Optic_Black",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
@@ -20,7 +20,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "MK3Optic_Green",
+            "ClassName": "MK4Optic_Green",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,
@@ -33,7 +33,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "MK3Optic_Tan",
+            "ClassName": "MK4Optic_Tan",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
             "SellPricePercent": -1.0,

@@ -1,5 +1,5 @@
 {
-    "m_Version": 24,
+    "m_Version": 25,
     "Enabled": 1,
     "FormationScale": -1.0,
     "DespawnTime": 20.0,
@@ -14,6 +14,34 @@
     "DamageMultiplier": -1.0,
     "DamageReceivedMultiplier": -1.0,
     "LoadBalancingCategories": {
+        "Example": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": -1
+            }
+        ],
+        "Quest": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": -1
+            }
+        ],
+        "ObjectPatrol": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 5
+            }
+        ],
+        "HelicopterWreck": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 3
+            }
+        ],
         "Global": [
             {
                 "MinPlayers": 0,
@@ -46,34 +74,6 @@
                 "MaxPatrols": 0
             }
         ],
-        "Example": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": -1
-            }
-        ],
-        "Quest": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": -1
-            }
-        ],
-        "ObjectPatrol": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": 5
-            }
-        ],
-        "HelicopterWreck": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": 3
-            }
-        ],
         "ContaminatedArea": [
             {
                 "MinPlayers": 0,
@@ -89,7 +89,7 @@
             }
         ]
     },
-    "ObjectPatrols": [
+    "Patrols": [
         {
             "Name": "Quest_ScavTier1",
             "Persist": 0,
@@ -126,11 +126,13 @@
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
-            "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
-            "ClassName": "bldr_prop_BookTheWarOfTheWorlds"
+            "ObjectClassName": "bldr_prop_BookTheWarOfTheWorlds",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
         },
         {
             "Name": "PMC_US",
@@ -167,14 +169,14 @@
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
-            "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
-            "ClassName": "land_city_policestation"
-        }
-    ],
-    "Patrols": [
+            "ObjectClassName": "land_city_policestation",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
+        },
         {
             "Name": "SoundTest_SCAV",
             "Persist": 0,
@@ -207,10 +209,11 @@
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
             "Chance": 1.0,
-            "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
+            "ObjectClassName": "",
+            "WaypointInterpolation": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [

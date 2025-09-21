@@ -1,5 +1,51 @@
 {
     "Areas": [
+		{ 	"AreaName": "Bunker2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 303, 355, 8482 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Bunker1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 281, 355, 8482 ],
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
 		{ 	"AreaName": "AlFalqasOil", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
@@ -69,11 +115,34 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-		{ 	"AreaName": "Rasman", 
+		{ 	"AreaName": "Rasman1", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 6212, 0, 11220 ],
+				"Radius": 75,
+				"PosHeight": 11,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Rasman2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 6380, 0, 11310 ],
 				"Radius": 75,
 				"PosHeight": 11,
 				"NegHeight": 10,
@@ -97,7 +166,7 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 5694, 0, 11180 ],
-				"Radius": 140,
+				"Radius": 150,
 				"PosHeight": 11,
 				"NegHeight": 10,
 				"InnerRingCount": 2,

@@ -61,54 +61,10 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-        {
-            "ClassName": "glowplug",
-            "MaxPriceThreshold": 1300,
-            "MinPriceThreshold": 1300,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
 		{
             "ClassName": "TruckBattery",
             "MaxPriceThreshold": 650,
             "MinPriceThreshold": 650,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "ExpansionHelicopterBattery",
-            "MaxPriceThreshold": 2300,
-            "MinPriceThreshold": 2300,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionigniterplug",
-            "MaxPriceThreshold": 1600,
-            "MinPriceThreshold": 1600,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "expansionhydraulichoses",
-            "MaxPriceThreshold": 1750,
-            "MinPriceThreshold": 1750,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

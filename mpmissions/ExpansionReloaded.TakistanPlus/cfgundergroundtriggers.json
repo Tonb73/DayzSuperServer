@@ -1,6 +1,64 @@
 {
-    "Triggers":
-	[
-		
-	]
+    "Triggers": [
+        {
+            "Position": [
+                513.2947387695313,
+                357.05291748046877,
+                8530.1083984375
+            ],
+            "Orientation": [
+                -12.59998607635498,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                5.0,
+                5.010000228881836,
+                5.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                505.9600830078125,
+                355.190185546875,
+                8528.9375
+            ],
+            "Orientation": [
+                -11.63791561126709,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                10.0,
+                10.0,
+                14.0
+            ],
+            "EyeAccommodation": 1.0,
+            "InterpolationSpeed": 1.0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                444.5259704589844,
+                341.79656982421877,
+                8517.40625
+            ],
+            "Orientation": [
+                -9.76453971862793,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                116.0,
+                45.0,
+                94.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 1.0,
+            "Breadcrumbs": []
+        }
+    ]
 }

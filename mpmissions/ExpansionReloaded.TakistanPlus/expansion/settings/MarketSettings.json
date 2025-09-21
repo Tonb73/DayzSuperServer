@@ -1,5 +1,5 @@
 {
-    "m_Version": 15,
+    "m_Version": 17,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
@@ -69,7 +69,9 @@
         "ColorItemInfoAttachments": "FFB418FF",
         "ColorToggleCategoriesText": "C726518C",
         "ColorCategoryCorners": "FBFCFEFF",
-        "ColorCategoryBackground": "222526FF"
+        "ColorCategoryBackground": "222526FF",
+        "ColorPlayerStock": "2980B9FF",
+        "ColorRequirementsNotMet": "EB4635FF"
     },
     "Currencies": [
         "expansionbanknoteusd"
@@ -81,5 +83,6 @@
     "SZVehicleParkingTicketFine": 0,
     "SZVehicleParkingFineUseKey": 1,
     "TrainSpawnPositions": [],
-    "DisallowUnpersisted": 0
+    "DisallowUnpersisted": 0,
+    "DisableClientSellTransactionDetails": 0
 }
